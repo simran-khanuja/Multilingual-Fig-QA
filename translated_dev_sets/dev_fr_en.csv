@@ -1,0 +1,1095 @@
+startphrase,ending1,ending2,labels,valid,qid
+La fille avait la légèreté d'un moineau,The girl was very fickle.,The girl was very stable.,0,1,1
+La fille avait la légèreté d'un rocher,The girl was very fickle.,The girl was very stable.,1,1,1
+C'était aussi paisible qu'une église.,It was very peaceful.,"It was full of conflict and danger, not peace.",0,1,3
+C'était aussi paisible qu'un champ de bataille.,It was very peaceful.,"It was full of conflict and danger, not peace.",1,1,3
+Les feuilles étaient aussi vertes que l'herbe,The leaves were very green,The leaves were brown and not green at all.,0,1,4
+Les feuilles étaient aussi vertes que la terre,The leaves were very green,The leaves were brown and not green at all.,1,1,4
+"Faire ses courses, c'est trouver des coquillages sur une plage ensoleillée","Shopping for groceries is a fun, rewarding chore","Shopping for groceries is a crazy, nearly impossible chore",0,1,6
+Faire l'épicerie est une chasse au trésor avec une liste créée par un fou,"Shopping for groceries is a fun, rewarding chore","Shopping for groceries is a crazy, nearly impossible chore",1,1,6
+La guerre est une amputation du mauvais membre,War is the wrong solution to a problem,War is a necessary solution,0,1,8
+La guerre est une amputation pour sauver ta vie,War is the wrong solution to a problem,War is a necessary solution,1,1,8
+C'est aussi vert que l'herbe au printemps,It's fairy green,It's not too green,0,1,12
+C'est aussi vert que l'herbe pendant un été chaud,It's fairy green,It's not too green,1,1,12
+C'est aussi paisible qu'un chiot endormi,It's very peaceful,It's not very peaceful,0,1,13
+C'est aussi paisible que l'européen dans les années 40,It's very peaceful,It's not very peaceful,1,1,13
+La musique était forte comme une sirène.,The music was very loud.,The music was very quiet.,0,1,15
+La musique était forte comme un murmure.,The music was very loud.,The music was very quiet.,1,1,15
+Les emplois sont aussi disponibles qu'un homme marié.,Jobs are not available.,Jobs are very available.,0,1,17
+Les emplois sont aussi disponibles qu'un baccalauréat.,Jobs are not available.,Jobs are very available.,1,1,17
+La paix est un vol humain,Peace is impossible,Peace is possible,0,1,18
+La paix est une marche humaine,Peace is impossible,Peace is possible,1,1,18
+Les plantes sont une berceuse,Plants are calming,Plants are disturbing,0,1,19
+Les plantes sont un tambour bruyant,Plants are calming,Plants are disturbing,1,1,19
+La voiture était aussi laide qu'un rat borgne,it was hideous,it was beautiful,0,1,21
+La voiture était aussi laide qu'un cygne,it was hideous,it was beautiful,1,1,21
+L'homme était aussi beau qu'un prince,he was good looking,he was ugly,0,1,23
+L'homme était aussi beau qu'un clochard,he was good looking,he was ugly,1,1,23
+La conversation était vive comme un clou,The conversation was sharp and witty.,The conversation was dull and not sharp.,0,1,25
+La conversation était tranchante comme un roc,The conversation was sharp and witty.,The conversation was dull and not sharp.,1,1,25
+Il l'a mangé comme un gros garçon mange du gâteau,The food was tasty to him,The food was unpalatable to him,0,1,27
+Il l'a mangé comme un jeune garçon mange du brocoli,The food was tasty to him,The food was unpalatable to him,1,1,27
+Il l'a ramassé comme une mère tenant un bébé,He held it with pride and care,He held it with disgust and caution,0,1,28
+Il l'a ramassé comme un playboy tenant un préservatif,He held it with pride and care,He held it with disgust and caution,1,1,28
+Il s'est précipité à travers le test de mathématiques comme un singe,He rushed because he is dumb,He rushed because he is smart,0,1,29
+Il s'est précipité à travers le test de mathématiques comme un spécialiste des fusées,He rushed because he is dumb,He rushed because he is smart,1,1,29
+L'ours avait aussi faim qu'un lion,it was starving,it didn't need food,0,1,41
+L'ours avait aussi faim qu'un morceau de papier,it was starving,it didn't need food,1,1,41
+Cette conversation avait la facilité de faire vos impôts les yeux bandés.,Having that conversation was difficult,Having that conversation was easy.,0,1,44
+Cette conversation avait l'aisance d'un dimanche matin.,Having that conversation was difficult,Having that conversation was easy.,1,1,44
+Leurs conversations étaient des bombardements d'artillerie.,Their conversations were heated and antagonistic.,Their conversations were friendly.,0,1,45
+Leurs conversations étaient un câlin avec des mots.,Their conversations were heated and antagonistic.,Their conversations were friendly.,1,1,45
+L'histoire était aussi dérangeante qu'un cauchemar,The story was very disturbing.,"The story failed to be disturbing, and in fact seemed cute.",0,1,48
+L'histoire était aussi dérangeante qu'un chiot nouveau-né,The story was very disturbing.,"The story failed to be disturbing, and in fact seemed cute.",1,1,48
+Leurs attentes concernant la maison qu'ils pouvaient s'offrir se sont transformées en glace fondue.,Their expectations were not met.,Their expectations were exceeded.,0,1,52
+Leurs attentes concernant la maison qu'ils pouvaient s'offrir dépassèrent le deuxième étage.,Their expectations were not met.,Their expectations were exceeded.,1,1,52
+Ceux qui ont entendu l'enfant chanter ont été emportés par de douces vagues.,Those that heard the singing were pleasantly entertained.,Those that heard the singing were unpleasantly inundated.,0,1,53
+Ceux qui ont entendu l'enfant chanter ont été torturés par les notes intrusives.,Those that heard the singing were pleasantly entertained.,Those that heard the singing were unpleasantly inundated.,1,1,53
+Elle chante comme un ange,her voice is magical,her voice is awful,0,1,55
+Elle chante comme une grenouille taureau,her voice is magical,her voice is awful,1,1,55
+Ses opinions étaient aussi fermes que concrètes,He was very certain of his opinion,He was very uncertain of his opinion,0,1,57
+Ses opinions étaient aussi fermes qu'une boule de coton,He was very certain of his opinion,He was very uncertain of his opinion,1,1,57
+Le pilote a fait atterrir l'avion comme s'il manipulait un nouveau-né.,The landing was smooth and gentle,The landing was bumpy and rough,0,1,58
+Le pilote a fait atterrir l'avion comme s'il était sur des montagnes russes.,The landing was smooth and gentle,The landing was bumpy and rough,1,1,58
+La personnalité de l'homme est comme un Beanie Baby,The man has a soft personality.,The man has a hard personality.,0,1,60
+La personnalité de l'homme est comme un sergent instructeur,The man has a soft personality.,The man has a hard personality.,1,1,60
+L'affiche était aussi colorée qu'un arc-en-ciel,The poster has a lot of color.,The poster was dull and colorless.,0,1,65
+L'affiche était aussi colorée qu'un trottoir,The poster has a lot of color.,The poster was dull and colorless.,1,1,65
+Elle est aussi impatiente qu'un castor,she is excited,she is bored,0,1,69
+Elle est aussi impatiente qu'un paresseux,she is excited,she is bored,1,1,69
+Le moteur du bateau est un babillage ivre,It is barely running,It is running strong,0,1,73
+Le moteur du bateau est un lion rugissant,It is barely running,It is running strong,1,1,73
+L'argument d'ouverture de l'avocat était un roman russe.,The lawyer's opening argument was long.,The lawyer's opening argument was tawdry.,0,1,81
+L'argument d'ouverture de l'avocat était un livre de poche d'aéroport.,The lawyer's opening argument was long.,The lawyer's opening argument was tawdry.,1,1,81
+La maison avait la propreté d'un musée,The house was very clean.,The house was a mess.,0,1,84
+La maison avait la propreté d'un terrain de paintball,The house was very clean.,The house was a mess.,1,1,84
+Les raisins avaient la fraîcheur d'un jouet d'occasion.,The grapes weren't fresh.,The grapes were very fresh.,0,1,94
+Les raisins avaient la fraîcheur d'un petit matin d'été.,The grapes weren't fresh.,The grapes were very fresh.,1,1,94
+Le jouet avait la jouissance d'une exécution,The toy was not fun,The toy was fun,0,1,97
+Le jouet avait le plaisir des montagnes russes,The toy was not fun,The toy was fun,1,1,97
+Le message du film était aussi réconfortant qu'une tasse de thé à la menthe,The movie message was very heartwarming.,The movie's message wasn't heartwarming at all.,0,1,104
+Le message du film était aussi réconfortant qu'un Popsicle,The movie message was very heartwarming.,The movie's message wasn't heartwarming at all.,1,1,104
+Le livre était aussi classique que des pancakes pour le petit déjeuner,The book was very classic.,The book wasn't a classic.,0,1,105
+Le livre était aussi classique qu'une mariée vêtue de violet,The book was very classic.,The book wasn't a classic.,1,1,105
+Le jouet était aussi neuf qu'un quart de cette année.,The toy was recent,The toy was dated.,0,1,108
+Le jouet était aussi neuf qu'un quart de l'année de votre naissance.,The toy was recent,The toy was dated.,1,1,108
+La femme était aussi grande qu'un arbre,The woman was tall,The woman was short,0,1,111
+La femme était aussi grande qu'un tabouret,The woman was tall,The woman was short,1,1,111
+Tom avait la joie d'un robot.,Tom is not very joyful.,Tom is very joyful.,0,1,114
+Tom avait la joie d'un chien.,Tom is not very joyful.,Tom is very joyful.,1,1,114
+Le film a une profondeur de A canyon.,The movie is deeply philosophical.,The movie has little substance.,0,1,116
+Le film a une profondeur de A nid de poule.,The movie is deeply philosophical.,The movie has little substance.,1,1,116
+Le film a une profondeur de vallée A.,The movie is expansive in it's meaning.,The movie lacks depth.,0,1,117
+Le film a une profondeur de A flatland.,The movie is expansive in it's meaning.,The movie lacks depth.,1,1,117
+Elle était aussi délicate qu'un éléphant,She was a lumbering clod,She was fragile,0,1,123
+Elle était aussi délicate qu'un flocon de neige,She was a lumbering clod,She was fragile,1,1,123
+Son dîner avait le goût d'une vieille chaussure,The food was disgusting,The food was gloriously delicious,0,1,124
+Son dîner avait le goût de la manne du paradis,The food was disgusting,The food was gloriously delicious,1,1,124
+Le stand de limonade du garçon a eu autant de succès qu'une entreprise du Fortune 500,The boy's lemonade stand was a wild success.,The boy's lemonade stand did terribly.,0,1,127
+Le stand de limonade du garçon a eu autant de succès que les Mets de New York de 1962,The boy's lemonade stand was a wild success.,The boy's lemonade stand did terribly.,1,1,127
+Il est aussi célèbre qu'une star de cinéma,people know him,no one knows him,0,1,136
+Il est aussi célèbre qu'un cafard dans une benne à ordures,people know him,no one knows him,1,1,136
+Elle est aussi chic qu'une reine de bal,she is elegant,she is dirty,0,1,137
+Elle est aussi chic que l'eau de vaisselle,she is elegant,she is dirty,1,1,137
+Son visage brillait comme le soleil,Her face was luminous,her face was dull,0,1,141
+Son visage brillait comme le reflet d'un miroir poussiéreux,Her face was luminous,her face was dull,1,1,141
+Il avait la taille d'un singe.,He was huge.,He was small.,0,1,146
+Il avait la taille d'une fourmi.,He was huge.,He was small.,1,1,146
+La chanson avait la créativité d'une amibe.,The song was too simplistic.,The song was very complex and beautiful.,0,1,147
+La chanson avait la créativité de tous les tableaux du Louvre.,The song was too simplistic.,The song was very complex and beautiful.,1,1,147
+Ce film était aussi long qu'un ténia de 25 ans,It's extremely long,It's as short as can be,0,1,154
+Ce film était aussi long que les cheveux de Howie Mandel,It's extremely long,It's as short as can be,1,1,154
+Le terrain de jeu est aussi sûr que les crocs de Dracula.,The playground is dangerous.,The playground is secure.,0,1,155
+Le terrain de jeu est aussi sûr qu'une police d'assurance.,The playground is dangerous.,The playground is secure.,1,1,155
+Le directeur a ajouté du petit bois à notre étincelle.,The manager motivated his employees.,The manager demotivated his employees.,0,1,160
+Le directeur a ajouté de l'eau à notre étincelle.,The manager motivated his employees.,The manager demotivated his employees.,1,1,160
+L'étudiant était aussi doué qu'un entrepreneur,he has talant,he was talentless,0,1,161
+L'élève était aussi doué qu'une loutre aveugle,he has talant,he was talentless,1,1,161
+La femme était aussi glamour qu'une star de cinéma,she was fancy,she was unkempt,0,1,162
+La femme était aussi glamour qu'une vieille chaussure,she was fancy,she was unkempt,1,1,162
+Sa taille était comparable à un séquoia,He was tall,He was short,0,1,164
+Sa taille était comparable à celle d'une souris,He was tall,He was short,1,1,164
+Elle est venue au niveau des yeux avec une girafe,She was tall,She was short,0,1,165
+Elle est venue au niveau des yeux avec un enfant en bas âge,She was tall,She was short,1,1,165
+Le plat du jour du restaurant était l'ambroisie des dieux,The food was delicious,The food was disgusting,0,1,166
+Le plat du jour du restaurant était une poubelle chaude,The food was delicious,The food was disgusting,1,1,166
+La voiture était aussi utile qu'une piscine sans eau,the car was useless,the car was helpful,0,1,168
+La voiture était aussi utile que l'argenterie pendant le dîner,the car was useless,the car was helpful,1,1,168
+Mon chien mange comme un éphémère,My dog is never eating,My dog never ceases eating,0,1,173
+Mon chien mange comme un tarrare,My dog is never eating,My dog never ceases eating,1,1,173
+Ce film aussi désastreux que le lancement de la Xbox One en 2013,It isn't very good,It's quite successful,0,1,177
+Ce film aussi désastreux que la présidence d'Abraham Lincoln,It isn't very good,It's quite successful,1,1,177
+Le concept était aussi déroutant qu'un œuf brouillé,The concept was hard to understand.,The concept was easy to understand.,0,1,178
+Le concept était aussi déroutant qu'un puzzle pour enfants,The concept was hard to understand.,The concept was easy to understand.,1,1,178
+Le burrito a la chaleur d'un volcan,The burrito is hot,The burrito is cold,0,1,183
+Le burrito a la chaleur d'un iceberg,The burrito is hot,The burrito is cold,1,1,183
+Le temps s'est déplacé comme un escargot.,Time was slow.,Time was fast.,0,1,184
+Le temps s'est déplacé comme un guépard.,Time was slow.,Time was fast.,1,1,184
+L'homme a la patience d'un moine.,The man is very patient.,The man is very impatient.,0,1,188
+L'homme a la patience d'un chat dans un bain.,The man is very patient.,The man is very impatient.,1,1,188
+L'art est aussi coloré qu'un arc-en-ciel,the art is vibrant,the art is dull,0,1,192
+L'art est aussi coloré qu'un ciel nuageux,the art is vibrant,the art is dull,1,1,192
+La tête de l'homme était aussi belle qu'une œuvre d'art,The man's head was attractive,The man's head was ugly,0,1,194
+La tête de l'homme était aussi belle qu'une poubelle,The man's head was attractive,The man's head was ugly,1,1,194
+Le bâtiment est aussi vieux que l'univers lui-même,It's very old,It's brand new,0,1,196
+Le bâtiment est aussi vieux que le bébé qui naîtra demain,It's very old,It's brand new,1,1,196
+Cet éventail a le pouvoir de souffler du dieu grec Aeolus,It can blow a lot,It can hardly blow at all,0,1,197
+Ce ventilateur a la puissance de soufflage d'un sèche-cheveux débranché,It can blow a lot,It can hardly blow at all,1,1,197
+La viande du sandwich était aussi humide qu'une serviette,The sandwich meat was moist.,The sandwich meat was dry.,0,1,201
+La viande du sandwich était aussi humide que du papier de verre,The sandwich meat was moist.,The sandwich meat was dry.,1,1,201
+Elle était grosse comme une coccinelle.,She was small.,She was big.,0,1,206
+Elle était aussi grosse qu'un éléphant.,She was small.,She was big.,1,1,206
+L'avenir avait l'éclat d'une flaque de boue,The future is dull,The future is bright,0,1,213
+L'avenir avait l'éclat du diamant,The future is dull,The future is bright,1,1,213
+Le bonheur de la fille a explosé comme une bouteille de champagne,The girl's happiness was effusive.,The girl's happiness didn't really explode at all.,0,1,216
+Le bonheur de la fille a explosé comme une berceuse,The girl's happiness was effusive.,The girl's happiness didn't really explode at all.,1,1,216
+Le problème était aussi gros qu'un Tootsie Roll,The problem was small.,The problem was large.,0,1,217
+Le problème était aussi grand que l'Antarctique,The problem was small.,The problem was large.,1,1,217
+Le tempérament de la fille était un match allumé,The girl was easily provoked.,The girl's temper was even.,0,1,218
+Le tempérament de la fille était une marée basse,The girl was easily provoked.,The girl's temper was even.,1,1,218
+Le livre que je viens de finir de lire est une boussole de ma vie.,The book contains a lot of timeless wisdom and helpful knowledge.,The book's content is so trashy and useless that one can't bear reading it again.,0,1,224
+Le livre que je viens de finir de lire est mon nouveau bug smasher.,The book contains a lot of timeless wisdom and helpful knowledge.,The book's content is so trashy and useless that one can't bear reading it again.,1,1,224
+Le serpent a la peau d'un habitant du désert qui n'a jamais touché une bouteille de lotion,The snake has dry and scaly skin,The snake's skin is not dry and scaly,0,1,229
+Le serpent a la peau d'une anguille aquatique visqueuse,The snake has dry and scaly skin,The snake's skin is not dry and scaly,1,1,229
+Le journaliste était aussi grand qu'un centre de basket,the reporter was tall,the reporter was short,0,1,233
+Le journaliste était aussi grand qu'un nain,the reporter was tall,the reporter was short,1,1,233
+La maladie se propage comme un feu sauvage,It is spreading quickly,It is spreading slowly,0,1,237
+La maladie se propage comme la pousse d'un ongle,It is spreading quickly,It is spreading slowly,1,1,237
+L'adolescent était un gratte-ciel,The teen was tall.,The teen was short.,0,1,245
+L'adolescent était une fourmilière,The teen was tall.,The teen was short.,1,1,245
+L'enquête avait le poids d'un bouquet de plumes,The investigation is not important,The investigation has a major impact,0,1,253
+L'enquête a eu le poids d'un effet d'entraînement à l'échelle de la ville,The investigation is not important,The investigation has a major impact,1,1,253
+Le professeur est aussi encourageant qu'un parent,the teacher helps,the teacher doesn't help,0,1,254
+Le professeur est aussi encourageant qu'un oiseau mort,the teacher helps,the teacher doesn't help,1,1,254
+Ses cheveux avaient l'éclat de la crinière alezan d'un cheval,Her hair was shiny,Her hair was dull,0,1,259
+Ses cheveux avaient l'éclat de la paille,Her hair was shiny,Her hair was dull,1,1,259
+Sa classe avait tout l'éclat d'une ampoule,His class was brilliant,His class was not so smart.,0,1,260
+Sa classe avait tout l'éclat d'un rocher,His class was brilliant,His class was not so smart.,1,1,260
+La maison était aussi confortable qu'une cabane d'hiver par une nuit froide.,The house was comfortable to be in.,The house was uncomfortable to be in.,0,1,268
+La maison était aussi confortable qu'une cellule de prison.,The house was comfortable to be in.,The house was uncomfortable to be in.,1,1,268
+Le soldat était dur comme des clous,The soldier is very tough,The soldier is very weak,0,1,270
+Le soldat était aussi dur que du coton,The soldier is very tough,The soldier is very weak,1,1,270
+Elle était aussi fragile qu'un éléphant,She was sturdy and not fragile,She was extremely fragile,0,1,274
+Elle était aussi fragile qu'une tasse de thé en cristal,She was sturdy and not fragile,She was extremely fragile,1,1,274
+Son parent le plus proche pourrait aussi bien être un cheval,She is ugly,She is dainty,0,1,276
+Son parent le plus proche pourrait aussi bien être un oiseau,She is ugly,She is dainty,1,1,276
+L'athlète était aussi bon que Mike Tyson dans les années 80,the athlete was great,the athlete was bad,0,1,277
+L'athlète était aussi bon que Mike Tyson quand il avait 80 ans,the athlete was great,the athlete was bad,1,1,277
+L'étudiant était aussi confus qu'un chien à un concours d'orthographe,he didn't know what was going on,he knew everything,0,1,278
+L'étudiant était aussi confus qu'un avocat au tribunal,he didn't know what was going on,he knew everything,1,1,278
+Le coin était aussi occupé qu'un défilé,The corner was busy,The corner was abandoned and not busy,0,1,281
+Le coin était aussi occupé qu'un cimetière,The corner was busy,The corner was abandoned and not busy,1,1,281
+Le livre était aussi divertissant qu'une fête,The book was entertaining.,The book was not entertaining at all.,0,1,282
+Le livre était aussi divertissant qu'un enterrement,The book was entertaining.,The book was not entertaining at all.,1,1,282
+L'artiste est aussi créatif qu'une glace à la vanille,The artist has no new ideas.,The artist is very creative.,0,1,284
+L'artiste est aussi créatif que la crème glacée au tourbillon balsamique au caramel,The artist has no new ideas.,The artist is very creative.,1,1,284
+Cette série compte autant d'épisodes qu'un mille-pattes a de pattes,It has many episodes,It has very few,0,1,287
+Cette émission compte autant d'épisodes qu'il y a de lunes dans le ciel nocturne,It has many episodes,It has very few,1,1,287
+Moi et mon parent avons la proximité de jumeaux siamois,They're extremely close,They very far apart,0,1,288
+Moi et mon parent avons la proximité des pôles nord et sud,They're extremely close,They very far apart,1,1,288
+La maison est aussi fragile que l'acier,The house is strong,The house is weak,0,1,292
+La maison est aussi fragile que la soie,The house is strong,The house is weak,1,1,292
+L'acteur a attiré autant d'attention qu'une exposition de lion dans un zoo,The actor got tons of attention.,The actor got no attention at all.,0,1,299
+L'acteur a attiré autant d'attention qu'un grain de sable sur une plage,The actor got tons of attention.,The actor got no attention at all.,1,1,299
+Cette chemise ressemble à un sac poubelle,It is ugly,It is pretty,0,1,301
+Cette chemise ressemble à un rosier,It is ugly,It is pretty,1,1,301
+Le livre a le respect d'un médecin,It is well respected,It is not highly respected,0,1,303
+Le livre a le respect d'un théoricien du complot,It is well respected,It is not highly respected,1,1,303
+Ma nouvelle voiture a la fiabilité d'un penny stock,My new car is unpredictable,My new car is dependable,0,1,306
+Ma nouvelle voiture a la fiabilité d'un piano bien réglé,My new car is unpredictable,My new car is dependable,1,1,306
+La fondation était plate comme une planche,The foundation was flat.,The foundation was round and curved.,0,1,311
+La fondation était plate comme un globe,The foundation was flat.,The foundation was round and curved.,1,1,311
+La voiture est aussi rapide qu'une tortue,the car is slow,the car is speedy,0,1,322
+La voiture est aussi rapide qu'un éclair,the car is slow,the car is speedy,1,1,322
+Il court plus vite qu'un guépard en jet,He's running fast,He's not moving at all,0,1,330
+Il court plus vite qu'un escargot mort,He's running fast,He's not moving at all,1,1,330
+Le tempérament de l'homme était un piment habanero,The man had a big temper.,The man had a mild temper.,0,1,334
+L'humeur de l'homme était une tasse de lait d'avoine.,The man had a big temper.,The man had a mild temper.,1,1,334
+Le gouvernement est aussi stable qu'un pont cassé,The government is falling apart,The government is very strong and stable.,0,1,335
+Le gouvernement est aussi fort qu'une maison en brique,The government is falling apart,The government is very strong and stable.,1,1,335
+Les chances de gagner à la loterie sont aussi bonnes que de trouver une aiguille dans une botte de foin,The odds of sinning the lottery  are extremely low,The odds of winning the lottery are fantastic,0,1,336
+Les chances de gagner à la loterie sont aussi bonnes que d'allumer une allumette et de s'attendre à un incendie.,The odds of sinning the lottery  are extremely low,The odds of winning the lottery are fantastic,1,1,336
+elle est aussi exubérante qu'un chien en voiture,she is excited,she is tired,0,1,339
+elle est aussi exubérante qu'un paresseux au lit,she is excited,she is tired,1,1,339
+Il est juste comme un prêtre,he is nice,he is mean,0,1,340
+Il est juste comme un diable,he is nice,he is mean,1,1,340
+La branche était aussi solide qu'une poutre en acier,The branch was sturdy enough to hold a lot of weight.,The branch was weak and could snap easily.,0,1,344
+La branche était aussi solide qu'une brindille,The branch was sturdy enough to hold a lot of weight.,The branch was weak and could snap easily.,1,1,344
+Cette chose aspire autant d'électricité qu'un réfrigérateur des années 1950,It uses a lot of electricity,It uses no electricity,0,1,348
+Cette chose aspire autant d'électricité que la Wii U dans le placard,It uses a lot of electricity,It uses no electricity,1,1,348
+La pièce a l'excitation d'une tortue endormie.,The play is dull.,The play is rousing.,0,1,351
+Le jeu a l'excitation d'un jackpot de loterie.,The play is dull.,The play is rousing.,1,1,351
+La fille est aussi prévisible que le fracas des vagues de l'océan,The girl was very predictable.,The girl was totally unpredictable.,0,1,353
+La fille est aussi prévisible que le naufrage du Titanic,The girl was very predictable.,The girl was totally unpredictable.,1,1,353
+L'homme a la hauteur d'une montagne,The man is tall,The man is short,0,1,356
+L'homme a la hauteur d'un tabouret,The man is tall,The man is short,1,1,356
+La maison est aussi enchanteresse qu'un château,the house is pretty,the house is ugly,0,1,361
+La maison est aussi enchanteresse que roadkill,the house is pretty,the house is ugly,1,1,361
+L'étudiant était aussi tranchant qu'un couteau émoussé,The student us dumb,The student is smart,0,1,362
+L'étudiant était aussi pointu que la plume d'un porc-épic,The student us dumb,The student is smart,1,1,362
+Sa voix chantante ressemble à des ongles sur un tableau noir,The voice makes you cringr,The voice is calming,0,1,363
+Sa voix chantante ressemble à une brise chantante,The voice makes you cringr,The voice is calming,1,1,363
+Les marchandises avaient la valeur de l'or,The goods were valuable,The goods were worthless,0,1,365
+Les marchandises étaient aussi précieuses que la saleté,The goods were valuable,The goods were worthless,1,1,365
+Le puzzle était aussi simple que la tarte,The puzzle was easy,The puzzle was hard.,0,1,366
+Le puzzle était aussi simple qu'une opération au cerveau,The puzzle was easy,The puzzle was hard.,1,1,366
+Le politicien était aussi populaire que la tarte aux pommes,The politician was very popular.,The politician was very unpopular.,0,1,367
+Le politicien était aussi populaire qu'un canal radiculaire,The politician was very popular.,The politician was very unpopular.,1,1,367
+La réunion fut aussi animée qu'un cortège funèbre.,The meeting was not lively at all.,The meeting was very lively.,0,1,368
+La réunion était aussi animée qu'un groupe d'enfants dans une maison gonflable.,The meeting was not lively at all.,The meeting was very lively.,1,1,368
+Il a acheté l'article comme une mariée choisissant sa robe,He shopped with great care,He shopped in a hurry,0,1,372
+Il a acheté l'article comme un voleur qui s'enfuit,He shopped with great care,He shopped in a hurry,1,1,372
+"Regarder le film, c'était comme aller chez le dentiste",The movie was dreadful,The movie was enjoyable,0,1,373
+"Regarder le film, c'était comme aller au carnaval",The movie was dreadful,The movie was enjoyable,1,1,373
+Le cookie était aussi moelleux qu'un Tootsie Roll,The cookie was perfectly chewy.,The cookie was extremely dense and tough.,0,1,374
+Le cookie était aussi moelleux qu'une brique,The cookie was perfectly chewy.,The cookie was extremely dense and tough.,1,1,374
+Le livreur de pizza avait la vitesse d'un sprinteur olympique,The pizza arrived quickly.,The pizza took forever to come.,0,1,375
+Le livreur de pizza avait la vitesse d'une plaque tectonique,The pizza arrived quickly.,The pizza took forever to come.,1,1,375
+Le rôti braisé a l'arôme de l'eau des marais.,The pot roast smells bad.,The pot roast smells flavorsome.,0,1,377
+Le braisé a l'arôme de la cuisine d'une grand-mère.,The pot roast smells bad.,The pot roast smells flavorsome.,1,1,377
+La photographie a la clarté d'un test de tache d'encre.,The photograph is out of focus.,The photograph is crystal clear.,0,1,378
+La photographie a la clarté d'un arc-en-ciel complet.,The photograph is out of focus.,The photograph is crystal clear.,1,1,378
+Il a les prouesses politiques d'un Kennedy,He has good political skills,He lacks skill in politics,0,1,380
+Il a les prouesses politiques d'un nouveau-né,He has good political skills,He lacks skill in politics,1,1,380
+Ce puzzle a la difficulté de mettre un homme sur Mars,It is very difficult,It is very easy,0,1,382
+Ce puzzle a la difficulté d'un jeu de tri de blocs pour enfant,It is very difficult,It is very easy,1,1,382
+Le garçon était aussi drôle qu'un comédien,it was funny,it wasn't funny,0,1,384
+Le garçon était aussi drôle qu'une mouche morte,it was funny,it wasn't funny,1,1,384
+Les excuses du politicien étaient un coup d'échecs.,The politician's apology was calculated.,The politician's apology was chaotic.,0,1,386
+Les excuses du politicien ont été une avalanche.,The politician's apology was calculated.,The politician's apology was chaotic.,1,1,386
+Il était aussi dangereux qu'une vipère,He was very dangerous,He was not dangerous,0,1,389
+Il était aussi dangereux qu'une puce,He was very dangerous,He was not dangerous,1,1,389
+L'eau était aussi chaude que la surface du soleil,The water was scalding hot,The water was cold,0,1,390
+L'eau était aussi chaude qu'un glaçon,The water was scalding hot,The water was cold,1,1,390
+Son excuse avait la conviction d'un soldat déserteur.,Her excuse lacked conviction.,Her excuse was full of conviction.,0,1,393
+Son excuse avait la conviction d'un prédicateur revivaliste.,Her excuse lacked conviction.,Her excuse was full of conviction.,1,1,393
+La menace était un train venant en sens inverse,The threat was imminent.,The threat was distant.,0,1,404
+La menace était un troisième cousin trois fois éloigné,The threat was imminent.,The threat was distant.,1,1,404
+Leur amour était aussi facile à comprendre qu'une parole de Bob Dylan.,Their love was complex and hard to interpret.,Their love was hot and short lived.,0,1,421
+Leur amour était comme une saison des feux de forêt en Californie.,Their love was complex and hard to interpret.,Their love was hot and short lived.,1,1,421
+Le livre a attiré mon attention comme un jargon juridique dans un accord de fusion,The book totally bored me.,The book really interested me.,0,1,422
+Le livre a attiré mon attention comme un titre de magazine trash,The book totally bored me.,The book really interested me.,1,1,422
+Ses pensées étaient comme un yo-yo,Her thoughts were all over the place.,Her thoughts were steady.,0,1,423
+Ses pensées étaient comme un ruisseau de source,Her thoughts were all over the place.,Her thoughts were steady.,1,1,423
+Son ego était un cracker Ritz,Her ego was very fragile.,Her ego was unshakeable.,0,1,424
+Son ego était un bâtiment en brique,Her ego was very fragile.,Her ego was unshakeable.,1,1,424
+Son esprit est une cage d'acier,He has a very good memory and rarely forgets anything,"His memory is terrible, things go in one ear and out the other",0,1,425
+Son esprit est une porte de grange ouverte,He has a very good memory and rarely forgets anything,"His memory is terrible, things go in one ear and out the other",1,1,425
+L'écran était sombre comme une lampe de poche.,The screen was bright.,The screen was dim.,0,1,429
+L'écran était sombre comme une bougie.,The screen was bright.,The screen was dim.,1,1,429
+Le discours de ce politicien était aussi bon que le discours de Gettysburg de Lincoln,The speech was sycinct and powerful,The speech was overbearing and boring.,0,1,439
+Le discours de ce politicien était aussi bon qu'une conférence dense d'un professeur d'université.,The speech was sycinct and powerful,The speech was overbearing and boring.,1,1,439
+tu es aussi dur qu'un oreiller,You are soft,You are stubborn,0,1,446
+tu es aussi dur que le roc,You are soft,You are stubborn,1,1,446
+Tu es aussi dur qu'un oeuf,eggs crack,coconuts are hard,0,1,447
+Tu es aussi dur qu'une noix de coco,eggs crack,coconuts are hard,1,1,447
+La fille est aussi douée pour camoufler ses émotions qu'un caméléon,The girl hides her emotions well.,The girl shows off her emotions.,0,1,453
+La fille est aussi douée pour camoufler ses émotions qu'un paon,The girl hides her emotions well.,The girl shows off her emotions.,1,1,453
+Mon compte bancaire est sec comme le Sahara,"My bank account is barren, I have no money","My bank account is fat with cash, I'm rich",0,1,457
+Mon compte bancaire est bourré comme une dinde de Thanksgiving,"My bank account is barren, I have no money","My bank account is fat with cash, I'm rich",1,1,457
+Le sandwich a le fromage de la lune comme représenté dans les dessins animés,The sandwich is very cheesy,The sandwich lacks cheese,0,1,458
+Le sandwich a le goût de fromage d'une pizza sans la garniture principale,The sandwich is very cheesy,The sandwich lacks cheese,1,1,458
+La tour a la résistance au vent d'une toiture métallique par beau temps,The tower has a high wind resistance,The tower has almost no resistance to wind,0,1,459
+La tour a la résistance au vent d'un emballage de bonbon pris dans un courant ascendant,The tower has a high wind resistance,The tower has almost no resistance to wind,1,1,459
+Le corps a la capacité de survie d'un tigre affamé dans un poulailler,It has high survivability,It has a low survivability rate,0,1,460
+Le corps a la capacité de survie d'un sac en papier dans un océan orageux,It has high survivability,It has a low survivability rate,1,1,460
+Elle a monté ce cheval comme un acrobate,She rode it well,She rode it poorly,0,1,461
+Elle a monté ce cheval comme une victime d'épilepsie,She rode it well,She rode it poorly,1,1,461
+Le discours était aussi inspirant qu'un bloc de ciment,It is dull,It is motivating,0,1,462
+Le discours était aussi inspirant qu'un marathonien sans jambes,It is dull,It is motivating,1,1,462
+Le verre est clair comme les instructions d'Ikea,It is not clear,It is see thru,0,1,463
+Le verre est transparent comme du papier saran,It is not clear,It is see thru,1,1,463
+Les cookies avaient le goût de hardtack.,The cookies are awful.,The cookies are delicous.,0,1,464
+Les cookies avaient le goût du paradis.,The cookies are awful.,The cookies are delicous.,1,1,464
+Le sol était aussi glissant que de l'huile,The floor was slippery.,The floor wasn't slippery at all.,0,1,468
+Le sol était aussi glissant que du papier de verre,The floor was slippery.,The floor wasn't slippery at all.,1,1,468
+La gemme était aussi fausse qu'un mauvais postiche,The gem was obviously fake.,The gem was obviously real.,0,1,469
+Le joyau était aussi faux que l'air que nous respirons,The gem was obviously fake.,The gem was obviously real.,1,1,469
+Les garçons sont aussi disciplinés que les militaires,The boys are highly disciplined.,The boys lack any discipline.,0,1,472
+Les garçons sont aussi disciplinés que des singes barils,The boys are highly disciplined.,The boys lack any discipline.,1,1,472
+L'hélicoptère avait la fiabilité d'une tour qui s'effondre.,The helicopter was not reliable.,The helicopter was very reliable.,0,1,482
+L'hélicoptère avait la fiabilité d'un cuirassé.,The helicopter was not reliable.,The helicopter was very reliable.,1,1,482
+Ce livre est comme de la soie dans mes mains.,This book is hard to put down.,This book is forgettable.,0,1,498
+Ce livre est comme une amnésie à couverture rigide.,This book is hard to put down.,This book is forgettable.,1,1,498
+La passion des équipes brûlait comme un enfer,The team had a lot of passion,THe team had very little passion,0,1,502
+La passion des équipes brûlait comme une allumette,The team had a lot of passion,THe team had very little passion,1,1,502
+L'épée était aussi tranchante qu'un laser,The sword was sharp,The sword was dull,0,1,504
+L'épée était aussi tranchante qu'un bâton,The sword was sharp,The sword was dull,1,1,504
+Il manœuvra avec la précision tactique d'un général expérimenté.,He manuevered skillfully.,He maneuvered poorly.,0,1,508
+Il manœuvrait avec la précision tactique d'une voiture de clown.,He manuevered skillfully.,He maneuvered poorly.,1,1,508
+La fin était aussi satisfaisante qu'un dîner de Thanksgiving avec tous les accompagnements.,The ending was satisfying.,The ending was unsatisfying.,0,1,509
+La fin était aussi satisfaisante qu'un biscuit salé rassis.,The ending was satisfying.,The ending was unsatisfying.,1,1,509
+Ce mec est aussi intelligent qu'un roc,The guy is dumb,The guy is intelligent,0,1,511
+Ce mec est aussi intelligent qu'un ordinateur,The guy is dumb,The guy is intelligent,1,1,511
+L'amitié était aussi significative qu'un contrat sur une serviette,The friendship wasn't meaningful at all.,The friendship was highly meaningful.,0,1,523
+L'amitié était aussi significative qu'un traité international,The friendship wasn't meaningful at all.,The friendship was highly meaningful.,1,1,523
+L'enfant était aussi immobile qu'une dalle de marbre,The child was totally still.,The child couldn't stop moving.,0,1,524
+L'enfant était aussi immobile qu'une chute d'eau,The child was totally still.,The child couldn't stop moving.,1,1,524
+Il est aussi fort qu'un diamant.,He is very strong.,He is weak.,0,1,531
+Il est aussi fort qu'un morceau de graphite.,He is very strong.,He is weak.,1,1,531
+Il a la satisfaction d'un maître cuisinier après avoir fait un repas 5 étoiles,He is very satisfied,He has very little satisfaction,0,1,532
+Il a la satisfaction d'un maître cuisinier après avoir fait un bol de conserve 🍝,He is very satisfied,He has very little satisfaction,1,1,532
+Elle avait le dévouement d'un moucheron,She is flighty and unfocused,She applies pressure consistently and over time.,0,1,535
+Elle avait la dédicace d'une plaque tectonique,She is flighty and unfocused,She applies pressure consistently and over time.,1,1,535
+Le désir qu'elle ressentait n'était qu'un filet,She felt little desire,She felt a strong desire,0,1,537
+Le désir qu'elle ressentait était une vague déferlante,She felt little desire,She felt a strong desire,1,1,537
+L'homme a le goût d'un enfant difficile.,The man has poor taste in things.,The man has exquisite and fine taste in things.,0,1,539
+L'homme a le goût de la reine d'Angleterre.,The man has poor taste in things.,The man has exquisite and fine taste in things.,1,1,539
+Le lit est aussi confortable que le nuage.,The bed is very comfortable.,The bed is very uncomfortable.,0,1,540
+Le lit est aussi confortable que de voir son ex.,The bed is very comfortable.,The bed is very uncomfortable.,1,1,540
+Elle a la patience d'une sainte,She is very patient,She is not patient at all,0,1,547
+Elle a la patience d'un taureau,She is very patient,She is not patient at all,1,1,547
+Il a la moralité d'un chiot.,He is very moral and kind.,He is not very moral or kind.,0,1,552
+Il a la moralité d'un vautour.,He is very moral and kind.,He is not very moral or kind.,1,1,552
+Son désir pour elle était un cheval en fuite.,His desire for her was wild.,His desire for her was dormant.,0,1,554
+Son désir pour elle était un escargot.,His desire for her was wild.,His desire for her was dormant.,1,1,554
+Il pourrait sprinter comme le vent,He was fast.,He was slow.,0,1,558
+Il pouvait sprinter comme une tortue,He was fast.,He was slow.,1,1,558
+Ils s'adaptent à la personnalité de l'autre comme une prise dans une prise,They fit each other's personalities perfectly.,They don't fit each other's personalities well at all.,0,1,564
+Ils correspondent à la personnalité de l'autre comme un aimant sur papier,They fit each other's personalities perfectly.,They don't fit each other's personalities well at all.,1,1,564
+Les spaghettis étaient aussi froids que le regard d'un professeur d'école paroissiale en colère,The spaghetti was cold,The spaghetti was very hot,0,1,568
+Les spaghettis étaient aussi froids que des vacances à Hadès,The spaghetti was cold,The spaghetti was very hot,1,1,568
+Son esprit était comme un coffre-fort,Her mind is closed and secretive,Her mind is wide open and easily accessible,0,1,569
+Son esprit était comme le coffre à jouets d'un enfant,Her mind is closed and secretive,Her mind is wide open and easily accessible,1,1,569
+Le fantôme a l'invisibilité d'un enfant du milieu timide avec un frère aîné surperformant et une sœur cadette sauvage et exubérante,The ghost is very hard to see,The ghost is very noticeable,0,1,570
+"Le fantôme a l'invisibilité d'un tyran dans un magasin de porcelaine, brisant la porcelaine sur sa victime",The ghost is very hard to see,The ghost is very noticeable,1,1,570
+Ton esprit a le tranchant d'une lame,Your wit is clever.,Your wit is dull and not clever.,0,1,575
+Votre esprit a l'acuité d'une pierre,Your wit is clever.,Your wit is dull and not clever.,1,1,575
+Elle avait toute la grâce et l'élégance d'une ballerine,She is very graceful and elegant.,"She is not graceful or elegant, and in fact is cumbersome and unsophisticated.",0,1,576
+Elle avait toute la grâce et l'élégance d'un camion benne,She is very graceful and elegant.,"She is not graceful or elegant, and in fact is cumbersome and unsophisticated.",1,1,576
+Le professeur avait la patience d'une puce,The teacher was impatient.,The teacher was patient.,0,1,579
+Le professeur avait la patience d'une tortue,The teacher was impatient.,The teacher was patient.,1,1,579
+Le chien avait l'attitude d'un yogi,The dog had a calm attitude.,The dog had an aggressive attitude.,0,1,586
+Le chien avait l'attitude d'un commandant militaire,The dog had a calm attitude.,The dog had an aggressive attitude.,1,1,586
+Il pouvait courir à la vitesse d'un cheval de course.,He was really fast.,He was really slow.,0,1,587
+Il pouvait courir à la vitesse d'une vieille tortue.,He was really fast.,He was really slow.,1,1,587
+Henry est un golden retriever.,Henry is trustworthy and friendly.,Henry is not friendly or trustworthy.,0,1,589
+Henry est un cobra.,Henry is trustworthy and friendly.,Henry is not friendly or trustworthy.,1,1,589
+Ce chat a la grâce d'une ballerine.,The cat is extremely graceful.,The cat is clumsy and ungraceful.,0,1,601
+Ce chat a la grâce d'un cochon sur glace.,The cat is extremely graceful.,The cat is clumsy and ungraceful.,1,1,601
+Le chien est aussi intelligent qu'un bol de pierres,the dog is dumb,the dog is smart,0,1,605
+Le chien est aussi intelligent qu'un scientifique,the dog is dumb,the dog is smart,1,1,605
+La pénalité fiscale était aussi lourde qu'une boule de bowling,The tax penalty was very heavy.,The tax penalty was very light.,0,1,607
+La pénalité fiscale était aussi lourde qu'une épingle à cheveux,The tax penalty was very heavy.,The tax penalty was very light.,1,1,607
+La nourriture est aussi chaude qu'un volcan,The food is hot,the food is cold,0,1,613
+La nourriture est aussi chaude que de la glace,The food is hot,the food is cold,1,1,613
+La route est aussi plate qu'une crêpe,The road is flat,The road is rolling,0,1,614
+La route est aussi plate qu'une montagne russe,The road is flat,The road is rolling,1,1,614
+Elle est aussi transparente qu'une fenêtre,You can see her intentions,You can't tell what kind of person she is,0,1,616
+Elle est aussi transparente qu'un mur,You can see her intentions,You can't tell what kind of person she is,1,1,616
+Il a un coeur d'or,He has a great deal of concern for others,He doesn't care too much for others,0,1,618
+Il a un coeur de charbon,He has a great deal of concern for others,He doesn't care too much for others,1,1,618
+Le film a la tension d'un chat dans une pièce pleine de fauteuils à bascule.,The movie is tense.,The movie's pace is relaxed.,0,1,619
+Le film a la tension d'une nouille mouillée.,The movie is tense.,The movie's pace is relaxed.,1,1,619
+le livre a la profondeur d'une baignoire de fourmi,the story is superficial,the story is profound,0,1,622
+le livre a la profondeur de la tranchée mariana,the story is superficial,the story is profound,1,1,622
+Elle était aussi nerveuse qu'une ficelle de yo-yo,She was very anxious.,She was very calm.,0,1,630
+Elle était aussi nerveuse qu'un yogi,She was very anxious.,She was very calm.,1,1,630
+Le travail paie aussi bien qu'une usine chinoise,The job pays very little,The job pays excellent.,0,1,639
+Le travail paie aussi bien que le salaire d'un politicien.,The job pays very little,The job pays excellent.,1,1,639
+Le livre est aussi intéressant que de compter les gouttes d'eau,The book is beyond boring.,The book is incredible.,0,1,640
+Le livre est aussi intéressant que le voyage dans le temps.,The book is beyond boring.,The book is incredible.,1,1,640
+La date avait toute la magie d'un conte exotique,The date was intriguing,The date was boring,0,1,643
+La date avait toute la magie d'une petite annonce,The date was intriguing,The date was boring,1,1,643
+La photographie est aussi belle qu'un lever de soleil par une fraîche journée d'automne,The photography is beautiful and moving,The photography is ugly and unwanted,0,1,652
+La photographie est aussi belle qu'un tas d'ordures,The photography is beautiful and moving,The photography is ugly and unwanted,1,1,652
+Le clown a un sourire comme un chat qui vient d'attraper une souris,The clown's smile is wide and happy,"The clown's smile is inexpressive, flat",0,1,653
+Le clown a un sourire comme une marionnette,The clown's smile is wide and happy,"The clown's smile is inexpressive, flat",1,1,653
+Elle pense à lui aussi fortement qu'une couche pleine,She thinks he's worthless.,She prizes him.,0,1,656
+Elle pense à lui aussi fort qu'un diamant,She thinks he's worthless.,She prizes him.,1,1,656
+Les mots de sa mère étaient jonchés d'immondices.,His mother's words were stupid.,His mother's words were wise.,0,1,657
+Les mots de sa mère étaient jonchés de pierres précieuses.,His mother's words were stupid.,His mother's words were wise.,1,1,657
+La foule était remplie de loups.,The crowd had several dangerous leaders.,The crowd had several unthinking followers.,0,1,658
+La foule était remplie de moutons.,The crowd had several dangerous leaders.,The crowd had several unthinking followers.,1,1,658
+Il mange comme une souris.,He doesn't eat a lot.,He eats a lot.,0,1,664
+Il mange comme un chien.,He doesn't eat a lot.,He eats a lot.,1,1,664
+Le lapin avait la douceur d'un canard Eider croisé avec un chinchilla,The rabbit feels extremely soft,The rabbit feels rough,0,1,668
+Le lapin avait la douceur du visage d'un homme avec l'ombre de 5 heures,The rabbit feels extremely soft,The rabbit feels rough,1,1,668
+L'enseignante était aussi amusée qu'une fille à un rendez-vous avec son béguin,the teacher was interested,the teacher didn't want to hear anything,0,1,672
+L'enseignant était aussi amusé qu'un juge dans la salle d'audience,the teacher was interested,the teacher didn't want to hear anything,1,1,672
+Toute la série avait la profondeur d'une flaque d'eau.,The series was boring.,The series was profound.,0,1,678
+Toute la série avait la profondeur d'un lac.,The series was boring.,The series was profound.,1,1,678
+L'air avait la propreté de la Chine préindustrielle,The air is quite clean,The air is filthy,0,1,683
+L'air avait la propreté d'un aspirateur fraîchement ouvert,The air is quite clean,The air is filthy,1,1,683
+Elle est aussi occupée qu'un castor.,She is really busy.,She is lazy.,0,1,687
+Elle est aussi occupée qu'un paresseux.,She is really busy.,She is lazy.,1,1,687
+Elle chante comme un oiseau chanteur.,She sings well.,She sings badly.,0,1,688
+Elle chante comme un chat hurlant.,She sings well.,She sings badly.,1,1,688
+Il est aussi ouvert qu'une porte fermée.,He is not open at all.,He is very open.,0,1,689
+Il est aussi ouvert qu'un grand centre commercial.,He is not open at all.,He is very open.,1,1,689
+Son humeur avait la permanence du soleil.,His mood never changes.,His mood was always changing.,0,1,690
+Son humeur avait la permanence de la marée.,His mood never changes.,His mood was always changing.,1,1,690
+Elle se cachait comme Anne Frank,She was hiding well,She was hiding poorly,0,1,693
+Elle se cachait comme un clown de cirque,She was hiding well,She was hiding poorly,1,1,693
+Ces faits étaient comme la Bible,Those facts were not true,Those facts were true,0,1,694
+Ces faits étaient comme un dictionnaire,Those facts were not true,Those facts were true,1,1,694
+Le score final du jeu a fini par être plus proche que les poils de la queue d'un chien.,The teams scored similar amounts of points till the end of the game.,The teams did not score similar amounts till the end of the game.,0,1,707
+Le score final du match a fini par être plus loin que deux poteaux de but sur un terrain de football.,The teams scored similar amounts of points till the end of the game.,The teams did not score similar amounts till the end of the game.,1,1,707
+Les faits ont vérifié le cas comme les mensonges d'un voleur,The facts were unreliable,The facts were solid and supported the case,0,1,708
+Les faits ont vérifié l'affaire comme une solide affaire Sherlock Holmes,The facts were unreliable,The facts were solid and supported the case,1,1,708
+Le rire est comme la musique de l'âme.,Laughter makes me happy.,Laughter annoys me.,0,1,712
+"Rire, c'est comme crier sur un tableau noir.",Laughter makes me happy.,Laughter annoys me.,1,1,712
+Les faits sont des rochers inamovibles.,Facts cannot be changed.,Facts are constantly changing.,0,1,714
+Les faits sont liquides.,Facts cannot be changed.,Facts are constantly changing.,1,1,714
+Sa bibliothèque était un cerveau.,His library was really intellectual.,His library was unimpressive.,0,1,716
+Sa bibliothèque était une bouffée de fumée.,His library was really intellectual.,His library was unimpressive.,1,1,716
+Son visage est un cratère.,Her face is bumpy.,Her face is smooth.,0,1,718
+Son visage est une patinoire.,Her face is bumpy.,Her face is smooth.,1,1,718
+Le conducteur est un bûcheron.,The driver is not careful.,The driver is careful.,0,1,719
+Le conducteur est une ballerine.,The driver is not careful.,The driver is careful.,1,1,719
+Le singe était un edison moderne,The monkey was smart,The monkey was dumb,0,1,731
+Le singe était un décrocheur de 1ère année,The monkey was smart,The monkey was dumb,1,1,731
+Elle a la conscience du pape après avoir fait une expérience religieuse,She has a good conscience,She has a bad conscience,0,1,734
+Elle a la conscience d'Hitler dans un mauvais jour,She has a good conscience,She has a bad conscience,1,1,734
+L'emballage de bonbons a les plis d'une vieille femme après avoir trempé dans un bain à remous,The wrapper is very crinkly,The wrapper has no crinkles,0,1,735
+L'emballage du bonbon a les rides du visage d'une célébrité après une injection de Botox,The wrapper is very crinkly,The wrapper has no crinkles,1,1,735
+Le microphone est aussi nerveux qu'une grenouille,the microphone is highly sensitive / overpowered.,the microphone is highly insensitive / underpowered.,0,1,736
+Le microphone est aussi nerveux que la boue,the microphone is highly sensitive / overpowered.,the microphone is highly insensitive / underpowered.,1,1,736
+La femme est aussi artistique qu'une vadrouille humide.,The woman is not artistic.,The woman is a wonderful artist.,0,1,740
+La femme est aussi artistique que Van Gogh.,The woman is not artistic.,The woman is a wonderful artist.,1,1,740
+Le parking est un cratère.,The parking lot is bumpy.,The parking lot is smooth.,0,1,744
+Le parking est une feuille de verre.,The parking lot is bumpy.,The parking lot is smooth.,1,1,744
+Le coup de poing m'a frappé avec la force d'une guimauve,The punch is soft,The punch is hard,0,1,749
+Le coup de poing m'a frappé avec la force d'une pierre,The punch is soft,The punch is hard,1,1,749
+L'envergure de l'aile de l'oiseau s'éternise,The wings on the bird are large and massive,The wings are so small they look like a butterfly's wings.,0,1,754
+L'envergure des ailes de l'oiseau est aussi petite que celle d'un papillon,The wings on the bird are large and massive,The wings are so small they look like a butterfly's wings.,1,1,754
+La classe était aussi intéressante qu'un sac en papier mouillé.,Class was boring and dull.,Class was very inspiring and made me think in a different way.,0,1,755
+La classe était si stimulante que je me sentais renaître.,Class was boring and dull.,Class was very inspiring and made me think in a different way.,1,1,755
+sa voix était café tôt le matin.,He had a very soothing voice.,His voice was startlingly unpleasant.,0,1,757
+sa voix était une alarme tôt le matin.,He had a very soothing voice.,His voice was startlingly unpleasant.,1,1,757
+Les chiens sont la loyauté et l'amour donné à la vie.,Dog wonderful creatures.,Dogs are gross creatures.,0,1,758
+Les chiens mendient et font caca.,Dog wonderful creatures.,Dogs are gross creatures.,1,1,758
+L'homme était aussi beau qu'un modèle de J. Crew,The man had excellent looks.,The man had poor looks.,0,1,764
+L'homme était aussi beau qu'un rat taupe nu,The man had excellent looks.,The man had poor looks.,1,1,764
+Son visage est un chemin de terre.,His face is bumpy.,His face is smooth.,0,1,768
+Son visage est une feuille de verre.,His face is bumpy.,His face is smooth.,1,1,768
+Le peintre est un derby de démolition.,The painter is rough.,The painter is careful.,0,1,769
+Le peintre est chirurgien.,The painter is rough.,The painter is careful.,1,1,769
+La petite amie de Matt est un distributeur automatique.,Matt's girlfriend is large.,Matt's girlfriend is small.,0,1,772
+La petite amie de Matt est un P.O. Boîte.,Matt's girlfriend is large.,Matt's girlfriend is small.,1,1,772
+Cette table a été faite par un dieu grec.,The table was well constructed.,The table was poorly made.,0,1,780
+Ce tableau a été réalisé par Un chimpanzé.,The table was well constructed.,The table was poorly made.,1,1,780
+La chambre de l'enfant était un dépotoir,The child's room was messy,The child's room was clean,0,1,785
+La chambre de l'enfant était une chambre d'hôpital pré-chirurgicale,The child's room was messy,The child's room was clean,1,1,785
+Son esprit était un ensemble de chaises brisées,Her mind was confused.,Her mind was clever.,0,1,789
+Son esprit était une étagère vintage.,Her mind was confused.,Her mind was clever.,1,1,789
+L'homme a abordé le projet avec autant d'habileté qu'un neurochirurgien,The man brought expert skills to the project.,The man brought no skills to the project.,0,1,791
+L'homme a abordé le projet avec autant d'habileté qu'un collégien,The man brought expert skills to the project.,The man brought no skills to the project.,1,1,791
+L'homme s'est déplacé aussi vite qu'une voiture coincée dans la circulation,The man moved with no speed at all.,The man moved with great speed.,0,1,792
+L'homme s'est déplacé aussi vite que Niagara Falls,The man moved with no speed at all.,The man moved with great speed.,1,1,792
+Il m'a parlé comme si j'allais lui donner de l'argent.,He was really friendly.,He was really evasive.,0,1,797
+Il m'a parlé comme s'il pensait que j'allais lui demander de l'argent.,He was really friendly.,He was really evasive.,1,1,797
+C'est à peu près aussi utile qu'un glaçon dans une tempête de neige.,It's not useful at all.,It's very useful.,0,1,798
+C'est à peu près aussi utile qu'une cabine chauffée dans une tempête de neige.,It's not useful at all.,It's very useful.,1,1,798
+Le matelas était doux comme du granit,The mattress is hard,the mattress is soft,0,1,802
+Le matelas était doux comme un nuage,The mattress is hard,the mattress is soft,1,1,802
+Le savon sentait comme un champ de lys,the soap smelled good,the soap smelled bad,0,1,803
+Le savon sentait la bouse de gnou.,the soap smelled good,the soap smelled bad,1,1,803
+Nous avons tout le temps de la durée de vie de l'univers,We have a lot of time,We have very little time,0,1,806
+On a tout le temps de la durée de vie d'une mouche domestique,We have a lot of time,We have very little time,1,1,806
+La culture a la profondeur d'une piscine pour enfants.,The culture is superficial.,The culture is complex.,0,1,808
+La culture a la profondeur de la fosse mariale.,The culture is superficial.,The culture is complex.,1,1,808
+La route est un lit de rochers.,The road is bumpy.,The road is smooth.,0,1,809
+La route est une patinoire.,The road is bumpy.,The road is smooth.,1,1,809
+Le yaourt était comme une pâte à rondelles d'oignon,The yogurt was thick.,The yogurt was thin.,0,1,811
+Le yaourt était comme de la brume,The yogurt was thick.,The yogurt was thin.,1,1,811
+Le revêtement en masonite sur les maisons repousse l'eau ainsi qu'une éponge,Masonite siding soaks up water,Masonite is water repellant,0,1,814
+Le revêtement en masonite sur les maisons repousse l'eau ainsi qu'un imperméable,Masonite siding soaks up water,Masonite is water repellant,1,1,814
+Leur culture a l'ouverture d'un pré,The culture is very open and tolerant,The culture is not open or tolerant,0,1,823
+Leur culture a l'ouverture d'un placard,The culture is very open and tolerant,The culture is not open or tolerant,1,1,823
+La femme a la superficialité d'un seau,She is very shallow,She is not very shallow,0,1,825
+La femme a la faible profondeur de l'océan,She is very shallow,She is not very shallow,1,1,825
+Cet endroit est aussi cultivé qu'un musée,This place is highly cultured.,This place is lowbrow and not cultured.,0,1,829
+Cet endroit est aussi cultivé qu'un relais routier,This place is highly cultured.,This place is lowbrow and not cultured.,1,1,829
+Il est aussi fort qu'un culturiste,He is strong.,He is weak.,0,1,832
+Il est aussi fort qu'un grand-père,He is strong.,He is weak.,1,1,832
+La crème pour le visage a la texture du gravier.,The face cream is too rough.,The face cream is light.,0,1,841
+La crème pour le visage a la texture d'une mousse au chocolat.,The face cream is too rough.,The face cream is light.,1,1,841
+Le chien est aussi vicieux qu'un poisson rouge,The dog is docile.,The dog is dangerous .,0,1,850
+Le chien est aussi vicieux qu'un ours affamé,The dog is docile.,The dog is dangerous .,1,1,850
+Le brouillard est aussi dense que le fer,The fog is thick and hard to see through.,The fog is thin and easy to see through.,0,1,851
+Le brouillard est aussi dense que du plexiglas,The fog is thick and hard to see through.,The fog is thin and easy to see through.,1,1,851
+"Un prêtre est sexuellement actif aussi souvent qu'un tremblement de terre de 9,1",A priest is rarely sexually active,A priest is extremely sexually active,0,1,852
+Un prêtre est sexuellement actif comme Mount St Helens,A priest is rarely sexually active,A priest is extremely sexually active,1,1,852
+Le docteur a le cerveau d'un ordinateur dans Star Trek,The doctor is very intelligent,The doctor isn't very smart,0,1,860
+Le médecin a le cerveau d'un pigeon sous-développé,The doctor is very intelligent,The doctor isn't very smart,1,1,860
+La fille était aussi exigeante qu'une actrice hollywoodienne,The girl was highly demanding.,The girl was not demanding at all.,0,1,862
+La fille était aussi exigeante qu'une bénévole de soupe populaire,The girl was highly demanding.,The girl was not demanding at all.,1,1,862
+Les bijoux qu'elle a essayé de mettre en gage ont la valeur d'un mouchoir de vagabond,The jewelry is not worth much,The jewelry is very valuable,0,1,869
+Les bijoux qu'elle a essayé de mettre en gage ont la valeur d'un tas de lingots d'or,The jewelry is not worth much,The jewelry is very valuable,1,1,869
+Elle possédait la beauté d'un bousier,She is ugly,She is beautiful,0,1,871
+Elle possédait la beauté d'un mannequin fabuleux,She is ugly,She is beautiful,1,1,871
+Il a le positionnement d'un joueur de la NFL.,He's got professional level positioning.,He's got terrible positioning.,0,1,875
+Il a le positionnement du calmar.,He's got professional level positioning.,He's got terrible positioning.,1,1,875
+Il a la discipline d'un moine bouddhiste.,He's extremely disciplined.,He's not disciplined at all.,0,1,877
+Il a la discipline d'une hyène sauvage.,He's extremely disciplined.,He's not disciplined at all.,1,1,877
+Le poivre est un enfer,The pepper is super spicy,The pepper is not spicy,0,1,878
+Le poivre est un glaçon,The pepper is super spicy,The pepper is not spicy,1,1,878
+Il a toute la colère d'un chien battu,He's very angry,He's not at all angry,0,1,883
+Il a toute la colère d'un papillon heureux,He's very angry,He's not at all angry,1,1,883
+Ses cheveux a l'huile du golfe du Mexique en avril 2010,Her hair is oily,Her hair is oil free,0,1,885
+Ses cheveux ont de l'huile de détergent à vaisselle Dawn,Her hair is oily,Her hair is oil free,1,1,885
+L'église était aussi orthodoxe qu'une réunion occulte.,The church was heretical and move beyond the boundaries of accepted teachings.,The church was within the boundaries of accepted teachings and were in line with the Great Tradition.,0,1,886
+L'église était aussi orthodoxe que les anciens pères de l'église.,The church was heretical and move beyond the boundaries of accepted teachings.,The church was within the boundaries of accepted teachings and were in line with the Great Tradition.,1,1,886
+La langue de la fille était aussi tranchante qu'une épée,The girls tongue was very sharp.,The girl's tongue wasn't sharp at all.,0,1,890
+La langue de la fille était aussi pointue qu'un oreiller,The girls tongue was very sharp.,The girl's tongue wasn't sharp at all.,1,1,890
+Il est aussi spirituel qu'un bouddha,He is very religious,He is not religious,0,1,892
+Il est aussi spirituel que mon chien,He is very religious,He is not religious,1,1,892
+Ses pensées coulaient comme le sable dans un sablier,His thoughts flowed smoothly and steadily.,His thoughts were all over the place.,0,1,897
+Ses pensées coulaient comme un singe de break dance,His thoughts flowed smoothly and steadily.,His thoughts were all over the place.,1,1,897
+Son garçonnière sentait aussi frais qu'une salle de bain de dortoir de fraternité le soir de Taco Bell,His bachelor pad smelled awful,His bachelor pad smelled wonderful,0,1,899
+Son garçonnière sentait aussi frais qu'une usine de parfums Ralph Lauren,His bachelor pad smelled awful,His bachelor pad smelled wonderful,1,1,899
+Mon âme pèse autant qu'un billet d'un dollar,My soul is without a worry,My soul is worried,0,1,904
+Mon âme pèse autant qu'un pneu de camion,My soul is without a worry,My soul is worried,1,1,904
+Il a la spiritualité du pape après avoir reçu une vision de Dieu,He is very spiritual,He is not spiritual at all,0,1,910
+Il a la spiritualité d'un athée qui brûle des églises,He is very spiritual,He is not spiritual at all,1,1,910
+Le film avait la durée de vie de cent soleils,The film was very long,The film was quite short,0,1,911
+Le film avait la durée de la distance parcourue par une fourmi en une minute,The film was very long,The film was quite short,1,1,911
+Le médecin est aussi amical qu'un essaim de guêpes.,The doctor is mean.,The doctor is lovable.,0,1,913
+Le médecin est aussi amical qu'une meute de chiots.,The doctor is mean.,The doctor is lovable.,1,1,913
+Son discours avait l'urgence d'un homme qui doit uriner,His speech had a lot of urgency,His speech had no urgency,0,1,924
+Son discours avait l'urgence d'une échéance lointaine,His speech had a lot of urgency,His speech had no urgency,1,1,924
+Cette œuvre d'art est aussi brillante qu'un poisson rouge.,This work of art is dumb.,This work of art is a masterpiece.,0,1,925
+Cette œuvre d'art est aussi brillante que le Taj Mahal.,This work of art is dumb.,This work of art is a masterpiece.,1,1,925
+Cette tenue est digne d'une meute de gremlins.,This outfit is horrible.,This outfit is amazing.,0,1,926
+Cette tenue est digne des podiums.,This outfit is horrible.,This outfit is amazing.,1,1,926
+Ils collaborent comme une souris et un fromage.,They collaborate really well.,They do not collaborate well at all.,0,1,928
+Ils collaborent comme une souris et un chat affamé.,They collaborate really well.,They do not collaborate well at all.,1,1,928
+Il a la discipline d'un instructeur de forage.,He is very disciplined.,He is not disciplined at all.,0,1,929
+Il a la discipline d'un bambin.,He is very disciplined.,He is not disciplined at all.,1,1,929
+Il a la vitesse d'un guépard.,He is very fast.,He is very slow.,0,1,930
+Il a la vitesse d'un paresseux.,He is very fast.,He is very slow.,1,1,930
+Elle était aussi amicale qu'un vieux chat en colère,She wasn't kind at all,She was happy to see us,0,1,933
+Elle était aussi amicale qu'un chiot nouveau-né,She wasn't kind at all,She was happy to see us,1,1,933
+Elle a la durée d'attention d'un moucheron,She has a short attention span,She has a long attention span,0,1,935
+Elle a la capacité d'attention d'un dauphin,She has a short attention span,She has a long attention span,1,1,935
+La maison a l'âge d'une momie de l'Égypte ancienne,The house is old,The house is young,0,1,936
+La maison est l'âge de La Momie avec Tom Cruise,The house is old,The house is young,1,1,936
+La boîte contient toutes les nouilles du garde-manger du chef Boyardee,The can holds many noodles,The can has few noodles in it,0,1,938
+"La boîte contient toutes les nouilles d'une portion de nourriture ""taille amusante""",The can holds many noodles,The can has few noodles in it,1,1,938
+La ballerine avait l'élégance et la grâce d'un flamant rose.,The ballerina was graceful.,The ballerina was clumsy.,0,1,941
+La ballerine avait l'élégance et la grâce d'un hippopotame.,The ballerina was graceful.,The ballerina was clumsy.,1,1,941
+Le chien est aussi courageux que le lion lâche.,The dog is cowardly.,The dog is very brave.,0,1,944
+Le chien est aussi courageux qu'une armée entière.,The dog is cowardly.,The dog is very brave.,1,1,944
+Le ballon avait la capacité de flotter d'Aquaman sous l'eau,The balloon is good at floating,The balloon floats poorly,0,1,957
+Le ballon avait la capacité de flotter d'Aquaman sur terre,The balloon is good at floating,The balloon floats poorly,1,1,957
+Le métal est une peau de serpent.,The metal is rough.,The metal is smooth.,0,1,966
+Le métal est un miroir.,The metal is rough.,The metal is smooth.,1,1,966
+L'endroit était aussi joyeux qu'une fête,The place was joyful.,The place was miserable.,0,1,979
+L'endroit était aussi joyeux qu'un enterrement,The place was joyful.,The place was miserable.,1,1,979
+C'est aussi croustillant que du bacon frit!,The item is very crispy.,The item isn't crispy at all.,0,1,982
+C'est aussi croustillant que du bacon cru !,The item is very crispy.,The item isn't crispy at all.,1,1,982
+Il est aussi mignon qu'un panda roux !,He was very cute.,He was not very cute.,0,1,983
+Il est aussi mignon qu'un blobfish.,He was very cute.,He was not very cute.,1,1,983
+Le métal a la force d'Hercule.,The metal is very strong,The metal is very weak,0,1,985
+Le métal a la force d'une nouille de cheveux d'ange mouillée.,The metal is very strong,The metal is very weak,1,1,985
+Je veux passer du temps avec ce projet comme si c'était mon ennemi,You do not want to spend time on the project,You do want to spend time on the project,0,1,995
+Je veux passer du temps avec ce projet comme si c'était mon jeu,You do not want to spend time on the project,You do want to spend time on the project,1,1,995
+Le projet est aussi favorable que mon ennemi,The project is not favorable,The project is favorable,0,1,996
+Le projet est aussi favorable que mon jeu,The project is not favorable,The project is favorable,1,1,996
+Il est aussi brillant que l'étoile polaire.,He's very smart.,He's not very smart.,0,1,1002
+Il est aussi brillant qu'une ampoule morte.,He's very smart.,He's not very smart.,1,1,1002
+Le lapin a la vitesse d'une voiture de course,The rabbit is fast,The rabbit is slow,0,1,1005
+Le lapin a la vitesse d'un paresseux,The rabbit is fast,The rabbit is slow,1,1,1005
+Le canard avait tout le bruit d'une voiture de course qui klaxonnait à chaque fois qu'il croisait un brin d'herbe,The duck is noisy,The duck is quiet,0,1,1008
+Le canard avait tout le bruit d'une pile de papiers sous un presse-papier,The duck is noisy,The duck is quiet,1,1,1008
+Cette femme a la peau d'un serpent muet.,"That woman has dead, peeling skin.",That woman has smooth skin.,0,1,1011
+Cette femme a la peau d'un morceau de verre.,"That woman has dead, peeling skin.",That woman has smooth skin.,1,1,1011
+Le roman a la relativité émotionnelle d'un boa constrictor.,The novel is not relatable.,The novel is relatable.,0,1,1014
+Le roman a la relativité émotionnelle d'un vieil ami.,The novel is not relatable.,The novel is relatable.,1,1,1014
+La maison est aussi grande que le Grand Canyon,The house is enormous.,The house is tiny.,0,1,1021
+La maison est aussi grande qu'une souricière,The house is enormous.,The house is tiny.,1,1,1021
+Le film a la profondeur d'un livre de Dick et Jane,The movie is simplistic.,The movie has a deep plot.,0,1,1025
+Le film a la profondeur d'une pièce shakespearienne,The movie is simplistic.,The movie has a deep plot.,1,1,1025
+La personne moyenne a les émotions d'un mammifère complexe et sensible,The average person has many emotions,The average person has no emotions,0,1,1033
+La personne moyenne a les émotions d'un automate froid et insensible,The average person has many emotions,The average person has no emotions,1,1,1033
+"L'éponge a l'absorption d'un gros homme lors d'un buffet ""All You Can Eat""",The sponge has high absorbance,The sponge can absorb little,0,1,1034
+L'éponge a l'absorption d'un morceau de papier toilette à une épaisseur,The sponge has high absorbance,The sponge can absorb little,1,1,1034
+L'idée du PDG était aussi avant-gardiste qu'un robot avec des émotions,The CEO's idea was extremely novel.,The CEO's idea was outdated.,0,1,1037
+L'idée du PDG était aussi avant-gardiste que MySpace,The CEO's idea was extremely novel.,The CEO's idea was outdated.,1,1,1037
+La fille était aussi bien informée que Google,The girl was extremely smart.,The girl was ignorant.,0,1,1038
+La fille était aussi bien informée qu'un chiot non dressé,The girl was extremely smart.,The girl was ignorant.,1,1,1038
+Peter porte des chaussures qui pourraient être classées comme navires océaniques.,Peter wears shoes in a very large size.,Peter wears shoes in a very small size.,0,1,1039
+Peter porte des chaussures qui pourraient convenir à un elfe.,Peter wears shoes in a very large size.,Peter wears shoes in a very small size.,1,1,1039
+L'atmosphère à Mexico est un sauna,The atmosphere is smoggy,The atmosphere is clean,0,1,1042
+L'atmosphère à Mexico est de verre,The atmosphere is smoggy,The atmosphere is clean,1,1,1042
+La fleur a l'arôme du baiser d'une mère,The flower smells good,The flower smells bad,0,1,1043
+La fleur a l'arôme du baiser de satan,The flower smells good,The flower smells bad,1,1,1043
+La relation a eu la durée d'un marathon,The relationship was long,The relationship was short,0,1,1044
+La relation avait la longueur d'un trombone,The relationship was long,The relationship was short,1,1,1044
+George a frappé le sol comme une tonne de briques,George hit the ground hard,George hit the ground softly,0,1,1049
+George a touché le sol comme une plume,George hit the ground hard,George hit the ground softly,1,1,1049
+Le film a la profondeur d'un personnage de dessin animé unidimensionnel.,The movie is boring,The movie is profound,0,1,1050
+Le film a la profondeur d'un trou noir englobant tout l'espace extra-atmosphérique.,The movie is boring,The movie is profound,1,1,1050
+L'écrivain avait la profondeur d'une baignoire vide.,The writer was dull.,The writer was profound.,0,1,1053
+L'écrivain avait la profondeur de la fosse des Mariannes.,The writer was dull.,The writer was profound.,1,1,1053
+La majorette avait la profondeur d'un évier vide.,The cheerleader was superficial.,The cheerleader was profound.,0,1,1054
+La majorette avait la profondeur du fond de l'océan.,The cheerleader was superficial.,The cheerleader was profound.,1,1,1054
+Sa réaction au cafard était aussi subtile que de se faire électrocuter lors d'une crise de grand mal,Her reaction to the cockroach was histrionic,Her reaction to the cockroach was calm,0,1,1056
+Sa réaction au cafard était aussi subtile qu'un scientifique observant de la moisissure dans une boîte de Pétri,Her reaction to the cockroach was histrionic,Her reaction to the cockroach was calm,1,1,1056
+Cette chanson est aussi bonne à écouter que des clous sur un tableau.,the song is unpleasant,the song is ethereally good.,0,1,1060
+Cette chanson est aussi bonne à écouter que le son des cloches des anges.,the song is unpleasant,the song is ethereally good.,1,1,1060
+Le devoir a la complexité de la physique théorique,The homework is impossible to fully understand,The homework is simple and straightforward,0,1,1062
+Le devoir a la complexité d'un rocher,The homework is impossible to fully understand,The homework is simple and straightforward,1,1,1062
+Cette vague est la Sears Tower,the wave is tall,the wave is short,0,1,1066
+Cette vague est une fourmilière,the wave is tall,the wave is short,1,1,1066
+La température me donnait l'impression d'être dans une glacière,The temperature was cold.,The temperature was hot.,0,1,1078
+La température me donnait l'impression d'être dans un gril,The temperature was cold.,The temperature was hot.,1,1,1078
+Écouter de la musique classique ressemble à un océan d'émotions,classical music is intense,classical music is dull,0,1,1082
+Écouter de la musique classique donne l'impression d'être dans le coma,classical music is intense,classical music is dull,1,1,1082
+Le compteur est un serpent,The counter is curvy.,The counter is straight.,0,1,1085
+Le compteur est une règle.,The counter is curvy.,The counter is straight.,1,1,1085
+C'est à peu près aussi chaud qu'un œuf dans une poêle à frire.,It's very hot.,It's not hot at all.,0,1,1087
+C'est à peu près aussi chaud qu'un glaçon.,It's very hot.,It's not hot at all.,1,1,1087
+Ce livre a l'effet d'un somnifère,The book is boring,The book is exciting,0,1,1092
+Ce livre a l'effet d'une pilule de caféine,The book is boring,The book is exciting,1,1,1092
+Tu es aussi expressif qu'un acteur,You're very expressive,You're unexpressive,0,1,1094
+Tu es aussi expressif qu'un robot,You're very expressive,You're unexpressive,1,1,1094
+Il est aussi profond qu'une flaque d'eau,He's not a deep thinker,He's a very deep thinker,0,1,1098
+Il est aussi profond que la mer,He's not a deep thinker,He's a very deep thinker,1,1,1098
+Ce professeur est Google.,That teacher is knowledgeable.,That teacher is out-of-date.,0,1,1103
+Ce professeur est America Online.,That teacher is knowledgeable.,That teacher is out-of-date.,1,1,1103
+Ta maman est une montgolfière.,Your momma is bloated.,Your momma is sexy.,0,1,1104
+Ta maman est un lynx habile.,Your momma is bloated.,Your momma is sexy.,1,1,1104
+Le lit de l'hôtel était aussi luxueux que de l'or 24 carats,The bed was very luxurious.,The hotel bed was not luxurious at all.,0,1,1107
+Le lit de l'hôtel était aussi luxueux qu'un sac de couchage,The bed was very luxurious.,The hotel bed was not luxurious at all.,1,1,1107
+La robe avait l'épaisseur du cellophane.,The dress was sheer.,The dress was solid.,0,1,1114
+La robe avait l'épaisseur d'un morceau de bois massif.,The dress was sheer.,The dress was solid.,1,1,1114
+Le bain à remous avait la puissance d'aspiration d'un plongeur olympique venant prendre l'air,The whirlpool had a strong suction,The suction of the whirlpool was weak,0,1,1119
+Le bain à remous avait la puissance d'aspiration d'un aspirateur après avoir aspiré un emballage de cheeseburger,The whirlpool had a strong suction,The suction of the whirlpool was weak,1,1,1119
+Darcy avait le talent de danseur de Michael Jackson avec des jambes bioniques,Darcy is a great dancer,Darcy can hardly dance at all,0,1,1120
+Darcy avait l'habileté de danser d'une araignée à six pattes sur des béquilles,Darcy is a great dancer,Darcy can hardly dance at all,1,1,1120
+Ma colère est comme un univers.,My anger is vast.,My anger is fluctuating.,0,1,1124
+Ma colère est comme une vague agitée.,My anger is vast.,My anger is fluctuating.,1,1,1124
+Son arrivée était aussi excitante qu'un feu d'artifice,He created much excitement,People were bored by his appearance,0,1,1129
+Son arrivée était aussi excitante qu'une course d'escargots,He created much excitement,People were bored by his appearance,1,1,1129
+Il était aussi en colère qu'une bête sauvage,He was angry,"He was calm, and not angry",0,1,1133
+Il était aussi en colère qu'un maître zen,He was angry,"He was calm, and not angry",1,1,1133
+Tu es lisse comme une balle,You're very smooth,You're very rough and not smooth,0,1,1134
+Tu es lisse comme un cactus,You're very smooth,You're very rough and not smooth,1,1,1134
+La femme avait la dureté d'un rhinocéros.,The woman was very tough.,The woman was not very tough.,0,1,1136
+La femme avait la dureté d'un cobaye.,The woman was very tough.,The woman was not very tough.,1,1,1136
+Cet homme avait la fiabilité d'un chirurgien avec dix ans d'expérience.,The man was very reliable.,The man couldn't be relied on at all.,0,1,1137
+Cet homme avait la fiabilité d'un chirurgien de dix ans.,The man was very reliable.,The man couldn't be relied on at all.,1,1,1137
+Le papillon m'a rappelé le Silence des Agneaux,The moth reminded me of something frightening.,The moth reminded me of something comforting.,0,1,1144
+Le papillon de nuit m'a rappelé les étés chez grand-mère,The moth reminded me of something frightening.,The moth reminded me of something comforting.,1,1,1144
+Le papillon avait la coloration d'une clôture de boue,The butterfly's coloration is drab,The butterfly's coloration is beautiful,0,1,1146
+Le papillon avait la coloration du plumage d'un paon,The butterfly's coloration is drab,The butterfly's coloration is beautiful,1,1,1146
+La sélection au magasin ressemblait à celle d'un vendeur de rue solitaire,The store has a limited selection of items,The store has a wide range of items,0,1,1147
+La sélection au magasin ressemblait à celle d'un immense grand magasin,The store has a limited selection of items,The store has a wide range of items,1,1,1147
+Le PDG était un bûcheron.,The CEO was clumsy,The CEO was careful.,0,1,1150
+Le PDG était sculpteur.,The CEO was clumsy,The CEO was careful.,1,1,1150
+L'homme avait la coordination d'un acrobate,He was very coordinated,He was very uncoordinated,0,1,1153
+L'homme avait la coordination d'un marin ivre,He was very coordinated,He was very uncoordinated,1,1,1153
+Adam est aussi fort qu'un tsunami.,Adam is strong.,Adam is weak.,0,1,1154
+Adam est aussi fort qu'une douce vague,Adam is strong.,Adam is weak.,1,1,1154
+Lisa est tranchante comme une hache.,Lisa is smart.,Lisa is dumb.,0,1,1155
+Lisa est tranchante comme une éponge.,Lisa is smart.,Lisa is dumb.,1,1,1155
+Sa maison semblait être faite de désinfectant pour les mains.,The house was really clean.,The house was disgusting.,0,1,1156
+Sa maison semblait être faite de bactéries.,The house was really clean.,The house was disgusting.,1,1,1156
+Cette maison hantée a un facteur de peur d'un lapin mangeant une carotte,The haunted house was mild and tame,The haunted house was scary and sickening,0,1,1163
+Cette maison hantée a peur d'être gavée de cafards par un zombie,The haunted house was mild and tame,The haunted house was scary and sickening,1,1,1163
+Les étudiants sont aussi concentrés que les chirurgiens cardiothoraciques,The students are as focused as can be.,The students have a total lack of focus.,0,1,1170
+Les élèves sont aussi concentrés que les jeunes chiots,The students are as focused as can be.,The students have a total lack of focus.,1,1,1170
+L'éléphant est une baleine.,The elephant is large.,The elephant is small.,0,1,1173
+L'éléphant est une souris.,The elephant is large.,The elephant is small.,1,1,1173
+Le sens du poème était aussi accessible que l'Énéide de Virgile.,The meaning is not self-explanatory; it requires education from experts in understanding it.,The meaning is easy to decipher without much expertise.,0,1,1187
+Le sens du poème était aussi accessible que le conte de fées de l'enfance.,The meaning is not self-explanatory; it requires education from experts in understanding it.,The meaning is easy to decipher without much expertise.,1,1,1187
+La scène était aussi rafraîchissante que de la limonade,The scene was totally refreshing.,The scene wasn't refreshing at all.,0,1,1188
+La scène était aussi rafraîchissante qu'un verre vide,The scene was totally refreshing.,The scene wasn't refreshing at all.,1,1,1188
+La voiture est une baleine,The car is large,The car is small,0,1,1192
+La voiture est une amibe,The car is large,The car is small,1,1,1192
+Les pieds de la chaise sont des brindilles,The legs are thin and brittle,The legs are thick and heavy,0,1,1194
+Les pieds de la chaise sont des troncs d'arbres,The legs are thin and brittle,The legs are thick and heavy,1,1,1194
+Son sourire était une porte fermée.,His smile was not inviting.,His smile was inviting.,0,1,1196
+Son sourire était une porte ouverte.,His smile was not inviting.,His smile was inviting.,1,1,1196
+Cette réunion d'affaires était un coup d'état,The business meeting was when they betrayed the leader.,The business meeting was when they selected the leader.,0,1,1197
+Cette réunion d'affaires était un couronnement royal.,The business meeting was when they betrayed the leader.,The business meeting was when they selected the leader.,1,1,1197
+J'ai autant d'idées de livres qu'il y a de jours dans une année,I have over 300 book ideas,I only have a few book ideas.,0,1,1211
+J'ai autant d'idées de livres qu'il y a de 00 dans cent,I have over 300 book ideas,I only have a few book ideas.,1,1,1211
+L'ours est un chiot,The bear is sweet and docile,The bear is aggressive,0,1,1212
+L'ours est un T-rex,The bear is sweet and docile,The bear is aggressive,1,1,1212
+Le fait qu'il conduise cette voiture vous indique que ses parents ne l'ont jamais aimé.,The car demonstrates the underlying insecurities of the driver.,The car demonstrates the driver's secure sense of themselves.,0,1,1216
+Le fait qu'il conduise cette voiture vous indique qu'il n'a jamais été victime d'intimidation au lycée.,The car demonstrates the underlying insecurities of the driver.,The car demonstrates the driver's secure sense of themselves.,1,1,1216
+Le puits a toute l'eau de la bosse dans le dos d'un chameau,There's a lot of water in the well,The well is dry,0,1,1217
+Le puits a toute l'eau du désert de Gobi,There's a lot of water in the well,The well is dry,1,1,1217
+Le rasoir était tranchant comme une guillotine,The razor was sharp,The razor was not sharp,0,1,1221
+Le rasoir était tranchant comme un crayon émoussé,The razor was sharp,The razor was not sharp,1,1,1221
+Je préfère vivre comme une fourmi.,I prefee to live a life focused on working hard so that I am prepared for the future,"I prefer to live a life that is carefree and in the moment, with no thought of the future.",0,1,1223
+Je préfère vivre comme une sauterelle.,I prefee to live a life focused on working hard so that I am prepared for the future,"I prefer to live a life that is carefree and in the moment, with no thought of the future.",1,1,1223
+Son esprit est un piège en acier.,"She remembers everything, no matter how insignificant.","She remembers nothing, and has lost half of what she once knew.",0,1,1224
+Son esprit est du fromage suisse.,"She remembers everything, no matter how insignificant.","She remembers nothing, and has lost half of what she once knew.",1,1,1224
+La chanson était aussi optimiste qu'un match de football,The song was really upbeat.,The song was heavyhanded.,0,1,1225
+La chanson était aussi entraînante qu'un hymne funéraire,The song was really upbeat.,The song was heavyhanded.,1,1,1225
+Le rasoir est une lame nouvellement polie.,The razor is sharp.,The razor is dull.,0,1,1227
+Le rasoir est une paire de ciseaux de cuisine rouillés.,The razor is sharp.,The razor is dull.,1,1,1227
+Elle se repose autant qu'un chat.,She rests a lot.,She doesn't rest much at all.,0,1,1231
+Elle se repose autant qu'une mère de triplés.,She rests a lot.,She doesn't rest much at all.,1,1,1231
+La balle a rebondi aussi haut que le ciel,The ball bounced very high,The ball barely bounced at all.,0,1,1234
+La balle a rebondi aussi haut que le sol,The ball bounced very high,The ball barely bounced at all.,1,1,1234
+Le rasoir avait le tranchant d'une épée,The razor was sharp,The razor was dull,0,1,1235
+Le rasoir avait le tranchant d'une pierre,The razor was sharp,The razor was dull,1,1,1235
+Le rasoir est un bâton de rouille,The razor is rusty and old.,The razor is sharp.,0,1,1240
+Le rasoir est un couteau.,The razor is rusty and old.,The razor is sharp.,1,1,1240
+Il a un coeur de pierre,He is hard,He is generous,0,1,1245
+Il a un coeur d'or,He is hard,He is generous,1,1,1245
+La girafe est un bébé anguille nouveau-né.,The giraffe is awkward.,The giraffe is elegant.,0,1,1251
+La girafe est une gazelle.,The giraffe is awkward.,The giraffe is elegant.,1,1,1251
+Il est aussi grand qu'une girafe.,He's really tall.,He's really short.,0,1,1252
+Il est aussi grand qu'un gnome.,He's really tall.,He's really short.,1,1,1252
+Elle rit autant qu'un clown.,She laughs a lot.,She doesn't laugh much at all.,0,1,1254
+Elle rit autant qu'une bibliothécaire stricte.,She laughs a lot.,She doesn't laugh much at all.,1,1,1254
+La voiture roulait aussi doucement que du beurre,The car drove smoothly,The car drove roughly,0,1,1257
+La voiture roulait aussi lisse que du gravier,The car drove smoothly,The car drove roughly,1,1,1257
+Nous sommes aussi bons amis que deux chiens qui se disputent le dernier os.,They're not really good friends at all and are desperate.,They are good friends and are comfortable.,0,1,1267
+Nous sommes aussi bons amis que deux chiens profitant d'un festin.,They're not really good friends at all and are desperate.,They are good friends and are comfortable.,1,1,1267
+La validité de son excuse était aussi solide qu'une feuille de papier de soie,Her excuse was flimsy,Her excuse was solid,0,1,1269
+La validité de son excuse était aussi solide que la Bibliothèque du Congrès,Her excuse was flimsy,Her excuse was solid,1,1,1269
+Elle m'a aimé comme une mère,She loved me.,She didn't love me at all.,0,1,1272
+Elle m'aimait comme une méchante belle-mère,She loved me.,She didn't love me at all.,1,1,1272
+Sa voix était aussi calme qu'une souris,His voice was quiet.,His voice was loud.,0,1,1273
+Sa voix était aussi silencieuse qu'un mégaphone,His voice was quiet.,His voice was loud.,1,1,1273
+Les graines ont la dureté de courir un marathon en portant un rocher sur le dos,The seeds are hard,The seeds are soft,0,1,1274
+Les graines ont la dureté d'un bol de glace fondante,The seeds are hard,The seeds are soft,1,1,1274
+La viande a l'odeur d'un jambon de Noël fraîchement cuit,The meat smells good,The meat smells foul,0,1,1275
+La viande a l'odeur d'une paire de chaussures de course en sueur,The meat smells good,The meat smells foul,1,1,1275
+Cette table a la stabilité d'une montagne,This table is very strong.,This table is very flimsy.,0,1,1278
+Cette table a la stabilité d'un château de cartes.,This table is very strong.,This table is very flimsy.,1,1,1278
+Ce bâtiment a été construit au Jurassique.,That building was built a long time ago,That building was built very recently.,0,1,1279
+Ce bâtiment a été construit il y a une seconde.,That building was built a long time ago,That building was built very recently.,1,1,1279
+Ce repas a le goût d'avoir été préparé par Gordon Ramsay.,The food is delicious.,The food is disgusting.,0,1,1284
+Ce repas a le goût d'être fait par trois rats sans langue.,The food is delicious.,The food is disgusting.,1,1,1284
+Le joueur de hockey était un derby de démolition.,The hockey player was sloppy.,The hockey player was careful.,0,1,1288
+Le joueur de hockey était une gazelle.,The hockey player was sloppy.,The hockey player was careful.,1,1,1288
+Il a brillé comme les étoiles,He shined brightly.,He was dull and didn't shine at all.,0,1,1290
+Il a brillé comme la saleté,He shined brightly.,He was dull and didn't shine at all.,1,1,1290
+Elle était aussi chaude que le soleil,She was hot,"She was not hot, but cold.",0,1,1291
+Elle était aussi chaude qu'un popsicle,She was hot,"She was not hot, but cold.",1,1,1291
+Le chien a la douceur d'un plumeau,The dog is soft,The dog isn't soft,0,1,1293
+Le chien a la douceur d'un astéroïde,The dog is soft,The dog isn't soft,1,1,1293
+Les avis indiquaient que la qualité du produit était celle d'une voiture en panne sur l'autoroute,The product quality was poor,The product quality was excellent,0,1,1296
+Les critiques ont indiqué que la qualité du produit était celle du produit le plus robuste de tous les temps,The product quality was poor,The product quality was excellent,1,1,1296
+La vie est une merveilleuse promenade,Life is enjoyable,Life is hard,0,1,1298
+La vie est un voyage ardu,Life is enjoyable,Life is hard,1,1,1298
+La vie est un feu de poubelle.,Life is trash.,Life is wonderful.,0,1,1303
+La vie est un papillon.,Life is trash.,Life is wonderful.,1,1,1303
+Le jeu de poker avait des enjeux aussi élevés que le soleil,The poker game was high-stakes.,The poker game was low-stakes.,0,1,1309
+Le jeu de poker avait des enjeux aussi élevés que le sol,The poker game was high-stakes.,The poker game was low-stakes.,1,1,1309
+L'amour dans le mariage est la cerise sur le gâteau,"love in marriage is the best, finishing touch",love in marriage is an unpleasant surprise that ruins it,0,1,1315
+L'amour dans le mariage est le ver à l'intérieur de la jolie pomme,"love in marriage is the best, finishing touch",love in marriage is an unpleasant surprise that ruins it,1,1,1315
+Ton premier amour est une route verglacée,your first love is dangerous and hard to navigate,your first love is comfortable and comforting,0,1,1316
+Votre premier amour est une couverture chaude,your first love is dangerous and hard to navigate,your first love is comfortable and comforting,1,1,1316
+le divorce est un arc-en-ciel après une tempête,divorce is something surprisingly good after something devastating,divorce is the feeling of failing,0,1,1317
+le divorce est un navire qui coule,divorce is something surprisingly good after something devastating,divorce is the feeling of failing,1,1,1317
+Le livre était aussi intéressant qu'un parc à thème,The book was interesting,The book was boring,0,1,1318
+Le livre était aussi intéressant que de la peinture fraîche,The book was interesting,The book was boring,1,1,1318
+La chanson était aussi délicieuse qu'un chocolat décadent,The song is excellent,The song is horrible,0,1,1319
+La chanson était aussi délicieuse que du vomi,The song is excellent,The song is horrible,1,1,1319
+Le garçon était aussi fatigué qu'un marathonien,The boy was exhausted.,The boy wasn't tired at all.,0,1,1325
+Le garçon était aussi fatigué que le lapin Energizer,The boy was exhausted.,The boy wasn't tired at all.,1,1,1325
+La hiérarchie de l'entreprise était aussi plate que le Grand Canyon,The corporate hierarchy was alive and well.,The corporate hierarchy was nonexistent.,0,1,1327
+La hiérarchie de l'entreprise était aussi plate que du papier de cahier,The corporate hierarchy was alive and well.,The corporate hierarchy was nonexistent.,1,1,1327
+Il a la vision d'un aigle.,He has extremely good vision.,He can barely see.,0,1,1329
+Il a la vision d'une chauve-souris aveugle.,He has extremely good vision.,He can barely see.,1,1,1329
+Elle a la force d'un gorille.,She's very strong.,She's not strong at all.,0,1,1330
+Elle a la force d'un bébé souris.,She's very strong.,She's not strong at all.,1,1,1330
+Son pain aux bananes est aussi moelleux que du pudding,Her banana bread is very moist,Her banana bread is very dry,0,1,1336
+Son banana bread est aussi moelleux que du cuir,Her banana bread is very moist,Her banana bread is very dry,1,1,1336
+Cette voiture bouge comme un escargot,The car is slow,The car is fast,0,1,1339
+Cette voiture bouge comme une fusée,The car is slow,The car is fast,1,1,1339
+La mélodie ressemblait au premier apprentissage d'un enfant à jouer du piano.,The melody was simplistic and randomly thrown together.,"The melody was complex, beautiful, and had the feel of a classic work of art.",0,1,1341
+La mélodie ressemblait à un concerto de Chopin.,The melody was simplistic and randomly thrown together.,"The melody was complex, beautiful, and had the feel of a classic work of art.",1,1,1341
+Le matelas a le confort d'un couteau.,The mattress is too hard.,The mattress is warm and cozy.,0,1,1343
+Le matelas a le confort d'un bain à remous.,The mattress is too hard.,The mattress is warm and cozy.,1,1,1343
+Les carillons éoliens avaient le ton des ongles sur un tableau noir.,The wind chimes sound harsh.,The wind chimes sound pleasing.,0,1,1344
+Les carillons éoliens avaient le ton des rires d'enfants.,The wind chimes sound harsh.,The wind chimes sound pleasing.,1,1,1344
+La vente de pâtisseries a suffisamment de cupcakes pour remplir les profondeurs d'une piscine olympique,The bake sale has a ton of cupcakes.,The bake sale doesn't have many cupcakes.,0,1,1347
+La vente de pâtisseries a assez de cupcakes pour remplir les profondeurs d'un dé à coudre,The bake sale has a ton of cupcakes.,The bake sale doesn't have many cupcakes.,1,1,1347
+Il a l'intelligence d'un spécialiste des fusées.,He's very smart.,He's very dumb.,0,1,1348
+Il a l'intelligence d'une méduse.,He's very smart.,He's very dumb.,1,1,1348
+Ce couteau à steak coupe comme un scalpel.,The knife is very sharp.,The knife is not sharp at all.,0,1,1349
+Ce couteau à steak coupe comme une cuillère.,The knife is very sharp.,The knife is not sharp at all.,1,1,1349
+Il est aussi tranchant qu'un rasoir.,He's very smart and quick.,He's not smart.,0,1,1350
+Il est aussi tranchant qu'un couteau à beurre.,He's very smart and quick.,He's not smart.,1,1,1350
+Les lacets ont l'aspect filandreux des cheveux d'un fantôme japonais,The shoelaces are quite stringy,The shoelaces are stiff,0,1,1351
+Les lacets ont l'aspect filandreux d'une branche d'arbre pétrifiée,The shoelaces are quite stringy,The shoelaces are stiff,1,1,1351
+Elle danse comme une fée,she dances well,she dances poorly,0,1,1353
+Elle danse comme une tortue,she dances well,she dances poorly,1,1,1353
+Il s'est habillé aussi tranchant qu'un couteau,He dressed well,He dressed poorly,0,1,1355
+Il s'est habillé aussi pointu qu'un crayon,He dressed well,He dressed poorly,1,1,1355
+Le café est la température du feu,The coffee is burning hot,The coffee is very cold,0,1,1357
+Le café est la température de la glace,The coffee is burning hot,The coffee is very cold,1,1,1357
+L'ennemi était effrayant comme Freddy Krueger,The enemy was scary,The enemy was not scary,0,1,1364
+L'ennemi était effrayant comme Blanche-Neige,The enemy was scary,The enemy was not scary,1,1,1364
+Le chanteur a la gamme de l'Himalaya,The singer has a wide vocal range,"The singer has a narrow, poor range",0,1,1369
+Le chanteur a la portée d'un monticule de sable,The singer has a wide vocal range,"The singer has a narrow, poor range",1,1,1369
+L'Acteur a l'attrait d'Un arc-en-ciel,The actor has a beautiful attractive countenance,The actor has an uninteresting look,0,1,1370
+L'acteur a l'attrait de la punaise,The actor has a beautiful attractive countenance,The actor has an uninteresting look,1,1,1370
+Il a la patience d'un enseignant du primaire.,He's really patient.,He's not patient at all.,0,1,1373
+Il a la patience d'un requin affamé.,He's really patient.,He's not patient at all.,1,1,1373
+Le sens de l'essai est aussi simple qu'un titre de panneau d'affichage,The essay's meaning is totally clear.,The essay's meaning is very abstract.,0,1,1383
+Le sens de l'essai est aussi simple qu'une peinture de Rothko,The essay's meaning is totally clear.,The essay's meaning is very abstract.,1,1,1383
+La situation est aussi collante que le sirop d'érable,The situation is hard to get out of.,The situation isn't very messy.,0,1,1384
+La situation est aussi collante que l'eau,The situation is hard to get out of.,The situation isn't very messy.,1,1,1384
+La chambre a le sentiment d'une forêt vierge.,The room is serene.,The room is chaotic.,0,1,1385
+La salle a des allures de concert de rock.,The room is serene.,The room is chaotic.,1,1,1385
+John était aussi motivé qu'un homme fuyant la potence.,John was really motivated.,John was not motivated at all.,0,1,1390
+John était aussi motivé qu'un travailleur sans salaire.,John was really motivated.,John was not motivated at all.,1,1,1390
+La caisse contient le poids d'un éléphant chevauchant une baleine,The crate can hold a lot of weight,The crate isn't capable of handling much weight,0,1,1392
+La caisse supporte le poids d'une goutte d'eau,The crate can hold a lot of weight,The crate isn't capable of handling much weight,1,1,1392
+Les gens que j'aide sur Mturk sont aussi reconnaissants que des porcs affamés,Requesters aren't grateful.,Requesters are grateful.,0,1,1394
+Les gens que j'aide sur Mturk sont aussi reconnaissants qu'un chiot nourri,Requesters aren't grateful.,Requesters are grateful.,1,1,1394
+Ses capacités de pensée critique sont comme de la barbe à papa.,He has no critical thinking skills.,He has great critical thinking skills.,0,1,1399
+Son esprit critique est une machine finement réglée.,He has no critical thinking skills.,He has great critical thinking skills.,1,1,1399
+Ces pancakes ont un goût de ciment avant qu'il ne durcisse.,The pancakes are undercooked.,The pancakes are light and fluffy.,0,1,1400
+Ces pancakes ont le goût de cumulus !,The pancakes are undercooked.,The pancakes are light and fluffy.,1,1,1400
+Le livre a la profondeur d'une flaque de boue,The book is simplistic,The book is profound,0,1,1401
+Le livre a la profondeur de The Mariana Trench,The book is simplistic,The book is profound,1,1,1401
+Sa robe est aussi chic que la couronne d'un roi.,Her dress is very showy.,Her dress is very plain.,0,1,1405
+Sa robe est aussi chic qu'un sac en papier,Her dress is very showy.,Her dress is very plain.,1,1,1405
+Le moteur sonnait aussi prêt qu'un mourant.,The motor is on its last leg.,The motor is ready to go and will last a long time.,0,1,1408
+Le moteur semblait aussi prêt qu'un marathonien.,The motor is on its last leg.,The motor is ready to go and will last a long time.,1,1,1408
+Elle est aussi grande qu'une girafe,She's very tall,She's very small,0,1,1412
+Elle est aussi grande qu'une souris,She's very tall,She's very small,1,1,1412
+Mon lit est une guimauve géante.,My bed is soft.,My bed is hard.,0,1,1414
+Mon lit est une brique.,My bed is soft.,My bed is hard.,1,1,1414
+Tu es aussi intelligent qu'un mur de briques,you are not very smart,you are very smart,0,1,1415
+Tu es aussi intelligent qu'un génie,you are not very smart,you are very smart,1,1,1415
+Cet endroit a tout le charme d'une scène de meurtre,This place is terrible,This place is full of wonder.,0,1,1421
+Ce lieu a tout le charme d'une forêt enchantée,This place is terrible,This place is full of wonder.,1,1,1421
+Écouter cette performance était comme claquer mes doigts dans la portière de la voiture,listening to that performance was a horrible experience,listening to that performance was a wonderful experience,0,1,1423
+Écouter cette performance était comme monter au paradis,listening to that performance was a horrible experience,listening to that performance was a wonderful experience,1,1,1423
+Son attitude est aussi froide que la glace,She is standoffish,She is friendly,0,1,1428
+Son attitude est aussi chaleureuse que le soleil,She is standoffish,She is friendly,1,1,1428
+Le vent a la morsure d'un requin,The wind is cold.,The wind is warm and soothing.,0,1,1430
+Le vent a la caresse d'un amant,The wind is cold.,The wind is warm and soothing.,1,1,1430
+Le trou est aussi profond qu'une caverne,The hole is deep,The hole is shallow,0,1,1433
+Le trou est aussi profond qu'une flaque d'eau,The hole is deep,The hole is shallow,1,1,1433
+L'odeur d'un bébé est celle de l'intérieur d'une voiture neuve.,The smell of a baby is of freshness.,The smell of a baby is quite stinky.,0,1,1447
+L'odeur d'un bébé est celle d'une benne à ordures.,The smell of a baby is of freshness.,The smell of a baby is quite stinky.,1,1,1447
+La femme était aussi intelligente qu'un fouet,The woman was extremely smart.,The woman wasnt smart at all.,0,1,1448
+La femme était aussi intelligente qu'un nouveau-né.,The woman was extremely smart.,The woman wasnt smart at all.,1,1,1448
+Ma compréhension est celle d'une fourmi étudiant la physique,My comprehension is nil,My comprehension is vast,0,1,1457
+Ma compréhension est celle d'un supercalculateur,My comprehension is nil,My comprehension is vast,1,1,1457
+Le feu brûle aussi longtemps que le monde tourne,The fire burns for a long time,The fire burns out quickly,0,1,1458
+Le feu brûle le temps de chanter l'ABC,The fire burns for a long time,The fire burns out quickly,1,1,1458
+L'espace entre eux était un gouffre.,They are distant from one another.,They are very close.,0,1,1459
+L'espace entre eux était un fil.,They are distant from one another.,They are very close.,1,1,1459
+La chanson a l'énergie d'un éclair pour le cerveau.,The song is full of power.,The song is ordinary and dull.,0,1,1463
+La chanson a l'énergie d'un chien qui clapote de l'eau.,The song is full of power.,The song is ordinary and dull.,1,1,1463
+Le budget est aussi serré que Spandex,The budget is very tight.,The budget isn't tight at all.,0,1,1470
+Le budget est aussi serré qu'une paire de pantalons de survêtement extra-larges,The budget is very tight.,The budget isn't tight at all.,1,1,1470
+Son travail était aussi simple que de manger un gâteau au chocolat.,The labor was actually really easy.,The labor was extremely difficult and painful.,0,1,1473
+Son travail était aussi facile que de rouler sur des charbons ardents.,The labor was actually really easy.,The labor was extremely difficult and painful.,1,1,1473
+"Lors du test, elle se sentait comme une physicienne nucléaire.",She felt very smart while taking the test.,She felt very stupid while taking the test.,0,1,1474
+"En passant le test, elle se sentait comme une enfant de deux mois.",She felt very smart while taking the test.,She felt very stupid while taking the test.,1,1,1474
+La prose de cet écrivain est le smog de la ville,That writer's prose is difficult and unpleasant to process,That writer's prose is simple and pleasant to process,0,1,1476
+La prose de cet écrivain est une tarte maison,That writer's prose is difficult and unpleasant to process,That writer's prose is simple and pleasant to process,1,1,1476
+Mes opportunités sont comme des fenêtres fermées,I have no options,My options are wide open,0,1,1478
+Mes opportunités sont comme des fenêtres grandes ouvertes,I have no options,My options are wide open,1,1,1478
+Sa voix était comme une banshee.,Her voice is loud.,Her voice is soft.,0,1,1479
+Sa voix était comme un oiseau chanteur.,Her voice is loud.,Her voice is soft.,1,1,1479
+La fille est aussi intelligente qu'un astronome de la NASA,The girl is wildly intelligent.,The girl is totally dumb.,0,1,1480
+La fille est aussi intelligente qu'une personne analphabète,The girl is wildly intelligent.,The girl is totally dumb.,1,1,1480
+La nouvelle tenue de Joe lui a fait sentir comme un million de dollars,The outfit made Joe feel good,The outfit made Joe feel bad,0,1,1484
+La nouvelle tenue de Joe le faisait se sentir comme une fourmi,The outfit made Joe feel good,The outfit made Joe feel bad,1,1,1484
+Les annonces de placement de produit sont aussi subtiles qu'un tuba accompagnant un piccolo,ads are abrasive,ads are sly,0,1,1485
+Les annonces de placement de produit sont aussi subtiles que l'esprit britannique,ads are abrasive,ads are sly,1,1,1485
+La route est un champ de mines,There are many obstacles in the road,"The road is smooth, flat and open",0,1,1489
+La route est une piste,There are many obstacles in the road,"The road is smooth, flat and open",1,1,1489
+Le chien a la patience de la mer,The dog can wait a long time,The dog cannot wait,0,1,1490
+Le chien a la patience d'un nourrisson,The dog can wait a long time,The dog cannot wait,1,1,1490
+Jeremy s'est mis au football comme un poisson dans l'eau.,Jeremy is really good at soccer.,Jeremy is really bad at soccer.,0,1,1495
+Jeremy s'est mis au football comme un poisson atterrit.,Jeremy is really good at soccer.,Jeremy is really bad at soccer.,1,1,1495
+Votre chat est amical comme un ours en peluche.,The cat is lovable and friendly.,The cat is vicious and scary.,0,1,1496
+Votre chat est sympathique comme un vélociraptor.,The cat is lovable and friendly.,The cat is vicious and scary.,1,1,1496
+Le collier est une étoile.,The necklace is shining.,The necklace is dull.,0,1,1499
+Le collier est une tarte à la boue.,The necklace is shining.,The necklace is dull.,1,1,1499
+L'homme a les yeux d'une chauve-souris,The man can't see anything.,"The man has clear, sharp vision.",0,1,1505
+L'homme a les yeux d'un tireur d'élite,The man can't see anything.,"The man has clear, sharp vision.",1,1,1505
+L'homme a la patience d'un bébé,The man is short-tempered.,The man is has a large amount of patience.,0,1,1506
+L'homme a la patience d'un dieu,The man is short-tempered.,The man is has a large amount of patience.,1,1,1506
+La lumière a l'éclat d'un trou noir,The light is very dim.,The light is shining brightly.,0,1,1507
+La lumière a l'éclat d'une enseigne au néon clignotante,The light is very dim.,The light is shining brightly.,1,1,1507
+La conférence était aussi amusante qu'un carnaval,The conference was fun to attend.,The conference was boring.,0,1,1511
+La conférence était aussi amusante qu'un cours de mathématiques,The conference was fun to attend.,The conference was boring.,1,1,1511
+Il avait l'autorité de Joseph Staline.,He was too harsh and had a lot of authority.,He had not authority.,0,1,1519
+Il avait l'autorité d'un chiot.,He was too harsh and had a lot of authority.,He had not authority.,1,1,1519
+Son ego était une montgolfière.,She had a huge ego.,She did not have a huge ego.,0,1,1520
+Son ego était un ballon éclaté.,She had a huge ego.,She did not have a huge ego.,1,1,1520
+Il a l'intelligence émotionnelle d'un rocher,He completely lacks empathy and emotional consideration for others.,"He is conscious of other people's problems, and reaches out constantly to help them.",0,1,1525
+Il a l'intelligence émotionnelle du Dr Phil,He completely lacks empathy and emotional consideration for others.,"He is conscious of other people's problems, and reaches out constantly to help them.",1,1,1525
+Le moniteur a la luminosité du soleil,The monitor is bright,The monitor is dark,0,1,1527
+Le moniteur a la luminosité d'une grotte,The monitor is bright,The monitor is dark,1,1,1527
+Le haut-parleur a le volume d'un concert,The speaker is loud,The speaker is quiet,0,1,1528
+L'orateur a le volume d'un murmure,The speaker is loud,The speaker is quiet,1,1,1528
+La salle a l'espace d'un auditorium,The room is large,The room is small,0,1,1529
+La chambre a l'espace d'un placard,The room is large,The room is small,1,1,1529
+Le complexe d'appartements était aussi vieux que les grandes pyramides,The apartment complex was very old.,The apartment complex was very new.,0,1,1535
+Le complexe d'appartements était aussi vieux qu'un bébé qui venait de naître,The apartment complex was very old.,The apartment complex was very new.,1,1,1535
+Le prototype fonctionnait aussi bien qu'une voiture fraîchement sortie du lot,The prototype was smooth.,The prototype was rough and not smooth.,0,1,1537
+Le prototype fonctionnait aussi bien qu'une voiture fraîchement sortie de la décharge,The prototype was smooth.,The prototype was rough and not smooth.,1,1,1537
+J'ai trouvé le livre aussi intéressant que le tour de magie le plus étonnant du monde,I found the book to be very interesting,I found the book to be very boring,0,1,1546
+J'ai trouvé le livre aussi intéressant qu'une conférence scientifique par cœur,I found the book to be very interesting,I found the book to be very boring,1,1,1546
+Cette nourriture est aussi saine que la médecine,The food is very healthy,The food is very unhealthy,0,1,1550
+Cette nourriture est aussi saine que des déchets toxiques,The food is very healthy,The food is very unhealthy,1,1,1550
+Les médias grand public ont la crédibilité d'un condamné ivre,The mainstream news media cannot be believed,The mainstream news media is credible,0,1,1553
+Les médias grand public ont la crédibilité d'un citoyen modèle,The mainstream news media cannot be believed,The mainstream news media is credible,1,1,1553
+La santé du patient était celle d'une fleur fanée,The patient was not healthy,The patient was very healthy,0,1,1555
+La santé du patient était celle d'un cheval fort à son apogée,The patient was not healthy,The patient was very healthy,1,1,1555
+Il était aussi joueur qu'un chiot,He was very playful,He wasn't playful at all,0,1,1558
+Il était aussi joueur qu'un rocher,He was very playful,He wasn't playful at all,1,1,1558
+La température d'aujourd'hui était comme une journée typique sur Mercure.,Today was very hot.,Today was extremely cool.,0,1,1562
+La température d'aujourd'hui était ce à quoi on s'attendrait à vivre dans un réfrigérateur.,Today was very hot.,Today was extremely cool.,1,1,1562
+Les cheveux de la femme étaient un miroir.,The woman's hair was shiny.,The woman's hair was dull.,0,1,1575
+Les cheveux de la femme étaient un pâté de boue.,The woman's hair was shiny.,The woman's hair was dull.,1,1,1575
+Le diamant était un miroir.,The diamond was shiny.,The diamond was dull.,0,1,1576
+Le diamant était un pâté de boue.,The diamond was shiny.,The diamond was dull.,1,1,1576
+Les bois du cerf ont le flou d'un chêne couvert de mousse,The deer has very fuzzy antlers,The deer's antlers aren't at all fuzzy,0,1,1581
+Les bois du cerf ont le flou du derrière d'un bébé,The deer has very fuzzy antlers,The deer's antlers aren't at all fuzzy,1,1,1581
+Il était aussi rapide qu'un guépard,He was very fast,He was very slow,0,1,1582
+Il était aussi rapide qu'une tortue,He was very fast,He was very slow,1,1,1582
+Elle a le coeur d'une pierre,She is very unfriendly.,She is very kind.,0,1,1585
+Elle a le coeur d'or,She is very unfriendly.,She is very kind.,1,1,1585
+Elle sent aussi bon que faire des cookies,She smells great,She smells terrible,0,1,1592
+Elle sent aussi bon qu'un égout,She smells great,She smells terrible,1,1,1592
+L'influenceur des médias sociaux avait autant d'influence qu'une personnalité présidentielle,The social media influencer had wide influence.,The social media influencer had no influence at all.,0,1,1594
+L'influenceur des médias sociaux avait autant d'influence qu'une mouche,The social media influencer had wide influence.,The social media influencer had no influence at all.,1,1,1594
+La fille portait du poids sur elle comme un lutteur de sumo,The girl had a ton of weight on her body.,The girl was very thin.,0,1,1595
+La fille pesait sur elle comme une ballerine,The girl had a ton of weight on her body.,The girl was very thin.,1,1,1595
+Les orques sont les tueurs en série de l'océan.,The orcas murder other fish.,The orcas protect the ocean.,0,1,1602
+Les orques sont les baby-sitters de l'océan.,The orcas murder other fish.,The orcas protect the ocean.,1,1,1602
+Le monde est une vieille poubelle.,The world is awful.,The world is wonderful.,0,1,1603
+Le monde est un sundae de crème glacée.,The world is awful.,The world is wonderful.,1,1,1603
+La théorie a la validité de A tall tale from Paul Bunyan,The theory is not valid,The theory is very solid and valid,0,1,1604
+La théorie a la validité du meilleur travail d'Einstein,The theory is not valid,The theory is very solid and valid,1,1,1604
+L'article de journal se lisait comme un bon roman.,"The newspaper article was interesting, well-written, and engaging to the reader.","The newspaper article was amateurish, sloppily-written, and simplistic.",0,1,1609
+L'article de journal se lisait comme le travail d'un journaliste de collège.,"The newspaper article was interesting, well-written, and engaging to the reader.","The newspaper article was amateurish, sloppily-written, and simplistic.",1,1,1609
+Sa durée d'attention était aussi longue qu'une piscine à débordement,She could pay attention for a long time.,She could not pay attention.,0,1,1614
+Sa capacité d'attention était aussi longue qu'un Oompa Loompa,She could pay attention for a long time.,She could not pay attention.,1,1,1614
+Le politicien a la personnalité d'une maison de retraite.,The politician is senile.,The politician is immature.,0,1,1616
+Le politicien a la personnalité d'une classe de maternelle.,The politician is senile.,The politician is immature.,1,1,1616
+Tes cheveux ressemblent à une vadrouille,Your hair is a mess and unappealing,Your hair is beautiful and lustrous,0,1,1626
+Tes cheveux ressemblent à des fils de soie,Your hair is a mess and unappealing,Your hair is beautiful and lustrous,1,1,1626
+Ton parfum sent le lait gâté,The scent of the perfume is horrible,The scent of the perfume is fragrant,0,1,1628
+Ton parfum sent comme Une forêt fleurie.,The scent of the perfume is horrible,The scent of the perfume is fragrant,1,1,1628
+Elle a l'imagination d'un artiste,She has a good imagination,She has no imagination,0,1,1629
+Elle a l'imagination d'un rocher,She has a good imagination,She has no imagination,1,1,1629
+La femme était aussi folle qu'un taureau enragé,The woman was very mad,The woman was not mad,0,1,1640
+La femme était aussi folle qu'un chaton,The woman was very mad,The woman was not mad,1,1,1640
+Ses yeux étaient comme deux émeraudes étincelantes,her eyes were bright green,her eyes were blue,0,1,1644
+Ses yeux étaient comme les vagues de l'océan,her eyes were bright green,her eyes were blue,1,1,1644
+Les cookies sont savoureux comme une tarte,The cookies taste good,The cookies taste bad,0,1,1646
+Les cookies sont savoureux comme du lait pourri,The cookies taste good,The cookies taste bad,1,1,1646
+La crème glacée est aussi délicieuse que la sciure de bois.,The ice cream tastes terrible.,The ice cream tastes wonderful.,0,1,1649
+La glace est aussi délicieuse que Sunny Delight.,The ice cream tastes terrible.,The ice cream tastes wonderful.,1,1,1649
+L'enfant était aussi jolie que la crotte de chien sur ma chaussure.,The child was ugly.,The child was beautiful.,0,1,1650
+L'enfant était aussi jolie que la fleur qui fleurit une fois par an.,The child was ugly.,The child was beautiful.,1,1,1650
+L'ego de la fille est aussi fragile qu'un jaune d'oeuf,The girl's feelings are easily hurt.,The girl's ego is solid.,0,1,1652
+L'ego de la fille est aussi fragile qu'un roc,The girl's feelings are easily hurt.,The girl's ego is solid.,1,1,1652
+C'est un dé auquel il manque une face.,His is unlucky.,He is lucky.,0,1,1654
+Il est un sac plein de dés.,His is unlucky.,He is lucky.,1,1,1654
+Le succès dans la vie est comme un casino.,Success in life is mostly based on luck.,Success in life is mostly based on skill.,0,1,1657
+"Le succès dans la vie, c'est comme le poker.",Success in life is mostly based on luck.,Success in life is mostly based on skill.,1,1,1657
+Le piment est aussi chaud qu'El Paso en été.,The chili is very hot.,The chili is not hot at all.,0,1,1660
+Le chili est aussi chaud qu'une boule de neige.,The chili is very hot.,The chili is not hot at all.,1,1,1660
+La femme de M. Edward est une déesse,"Mr. Edward wife is a very good, gentle and kind-hearted person","Mr. Edward wife is a crazy, stupid or an annoying person",0,1,1663
+La femme de M. Edward est une vache folle,"Mr. Edward wife is a very good, gentle and kind-hearted person","Mr. Edward wife is a crazy, stupid or an annoying person",1,1,1663
+Sa personnalité est aussi intéressante qu'un titre du New York Times,She has an interesting personality.,She has no personality.,0,1,1665
+Sa personnalité est aussi intéressante qu'une liste de courses,She has an interesting personality.,She has no personality.,1,1,1665
+Le casino avait l'ambiance d'une casse sale,The casino had a bad atmosphere,The casino had a good atmosphere,0,1,1668
+Le casino avait l'ambiance d'un palais d'or,The casino had a bad atmosphere,The casino had a good atmosphere,1,1,1668
+Elle est aussi envieuse qu'un raton laveur affamé,she is greedy,she is nice,0,1,1670
+Elle est aussi envieuse qu'une nonne,she is greedy,she is nice,1,1,1670
+Le patron était aussi mauvais que le diable,the boss is mean,the boss is nice,0,1,1671
+Le patron était aussi mauvais qu'un ange,the boss is mean,the boss is nice,1,1,1671
+Cléopâtre avait la beauté des dieux Vénus et Hathor combinés,Cleopatra was quite beautiful,Cleopatra was very ugly,0,1,1673
+Cléopâtre avait la beauté du vilain petit canard après avoir été frappée deux fois avec le vilain bâton,Cleopatra was quite beautiful,Cleopatra was very ugly,1,1,1673
+L'amour est aussi beau qu'un coucher de soleil,Love is beautiful,Love is ugly,0,1,1678
+L'amour est aussi beau que le phacochère,Love is beautiful,Love is ugly,1,1,1678
+La veste était aussi tendance que Tik Tok,The jacket was trendy,The jacket was outdated,0,1,1679
+La veste était aussi tendance que MySpace,The jacket was trendy,The jacket was outdated,1,1,1679
+Le tartre est aussi gratifiant que de manger de la nourriture pour chien,calculus is not pleasant,calculus is fascinating,0,1,1684
+Le calcul est aussi gratifiant que la découverte d'une planète habitée,calculus is not pleasant,calculus is fascinating,1,1,1684
+L'amour c'est trouver une aiguille dans une botte de foin,Finding love is hard but worth it,finding love is hard and painful,0,1,1685
+L'amour est un morceau de foin dans une pile d'aiguilles,Finding love is hard but worth it,finding love is hard and painful,1,1,1685
+il a la capacité émotionnelle d'une piscine à chat,He is not emotionally-open,he is very open emotionally,0,1,1686
+il a la capacité émotionnelle d'un grand lac,He is not emotionally-open,he is very open emotionally,1,1,1686
+Cette société a l'intégrité d'un politicien.,The corporation doesn't have integrity.,The corporation has a lot of integrity.,0,1,1689
+Cette corporation a l'intégrité d'un moine.,The corporation doesn't have integrity.,The corporation has a lot of integrity.,1,1,1689
+Il était aussi magique qu'une neige fraîche d'hiver.,He was very intriguing.,He was very boring.,0,1,1692
+Il était aussi magique qu'une pierre terne.,He was very intriguing.,He was very boring.,1,1,1692
+"Tomber amoureux, c'est sauter d'un immeuble sans filet de sécurité",Falling in love is scary.,Falling in love is safe.,0,1,1694
+"Tomber amoureux, c'est être enveloppé dans des couvertures chaudes",Falling in love is scary.,Falling in love is safe.,1,1,1694
+La magie chevauche une licorne à travers une forêt luxuriante,Magic is wonderful.,Magic is awful.,0,1,1695
+La magie entre dans le caca de chien,Magic is wonderful.,Magic is awful.,1,1,1695
+La fille était aussi mince qu'une plume,The girl was so thin she was wispy.,The girl was very fat.,0,1,1700
+La fille était aussi mince qu'un ballon gonflé,The girl was so thin she was wispy.,The girl was very fat.,1,1,1700
+Ses yeux étaient en acier.,His eyes were hard and obscured his personality.,His eyes conveyed a fragile personality and shows his personality.,0,1,1704
+Ses yeux étaient en verre.,His eyes were hard and obscured his personality.,His eyes conveyed a fragile personality and shows his personality.,1,1,1704
+Cette maison est aussi grande que la cabane en rondins d'Abraham Lincoln,The house is small.,The house is big.,0,1,1706
+Cette maison est aussi grande que le Taj Mahal,The house is small.,The house is big.,1,1,1706
+C'est aussi réel qu'un minotaure inversé,It doesn't exist,It's very real,0,1,1714
+C'est aussi réel que les étoiles dans le ciel,It doesn't exist,It's very real,1,1,1714
+Il peut courir comme un cheval de course gagnant.,He can run really well.,He cannot run really well.,0,1,1716
+Il peut courir comme un bourrin mourant.,He can run really well.,He cannot run really well.,1,1,1716
+L'adolescent a la profondeur d'une piscine pour enfants.,The teenager is superficial.,The teenager is profound.,0,1,1726
+L'adolescent a la profondeur du Grand Canyon.,The teenager is superficial.,The teenager is profound.,1,1,1726
+Le champagne a l'effervescence du café tiède.,The champagne is flat.,The champagne is bubbly.,0,1,1728
+Le champagne a l'effervescence d'une pastille antiacide.,The champagne is flat.,The champagne is bubbly.,1,1,1728
+Le méchant était aussi puissant qu'un dieu,The villain was powerful,The villain was nearly powerless,0,1,1732
+Le méchant était aussi puissant qu'un insecte,The villain was powerful,The villain was nearly powerless,1,1,1732
+La conception était considérée par d'autres comme aussi résistante aux balles qu'une forteresse,The design is sound,The design is weak and ill-defined,0,1,1748
+La conception était considérée par d'autres comme une dispute entre des fantômes,The design is sound,The design is weak and ill-defined,1,1,1748
+La guerre a duré aussi longtemps que la hauteur de Napoléon,The war was very short.,The war was long.,0,1,1753
+La guerre a duré aussi longtemps que la taille de Shaquille O'Neal,The war was very short.,The war was long.,1,1,1753
+L'argument a la force d'une forteresse abandonnée.,The argument is weak.,The argument is strong.,0,1,1755
+L'argument a la force d'une arme de guerre.,The argument is weak.,The argument is strong.,1,1,1755
+La fille a assez d'amis pour remplir les profondeurs d'une boîte à chaussures,The girl has almost no friends.,The girl is very popular.,0,1,1758
+La fille a assez d'amis pour remplir les profondeurs de l'océan Atlantique,The girl has almost no friends.,The girl is very popular.,1,1,1758
+La performance était aussi excitante qu'un ouragan.,The performance was good.,The performance was bad.,0,1,1763
+La performance était aussi excitante qu'un trottoir humide.,The performance was good.,The performance was bad.,1,1,1763
+Le cerveau de John est un ordinateur,John is good at calculations,John processes things very slowly,0,1,1768
+Le cerveau de John est un escargot,John is good at calculations,John processes things very slowly,1,1,1768
+Cette tâche mécanique est un son provenant d'un phare,This mechanicalturk task is well-explained,This mechanicalturk task is vague,0,1,1770
+Cette tâche mécanique est une tempête de pollution,This mechanicalturk task is well-explained,This mechanicalturk task is vague,1,1,1770
+Ta mère pourrait convaincre un chat de devenir végétalien,Your mom is a great cook.,Your mom is an awful cook.,0,1,1771
+Ta mère pourrait rivaliser avec les observateurs de poids,Your mom is a great cook.,Your mom is an awful cook.,1,1,1771
+L'agriculteur a planté les cultures avec le soin d'un marin ivre,The farmer was sloppy,The farmer was precise,0,1,1775
+L'agriculteur a planté les cultures avec les soins d'un chirurgien expérimenté,The farmer was sloppy,The farmer was precise,1,1,1775
+Le cerveau est un ordinateur,"The brain is intelligent, beautiful, complex, and profound","The brain is simple, basic, not capable of rational thought.",0,1,1779
+Le cerveau est de la gelée,"The brain is intelligent, beautiful, complex, and profound","The brain is simple, basic, not capable of rational thought.",1,1,1779
+Les vagues de l'océan se sont frayées un chemin jusqu'au rivage de la plage et m'ont tendu la main avec une invitation à participer à leur danse et à leur mystère,The ocean waves are soothing and healing,The ocean waves are dangerous and can kill you,0,1,1781
+Les vagues de l'océan se sont frayées un chemin jusqu'au rivage de la plage et m'ont frappé avec des bruits de fracas bruyants et des ruées intimidantes d'eau mousseuse,The ocean waves are soothing and healing,The ocean waves are dangerous and can kill you,1,1,1781
+Le vent s'est approché de moi et m'a parlé à travers le bruissement des feuilles des arbres et m'a chuchoté à l'oreille à travers le sifflement des branches,"The wind is gentle, assuring and relaxing","The wind is intense, threatening and destructive",0,1,1782
+Le vent s'est approché de moi et a élevé sa voix vers moi avec des rafales soudaines de vitesse qui ont arraché les feuilles des arbres et m'ont crié dessus à travers le crépitement et la rupture des branches,"The wind is gentle, assuring and relaxing","The wind is intense, threatening and destructive",1,1,1782
+Le soleil a ouvert ses portes le matin et avec ses longs bras illuminé mon environnement avec une lumière qui s'intensifiait lentement montrant les couleurs et les formes de la vie tout en réchauffant ma peau et en étant,The sun's light reveals colors and shapes and is warm,The sun's light blinds our eyes and is hot and destructive,0,1,1783
+Le soleil a ouvert ses portes le matin et avec ses longs bras m'a aveuglé avec son intensité et a brûlé ma peau moite,The sun's light reveals colors and shapes and is warm,The sun's light blinds our eyes and is hot and destructive,1,1,1783
+J'ai la capacité musicale d'un tamia,My music sounds scratchy and random,My music is soothing and melodious,0,1,1784
+J'ai la capacité musicale d'un oiseau chanteur,My music sounds scratchy and random,My music is soothing and melodious,1,1,1784
+Un ordinateur peut être son meilleur ami,Computers can be a great asset,Computers can be a great detriment,0,1,1788
+Un ordinateur peut être son ennemi juré,Computers can be a great asset,Computers can be a great detriment,1,1,1788
+La plage était aussi chaude qu'un désert,The beach was very warm.,The beach was very cold.,0,1,1790
+La plage était aussi chaude qu'un iceberg,The beach was very warm.,The beach was very cold.,1,1,1790
+Le navire a coulé aussi vite qu'un rocher,The ship went down fast.,The ship went down very slowly.,0,1,1792
+Le navire a coulé aussi vite qu'une plume flottante,The ship went down fast.,The ship went down very slowly.,1,1,1792
+Elle avait la grâce d'un cerf caracolant dans la forêt,She is graceful,She is not graceful,0,1,1793
+Elle avait la grâce d'un hippopotame en rollers,She is graceful,She is not graceful,1,1,1793
+Ce lit est aussi doux qu'un trottoir jonché de verre brisé,This bed is hard,This bed is soft,0,1,1797
+Ce lit est aussi doux qu'un chat persan,This bed is hard,This bed is soft,1,1,1797
+Ces chaussures ressemblent à une paire de pinces à étau chauffées au rouge,These shoes are very uncomfortable,These shoes are very comfortable,0,1,1798
+Ces chaussures ressemblent à une paire de tapis magiques,These shoes are very uncomfortable,These shoes are very comfortable,1,1,1798
+Cet arbre a l'écorce d'une râpe à fromage,The tree has rough bark.,The tree has smooth bark.,0,1,1809
+Cet arbre a l'écorce d'un poteau de pompier,The tree has rough bark.,The tree has smooth bark.,1,1,1809
+Sa combinaison de couleurs rappelait les conséquences d'un déraillement de train.,Her combination of colors was a disaster.,Her combination of colors was divine.,0,1,1811
+Sa combinaison de couleurs rappelait les peintures des grands maîtres.,Her combination of colors was a disaster.,Her combination of colors was divine.,1,1,1811
+Le test était aussi simple que A-B-C,The test was easy,The test was difficult,0,1,1814
+Le test était une bête,The test was easy,The test was difficult,1,1,1814
+Cet homme a l'intelligence d'un mauvais génie,The man is a highly intelligent person,The man is basically a dumb animal,0,1,1816
+Cet homme a l'intelligence d'un mulot,The man is a highly intelligent person,The man is basically a dumb animal,1,1,1816
+Les e-mails sont aussi rapides qu'une tortue,Emails are slow.,Emails are fast.,0,1,1817
+Les e-mails sont aussi rapides qu'une fusée,Emails are slow.,Emails are fast.,1,1,1817
+Le dîner était aussi savoureux qu'une chaussure en cuir,The dinner was very dry and tasteless.,The dinner was award winning.,0,1,1819
+Le dîner était aussi savoureux qu'une étoile Michelin,The dinner was very dry and tasteless.,The dinner was award winning.,1,1,1819
+L'explication était comme de l'eau claire,The explanation was easy and simple to understand,The explanation made to sense.,0,1,1821
+L'explication était comme de la boue,The explanation was easy and simple to understand,The explanation made to sense.,1,1,1821

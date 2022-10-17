@@ -1,0 +1,1095 @@
+startphrase,ending1,ending2,labels,valid,qid
+La fille avait la légèreté d'un moineau,La fille était très volage.,La fille était très stable.,0,1,1
+La fille avait la légèreté d'un rocher,La fille était très volage.,La fille était très stable.,1,1,1
+C'était aussi paisible qu'une église.,C'était très paisible.,"C'était plein de conflits et de dangers, pas de paix.",0,1,3
+C'était aussi paisible qu'un champ de bataille.,C'était très paisible.,"C'était plein de conflits et de dangers, pas de paix.",1,1,3
+Les feuilles étaient aussi vertes que l'herbe,Les feuilles étaient bien vertes,Les feuilles étaient brunes et pas vertes du tout.,0,1,4
+Les feuilles étaient aussi vertes que la terre,Les feuilles étaient bien vertes,Les feuilles étaient brunes et pas vertes du tout.,1,1,4
+"Faire ses courses, c'est trouver des coquillages sur une plage ensoleillée",Faire les courses est une corvée amusante et gratifiante,"Faire les courses est une corvée folle, presque impossible",0,1,6
+Faire l'épicerie est une chasse au trésor avec une liste créée par un fou,Faire les courses est une corvée amusante et gratifiante,"Faire les courses est une corvée folle, presque impossible",1,1,6
+La guerre est une amputation du mauvais membre,La guerre est la mauvaise solution à un problème,La guerre est une solution nécessaire,0,1,8
+La guerre est une amputation pour sauver ta vie,La guerre est la mauvaise solution à un problème,La guerre est une solution nécessaire,1,1,8
+C'est aussi vert que l'herbe au printemps,C'est vert féerique,c'est pas trop vert,0,1,12
+C'est aussi vert que l'herbe pendant un été chaud,C'est vert féerique,c'est pas trop vert,1,1,12
+C'est aussi paisible qu'un chiot endormi,C'est très calme,Ce n'est pas très calme,0,1,13
+C'est aussi paisible que l'européen dans les années 40,C'est très calme,Ce n'est pas très calme,1,1,13
+La musique était forte comme une sirène.,La musique était très forte.,La musique était très calme.,0,1,15
+La musique était forte comme un murmure.,La musique était très forte.,La musique était très calme.,1,1,15
+Les emplois sont aussi disponibles qu'un homme marié.,Les emplois ne sont pas disponibles.,Les emplois sont très disponibles.,0,1,17
+Les emplois sont aussi disponibles qu'un baccalauréat.,Les emplois ne sont pas disponibles.,Les emplois sont très disponibles.,1,1,17
+La paix est un vol humain,La paix est impossible,La paix est possible,0,1,18
+La paix est une marche humaine,La paix est impossible,La paix est possible,1,1,18
+Les plantes sont une berceuse,Les plantes s'apaisent,Les plantes dérangent,0,1,19
+Les plantes sont un tambour bruyant,Les plantes s'apaisent,Les plantes dérangent,1,1,19
+La voiture était aussi laide qu'un rat borgne,c'était hideux,c'était beau,0,1,21
+La voiture était aussi laide qu'un cygne,c'était hideux,c'était beau,1,1,21
+L'homme était aussi beau qu'un prince,il était beau,il était laid,0,1,23
+L'homme était aussi beau qu'un clochard,il était beau,il était laid,1,1,23
+La conversation était vive comme un clou,La conversation était vive et pleine d'esprit.,La conversation était terne et pas tranchante.,0,1,25
+La conversation était tranchante comme un roc,La conversation était vive et pleine d'esprit.,La conversation était terne et pas tranchante.,1,1,25
+Il l'a mangé comme un gros garçon mange du gâteau,La nourriture était savoureuse pour lui,La nourriture lui était désagréable,0,1,27
+Il l'a mangé comme un jeune garçon mange du brocoli,La nourriture était savoureuse pour lui,La nourriture lui était désagréable,1,1,27
+Il l'a ramassé comme une mère tenant un bébé,Il l'a tenu avec fierté et soin,Il l'a tenue avec dégoût et prudence,0,1,28
+Il l'a ramassé comme un playboy tenant un préservatif,Il l'a tenu avec fierté et soin,Il l'a tenue avec dégoût et prudence,1,1,28
+Il s'est précipité à travers le test de mathématiques comme un singe,Il s'est précipité parce qu'il est stupide,Il s'est précipité parce qu'il est intelligent,0,1,29
+Il s'est précipité à travers le test de mathématiques comme un spécialiste des fusées,Il s'est précipité parce qu'il est stupide,Il s'est précipité parce qu'il est intelligent,1,1,29
+L'ours avait aussi faim qu'un lion,c'était affamé,il n'avait pas besoin de nourriture,0,1,41
+L'ours avait aussi faim qu'un morceau de papier,c'était affamé,il n'avait pas besoin de nourriture,1,1,41
+Cette conversation avait la facilité de faire vos impôts les yeux bandés.,Avoir cette conversation était difficile,Avoir cette conversation était facile.,0,1,44
+Cette conversation avait l'aisance d'un dimanche matin.,Avoir cette conversation était difficile,Avoir cette conversation était facile.,1,1,44
+Leurs conversations étaient des bombardements d'artillerie.,Leurs conversations étaient passionnées et antagonistes.,Leurs conversations étaient amicales.,0,1,45
+Leurs conversations étaient un câlin avec des mots.,Leurs conversations étaient passionnées et antagonistes.,Leurs conversations étaient amicales.,1,1,45
+L'histoire était aussi dérangeante qu'un cauchemar,L'histoire était très troublante.,"L'histoire n'était pas troublante, et en fait semblait mignonne.",0,1,48
+L'histoire était aussi dérangeante qu'un chiot nouveau-né,L'histoire était très troublante.,"L'histoire n'était pas troublante, et en fait semblait mignonne.",1,1,48
+Leurs attentes concernant la maison qu'ils pouvaient s'offrir se sont transformées en glace fondue.,Leurs attentes n'ont pas été satisfaites.,Leurs attentes ont été dépassées.,0,1,52
+Leurs attentes concernant la maison qu'ils pouvaient s'offrir dépassèrent le deuxième étage.,Leurs attentes n'ont pas été satisfaites.,Leurs attentes ont été dépassées.,1,1,52
+Ceux qui ont entendu l'enfant chanter ont été emportés par de douces vagues.,Ceux qui ont entendu le chant ont été agréablement divertis.,Ceux qui ont entendu le chant ont été désagréablement inondés.,0,1,53
+Ceux qui ont entendu l'enfant chanter ont été torturés par les notes intrusives.,Ceux qui ont entendu le chant ont été agréablement divertis.,Ceux qui ont entendu le chant ont été désagréablement inondés.,1,1,53
+Elle chante comme un ange,sa voix est magique,sa voix est horrible,0,1,55
+Elle chante comme une grenouille taureau,sa voix est magique,sa voix est horrible,1,1,55
+Ses opinions étaient aussi fermes que concrètes,Il était très sûr de son opinion,Il était très incertain de son opinion,0,1,57
+Ses opinions étaient aussi fermes qu'une boule de coton,Il était très sûr de son opinion,Il était très incertain de son opinion,1,1,57
+Le pilote a fait atterrir l'avion comme s'il manipulait un nouveau-né.,L'atterrissage a été doux et doux,L'atterrissage a été cahoteux et difficile,0,1,58
+Le pilote a fait atterrir l'avion comme s'il était sur des montagnes russes.,L'atterrissage a été doux et doux,L'atterrissage a été cahoteux et difficile,1,1,58
+La personnalité de l'homme est comme un Beanie Baby,L'homme a une personnalité douce.,L'homme a une personnalité dure.,0,1,60
+La personnalité de l'homme est comme un sergent instructeur,L'homme a une personnalité douce.,L'homme a une personnalité dure.,1,1,60
+L'affiche était aussi colorée qu'un arc-en-ciel,L'affiche a beaucoup de couleurs.,L'affiche était terne et incolore.,0,1,65
+L'affiche était aussi colorée qu'un trottoir,L'affiche a beaucoup de couleurs.,L'affiche était terne et incolore.,1,1,65
+Elle est aussi impatiente qu'un castor,elle est excitée,elle s'ennuie,0,1,69
+Elle est aussi impatiente qu'un paresseux,elle est excitée,elle s'ennuie,1,1,69
+Le moteur du bateau est un babillage ivre,Il tourne à peine,Il tourne fort,0,1,73
+Le moteur du bateau est un lion rugissant,Il tourne à peine,Il tourne fort,1,1,73
+L'argument d'ouverture de l'avocat était un roman russe.,L'argument d'ouverture de l'avocat a été long.,L'argument d'ouverture de l'avocat était vulgaire.,0,1,81
+L'argument d'ouverture de l'avocat était un livre de poche d'aéroport.,L'argument d'ouverture de l'avocat a été long.,L'argument d'ouverture de l'avocat était vulgaire.,1,1,81
+La maison avait la propreté d'un musée,La maison était très propre.,La maison était en désordre.,0,1,84
+La maison avait la propreté d'un terrain de paintball,La maison était très propre.,La maison était en désordre.,1,1,84
+Les raisins avaient la fraîcheur d'un jouet d'occasion.,Les raisins n'étaient pas frais.,Les raisins étaient très frais.,0,1,94
+Les raisins avaient la fraîcheur d'un petit matin d'été.,Les raisins n'étaient pas frais.,Les raisins étaient très frais.,1,1,94
+Le jouet avait la jouissance d'une exécution,Le jouet n'était pas amusant,Le jouet était amusant,0,1,97
+Le jouet avait le plaisir des montagnes russes,Le jouet n'était pas amusant,Le jouet était amusant,1,1,97
+Le message du film était aussi réconfortant qu'une tasse de thé à la menthe,Le message du film était très touchant.,Le message du film n'était pas du tout réconfortant.,0,1,104
+Le message du film était aussi réconfortant qu'un Popsicle,Le message du film était très touchant.,Le message du film n'était pas du tout réconfortant.,1,1,104
+Le livre était aussi classique que des pancakes pour le petit déjeuner,Le livre était très classique.,Le livre n'était pas un classique.,0,1,105
+Le livre était aussi classique qu'une mariée vêtue de violet,Le livre était très classique.,Le livre n'était pas un classique.,1,1,105
+Le jouet était aussi neuf qu'un quart de cette année.,Le jouet était récent,Le jouet était daté.,0,1,108
+Le jouet était aussi neuf qu'un quart de l'année de votre naissance.,Le jouet était récent,Le jouet était daté.,1,1,108
+La femme était aussi grande qu'un arbre,La femme était grande,La femme était petite,0,1,111
+La femme était aussi grande qu'un tabouret,La femme était grande,La femme était petite,1,1,111
+Tom avait la joie d'un robot.,Tom n'est pas très joyeux.,Tom est très joyeux.,0,1,114
+Tom avait la joie d'un chien.,Tom n'est pas très joyeux.,Tom est très joyeux.,1,1,114
+Le film a une profondeur de A canyon.,Le film est profondément philosophique.,Le film a peu de substance.,0,1,116
+Le film a une profondeur de A nid de poule.,Le film est profondément philosophique.,Le film a peu de substance.,1,1,116
+Le film a une profondeur de vallée A.,Le film est expansif dans son sens.,Le film manque de profondeur.,0,1,117
+Le film a une profondeur de A flatland.,Le film est expansif dans son sens.,Le film manque de profondeur.,1,1,117
+Elle était aussi délicate qu'un éléphant,Elle était une motte de bois,Elle était fragile,0,1,123
+Elle était aussi délicate qu'un flocon de neige,Elle était une motte de bois,Elle était fragile,1,1,123
+Son dîner avait le goût d'une vieille chaussure,La nourriture était dégoûtante,La nourriture était délicieusement délicieuse,0,1,124
+Son dîner avait le goût de la manne du paradis,La nourriture était dégoûtante,La nourriture était délicieusement délicieuse,1,1,124
+Le stand de limonade du garçon a eu autant de succès qu'une entreprise du Fortune 500,Le stand de limonade du garçon a été un succès fou.,Le stand de limonade du garçon a très bien marché.,0,1,127
+Le stand de limonade du garçon a eu autant de succès que les Mets de New York de 1962,Le stand de limonade du garçon a été un succès fou.,Le stand de limonade du garçon a très bien marché.,1,1,127
+Il est aussi célèbre qu'une star de cinéma,les gens le connaissent,personne ne le connaît,0,1,136
+Il est aussi célèbre qu'un cafard dans une benne à ordures,les gens le connaissent,personne ne le connaît,1,1,136
+Elle est aussi chic qu'une reine de bal,elle est élégante,elle est sale,0,1,137
+Elle est aussi chic que l'eau de vaisselle,elle est élégante,elle est sale,1,1,137
+Son visage brillait comme le soleil,Son visage était lumineux,son visage était terne,0,1,141
+Son visage brillait comme le reflet d'un miroir poussiéreux,Son visage était lumineux,son visage était terne,1,1,141
+Il avait la taille d'un singe.,Il était énorme.,Il était petit.,0,1,146
+Il avait la taille d'une fourmi.,Il était énorme.,Il était petit.,1,1,146
+La chanson avait la créativité d'une amibe.,La chanson était trop simpliste.,La chanson était très complexe et belle.,0,1,147
+La chanson avait la créativité de tous les tableaux du Louvre.,La chanson était trop simpliste.,La chanson était très complexe et belle.,1,1,147
+Ce film était aussi long qu'un ténia de 25 ans,C'est extrêmement long,C'est aussi court que possible,0,1,154
+Ce film était aussi long que les cheveux de Howie Mandel,C'est extrêmement long,C'est aussi court que possible,1,1,154
+Le terrain de jeu est aussi sûr que les crocs de Dracula.,La cour de récréation est dangereuse.,L'aire de jeux est sécurisée.,0,1,155
+Le terrain de jeu est aussi sûr qu'une police d'assurance.,La cour de récréation est dangereuse.,L'aire de jeux est sécurisée.,1,1,155
+Le directeur a ajouté du petit bois à notre étincelle.,Le directeur a motivé ses employés.,Le directeur a démotivé ses employés.,0,1,160
+Le directeur a ajouté de l'eau à notre étincelle.,Le directeur a motivé ses employés.,Le directeur a démotivé ses employés.,1,1,160
+L'étudiant était aussi doué qu'un entrepreneur,il a du talent,il était sans talent,0,1,161
+L'élève était aussi doué qu'une loutre aveugle,il a du talent,il était sans talent,1,1,161
+La femme était aussi glamour qu'une star de cinéma,elle était chic,elle était négligée,0,1,162
+La femme était aussi glamour qu'une vieille chaussure,elle était chic,elle était négligée,1,1,162
+Sa taille était comparable à un séquoia,Il était grand,Il était petit,0,1,164
+Sa taille était comparable à celle d'une souris,Il était grand,Il était petit,1,1,164
+Elle est venue au niveau des yeux avec une girafe,Elle était grande,Elle était courte,0,1,165
+Elle est venue au niveau des yeux avec un enfant en bas âge,Elle était grande,Elle était courte,1,1,165
+Le plat du jour du restaurant était l'ambroisie des dieux,La nourriture était délicieuse,La nourriture était dégoûtante,0,1,166
+Le plat du jour du restaurant était une poubelle chaude,La nourriture était délicieuse,La nourriture était dégoûtante,1,1,166
+La voiture était aussi utile qu'une piscine sans eau,la voiture était inutile,la voiture a été utile,0,1,168
+La voiture était aussi utile que l'argenterie pendant le dîner,la voiture était inutile,la voiture a été utile,1,1,168
+Mon chien mange comme un éphémère,Mon chien ne mange jamais,Mon chien ne cesse de manger,0,1,173
+Mon chien mange comme un tarrare,Mon chien ne mange jamais,Mon chien ne cesse de manger,1,1,173
+Ce film aussi désastreux que le lancement de la Xbox One en 2013,Ce n'est pas très bon,C'est plutôt réussi,0,1,177
+Ce film aussi désastreux que la présidence d'Abraham Lincoln,Ce n'est pas très bon,C'est plutôt réussi,1,1,177
+Le concept était aussi déroutant qu'un œuf brouillé,Le concept était difficile à comprendre.,Le concept était facile à comprendre.,0,1,178
+Le concept était aussi déroutant qu'un puzzle pour enfants,Le concept était difficile à comprendre.,Le concept était facile à comprendre.,1,1,178
+Le burrito a la chaleur d'un volcan,Le burrito est chaud,Le burrito est froid,0,1,183
+Le burrito a la chaleur d'un iceberg,Le burrito est chaud,Le burrito est froid,1,1,183
+Le temps s'est déplacé comme un escargot.,Le temps était lent.,Le temps était rapide.,0,1,184
+Le temps s'est déplacé comme un guépard.,Le temps était lent.,Le temps était rapide.,1,1,184
+L'homme a la patience d'un moine.,L'homme est très patient.,L'homme est très impatient.,0,1,188
+L'homme a la patience d'un chat dans un bain.,L'homme est très patient.,L'homme est très impatient.,1,1,188
+L'art est aussi coloré qu'un arc-en-ciel,l'art est vivant,l'art est terne,0,1,192
+L'art est aussi coloré qu'un ciel nuageux,l'art est vivant,l'art est terne,1,1,192
+La tête de l'homme était aussi belle qu'une œuvre d'art,La tête de l'homme était attirante,La tête de l'homme était laide,0,1,194
+La tête de l'homme était aussi belle qu'une poubelle,La tête de l'homme était attirante,La tête de l'homme était laide,1,1,194
+Le bâtiment est aussi vieux que l'univers lui-même,C'est très vieux,C'est tout nouveau,0,1,196
+Le bâtiment est aussi vieux que le bébé qui naîtra demain,C'est très vieux,C'est tout nouveau,1,1,196
+Cet éventail a le pouvoir de souffler du dieu grec Aeolus,ça peut souffler beaucoup,Il peut à peine souffler,0,1,197
+Ce ventilateur a la puissance de soufflage d'un sèche-cheveux débranché,ça peut souffler beaucoup,Il peut à peine souffler,1,1,197
+La viande du sandwich était aussi humide qu'une serviette,La viande du sandwich était humide.,La viande du sandwich était sèche.,0,1,201
+La viande du sandwich était aussi humide que du papier de verre,La viande du sandwich était humide.,La viande du sandwich était sèche.,1,1,201
+Elle était grosse comme une coccinelle.,Elle était petite.,Elle était grande.,0,1,206
+Elle était aussi grosse qu'un éléphant.,Elle était petite.,Elle était grande.,1,1,206
+L'avenir avait l'éclat d'une flaque de boue,L'avenir est terne,L'avenir est prometteur,0,1,213
+L'avenir avait l'éclat du diamant,L'avenir est terne,L'avenir est prometteur,1,1,213
+Le bonheur de la fille a explosé comme une bouteille de champagne,Le bonheur de la jeune fille était effusif.,Le bonheur de la fille n'a pas vraiment explosé du tout.,0,1,216
+Le bonheur de la fille a explosé comme une berceuse,Le bonheur de la jeune fille était effusif.,Le bonheur de la fille n'a pas vraiment explosé du tout.,1,1,216
+Le problème était aussi gros qu'un Tootsie Roll,Le problème était petit.,Le problème était grand.,0,1,217
+Le problème était aussi grand que l'Antarctique,Le problème était petit.,Le problème était grand.,1,1,217
+Le tempérament de la fille était un match allumé,La fille était facilement provoquée.,L'humeur de la fille était égale.,0,1,218
+Le tempérament de la fille était une marée basse,La fille était facilement provoquée.,L'humeur de la fille était égale.,1,1,218
+Le livre que je viens de finir de lire est une boussole de ma vie.,Le livre contient beaucoup de sagesse intemporelle et de connaissances utiles.,Le contenu du livre est tellement trash et inutile qu'on ne supporte pas de le relire.,0,1,224
+Le livre que je viens de finir de lire est mon nouveau bug smasher.,Le livre contient beaucoup de sagesse intemporelle et de connaissances utiles.,Le contenu du livre est tellement trash et inutile qu'on ne supporte pas de le relire.,1,1,224
+Le serpent a la peau d'un habitant du désert qui n'a jamais touché une bouteille de lotion,Le serpent a la peau sèche et écailleuse,La peau du serpent n'est pas sèche et écailleuse,0,1,229
+Le serpent a la peau d'une anguille aquatique visqueuse,Le serpent a la peau sèche et écailleuse,La peau du serpent n'est pas sèche et écailleuse,1,1,229
+Le journaliste était aussi grand qu'un centre de basket,le journaliste était grand,le journaliste était court,0,1,233
+Le journaliste était aussi grand qu'un nain,le journaliste était grand,le journaliste était court,1,1,233
+La maladie se propage comme un feu sauvage,Il se propage rapidement,Il se propage lentement,0,1,237
+La maladie se propage comme la pousse d'un ongle,Il se propage rapidement,Il se propage lentement,1,1,237
+L'adolescent était un gratte-ciel,L'adolescent était grand.,L'adolescent était petit.,0,1,245
+L'adolescent était une fourmilière,L'adolescent était grand.,L'adolescent était petit.,1,1,245
+L'enquête avait le poids d'un bouquet de plumes,L'enquête n'est pas importante,L'enquête a un impact majeur,0,1,253
+L'enquête a eu le poids d'un effet d'entraînement à l'échelle de la ville,L'enquête n'est pas importante,L'enquête a un impact majeur,1,1,253
+Le professeur est aussi encourageant qu'un parent,le professeur aide,le professeur n'aide pas,0,1,254
+Le professeur est aussi encourageant qu'un oiseau mort,le professeur aide,le professeur n'aide pas,1,1,254
+Ses cheveux avaient l'éclat de la crinière alezan d'un cheval,Ses cheveux étaient brillants,Ses cheveux étaient ternes,0,1,259
+Ses cheveux avaient l'éclat de la paille,Ses cheveux étaient brillants,Ses cheveux étaient ternes,1,1,259
+Sa classe avait tout l'éclat d'une ampoule,Sa classe était brillante,Sa classe n'était pas si intelligente.,0,1,260
+Sa classe avait tout l'éclat d'un rocher,Sa classe était brillante,Sa classe n'était pas si intelligente.,1,1,260
+La maison était aussi confortable qu'une cabane d'hiver par une nuit froide.,La maison était confortable.,La maison était inconfortable.,0,1,268
+La maison était aussi confortable qu'une cellule de prison.,La maison était confortable.,La maison était inconfortable.,1,1,268
+Le soldat était dur comme des clous,Le soldat est très dur,Le soldat est très faible,0,1,270
+Le soldat était aussi dur que du coton,Le soldat est très dur,Le soldat est très faible,1,1,270
+Elle était aussi fragile qu'un éléphant,Elle était solide et pas fragile,Elle était extrêmement fragile,0,1,274
+Elle était aussi fragile qu'une tasse de thé en cristal,Elle était solide et pas fragile,Elle était extrêmement fragile,1,1,274
+Son parent le plus proche pourrait aussi bien être un cheval,Elle est moche,Elle est mignonne,0,1,276
+Son parent le plus proche pourrait aussi bien être un oiseau,Elle est moche,Elle est mignonne,1,1,276
+L'athlète était aussi bon que Mike Tyson dans les années 80,l'athlète était super,l'athlète était mauvais,0,1,277
+L'athlète était aussi bon que Mike Tyson quand il avait 80 ans,l'athlète était super,l'athlète était mauvais,1,1,277
+L'étudiant était aussi confus qu'un chien à un concours d'orthographe,il ne savait pas ce qui se passait,il savait tout,0,1,278
+L'étudiant était aussi confus qu'un avocat au tribunal,il ne savait pas ce qui se passait,il savait tout,1,1,278
+Le coin était aussi occupé qu'un défilé,Le coin était occupé,Le coin était abandonné et pas occupé,0,1,281
+Le coin était aussi occupé qu'un cimetière,Le coin était occupé,Le coin était abandonné et pas occupé,1,1,281
+Le livre était aussi divertissant qu'une fête,Le livre était divertissant.,Le livre n'était pas du tout divertissant.,0,1,282
+Le livre était aussi divertissant qu'un enterrement,Le livre était divertissant.,Le livre n'était pas du tout divertissant.,1,1,282
+L'artiste est aussi créatif qu'une glace à la vanille,L'artiste n'a pas d'idées nouvelles.,L'artiste est très créatif.,0,1,284
+L'artiste est aussi créatif que la crème glacée au tourbillon balsamique au caramel,L'artiste n'a pas d'idées nouvelles.,L'artiste est très créatif.,1,1,284
+Cette série compte autant d'épisodes qu'un mille-pattes a de pattes,Il a de nombreux épisodes,Il a très peu,0,1,287
+Cette émission compte autant d'épisodes qu'il y a de lunes dans le ciel nocturne,Il a de nombreux épisodes,Il a très peu,1,1,287
+Moi et mon parent avons la proximité de jumeaux siamois,Ils sont extrêmement proches,Ils sont très éloignés,0,1,288
+Moi et mon parent avons la proximité des pôles nord et sud,Ils sont extrêmement proches,Ils sont très éloignés,1,1,288
+La maison est aussi fragile que l'acier,La maison est forte,La maison est faible,0,1,292
+La maison est aussi fragile que la soie,La maison est forte,La maison est faible,1,1,292
+L'acteur a attiré autant d'attention qu'une exposition de lion dans un zoo,L'acteur a attiré beaucoup d'attention.,L'acteur n'a attiré aucune attention.,0,1,299
+L'acteur a attiré autant d'attention qu'un grain de sable sur une plage,L'acteur a attiré beaucoup d'attention.,L'acteur n'a attiré aucune attention.,1,1,299
+Cette chemise ressemble à un sac poubelle,C'est moche,C'est joli,0,1,301
+Cette chemise ressemble à un rosier,C'est moche,C'est joli,1,1,301
+Le livre a le respect d'un médecin,C'est bien respecté,Ce n'est pas très respecté,0,1,303
+Le livre a le respect d'un théoricien du complot,C'est bien respecté,Ce n'est pas très respecté,1,1,303
+Ma nouvelle voiture a la fiabilité d'un penny stock,Ma nouvelle voiture est imprévisible,Ma nouvelle voiture est fiable,0,1,306
+Ma nouvelle voiture a la fiabilité d'un piano bien réglé,Ma nouvelle voiture est imprévisible,Ma nouvelle voiture est fiable,1,1,306
+La fondation était plate comme une planche,La fondation était plate.,La fondation était ronde et incurvée.,0,1,311
+La fondation était plate comme un globe,La fondation était plate.,La fondation était ronde et incurvée.,1,1,311
+La voiture est aussi rapide qu'une tortue,la voiture est lente,la voiture est rapide,0,1,322
+La voiture est aussi rapide qu'un éclair,la voiture est lente,la voiture est rapide,1,1,322
+Il court plus vite qu'un guépard en jet,Il court vite,Il ne bouge pas du tout,0,1,330
+Il court plus vite qu'un escargot mort,Il court vite,Il ne bouge pas du tout,1,1,330
+Le tempérament de l'homme était un piment habanero,L'homme avait un gros tempérament.,L'homme avait un tempérament doux.,0,1,334
+L'humeur de l'homme était une tasse de lait d'avoine.,L'homme avait un gros tempérament.,L'homme avait un tempérament doux.,1,1,334
+Le gouvernement est aussi stable qu'un pont cassé,Le gouvernement s'effondre,Le gouvernement est très fort et stable.,0,1,335
+Le gouvernement est aussi fort qu'une maison en brique,Le gouvernement s'effondre,Le gouvernement est très fort et stable.,1,1,335
+Les chances de gagner à la loterie sont aussi bonnes que de trouver une aiguille dans une botte de foin,Les chances de gagner à la loterie sont extrêmement faibles,Les chances de gagner à la loterie sont fantastiques,0,1,336
+Les chances de gagner à la loterie sont aussi bonnes que d'allumer une allumette et de s'attendre à un incendie.,Les chances de gagner à la loterie sont extrêmement faibles,Les chances de gagner à la loterie sont fantastiques,1,1,336
+elle est aussi exubérante qu'un chien en voiture,elle est excitée,elle est fatiguée,0,1,339
+elle est aussi exubérante qu'un paresseux au lit,elle est excitée,elle est fatiguée,1,1,339
+Il est juste comme un prêtre,il est sympa,il est méchant,0,1,340
+Il est juste comme un diable,il est sympa,il est méchant,1,1,340
+La branche était aussi solide qu'une poutre en acier,La branche était assez solide pour supporter beaucoup de poids.,La branche était faible et pouvait casser facilement.,0,1,344
+La branche était aussi solide qu'une brindille,La branche était assez solide pour supporter beaucoup de poids.,La branche était faible et pouvait casser facilement.,1,1,344
+Cette chose aspire autant d'électricité qu'un réfrigérateur des années 1950,Il consomme beaucoup d'électricité,Il n'utilise pas d'électricité,0,1,348
+Cette chose aspire autant d'électricité que la Wii U dans le placard,Il consomme beaucoup d'électricité,Il n'utilise pas d'électricité,1,1,348
+La pièce a l'excitation d'une tortue endormie.,Le jeu est terne.,La pièce est entraînante.,0,1,351
+Le jeu a l'excitation d'un jackpot de loterie.,Le jeu est terne.,La pièce est entraînante.,1,1,351
+La fille est aussi prévisible que le fracas des vagues de l'océan,La fille était très prévisible.,La fille était totalement imprévisible.,0,1,353
+La fille est aussi prévisible que le naufrage du Titanic,La fille était très prévisible.,La fille était totalement imprévisible.,1,1,353
+L'homme a la hauteur d'une montagne,L'homme est grand,L'homme est petit,0,1,356
+L'homme a la hauteur d'un tabouret,L'homme est grand,L'homme est petit,1,1,356
+La maison est aussi enchanteresse qu'un château,la maison est jolie,la maison est moche,0,1,361
+La maison est aussi enchanteresse que roadkill,la maison est jolie,la maison est moche,1,1,361
+L'étudiant était aussi tranchant qu'un couteau émoussé,L'étudiant nous muets,L'élève est intelligent,0,1,362
+L'étudiant était aussi pointu que la plume d'un porc-épic,L'étudiant nous muets,L'élève est intelligent,1,1,362
+Sa voix chantante ressemble à des ongles sur un tableau noir,La voix te fait grincer des dents,La voix est apaisante,0,1,363
+Sa voix chantante ressemble à une brise chantante,La voix te fait grincer des dents,La voix est apaisante,1,1,363
+Les marchandises avaient la valeur de l'or,Les marchandises étaient précieuses,Les marchandises étaient sans valeur,0,1,365
+Les marchandises étaient aussi précieuses que la saleté,Les marchandises étaient précieuses,Les marchandises étaient sans valeur,1,1,365
+Le puzzle était aussi simple que la tarte,Le casse-tête était facile,Le casse-tête était difficile.,0,1,366
+Le puzzle était aussi simple qu'une opération au cerveau,Le casse-tête était facile,Le casse-tête était difficile.,1,1,366
+Le politicien était aussi populaire que la tarte aux pommes,L'homme politique était très populaire.,Le politicien était très impopulaire.,0,1,367
+Le politicien était aussi populaire qu'un canal radiculaire,L'homme politique était très populaire.,Le politicien était très impopulaire.,1,1,367
+La réunion fut aussi animée qu'un cortège funèbre.,La réunion n'a pas été animée du tout.,La rencontre a été très animée.,0,1,368
+La réunion était aussi animée qu'un groupe d'enfants dans une maison gonflable.,La réunion n'a pas été animée du tout.,La rencontre a été très animée.,1,1,368
+Il a acheté l'article comme une mariée choisissant sa robe,Il a fait ses courses avec beaucoup de soin,Il a fait ses courses à la hâte,0,1,372
+Il a acheté l'article comme un voleur qui s'enfuit,Il a fait ses courses avec beaucoup de soin,Il a fait ses courses à la hâte,1,1,372
+"Regarder le film, c'était comme aller chez le dentiste",Le film était horrible,Le film était sympa,0,1,373
+"Regarder le film, c'était comme aller au carnaval",Le film était horrible,Le film était sympa,1,1,373
+Le cookie était aussi moelleux qu'un Tootsie Roll,Le cookie était parfaitement moelleux.,Le cookie était extrêmement dense et dur.,0,1,374
+Le cookie était aussi moelleux qu'une brique,Le cookie était parfaitement moelleux.,Le cookie était extrêmement dense et dur.,1,1,374
+Le livreur de pizza avait la vitesse d'un sprinteur olympique,La pizza est arrivée rapidement.,La pizza a mis une éternité à venir.,0,1,375
+Le livreur de pizza avait la vitesse d'une plaque tectonique,La pizza est arrivée rapidement.,La pizza a mis une éternité à venir.,1,1,375
+Le rôti braisé a l'arôme de l'eau des marais.,Le braisé sent mauvais.,Le rôti braisé sent bon.,0,1,377
+Le braisé a l'arôme de la cuisine d'une grand-mère.,Le braisé sent mauvais.,Le rôti braisé sent bon.,1,1,377
+La photographie a la clarté d'un test de tache d'encre.,La photographie est floue.,La photographie est limpide.,0,1,378
+La photographie a la clarté d'un arc-en-ciel complet.,La photographie est floue.,La photographie est limpide.,1,1,378
+Il a les prouesses politiques d'un Kennedy,Il a de bonnes compétences politiques,Il manque de talent en politique,0,1,380
+Il a les prouesses politiques d'un nouveau-né,Il a de bonnes compétences politiques,Il manque de talent en politique,1,1,380
+Ce puzzle a la difficulté de mettre un homme sur Mars,C'est très difficile,C'est très facile,0,1,382
+Ce puzzle a la difficulté d'un jeu de tri de blocs pour enfant,C'est très difficile,C'est très facile,1,1,382
+Le garçon était aussi drôle qu'un comédien,C'était marrant,ce n'était pas drôle,0,1,384
+Le garçon était aussi drôle qu'une mouche morte,C'était marrant,ce n'était pas drôle,1,1,384
+Les excuses du politicien étaient un coup d'échecs.,Les excuses du politicien étaient calculées.,Les excuses du politicien étaient chaotiques.,0,1,386
+Les excuses du politicien ont été une avalanche.,Les excuses du politicien étaient calculées.,Les excuses du politicien étaient chaotiques.,1,1,386
+Il était aussi dangereux qu'une vipère,Il était très dangereux,Il n'était pas dangereux,0,1,389
+Il était aussi dangereux qu'une puce,Il était très dangereux,Il n'était pas dangereux,1,1,389
+L'eau était aussi chaude que la surface du soleil,L'eau était bouillante,L'eau était froide,0,1,390
+L'eau était aussi chaude qu'un glaçon,L'eau était bouillante,L'eau était froide,1,1,390
+Son excuse avait la conviction d'un soldat déserteur.,Son excuse manquait de conviction.,Son excuse était pleine de conviction.,0,1,393
+Son excuse avait la conviction d'un prédicateur revivaliste.,Son excuse manquait de conviction.,Son excuse était pleine de conviction.,1,1,393
+La menace était un train venant en sens inverse,La menace était imminente.,La menace était lointaine.,0,1,404
+La menace était un troisième cousin trois fois éloigné,La menace était imminente.,La menace était lointaine.,1,1,404
+Leur amour était aussi facile à comprendre qu'une parole de Bob Dylan.,Leur amour était complexe et difficile à interpréter.,Leur amour était chaud et de courte durée.,0,1,421
+Leur amour était comme une saison des feux de forêt en Californie.,Leur amour était complexe et difficile à interpréter.,Leur amour était chaud et de courte durée.,1,1,421
+Le livre a attiré mon attention comme un jargon juridique dans un accord de fusion,Le livre m'a complètement ennuyé.,Le livre m'a vraiment intéressé.,0,1,422
+Le livre a attiré mon attention comme un titre de magazine trash,Le livre m'a complètement ennuyé.,Le livre m'a vraiment intéressé.,1,1,422
+Ses pensées étaient comme un yo-yo,Ses pensées allaient dans tous les sens.,Ses pensées étaient stables.,0,1,423
+Ses pensées étaient comme un ruisseau de source,Ses pensées allaient dans tous les sens.,Ses pensées étaient stables.,1,1,423
+Son ego était un cracker Ritz,Son ego était très fragile.,Son ego était inébranlable.,0,1,424
+Son ego était un bâtiment en brique,Son ego était très fragile.,Son ego était inébranlable.,1,1,424
+Son esprit est une cage d'acier,Il a une très bonne mémoire et oublie rarement quelque chose,"Sa mémoire est terrible, les choses rentrent par une oreille et sortent par l'autre",0,1,425
+Son esprit est une porte de grange ouverte,Il a une très bonne mémoire et oublie rarement quelque chose,"Sa mémoire est terrible, les choses rentrent par une oreille et sortent par l'autre",1,1,425
+L'écran était sombre comme une lampe de poche.,L'écran était lumineux.,L'écran était sombre.,0,1,429
+L'écran était sombre comme une bougie.,L'écran était lumineux.,L'écran était sombre.,1,1,429
+Le discours de ce politicien était aussi bon que le discours de Gettysburg de Lincoln,Le discours était sycinct et puissant,Le discours était autoritaire et ennuyeux.,0,1,439
+Le discours de ce politicien était aussi bon qu'une conférence dense d'un professeur d'université.,Le discours était sycinct et puissant,Le discours était autoritaire et ennuyeux.,1,1,439
+tu es aussi dur qu'un oreiller,tu es doux,Vous êtes têtu,0,1,446
+tu es aussi dur que le roc,tu es doux,Vous êtes têtu,1,1,446
+Tu es aussi dur qu'un oeuf,les oeufs se fissurent,les noix de coco sont dures,0,1,447
+Tu es aussi dur qu'une noix de coco,les oeufs se fissurent,les noix de coco sont dures,1,1,447
+La fille est aussi douée pour camoufler ses émotions qu'un caméléon,La fille cache bien ses émotions.,La fille montre ses émotions.,0,1,453
+La fille est aussi douée pour camoufler ses émotions qu'un paon,La fille cache bien ses émotions.,La fille montre ses émotions.,1,1,453
+Mon compte bancaire est sec comme le Sahara,"Mon compte bancaire est stérile, je n'ai pas d'argent","Mon compte bancaire est plein d'argent, je suis riche",0,1,457
+Mon compte bancaire est bourré comme une dinde de Thanksgiving,"Mon compte bancaire est stérile, je n'ai pas d'argent","Mon compte bancaire est plein d'argent, je suis riche",1,1,457
+Le sandwich a le fromage de la lune comme représenté dans les dessins animés,Le sandwich est très ringard,Le sandwich manque de fromage,0,1,458
+Le sandwich a le goût de fromage d'une pizza sans la garniture principale,Le sandwich est très ringard,Le sandwich manque de fromage,1,1,458
+La tour a la résistance au vent d'une toiture métallique par beau temps,La tour a une haute résistance au vent,La tour n'a presque aucune résistance au vent,0,1,459
+La tour a la résistance au vent d'un emballage de bonbon pris dans un courant ascendant,La tour a une haute résistance au vent,La tour n'a presque aucune résistance au vent,1,1,459
+Le corps a la capacité de survie d'un tigre affamé dans un poulailler,Il a une grande capacité de survie,Il a un faible taux de survie,0,1,460
+Le corps a la capacité de survie d'un sac en papier dans un océan orageux,Il a une grande capacité de survie,Il a un faible taux de survie,1,1,460
+Elle a monté ce cheval comme un acrobate,Elle l'a bien monté,Elle l'a mal monté,0,1,461
+Elle a monté ce cheval comme une victime d'épilepsie,Elle l'a bien monté,Elle l'a mal monté,1,1,461
+Le discours était aussi inspirant qu'un bloc de ciment,C'est terne,C'est motivant,0,1,462
+Le discours était aussi inspirant qu'un marathonien sans jambes,C'est terne,C'est motivant,1,1,462
+Le verre est clair comme les instructions d'Ikea,Ce n'est pas clair,C'est voir à travers,0,1,463
+Le verre est transparent comme du papier saran,Ce n'est pas clair,C'est voir à travers,1,1,463
+Les cookies avaient le goût de hardtack.,Les cookies sont horribles.,Les biscuits sont délicieux.,0,1,464
+Les cookies avaient le goût du paradis.,Les cookies sont horribles.,Les biscuits sont délicieux.,1,1,464
+Le sol était aussi glissant que de l'huile,Le sol était glissant.,Le sol n'était pas du tout glissant.,0,1,468
+Le sol était aussi glissant que du papier de verre,Le sol était glissant.,Le sol n'était pas du tout glissant.,1,1,468
+La gemme était aussi fausse qu'un mauvais postiche,La gemme était manifestement fausse.,Le joyau était évidemment réel.,0,1,469
+Le joyau était aussi faux que l'air que nous respirons,La gemme était manifestement fausse.,Le joyau était évidemment réel.,1,1,469
+Les garçons sont aussi disciplinés que les militaires,Les garçons sont très disciplinés.,Les garçons manquent de discipline.,0,1,472
+Les garçons sont aussi disciplinés que des singes baril,Les garçons sont très disciplinés.,Les garçons manquent de discipline.,1,1,472
+L'hélicoptère avait la fiabilité d'une tour qui s'effondre.,L'hélicoptère n'était pas fiable.,L'hélicoptère était très fiable.,0,1,482
+L'hélicoptère avait la fiabilité d'un cuirassé.,L'hélicoptère n'était pas fiable.,L'hélicoptère était très fiable.,1,1,482
+Ce livre est comme de la soie dans mes mains.,Ce livre est difficile à lâcher.,Ce livre est oubliable.,0,1,498
+Ce livre est comme une amnésie à couverture rigide.,Ce livre est difficile à lâcher.,Ce livre est oubliable.,1,1,498
+La passion des équipes brûlait comme un enfer,L'équipe avait beaucoup de passion,L'équipe avait très peu de passion,0,1,502
+La passion des équipes brûlait comme une allumette,L'équipe avait beaucoup de passion,L'équipe avait très peu de passion,1,1,502
+L'épée était aussi tranchante qu'un laser,L'épée était tranchante,L'épée était terne,0,1,504
+L'épée était aussi tranchante qu'un bâton,L'épée était tranchante,L'épée était terne,1,1,504
+Il manœuvra avec la précision tactique d'un général expérimenté.,Il manœuvra habilement.,Il a mal manœuvré.,0,1,508
+Il manœuvrait avec la précision tactique d'une voiture de clown.,Il manœuvra habilement.,Il a mal manœuvré.,1,1,508
+La fin était aussi satisfaisante qu'un dîner de Thanksgiving avec tous les accompagnements.,La fin était satisfaisante.,La fin était insatisfaisante.,0,1,509
+La fin était aussi satisfaisante qu'un biscuit salé rassis.,La fin était satisfaisante.,La fin était insatisfaisante.,1,1,509
+Ce mec est aussi intelligent qu'un roc,Le mec est nul,Le mec est intelligent,0,1,511
+Ce mec est aussi intelligent qu'un ordinateur,Le mec est nul,Le mec est intelligent,1,1,511
+L'amitié était aussi significative qu'un contrat sur une serviette,L'amitié n'avait pas de sens du tout.,L'amitié était très significative.,0,1,523
+L'amitié était aussi significative qu'un traité international,L'amitié n'avait pas de sens du tout.,L'amitié était très significative.,1,1,523
+L'enfant était aussi immobile qu'une dalle de marbre,L'enfant était totalement immobile.,L'enfant ne pouvait s'arrêter de bouger.,0,1,524
+L'enfant était aussi immobile qu'une chute d'eau,L'enfant était totalement immobile.,L'enfant ne pouvait s'arrêter de bouger.,1,1,524
+Il est aussi fort qu'un diamant.,Il est très fort.,Il est faible.,0,1,531
+Il est aussi fort qu'un morceau de graphite.,Il est très fort.,Il est faible.,1,1,531
+Il a la satisfaction d'un maître cuisinier après avoir fait un repas 5 étoiles,Il est très satisfait,Il a très peu de satisfaction,0,1,532
+Il a la satisfaction d'un maître cuisinier après avoir fait un bol de conserve 🍝,Il est très satisfait,Il a très peu de satisfaction,1,1,532
+Elle avait le dévouement d'un moucheron,Elle est volage et floue,Elle applique une pression constante et dans le temps.,0,1,535
+Elle avait la dédicace d'une plaque tectonique,Elle est volage et floue,Elle applique une pression constante et dans le temps.,1,1,535
+Le désir qu'elle ressentait n'était qu'un filet,Elle ressentait peu de désir,Elle a ressenti un fort désir,0,1,537
+Le désir qu'elle ressentait était une vague déferlante,Elle ressentait peu de désir,Elle a ressenti un fort désir,1,1,537
+L'homme a le goût d'un enfant difficile.,L'homme a mauvais goût pour les choses.,L'homme a un goût exquis et fin pour les choses.,0,1,539
+L'homme a le goût de la reine d'Angleterre.,L'homme a mauvais goût pour les choses.,L'homme a un goût exquis et fin pour les choses.,1,1,539
+Le lit est aussi confortable que le nuage.,Le lit est très confortable.,Le lit est très inconfortable.,0,1,540
+Le lit est aussi confortable que de voir son ex.,Le lit est très confortable.,Le lit est très inconfortable.,1,1,540
+Elle a la patience d'une sainte,Elle est très patiente,Elle n'est pas patiente du tout,0,1,547
+Elle a la patience d'un taureau,Elle est très patiente,Elle n'est pas patiente du tout,1,1,547
+Il a la moralité d'un chiot.,Il est très moral et gentil.,Il n'est pas très moral ou gentil.,0,1,552
+Il a la moralité d'un vautour.,Il est très moral et gentil.,Il n'est pas très moral ou gentil.,1,1,552
+Son désir pour elle était un cheval en fuite.,Son désir pour elle était fou.,Son désir pour elle était en sommeil.,0,1,554
+Son désir pour elle était un escargot.,Son désir pour elle était fou.,Son désir pour elle était en sommeil.,1,1,554
+Il pourrait sprinter comme le vent,Il était rapide.,Il était lent.,0,1,558
+Il pouvait sprinter comme une tortue,Il était rapide.,Il était lent.,1,1,558
+Ils s'adaptent à la personnalité de l'autre comme une prise dans une prise,Ils correspondent parfaitement à la personnalité de l'autre.,Ils ne correspondent pas du tout à la personnalité de l'autre.,0,1,564
+Ils correspondent à la personnalité de l'autre comme un aimant sur papier,Ils correspondent parfaitement à la personnalité de l'autre.,Ils ne correspondent pas du tout à la personnalité de l'autre.,1,1,564
+Les spaghettis étaient aussi froids que le regard d'un professeur d'école paroissiale en colère,Les spaghettis étaient froids,Les spaghettis étaient très chauds,0,1,568
+Les spaghettis étaient aussi froids que des vacances à Hadès,Les spaghettis étaient froids,Les spaghettis étaient très chauds,1,1,568
+Son esprit était comme un coffre-fort,Son esprit est fermé et secret,Son esprit est grand ouvert et facilement accessible,0,1,569
+Son esprit était comme le coffre à jouets d'un enfant,Son esprit est fermé et secret,Son esprit est grand ouvert et facilement accessible,1,1,569
+Le fantôme a l'invisibilité d'un enfant du milieu timide avec un frère aîné surperformant et une sœur cadette sauvage et exubérante,Le fantôme est très difficile à voir,Le fantôme est très visible,0,1,570
+"Le fantôme a l'invisibilité d'un tyran dans un magasin de porcelaine, brisant la porcelaine sur sa victime",Le fantôme est très difficile à voir,Le fantôme est très visible,1,1,570
+Ton esprit a le tranchant d'une lame,Votre esprit est intelligent.,Votre esprit est terne et pas intelligent.,0,1,575
+Votre esprit a l'acuité d'une pierre,Votre esprit est intelligent.,Votre esprit est terne et pas intelligent.,1,1,575
+Elle avait toute la grâce et l'élégance d'une ballerine,Elle est très gracieuse et élégante.,"Elle n'est ni gracieuse ni élégante, et en fait elle est encombrante et peu sophistiquée.",0,1,576
+Elle avait toute la grâce et l'élégance d'un camion benne,Elle est très gracieuse et élégante.,"Elle n'est ni gracieuse ni élégante, et en fait elle est encombrante et peu sophistiquée.",1,1,576
+Le professeur avait la patience d'une puce,Le professeur était impatient.,Le professeur était patient.,0,1,579
+Le professeur avait la patience d'une tortue,Le professeur était impatient.,Le professeur était patient.,1,1,579
+Le chien avait l'attitude d'un yogi,Le chien avait une attitude calme.,Le chien avait une attitude agressive.,0,1,586
+Le chien avait l'attitude d'un commandant militaire,Le chien avait une attitude calme.,Le chien avait une attitude agressive.,1,1,586
+Il pouvait courir à la vitesse d'un cheval de course.,Il était vraiment rapide.,Il était vraiment lent.,0,1,587
+Il pouvait courir à la vitesse d'une vieille tortue.,Il était vraiment rapide.,Il était vraiment lent.,1,1,587
+Henry est un golden retriever.,Henry est fiable et sympathique.,Henry n'est ni amical ni digne de confiance.,0,1,589
+Henry est un cobra.,Henry est fiable et sympathique.,Henry n'est ni amical ni digne de confiance.,1,1,589
+Ce chat a la grâce d'une ballerine.,Le chat est extrêmement gracieux.,Le chat est maladroit et peu gracieux.,0,1,601
+Ce chat a la grâce d'un cochon sur glace.,Le chat est extrêmement gracieux.,Le chat est maladroit et peu gracieux.,1,1,601
+Le chien est aussi intelligent qu'un bol de pierres,le chien est muet,le chien est intelligent,0,1,605
+Le chien est aussi intelligent qu'un scientifique,le chien est muet,le chien est intelligent,1,1,605
+La pénalité fiscale était aussi lourde qu'une boule de bowling,La pénalité fiscale était très lourde.,La pénalité fiscale était très légère.,0,1,607
+La pénalité fiscale était aussi lourde qu'une épingle à cheveux,La pénalité fiscale était très lourde.,La pénalité fiscale était très légère.,1,1,607
+La nourriture est aussi chaude qu'un volcan,La nourriture est chaude,la nourriture est froide,0,1,613
+La nourriture est aussi chaude que de la glace,La nourriture est chaude,la nourriture est froide,1,1,613
+La route est aussi plate qu'une crêpe,La route est plate,La route roule,0,1,614
+La route est aussi plate qu'une montagne russe,La route est plate,La route roule,1,1,614
+Elle est aussi transparente qu'une fenêtre,Vous pouvez voir ses intentions,Vous ne pouvez pas dire quel genre de personne elle est,0,1,616
+Elle est aussi transparente qu'un mur,Vous pouvez voir ses intentions,Vous ne pouvez pas dire quel genre de personne elle est,1,1,616
+Il a un coeur d'or,Il se soucie beaucoup des autres,Il ne se soucie pas trop des autres,0,1,618
+Il a un coeur de charbon,Il se soucie beaucoup des autres,Il ne se soucie pas trop des autres,1,1,618
+Le film a la tension d'un chat dans une pièce pleine de fauteuils à bascule.,Le film est tendu.,Le rythme du film est détendu.,0,1,619
+Le film a la tension d'une nouille mouillée.,Le film est tendu.,Le rythme du film est détendu.,1,1,619
+le livre a la profondeur d'une baignoire de fourmi,l'histoire est superficielle,l'histoire est profonde,0,1,622
+le livre a la profondeur de la tranchée mariana,l'histoire est superficielle,l'histoire est profonde,1,1,622
+Elle était aussi nerveuse qu'une ficelle de yo-yo,Elle était très anxieuse.,Elle était très calme.,0,1,630
+Elle était aussi nerveuse qu'un yogi,Elle était très anxieuse.,Elle était très calme.,1,1,630
+Le travail paie aussi bien qu'une usine chinoise,Le travail paie très peu,Le travail paye excellent.,0,1,639
+Le travail paie aussi bien que le salaire d'un politicien.,Le travail paie très peu,Le travail paye excellent.,1,1,639
+Le livre est aussi intéressant que de compter les gouttes d'eau,Le livre est plus qu'ennuyeux.,Le livre est incroyable.,0,1,640
+Le livre est aussi intéressant que le voyage dans le temps.,Le livre est plus qu'ennuyeux.,Le livre est incroyable.,1,1,640
+La date avait toute la magie d'un conte exotique,La date était intrigante,La date était ennuyeuse,0,1,643
+La date avait toute la magie d'une petite annonce,La date était intrigante,La date était ennuyeuse,1,1,643
+La photographie est aussi belle qu'un lever de soleil par une fraîche journée d'automne,La photographie est belle et émouvante,La photographie est moche et indésirable,0,1,652
+La photographie est aussi belle qu'un tas d'ordures,La photographie est belle et émouvante,La photographie est moche et indésirable,1,1,652
+Le clown a un sourire comme un chat qui vient d'attraper une souris,Le sourire du clown est large et joyeux,"Le sourire du clown est inexpressif, plat",0,1,653
+Le clown a un sourire comme une marionnette,Le sourire du clown est large et joyeux,"Le sourire du clown est inexpressif, plat",1,1,653
+Elle pense à lui aussi fortement qu'une couche pleine,Elle pense qu'il ne vaut rien.,Elle le valorise.,0,1,656
+Elle pense à lui aussi fort qu'un diamant,Elle pense qu'il ne vaut rien.,Elle le valorise.,1,1,656
+Les mots de sa mère étaient jonchés d'immondices.,Les paroles de sa mère étaient stupides.,Les paroles de sa mère étaient sages.,0,1,657
+Les mots de sa mère étaient jonchés de pierres précieuses.,Les paroles de sa mère étaient stupides.,Les paroles de sa mère étaient sages.,1,1,657
+La foule était remplie de loups.,La foule avait plusieurs chefs dangereux.,La foule avait plusieurs partisans irréfléchis.,0,1,658
+La foule était remplie de moutons.,La foule avait plusieurs chefs dangereux.,La foule avait plusieurs partisans irréfléchis.,1,1,658
+Il mange comme une souris.,Il ne mange pas beaucoup.,Il mange beaucoup.,0,1,664
+Il mange comme un chien.,Il ne mange pas beaucoup.,Il mange beaucoup.,1,1,664
+Le lapin avait la douceur d'un canard Eider croisé avec un chinchilla,Le lapin est extrêmement doux,Le lapin se sent rugueux,0,1,668
+Le lapin avait la douceur du visage d'un homme avec l'ombre de 5 heures,Le lapin est extrêmement doux,Le lapin se sent rugueux,1,1,668
+L'enseignante était aussi amusée qu'une fille à un rendez-vous avec son béguin,le professeur était intéressé,le professeur ne voulait rien entendre,0,1,672
+L'enseignant était aussi amusé qu'un juge dans la salle d'audience,le professeur était intéressé,le professeur ne voulait rien entendre,1,1,672
+Toute la série avait la profondeur d'une flaque d'eau.,La série était ennuyeuse.,La série était profonde.,0,1,678
+Toute la série avait la profondeur d'un lac.,La série était ennuyeuse.,La série était profonde.,1,1,678
+L'air avait la propreté de la Chine préindustrielle,L'air est assez propre,L'air est sale,0,1,683
+L'air avait la propreté d'un aspirateur fraîchement ouvert,L'air est assez propre,L'air est sale,1,1,683
+Elle est aussi occupée qu'un castor.,Elle est vraiment occupée.,Elle est paresseuse.,0,1,687
+Elle est aussi occupée qu'un paresseux.,Elle est vraiment occupée.,Elle est paresseuse.,1,1,687
+Elle chante comme un oiseau chanteur.,Elle chante bien.,Elle chante mal.,0,1,688
+Elle chante comme un chat hurlant.,Elle chante bien.,Elle chante mal.,1,1,688
+Il est aussi ouvert qu'une porte fermée.,Il n'est pas ouvert du tout.,Il est très ouvert.,0,1,689
+Il est aussi ouvert qu'un grand centre commercial.,Il n'est pas ouvert du tout.,Il est très ouvert.,1,1,689
+Son humeur avait la permanence du soleil.,Son humeur ne change jamais.,Son humeur changeait constamment.,0,1,690
+Son humeur avait la permanence de la marée.,Son humeur ne change jamais.,Son humeur changeait constamment.,1,1,690
+Elle se cachait comme Anne Frank,Elle se cachait bien,Elle se cachait mal,0,1,693
+Elle se cachait comme un clown de cirque,Elle se cachait bien,Elle se cachait mal,1,1,693
+Ces faits étaient comme la Bible,Ces faits n'étaient pas vrais,Ces faits étaient vrais,0,1,694
+Ces faits étaient comme un dictionnaire,Ces faits n'étaient pas vrais,Ces faits étaient vrais,1,1,694
+Le score final du jeu a fini par être plus proche que les poils de la queue d'un chien.,Les équipes ont marqué des quantités de points similaires jusqu'à la fin du match.,Les équipes n'ont pas marqué des montants similaires jusqu'à la fin du match.,0,1,707
+Le score final du match a fini par être plus loin que deux poteaux de but sur un terrain de football.,Les équipes ont marqué des quantités de points similaires jusqu'à la fin du match.,Les équipes n'ont pas marqué des montants similaires jusqu'à la fin du match.,1,1,707
+Les faits ont vérifié le cas comme les mensonges d'un voleur,Les faits n'étaient pas fiables,Les faits étaient solides et étayaient l'affaire,0,1,708
+Les faits ont vérifié l'affaire comme une solide affaire Sherlock Holmes,Les faits n'étaient pas fiables,Les faits étaient solides et étayaient l'affaire,1,1,708
+Le rire est comme la musique de l'âme.,Le rire me rend heureux.,Le rire m'énerve.,0,1,712
+"Rire, c'est comme crier sur un tableau noir.",Le rire me rend heureux.,Le rire m'énerve.,1,1,712
+Les faits sont des rochers inamovibles.,Les faits ne peuvent pas être changés.,Les faits changent constamment.,0,1,714
+Les faits sont liquides.,Les faits ne peuvent pas être changés.,Les faits changent constamment.,1,1,714
+Sa bibliothèque était un cerveau.,Sa bibliothèque était vraiment intellectuelle.,Sa bibliothèque n'était pas impressionnante.,0,1,716
+Sa bibliothèque était une bouffée de fumée.,Sa bibliothèque était vraiment intellectuelle.,Sa bibliothèque n'était pas impressionnante.,1,1,716
+Son visage est un cratère.,Son visage est cahoteux.,Son visage est lisse.,0,1,718
+Son visage est une patinoire.,Son visage est cahoteux.,Son visage est lisse.,1,1,718
+Le conducteur est un bûcheron.,Le conducteur n'est pas prudent.,Le chauffeur est prudent.,0,1,719
+Le conducteur est une ballerine.,Le conducteur n'est pas prudent.,Le chauffeur est prudent.,1,1,719
+Le singe était un edison moderne,Le singe était intelligent,Le singe était muet,0,1,731
+Le singe était un décrocheur de 1ère année,Le singe était intelligent,Le singe était muet,1,1,731
+Elle a la conscience du pape après avoir fait une expérience religieuse,Elle a bonne conscience,Elle a mauvaise conscience,0,1,734
+Elle a la conscience d'Hitler dans un mauvais jour,Elle a bonne conscience,Elle a mauvaise conscience,1,1,734
+L'emballage de bonbons a les plis d'une vieille femme après avoir trempé dans un bain à remous,L'emballage est très craquant,L'emballage n'a pas de plis,0,1,735
+L'emballage du bonbon a les rides du visage d'une célébrité après une injection de Botox,L'emballage est très craquant,L'emballage n'a pas de plis,1,1,735
+Le microphone est aussi nerveux qu'une grenouille,le micro est très sensible/surpuissant.,le microphone est très insensible / sous-alimenté.,0,1,736
+Le microphone est aussi nerveux que la boue,le micro est très sensible/surpuissant.,le microphone est très insensible / sous-alimenté.,1,1,736
+La femme est aussi artistique qu'une vadrouille humide.,La femme n'est pas artiste.,La femme est une merveilleuse artiste.,0,1,740
+La femme est aussi artistique que Van Gogh.,La femme n'est pas artiste.,La femme est une merveilleuse artiste.,1,1,740
+Le parking est un cratère.,Le parking est cahoteux.,Le parking est lisse.,0,1,744
+Le parking est une feuille de verre.,Le parking est cahoteux.,Le parking est lisse.,1,1,744
+Le coup de poing m'a frappé avec la force d'une guimauve,Le coup de poing est doux,Le coup de poing est dur,0,1,749
+Le coup de poing m'a frappé avec la force d'une pierre,Le coup de poing est doux,Le coup de poing est dur,1,1,749
+L'envergure de l'aile de l'oiseau s'éternise,Les ailes de l'oiseau sont grandes et massives,Les ailes sont si petites qu'elles ressemblent à des ailes de papillon.,0,1,754
+L'envergure des ailes de l'oiseau est aussi petite que celle d'un papillon,Les ailes de l'oiseau sont grandes et massives,Les ailes sont si petites qu'elles ressemblent à des ailes de papillon.,1,1,754
+La classe était aussi intéressante qu'un sac en papier mouillé.,La classe était ennuyeuse et terne.,La classe était très inspirante et m'a fait penser d'une manière différente.,0,1,755
+La classe était si stimulante que je me sentais renaître.,La classe était ennuyeuse et terne.,La classe était très inspirante et m'a fait penser d'une manière différente.,1,1,755
+sa voix était café tôt le matin.,Il avait une voix très apaisante.,Sa voix était étonnamment désagréable.,0,1,757
+sa voix était une alarme tôt le matin.,Il avait une voix très apaisante.,Sa voix était étonnamment désagréable.,1,1,757
+Les chiens sont la loyauté et l'amour donné à la vie.,Chien créatures merveilleuses.,Les chiens sont des créatures grossières.,0,1,758
+Les chiens mendient et font caca.,Chien créatures merveilleuses.,Les chiens sont des créatures grossières.,1,1,758
+L'homme était aussi beau qu'un modèle de J. Crew,L'homme avait une excellente allure.,L'homme avait mauvaise mine.,0,1,764
+L'homme était aussi beau qu'un rat taupe nu,L'homme avait une excellente allure.,L'homme avait mauvaise mine.,1,1,764
+Son visage est un chemin de terre.,Son visage est cahoteux.,Son visage est lisse.,0,1,768
+Son visage est une feuille de verre.,Son visage est cahoteux.,Son visage est lisse.,1,1,768
+Le peintre est un derby de démolition.,Le peintre est rude.,Le peintre est prudent.,0,1,769
+Le peintre est chirurgien.,Le peintre est rude.,Le peintre est prudent.,1,1,769
+La petite amie de Matt est un distributeur automatique.,La petite amie de Matt est grande.,La petite amie de Matt est petite.,0,1,772
+La petite amie de Matt est un P.O. Boîte.,La petite amie de Matt est grande.,La petite amie de Matt est petite.,1,1,772
+Cette table a été faite par un dieu grec.,La table était bien construite.,La table était mal faite.,0,1,780
+Ce tableau a été réalisé par Un chimpanzé.,La table était bien construite.,La table était mal faite.,1,1,780
+La chambre de l'enfant était un dépotoir,La chambre de l'enfant était en désordre,La chambre de l'enfant était propre,0,1,785
+La chambre de l'enfant était une chambre d'hôpital pré-chirurgicale,La chambre de l'enfant était en désordre,La chambre de l'enfant était propre,1,1,785
+Son esprit était un ensemble de chaises brisées,Son esprit était confus.,Son esprit était intelligent.,0,1,789
+Son esprit était une étagère vintage.,Son esprit était confus.,Son esprit était intelligent.,1,1,789
+L'homme a abordé le projet avec autant d'habileté qu'un neurochirurgien,L'homme a apporté des compétences d'expert au projet.,L'homme n'a apporté aucune compétence au projet.,0,1,791
+L'homme a abordé le projet avec autant d'habileté qu'un collégien,L'homme a apporté des compétences d'expert au projet.,L'homme n'a apporté aucune compétence au projet.,1,1,791
+L'homme s'est déplacé aussi vite qu'une voiture coincée dans la circulation,L'homme se déplaçait sans aucune vitesse.,L'homme se déplaçait à grande vitesse.,0,1,792
+L'homme s'est déplacé aussi vite que Niagara Falls,L'homme se déplaçait sans aucune vitesse.,L'homme se déplaçait à grande vitesse.,1,1,792
+Il m'a parlé comme si j'allais lui donner de l'argent.,Il était vraiment sympathique.,Il était vraiment évasif.,0,1,797
+Il m'a parlé comme s'il pensait que j'allais lui demander de l'argent.,Il était vraiment sympathique.,Il était vraiment évasif.,1,1,797
+C'est à peu près aussi utile qu'un glaçon dans une tempête de neige.,Ce n'est pas du tout utile.,C'est très utile.,0,1,798
+C'est à peu près aussi utile qu'une cabine chauffée dans une tempête de neige.,Ce n'est pas du tout utile.,C'est très utile.,1,1,798
+Le matelas était doux comme du granit,Le matelas est dur,le matelas est moelleux,0,1,802
+Le matelas était doux comme un nuage,Le matelas est dur,le matelas est moelleux,1,1,802
+Le savon sentait comme un champ de lys,le savon sentait bon,le savon sentait mauvais,0,1,803
+Le savon sentait la bouse de gnou.,le savon sentait bon,le savon sentait mauvais,1,1,803
+Nous avons tout le temps de la durée de vie de l'univers,Nous avons beaucoup de temps,Nous avons très peu de temps,0,1,806
+On a tout le temps de la durée de vie d'une mouche domestique,Nous avons beaucoup de temps,Nous avons très peu de temps,1,1,806
+La culture a la profondeur d'une piscine pour enfants.,La culture est superficielle.,La culture est complexe.,0,1,808
+La culture a la profondeur de la fosse mariale.,La culture est superficielle.,La culture est complexe.,1,1,808
+La route est un lit de rochers.,La route est cahoteuse.,La route est lisse.,0,1,809
+La route est une patinoire.,La route est cahoteuse.,La route est lisse.,1,1,809
+Le yaourt était comme une pâte à rondelles d'oignon,Le yaourt était épais.,Le yaourt était mince.,0,1,811
+Le yaourt était comme de la brume,Le yaourt était épais.,Le yaourt était mince.,1,1,811
+Le revêtement en masonite sur les maisons repousse l'eau ainsi qu'une éponge,Le revêtement en masonite absorbe l'eau,Masonite est hydrofuge,0,1,814
+Le revêtement en masonite sur les maisons repousse l'eau ainsi qu'un imperméable,Le revêtement en masonite absorbe l'eau,Masonite est hydrofuge,1,1,814
+Leur culture a l'ouverture d'un pré,La culture est très ouverte et tolérante,La culture n'est ni ouverte ni tolérante,0,1,823
+Leur culture a l'ouverture d'un placard,La culture est très ouverte et tolérante,La culture n'est ni ouverte ni tolérante,1,1,823
+La femme a la superficialité d'un seau,Elle est très superficielle,Elle n'est pas très superficielle,0,1,825
+La femme a la faible profondeur de l'océan,Elle est très superficielle,Elle n'est pas très superficielle,1,1,825
+Cet endroit est aussi cultivé qu'un musée,Cet endroit est très cultivé.,Cet endroit est lowbrow et non cultivé.,0,1,829
+Cet endroit est aussi cultivé qu'un relais routier,Cet endroit est très cultivé.,Cet endroit est lowbrow et non cultivé.,1,1,829
+Il est aussi fort qu'un culturiste,Il est fort.,Il est faible.,0,1,832
+Il est aussi fort qu'un grand-père,Il est fort.,Il est faible.,1,1,832
+La crème pour le visage a la texture du gravier.,La crème pour le visage est trop rugueuse.,La crème pour le visage est légère.,0,1,841
+La crème pour le visage a la texture d'une mousse au chocolat.,La crème pour le visage est trop rugueuse.,La crème pour le visage est légère.,1,1,841
+Le chien est aussi vicieux qu'un poisson rouge,Le chien est docile.,Le chien est dangereux.,0,1,850
+Le chien est aussi vicieux qu'un ours affamé,Le chien est docile.,Le chien est dangereux.,1,1,850
+Le brouillard est aussi dense que le fer,Le brouillard est épais et difficile à voir.,Le brouillard est mince et facile à voir.,0,1,851
+Le brouillard est aussi dense que du plexiglas,Le brouillard est épais et difficile à voir.,Le brouillard est mince et facile à voir.,1,1,851
+"Un prêtre est sexuellement actif aussi souvent qu'un tremblement de terre de 9,1",Un prêtre est rarement sexuellement actif,Un prêtre est extrêmement actif sexuellement,0,1,852
+Un prêtre est sexuellement actif comme Mount St Helens,Un prêtre est rarement sexuellement actif,Un prêtre est extrêmement actif sexuellement,1,1,852
+Le docteur a le cerveau d'un ordinateur dans Star Trek,Le médecin est très intelligent,Le médecin n'est pas très intelligent,0,1,860
+Le médecin a le cerveau d'un pigeon sous-développé,Le médecin est très intelligent,Le médecin n'est pas très intelligent,1,1,860
+La fille était aussi exigeante qu'une actrice hollywoodienne,La fille était très exigeante.,La fille n'était pas exigeante du tout.,0,1,862
+La fille était aussi exigeante qu'une bénévole de soupe populaire,La fille était très exigeante.,La fille n'était pas exigeante du tout.,1,1,862
+Les bijoux qu'elle a essayé de mettre en gage ont la valeur d'un mouchoir de vagabond,Les bijoux ne valent pas grand chose,Les bijoux sont très précieux,0,1,869
+Les bijoux qu'elle a essayé de mettre en gage ont la valeur d'un tas de lingots d'or,Les bijoux ne valent pas grand chose,Les bijoux sont très précieux,1,1,869
+Elle possédait la beauté d'un bousier,Elle est moche,Elle est belle,0,1,871
+Elle possédait la beauté d'un mannequin fabuleux,Elle est moche,Elle est belle,1,1,871
+Il a le positionnement d'un joueur de la NFL.,Il a un positionnement de niveau professionnel.,Il a un mauvais positionnement.,0,1,875
+Il a le positionnement du calmar.,Il a un positionnement de niveau professionnel.,Il a un mauvais positionnement.,1,1,875
+Il a la discipline d'un moine bouddhiste.,Il est extrêmement discipliné.,Il n'est pas discipliné du tout.,0,1,877
+Il a la discipline d'une hyène sauvage.,Il est extrêmement discipliné.,Il n'est pas discipliné du tout.,1,1,877
+Le poivre est un enfer,Le poivre est super piquant,Le poivre n'est pas piquant,0,1,878
+Le poivre est un glaçon,Le poivre est super piquant,Le poivre n'est pas piquant,1,1,878
+Il a toute la colère d'un chien battu,Il est très en colère,Il n'est pas du tout en colère,0,1,883
+Il a toute la colère d'un papillon heureux,Il est très en colère,Il n'est pas du tout en colère,1,1,883
+Ses cheveux a l'huile du golfe du Mexique en avril 2010,Ses cheveux sont gras,Ses cheveux sont sans huile,0,1,885
+Ses cheveux ont de l'huile de détergent à vaisselle Dawn,Ses cheveux sont gras,Ses cheveux sont sans huile,1,1,885
+L'église était aussi orthodoxe qu'une réunion occulte.,L'église était hérétique et allait au-delà des limites des enseignements acceptés.,L'église était dans les limites des enseignements acceptés et était conforme à la Grande Tradition.,0,1,886
+L'église était aussi orthodoxe que les anciens pères de l'église.,L'église était hérétique et allait au-delà des limites des enseignements acceptés.,L'église était dans les limites des enseignements acceptés et était conforme à la Grande Tradition.,1,1,886
+La langue de la fille était aussi tranchante qu'une épée,La langue des filles était très pointue.,La langue de la fille n'était pas acérée du tout.,0,1,890
+La langue de la fille était aussi pointue qu'un oreiller,La langue des filles était très pointue.,La langue de la fille n'était pas acérée du tout.,1,1,890
+Il est aussi spirituel qu'un bouddha,Il est très religieux,Il n'est pas religieux,0,1,892
+Il est aussi spirituel que mon chien,Il est très religieux,Il n'est pas religieux,1,1,892
+Ses pensées coulaient comme le sable dans un sablier,Ses pensées coulaient doucement et régulièrement.,Ses pensées allaient dans tous les sens.,0,1,897
+Ses pensées coulaient comme un singe de break dance,Ses pensées coulaient doucement et régulièrement.,Ses pensées allaient dans tous les sens.,1,1,897
+Son garçonnière sentait aussi frais qu'une salle de bain de dortoir de fraternité le soir de Taco Bell,Sa garçonnière sentait mauvais,Sa garçonnière sentait bon,0,1,899
+Son garçonnière sentait aussi frais qu'une usine de parfums Ralph Lauren,Sa garçonnière sentait mauvais,Sa garçonnière sentait bon,1,1,899
+Mon âme pèse autant qu'un billet d'un dollar,Mon âme est sans souci,Mon âme est inquiète,0,1,904
+Mon âme pèse autant qu'un pneu de camion,Mon âme est sans souci,Mon âme est inquiète,1,1,904
+Il a la spiritualité du pape après avoir reçu une vision de Dieu,Il est très spirituel,Il n'est pas spirituel du tout,0,1,910
+Il a la spiritualité d'un athée qui brûle des églises,Il est très spirituel,Il n'est pas spirituel du tout,1,1,910
+Le film avait la durée de vie de cent soleils,Le film était très long,Le film était assez court,0,1,911
+Le film avait la durée de la distance parcourue par une fourmi en une minute,Le film était très long,Le film était assez court,1,1,911
+Le médecin est aussi amical qu'un essaim de guêpes.,Le docteur est méchant.,Le docteur est adorable.,0,1,913
+Le médecin est aussi amical qu'une meute de chiots.,Le docteur est méchant.,Le docteur est adorable.,1,1,913
+Son discours avait l'urgence d'un homme qui doit uriner,Son discours avait beaucoup d'urgence,Son discours n'avait aucune urgence,0,1,924
+Son discours avait l'urgence d'une échéance lointaine,Son discours avait beaucoup d'urgence,Son discours n'avait aucune urgence,1,1,924
+Cette œuvre d'art est aussi brillante qu'un poisson rouge.,Cette œuvre d'art est stupide.,Cette oeuvre d'art est un chef-d'oeuvre.,0,1,925
+Cette œuvre d'art est aussi brillante que le Taj Mahal.,Cette œuvre d'art est stupide.,Cette oeuvre d'art est un chef-d'oeuvre.,1,1,925
+Cette tenue est digne d'une meute de gremlins.,Cette tenue est horrible.,Cette tenue est incroyable.,0,1,926
+Cette tenue est digne des podiums.,Cette tenue est horrible.,Cette tenue est incroyable.,1,1,926
+Ils collaborent comme une souris et un fromage.,Ils collaborent vraiment bien.,Ils ne collaborent pas bien du tout.,0,1,928
+Ils collaborent comme une souris et un chat affamé.,Ils collaborent vraiment bien.,Ils ne collaborent pas bien du tout.,1,1,928
+Il a la discipline d'un instructeur de forage.,Il est très discipliné.,Il n'est pas du tout discipliné.,0,1,929
+Il a la discipline d'un bambin.,Il est très discipliné.,Il n'est pas du tout discipliné.,1,1,929
+Il a la vitesse d'un guépard.,Il est très rapide.,Il est très lent.,0,1,930
+Il a la vitesse d'un paresseux.,Il est très rapide.,Il est très lent.,1,1,930
+Elle était aussi amicale qu'un vieux chat en colère,Elle n'était pas gentille du tout,Elle était contente de nous voir,0,1,933
+Elle était aussi amicale qu'un chiot nouveau-né,Elle n'était pas gentille du tout,Elle était contente de nous voir,1,1,933
+Elle a la durée d'attention d'un moucheron,Elle a une courte durée d'attention,Elle a une longue durée d'attention,0,1,935
+Elle a la capacité d'attention d'un dauphin,Elle a une courte durée d'attention,Elle a une longue durée d'attention,1,1,935
+La maison a l'âge d'une momie de l'Égypte ancienne,La maison est vieille,La maison est jeune,0,1,936
+La maison est l'âge de La Momie avec Tom Cruise,La maison est vieille,La maison est jeune,1,1,936
+La boîte contient toutes les nouilles du garde-manger du chef Boyardee,La boîte contient de nombreuses nouilles,La boîte contient peu de nouilles,0,1,938
+"La boîte contient toutes les nouilles d'une portion de nourriture ""taille amusante""",La boîte contient de nombreuses nouilles,La boîte contient peu de nouilles,1,1,938
+La ballerine avait l'élégance et la grâce d'un flamant rose.,La ballerine était gracieuse.,La ballerine était maladroite.,0,1,941
+La ballerine avait l'élégance et la grâce d'un hippopotame.,La ballerine était gracieuse.,La ballerine était maladroite.,1,1,941
+Le chien est aussi courageux que le lion lâche.,Le chien est lâche.,Le chien est très courageux.,0,1,944
+Le chien est aussi courageux qu'une armée entière.,Le chien est lâche.,Le chien est très courageux.,1,1,944
+Le ballon avait la capacité de flotter d'Aquaman sous l'eau,Le ballon flotte bien,Le ballon flotte mal,0,1,957
+Le ballon avait la capacité de flotter d'Aquaman sur terre,Le ballon flotte bien,Le ballon flotte mal,1,1,957
+Le métal est une peau de serpent.,Le métal est rugueux.,Le métal est lisse.,0,1,966
+Le métal est un miroir.,Le métal est rugueux.,Le métal est lisse.,1,1,966
+L'endroit était aussi joyeux qu'une fête,L'endroit était joyeux.,L'endroit était misérable.,0,1,979
+L'endroit était aussi joyeux qu'un enterrement,L'endroit était joyeux.,L'endroit était misérable.,1,1,979
+C'est aussi croustillant que du bacon frit!,L'article est très croustillant.,L'article n'est pas du tout croustillant.,0,1,982
+C'est aussi croustillant que du bacon cru !,L'article est très croustillant.,L'article n'est pas du tout croustillant.,1,1,982
+Il est aussi mignon qu'un panda roux !,Il était très mignon.,Il n'était pas très mignon.,0,1,983
+Il est aussi mignon qu'un blobfish.,Il était très mignon.,Il n'était pas très mignon.,1,1,983
+Le métal a la force d'Hercule.,Le métal est très solide,Le métal est très faible,0,1,985
+Le métal a la force d'une nouille de cheveux d'ange mouillée.,Le métal est très solide,Le métal est très faible,1,1,985
+Je veux passer du temps avec ce projet comme si c'était mon ennemi,Vous ne voulez pas perdre de temps sur le projet,Vous voulez passer du temps sur le projet,0,1,995
+Je veux passer du temps avec ce projet comme si c'était mon jeu,Vous ne voulez pas perdre de temps sur le projet,Vous voulez passer du temps sur le projet,1,1,995
+Le projet est aussi favorable que mon ennemi,Le projet n'est pas favorable,Le projet est favorable,0,1,996
+Le projet est aussi favorable que mon jeu,Le projet n'est pas favorable,Le projet est favorable,1,1,996
+Il est aussi brillant que l'étoile polaire.,Il est très intelligent.,Il n'est pas très intelligent.,0,1,1002
+Il est aussi brillant qu'une ampoule morte.,Il est très intelligent.,Il n'est pas très intelligent.,1,1,1002
+Le lapin a la vitesse d'une voiture de course,Le lapin est rapide,Le lapin est lent,0,1,1005
+Le lapin a la vitesse d'un paresseux,Le lapin est rapide,Le lapin est lent,1,1,1005
+Le canard avait tout le bruit d'une voiture de course qui klaxonnait à chaque fois qu'il croisait un brin d'herbe,Le canard est bruyant,Le canard est silencieux,0,1,1008
+Le canard avait tout le bruit d'une pile de papiers sous un presse-papier,Le canard est bruyant,Le canard est silencieux,1,1,1008
+Cette femme a la peau d'un serpent muet.,Cette femme a la peau morte qui pèle.,Cette femme a la peau lisse.,0,1,1011
+Cette femme a la peau d'un morceau de verre.,Cette femme a la peau morte qui pèle.,Cette femme a la peau lisse.,1,1,1011
+Le roman a la relativité émotionnelle d'un boa constrictor.,Le roman n'est pas racontable.,Le roman est racontable.,0,1,1014
+Le roman a la relativité émotionnelle d'un vieil ami.,Le roman n'est pas racontable.,Le roman est racontable.,1,1,1014
+La maison est aussi grande que le Grand Canyon,La maison est énorme.,La maison est minuscule.,0,1,1021
+La maison est aussi grande qu'une souricière,La maison est énorme.,La maison est minuscule.,1,1,1021
+Le film a la profondeur d'un livre de Dick et Jane,Le film est simpliste.,Le film a une intrigue profonde.,0,1,1025
+Le film a la profondeur d'une pièce shakespearienne,Le film est simpliste.,Le film a une intrigue profonde.,1,1,1025
+La personne moyenne a les émotions d'un mammifère complexe et sensible,La personne moyenne a beaucoup d'émotions,La personne moyenne n'a pas d'émotions,0,1,1033
+La personne moyenne a les émotions d'un automate froid et insensible,La personne moyenne a beaucoup d'émotions,La personne moyenne n'a pas d'émotions,1,1,1033
+"L'éponge a l'absorption d'un gros homme lors d'un buffet ""All You Can Eat""",L'éponge a une absorption élevée,L'éponge peut absorber peu,0,1,1034
+L'éponge a l'absorption d'un morceau de papier toilette à une épaisseur,L'éponge a une absorption élevée,L'éponge peut absorber peu,1,1,1034
+L'idée du PDG était aussi avant-gardiste qu'un robot avec des émotions,L'idée du PDG était extrêmement nouvelle.,L'idée du PDG était dépassée.,0,1,1037
+L'idée du PDG était aussi avant-gardiste que MySpace,L'idée du PDG était extrêmement nouvelle.,L'idée du PDG était dépassée.,1,1,1037
+La fille était aussi bien informée que Google,La fille était extrêmement intelligente.,La fille était ignorante.,0,1,1038
+La fille était aussi bien informée qu'un chiot non dressé,La fille était extrêmement intelligente.,La fille était ignorante.,1,1,1038
+Peter porte des chaussures qui pourraient être classées comme navires océaniques.,Peter porte des chaussures de très grande taille.,Peter porte des chaussures de très petite taille.,0,1,1039
+Peter porte des chaussures qui pourraient convenir à un elfe.,Peter porte des chaussures de très grande taille.,Peter porte des chaussures de très petite taille.,1,1,1039
+L'atmosphère à Mexico est un sauna,L'atmosphère est smog,L'atmosphère est propre,0,1,1042
+L'atmosphère à Mexico est de verre,L'atmosphère est smog,L'atmosphère est propre,1,1,1042
+La fleur a l'arôme du baiser d'une mère,La fleur sent bon,La fleur sent mauvais,0,1,1043
+La fleur a l'arôme du baiser de satan,La fleur sent bon,La fleur sent mauvais,1,1,1043
+La relation a eu la durée d'un marathon,La relation a été longue,La relation a été courte,0,1,1044
+La relation avait la longueur d'un trombone,La relation a été longue,La relation a été courte,1,1,1044
+George a frappé le sol comme une tonne de briques,George a frappé durement le sol,George a touché le sol doucement,0,1,1049
+George a touché le sol comme une plume,George a frappé durement le sol,George a touché le sol doucement,1,1,1049
+Le film a la profondeur d'un personnage de dessin animé unidimensionnel.,Le film est ennuyeux,Le film est profond,0,1,1050
+Le film a la profondeur d'un trou noir englobant tout l'espace extra-atmosphérique.,Le film est ennuyeux,Le film est profond,1,1,1050
+L'écrivain avait la profondeur d'une baignoire vide.,L'écrivain était terne.,L'écrivain était profond.,0,1,1053
+L'écrivain avait la profondeur de la fosse des Mariannes.,L'écrivain était terne.,L'écrivain était profond.,1,1,1053
+La majorette avait la profondeur d'un évier vide.,La pom-pom girl était superficielle.,La pom-pom girl était profonde.,0,1,1054
+La majorette avait la profondeur du fond de l'océan.,La pom-pom girl était superficielle.,La pom-pom girl était profonde.,1,1,1054
+Sa réaction au cafard était aussi subtile que de se faire électrocuter lors d'une crise de grand mal,Sa réaction au cafard était histrionique,Sa réaction au cafard était calme,0,1,1056
+Sa réaction au cafard était aussi subtile qu'un scientifique observant de la moisissure dans une boîte de Pétri,Sa réaction au cafard était histrionique,Sa réaction au cafard était calme,1,1,1056
+Cette chanson est aussi bonne à écouter que des clous sur un tableau.,la chanson est désagréable,la chanson est éthérée bonne.,0,1,1060
+Cette chanson est aussi bonne à écouter que le son des cloches des anges.,la chanson est désagréable,la chanson est éthérée bonne.,1,1,1060
+Le devoir a la complexité de la physique théorique,Les devoirs sont impossibles à comprendre pleinement,Les devoirs sont simples et directs,0,1,1062
+Le devoir a la complexité d'un rocher,Les devoirs sont impossibles à comprendre pleinement,Les devoirs sont simples et directs,1,1,1062
+Cette vague est la Sears Tower,la vague est haute,la vague est courte,0,1,1066
+Cette vague est une fourmilière,la vague est haute,la vague est courte,1,1,1066
+La température me donnait l'impression d'être dans une glacière,La température était froide.,La température était chaude.,0,1,1078
+La température me donnait l'impression d'être dans un gril,La température était froide.,La température était chaude.,1,1,1078
+Écouter de la musique classique ressemble à un océan d'émotions,la musique classique est intense,la musique classique est ennuyeuse,0,1,1082
+Écouter de la musique classique donne l'impression d'être dans le coma,la musique classique est intense,la musique classique est ennuyeuse,1,1,1082
+Le compteur est un serpent,Le comptoir est courbé.,Le compteur est droit.,0,1,1085
+Le compteur est une règle.,Le comptoir est courbé.,Le compteur est droit.,1,1,1085
+C'est à peu près aussi chaud qu'un œuf dans une poêle à frire.,C'est très chaud.,Il ne fait pas chaud du tout.,0,1,1087
+C'est à peu près aussi chaud qu'un glaçon.,C'est très chaud.,Il ne fait pas chaud du tout.,1,1,1087
+Ce livre a l'effet d'un somnifère,Le livre est ennuyeux,Le livre est passionnant,0,1,1092
+Ce livre a l'effet d'une pilule de caféine,Le livre est ennuyeux,Le livre est passionnant,1,1,1092
+Tu es aussi expressif qu'un acteur,tu es très expressif,Tu es inexpressif,0,1,1094
+Tu es aussi expressif qu'un robot,tu es très expressif,Tu es inexpressif,1,1,1094
+Il est aussi profond qu'une flaque d'eau,Il n'est pas un penseur profond,C'est un penseur très profond,0,1,1098
+Il est aussi profond que la mer,Il n'est pas un penseur profond,C'est un penseur très profond,1,1,1098
+Ce professeur est Google.,Ce professeur est compétent.,Ce professeur est obsolète.,0,1,1103
+Ce professeur est America Online.,Ce professeur est compétent.,Ce professeur est obsolète.,1,1,1103
+Ta maman est une montgolfière.,Ta maman est gonflée.,Ta maman est sexy.,0,1,1104
+Ta maman est un lynx habile.,Ta maman est gonflée.,Ta maman est sexy.,1,1,1104
+Le lit de l'hôtel était aussi luxueux que de l'or 24 carats,Le lit était très luxueux.,Le lit de l'hôtel n'était pas luxueux du tout.,0,1,1107
+Le lit de l'hôtel était aussi luxueux qu'un sac de couchage,Le lit était très luxueux.,Le lit de l'hôtel n'était pas luxueux du tout.,1,1,1107
+La robe avait l'épaisseur du cellophane.,La robe était transparente.,La robe était solide.,0,1,1114
+La robe avait l'épaisseur d'un morceau de bois massif.,La robe était transparente.,La robe était solide.,1,1,1114
+Le bain à remous avait la puissance d'aspiration d'un plongeur olympique venant prendre l'air,Le bain à remous avait une forte aspiration,L'aspiration du bain à remous était faible,0,1,1119
+Le bain à remous avait la puissance d'aspiration d'un aspirateur après avoir aspiré un emballage de cheeseburger,Le bain à remous avait une forte aspiration,L'aspiration du bain à remous était faible,1,1,1119
+Darcy avait le talent de danseur de Michael Jackson avec des jambes bioniques,Darcy est une grande danseuse,Darcy peut à peine danser,0,1,1120
+Darcy avait l'habileté de danser d'une araignée à six pattes sur des béquilles,Darcy est une grande danseuse,Darcy peut à peine danser,1,1,1120
+Ma colère est comme un univers.,Ma colère est immense.,Ma colère est fluctuante.,0,1,1124
+Ma colère est comme une vague agitée.,Ma colère est immense.,Ma colère est fluctuante.,1,1,1124
+Son arrivée était aussi excitante qu'un feu d'artifice,Il a créé beaucoup d'émotion,Les gens étaient ennuyés par son apparence,0,1,1129
+Son arrivée était aussi excitante qu'une course d'escargots,Il a créé beaucoup d'émotion,Les gens étaient ennuyés par son apparence,1,1,1129
+Il était aussi en colère qu'une bête sauvage,Il était en colère,Il était calme et pas en colère,0,1,1133
+Il était aussi en colère qu'un maître zen,Il était en colère,Il était calme et pas en colère,1,1,1133
+Tu es lisse comme une balle,Tu es très lisse,Tu es très rugueux et pas lisse,0,1,1134
+Tu es lisse comme un cactus,Tu es très lisse,Tu es très rugueux et pas lisse,1,1,1134
+La femme avait la dureté d'un rhinocéros.,La femme était très dure.,La femme n'était pas très dure.,0,1,1136
+La femme avait la dureté d'un cobaye.,La femme était très dure.,La femme n'était pas très dure.,1,1,1136
+Cet homme avait la fiabilité d'un chirurgien avec dix ans d'expérience.,L'homme était très fiable.,On ne pouvait pas du tout compter sur l'homme.,0,1,1137
+Cet homme avait la fiabilité d'un chirurgien de dix ans.,L'homme était très fiable.,On ne pouvait pas du tout compter sur l'homme.,1,1,1137
+Le papillon m'a rappelé le Silence des Agneaux,Le papillon de nuit m'a rappelé quelque chose d'effrayant.,Le papillon de nuit m'a rappelé quelque chose de réconfortant.,0,1,1144
+Le papillon de nuit m'a rappelé les étés chez grand-mère,Le papillon de nuit m'a rappelé quelque chose d'effrayant.,Le papillon de nuit m'a rappelé quelque chose de réconfortant.,1,1,1144
+Le papillon avait la coloration d'une clôture de boue,La coloration du papillon est terne,La coloration du papillon est magnifique,0,1,1146
+Le papillon avait la coloration du plumage d'un paon,La coloration du papillon est terne,La coloration du papillon est magnifique,1,1,1146
+La sélection au magasin ressemblait à celle d'un vendeur de rue solitaire,Le magasin a une sélection limitée d'articles,Le magasin propose une large gamme d'articles,0,1,1147
+La sélection au magasin ressemblait à celle d'un immense grand magasin,Le magasin a une sélection limitée d'articles,Le magasin propose une large gamme d'articles,1,1,1147
+Le PDG était un bûcheron.,Le PDG a été maladroit,Le PDG était prudent.,0,1,1150
+Le PDG était sculpteur.,Le PDG a été maladroit,Le PDG était prudent.,1,1,1150
+L'homme avait la coordination d'un acrobate,Il était très coordonné,Il était très mal coordonné,0,1,1153
+L'homme avait la coordination d'un marin ivre,Il était très coordonné,Il était très mal coordonné,1,1,1153
+Adam est aussi fort qu'un tsunami.,Adam est fort.,Adam est faible.,0,1,1154
+Adam est aussi fort qu'une douce vague,Adam est fort.,Adam est faible.,1,1,1154
+Lisa est tranchante comme une hache.,Lisa est intelligente.,Lisa est muette.,0,1,1155
+Lisa est tranchante comme une éponge.,Lisa est intelligente.,Lisa est muette.,1,1,1155
+Sa maison semblait être faite de désinfectant pour les mains.,La maison était vraiment propre.,La maison était dégoûtante.,0,1,1156
+Sa maison semblait être faite de bactéries.,La maison était vraiment propre.,La maison était dégoûtante.,1,1,1156
+Cette maison hantée a un facteur de peur d'un lapin mangeant une carotte,La maison hantée était douce et apprivoisée,La maison hantée était effrayante et écœurante,0,1,1163
+Cette maison hantée a peur d'être gavée de cafards par un zombie,La maison hantée était douce et apprivoisée,La maison hantée était effrayante et écœurante,1,1,1163
+Les étudiants sont aussi concentrés que les chirurgiens cardiothoraciques,Les élèves sont aussi concentrés que possible.,Les élèves ont un manque total de concentration.,0,1,1170
+Les élèves sont aussi concentrés que les jeunes chiots,Les élèves sont aussi concentrés que possible.,Les élèves ont un manque total de concentration.,1,1,1170
+L'éléphant est une baleine.,L'éléphant est grand.,L'éléphant est petit.,0,1,1173
+L'éléphant est une souris.,L'éléphant est grand.,L'éléphant est petit.,1,1,1173
+Le sens du poème était aussi accessible que l'Énéide de Virgile.,Le sens n'est pas explicite; il nécessite une formation d'experts pour le comprendre.,Le sens est facile à déchiffrer sans grande expertise.,0,1,1187
+Le sens du poème était aussi accessible que le conte de fées de l'enfance.,Le sens n'est pas explicite; il nécessite une formation d'experts pour le comprendre.,Le sens est facile à déchiffrer sans grande expertise.,1,1,1187
+La scène était aussi rafraîchissante que de la limonade,La scène était totalement rafraîchissante.,La scène n'était pas du tout rafraîchissante.,0,1,1188
+La scène était aussi rafraîchissante qu'un verre vide,La scène était totalement rafraîchissante.,La scène n'était pas du tout rafraîchissante.,1,1,1188
+La voiture est une baleine,La voiture est grande,La voiture est petite,0,1,1192
+La voiture est une amibe,La voiture est grande,La voiture est petite,1,1,1192
+Les pieds de la chaise sont des brindilles,Les pattes sont fines et cassantes,Les jambes sont épaisses et lourdes,0,1,1194
+Les pieds de la chaise sont des troncs d'arbres,Les pattes sont fines et cassantes,Les jambes sont épaisses et lourdes,1,1,1194
+Son sourire était une porte fermée.,Son sourire n'était pas invitant.,Son sourire était invitant.,0,1,1196
+Son sourire était une porte ouverte.,Son sourire n'était pas invitant.,Son sourire était invitant.,1,1,1196
+Cette réunion d'affaires était un coup d'état,La réunion d'affaires était quand ils ont trahi le chef.,La réunion d'affaires était quand ils ont choisi le chef.,0,1,1197
+Cette réunion d'affaires était un couronnement royal.,La réunion d'affaires était quand ils ont trahi le chef.,La réunion d'affaires était quand ils ont choisi le chef.,1,1,1197
+J'ai autant d'idées de livres qu'il y a de jours dans une année,J'ai plus de 300 idées de livres,Je n'ai que quelques idées de livres.,0,1,1211
+J'ai autant d'idées de livres qu'il y a de 00 dans cent,J'ai plus de 300 idées de livres,Je n'ai que quelques idées de livres.,1,1,1211
+L'ours est un chiot,L'ours est doux et docile,L'ours est agressif,0,1,1212
+L'ours est un T-rex,L'ours est doux et docile,L'ours est agressif,1,1,1212
+Le fait qu'il conduise cette voiture vous indique que ses parents ne l'ont jamais aimé.,La voiture démontre les insécurités sous-jacentes du conducteur.,La voiture démontre le sentiment de sécurité du conducteur.,0,1,1216
+Le fait qu'il conduise cette voiture vous indique qu'il n'a jamais été victime d'intimidation au lycée.,La voiture démontre les insécurités sous-jacentes du conducteur.,La voiture démontre le sentiment de sécurité du conducteur.,1,1,1216
+Le puits a toute l'eau de la bosse dans le dos d'un chameau,Il y a beaucoup d'eau dans le puits,Le puits est sec,0,1,1217
+Le puits a toute l'eau du désert de Gobi,Il y a beaucoup d'eau dans le puits,Le puits est sec,1,1,1217
+Le rasoir était tranchant comme une guillotine,Le rasoir était tranchant,Le rasoir n'était pas tranchant,0,1,1221
+Le rasoir était tranchant comme un crayon émoussé,Le rasoir était tranchant,Le rasoir n'était pas tranchant,1,1,1221
+Je préfère vivre comme une fourmi.,Je préfère vivre une vie axée sur le travail acharné afin d'être prêt pour l'avenir,"Je préfère vivre une vie insouciante et dans l'instant, sans penser à l'avenir.",0,1,1223
+Je préfère vivre comme une sauterelle.,Je préfère vivre une vie axée sur le travail acharné afin d'être prêt pour l'avenir,"Je préfère vivre une vie insouciante et dans l'instant, sans penser à l'avenir.",1,1,1223
+Son esprit est un piège en acier.,"Elle se souvient de tout, aussi insignifiant soit-il.",Elle ne se souvient de rien et a perdu la moitié de ce qu'elle savait autrefois.,0,1,1224
+Son esprit est du fromage suisse.,"Elle se souvient de tout, aussi insignifiant soit-il.",Elle ne se souvient de rien et a perdu la moitié de ce qu'elle savait autrefois.,1,1,1224
+La chanson était aussi optimiste qu'un match de football,La chanson était vraiment entraînante.,La chanson était lourde.,0,1,1225
+La chanson était aussi entraînante qu'un hymne funéraire,La chanson était vraiment entraînante.,La chanson était lourde.,1,1,1225
+Le rasoir est une lame nouvellement polie.,Le rasoir est tranchant.,Le rasoir est terne.,0,1,1227
+Le rasoir est une paire de ciseaux de cuisine rouillés.,Le rasoir est tranchant.,Le rasoir est terne.,1,1,1227
+Elle se repose autant qu'un chat.,Elle se repose beaucoup.,Elle ne se repose pas beaucoup du tout.,0,1,1231
+Elle se repose autant qu'une mère de triplés.,Elle se repose beaucoup.,Elle ne se repose pas beaucoup du tout.,1,1,1231
+La balle a rebondi aussi haut que le ciel,La balle a rebondi très haut,La balle a à peine rebondi.,0,1,1234
+La balle a rebondi aussi haut que le sol,La balle a rebondi très haut,La balle a à peine rebondi.,1,1,1234
+Le rasoir avait le tranchant d'une épée,Le rasoir était tranchant,Le rasoir était terne,0,1,1235
+Le rasoir avait le tranchant d'une pierre,Le rasoir était tranchant,Le rasoir était terne,1,1,1235
+Le rasoir est un bâton de rouille,Le rasoir est rouillé et vieux.,Le rasoir est tranchant.,0,1,1240
+Le rasoir est un couteau.,Le rasoir est rouillé et vieux.,Le rasoir est tranchant.,1,1,1240
+Il a un coeur de pierre,Il est dur,Il est généreux,0,1,1245
+Il a un coeur d'or,Il est dur,Il est généreux,1,1,1245
+La girafe est un bébé anguille nouveau-né.,La girafe est maladroite.,La girafe est élégante.,0,1,1251
+La girafe est une gazelle.,La girafe est maladroite.,La girafe est élégante.,1,1,1251
+Il est aussi grand qu'une girafe.,Il est vraiment grand.,Il est vraiment petit.,0,1,1252
+Il est aussi grand qu'un gnome.,Il est vraiment grand.,Il est vraiment petit.,1,1,1252
+Elle rit autant qu'un clown.,Elle rit beaucoup.,Elle ne rit pas beaucoup du tout.,0,1,1254
+Elle rit autant qu'une bibliothécaire stricte.,Elle rit beaucoup.,Elle ne rit pas beaucoup du tout.,1,1,1254
+La voiture roulait aussi doucement que du beurre,La voiture a bien roulé,La voiture a roulé à peu près,0,1,1257
+La voiture roulait aussi lisse que du gravier,La voiture a bien roulé,La voiture a roulé à peu près,1,1,1257
+Nous sommes aussi bons amis que deux chiens qui se disputent le dernier os.,Ils ne sont pas du tout de bons amis et sont désespérés.,Ce sont de bons amis et ils sont à l'aise.,0,1,1267
+Nous sommes aussi bons amis que deux chiens profitant d'un festin.,Ils ne sont pas du tout de bons amis et sont désespérés.,Ce sont de bons amis et ils sont à l'aise.,1,1,1267
+La validité de son excuse était aussi solide qu'une feuille de papier de soie,Son excuse était fragile,Son excuse était solide,0,1,1269
+La validité de son excuse était aussi solide que la Bibliothèque du Congrès,Son excuse était fragile,Son excuse était solide,1,1,1269
+Elle m'a aimé comme une mère,Elle m'aimait.,Elle ne m'aimait pas du tout.,0,1,1272
+Elle m'aimait comme une méchante belle-mère,Elle m'aimait.,Elle ne m'aimait pas du tout.,1,1,1272
+Sa voix était aussi calme qu'une souris,Sa voix était calme.,Sa voix était forte.,0,1,1273
+Sa voix était aussi silencieuse qu'un mégaphone,Sa voix était calme.,Sa voix était forte.,1,1,1273
+Les graines ont la dureté de courir un marathon en portant un rocher sur le dos,Les graines sont dures,Les graines sont molles,0,1,1274
+Les graines ont la dureté d'un bol de glace fondante,Les graines sont dures,Les graines sont molles,1,1,1274
+La viande a l'odeur d'un jambon de Noël fraîchement cuit,La viande sent bon,La viande sent mauvais,0,1,1275
+La viande a l'odeur d'une paire de chaussures de course en sueur,La viande sent bon,La viande sent mauvais,1,1,1275
+Cette table a la stabilité d'une montagne,Ce tableau est très solide.,Ce tableau est très fragile.,0,1,1278
+Cette table a la stabilité d'un château de cartes.,Ce tableau est très solide.,Ce tableau est très fragile.,1,1,1278
+Ce bâtiment a été construit au Jurassique.,Ce bâtiment a été construit il y a longtemps,Ce bâtiment a été construit très récemment.,0,1,1279
+Ce bâtiment a été construit il y a une seconde.,Ce bâtiment a été construit il y a longtemps,Ce bâtiment a été construit très récemment.,1,1,1279
+Ce repas a le goût d'avoir été préparé par Gordon Ramsay.,La nourriture est délicieuse.,La nourriture est dégoûtante.,0,1,1284
+Ce repas a le goût d'être fait par trois rats sans langue.,La nourriture est délicieuse.,La nourriture est dégoûtante.,1,1,1284
+Le joueur de hockey était un derby de démolition.,Le joueur de hockey était bâclé.,Le joueur de hockey était prudent.,0,1,1288
+Le joueur de hockey était une gazelle.,Le joueur de hockey était bâclé.,Le joueur de hockey était prudent.,1,1,1288
+Il a brillé comme les étoiles,Il a brillé de mille feux.,Il était terne et ne brillait pas du tout.,0,1,1290
+Il a brillé comme la saleté,Il a brillé de mille feux.,Il était terne et ne brillait pas du tout.,1,1,1290
+Elle était aussi chaude que le soleil,Elle était chaude,"Elle n'était pas chaude, mais froide.",0,1,1291
+Elle était aussi chaude qu'un popsicle,Elle était chaude,"Elle n'était pas chaude, mais froide.",1,1,1291
+Le chien a la douceur d'un plumeau,Le chien est doux,Le chien n'est pas mou,0,1,1293
+Le chien a la douceur d'un astéroïde,Le chien est doux,Le chien n'est pas mou,1,1,1293
+Les avis indiquaient que la qualité du produit était celle d'une voiture en panne sur l'autoroute,La qualité du produit était médiocre,La qualité du produit était excellente,0,1,1296
+Les critiques ont indiqué que la qualité du produit était celle du produit le plus robuste de tous les temps,La qualité du produit était médiocre,La qualité du produit était excellente,1,1,1296
+La vie est une merveilleuse promenade,La vie est agréable,La vie est dure,0,1,1298
+La vie est un voyage ardu,La vie est agréable,La vie est dure,1,1,1298
+La vie est un feu de poubelle.,La vie est poubelle.,La vie est merveilleuse.,0,1,1303
+La vie est un papillon.,La vie est poubelle.,La vie est merveilleuse.,1,1,1303
+Le jeu de poker avait des enjeux aussi élevés que le soleil,La partie de poker était à gros enjeux.,Le jeu de poker était à faible enjeu.,0,1,1309
+Le jeu de poker avait des enjeux aussi élevés que le sol,La partie de poker était à gros enjeux.,Le jeu de poker était à faible enjeu.,1,1,1309
+L'amour dans le mariage est la cerise sur le gâteau,"l'amour dans le mariage est le meilleur, la touche finale",l'amour dans le mariage est une mauvaise surprise qui le gâche,0,1,1315
+L'amour dans le mariage est le ver à l'intérieur de la jolie pomme,"l'amour dans le mariage est le meilleur, la touche finale",l'amour dans le mariage est une mauvaise surprise qui le gâche,1,1,1315
+Ton premier amour est une route verglacée,ton premier amour est dangereux et difficile à naviguer,ton premier amour est confortable et réconfortant,0,1,1316
+Votre premier amour est une couverture chaude,ton premier amour est dangereux et difficile à naviguer,ton premier amour est confortable et réconfortant,1,1,1316
+le divorce est un arc-en-ciel après une tempête,le divorce est quelque chose d'étonnamment bon après quelque chose de dévastateur,le divorce c'est le sentiment d'échouer,0,1,1317
+le divorce est un navire qui coule,le divorce est quelque chose d'étonnamment bon après quelque chose de dévastateur,le divorce c'est le sentiment d'échouer,1,1,1317
+Le livre était aussi intéressant qu'un parc à thème,Le livre était intéressant,Le livre était ennuyeux,0,1,1318
+Le livre était aussi intéressant que de la peinture fraîche,Le livre était intéressant,Le livre était ennuyeux,1,1,1318
+La chanson était aussi délicieuse qu'un chocolat décadent,La chanson est excellente,La chanson est horrible,0,1,1319
+La chanson était aussi délicieuse que du vomi,La chanson est excellente,La chanson est horrible,1,1,1319
+Le garçon était aussi fatigué qu'un marathonien,Le garçon était épuisé.,Le garçon n'était pas du tout fatigué.,0,1,1325
+Le garçon était aussi fatigué que le lapin Energizer,Le garçon était épuisé.,Le garçon n'était pas du tout fatigué.,1,1,1325
+La hiérarchie de l'entreprise était aussi plate que le Grand Canyon,La hiérarchie de l'entreprise était bien vivante.,La hiérarchie de l'entreprise était inexistante.,0,1,1327
+La hiérarchie de l'entreprise était aussi plate que du papier de cahier,La hiérarchie de l'entreprise était bien vivante.,La hiérarchie de l'entreprise était inexistante.,1,1,1327
+Il a la vision d'un aigle.,Il a une très bonne vision.,Il peut à peine voir.,0,1,1329
+Il a la vision d'une chauve-souris aveugle.,Il a une très bonne vision.,Il peut à peine voir.,1,1,1329
+Elle a la force d'un gorille.,Elle est très forte.,Elle n'est pas forte du tout.,0,1,1330
+Elle a la force d'un bébé souris.,Elle est très forte.,Elle n'est pas forte du tout.,1,1,1330
+Son pain aux bananes est aussi moelleux que du pudding,Son pain aux bananes est très humide,Son pain aux bananes est très sec,0,1,1336
+Son banana bread est aussi moelleux que du cuir,Son pain aux bananes est très humide,Son pain aux bananes est très sec,1,1,1336
+Cette voiture bouge comme un escargot,La voiture est lente,La voiture est rapide,0,1,1339
+Cette voiture bouge comme une fusée,La voiture est lente,La voiture est rapide,1,1,1339
+La mélodie ressemblait au premier apprentissage d'un enfant à jouer du piano.,La mélodie était simpliste et jetée au hasard.,"La mélodie était complexe, belle et avait la sensation d'une œuvre d'art classique.",0,1,1341
+La mélodie ressemblait à un concerto de Chopin.,La mélodie était simpliste et jetée au hasard.,"La mélodie était complexe, belle et avait la sensation d'une œuvre d'art classique.",1,1,1341
+Le matelas a le confort d'un couteau.,Le matelas est trop dur.,Le matelas est chaud et confortable.,0,1,1343
+Le matelas a le confort d'un bain à remous.,Le matelas est trop dur.,Le matelas est chaud et confortable.,1,1,1343
+Les carillons éoliens avaient le ton des ongles sur un tableau noir.,Les carillons éoliens sonnent dur.,Les carillons éoliens sonnent agréablement.,0,1,1344
+Les carillons éoliens avaient le ton des rires d'enfants.,Les carillons éoliens sonnent dur.,Les carillons éoliens sonnent agréablement.,1,1,1344
+La vente de pâtisseries a suffisamment de cupcakes pour remplir les profondeurs d'une piscine olympique,La vente de pâtisseries a une tonne de cupcakes.,La vente de pâtisseries n'a pas beaucoup de cupcakes.,0,1,1347
+La vente de pâtisseries a assez de cupcakes pour remplir les profondeurs d'un dé à coudre,La vente de pâtisseries a une tonne de cupcakes.,La vente de pâtisseries n'a pas beaucoup de cupcakes.,1,1,1347
+Il a l'intelligence d'un spécialiste des fusées.,Il est très intelligent.,Il est très bête.,0,1,1348
+Il a l'intelligence d'une méduse.,Il est très intelligent.,Il est très bête.,1,1,1348
+Ce couteau à steak coupe comme un scalpel.,Le couteau est très tranchant.,Le couteau n'est pas tranchant du tout.,0,1,1349
+Ce couteau à steak coupe comme une cuillère.,Le couteau est très tranchant.,Le couteau n'est pas tranchant du tout.,1,1,1349
+Il est aussi tranchant qu'un rasoir.,Il est très intelligent et rapide.,Il n'est pas intelligent.,0,1,1350
+Il est aussi tranchant qu'un couteau à beurre.,Il est très intelligent et rapide.,Il n'est pas intelligent.,1,1,1350
+Les lacets ont l'aspect filandreux des cheveux d'un fantôme japonais,Les lacets sont assez filandreux,Les lacets sont raides,0,1,1351
+Les lacets ont l'aspect filandreux d'une branche d'arbre pétrifiée,Les lacets sont assez filandreux,Les lacets sont raides,1,1,1351
+Elle danse comme une fée,elle danse bien,elle danse mal,0,1,1353
+Elle danse comme une tortue,elle danse bien,elle danse mal,1,1,1353
+Il s'est habillé aussi tranchant qu'un couteau,Il s'est bien habillé,Il s'est mal habillé,0,1,1355
+Il s'est habillé aussi pointu qu'un crayon,Il s'est bien habillé,Il s'est mal habillé,1,1,1355
+Le café est la température du feu,Le café est brûlant,Le café est très froid,0,1,1357
+Le café est la température de la glace,Le café est brûlant,Le café est très froid,1,1,1357
+L'ennemi était effrayant comme Freddy Krueger,L'ennemi était effrayant,L'ennemi n'était pas effrayant,0,1,1364
+L'ennemi était effrayant comme Blanche-Neige,L'ennemi était effrayant,L'ennemi n'était pas effrayant,1,1,1364
+Le chanteur a la gamme de l'Himalaya,Le chanteur a une large gamme vocale,Le chanteur a une gamme étroite et pauvre,0,1,1369
+Le chanteur a la portée d'un monticule de sable,Le chanteur a une large gamme vocale,Le chanteur a une gamme étroite et pauvre,1,1,1369
+L'Acteur a l'attrait d'Un arc-en-ciel,L'acteur a un beau visage attrayant,L'acteur a un look inintéressant,0,1,1370
+L'acteur a l'attrait de la punaise,L'acteur a un beau visage attrayant,L'acteur a un look inintéressant,1,1,1370
+Il a la patience d'un enseignant du primaire.,Il est vraiment patient.,Il n'est pas patient du tout.,0,1,1373
+Il a la patience d'un requin affamé.,Il est vraiment patient.,Il n'est pas patient du tout.,1,1,1373
+Le sens de l'essai est aussi simple qu'un titre de panneau d'affichage,Le sens de l'essai est tout à fait clair.,Le sens de l'essai est très abstrait.,0,1,1383
+Le sens de l'essai est aussi simple qu'une peinture de Rothko,Le sens de l'essai est tout à fait clair.,Le sens de l'essai est très abstrait.,1,1,1383
+La situation est aussi collante que le sirop d'érable,La situation est difficile à sortir.,La situation n'est pas très compliquée.,0,1,1384
+La situation est aussi collante que l'eau,La situation est difficile à sortir.,La situation n'est pas très compliquée.,1,1,1384
+La chambre a le sentiment d'une forêt vierge.,La chambre est sereine.,La pièce est chaotique.,0,1,1385
+La salle a des allures de concert de rock.,La chambre est sereine.,La pièce est chaotique.,1,1,1385
+John était aussi motivé qu'un homme fuyant la potence.,John était vraiment motivé.,John n'était pas motivé du tout.,0,1,1390
+John était aussi motivé qu'un travailleur sans salaire.,John était vraiment motivé.,John n'était pas motivé du tout.,1,1,1390
+La caisse contient le poids d'un éléphant chevauchant une baleine,La caisse peut supporter beaucoup de poids,La caisse n'est pas capable de supporter beaucoup de poids,0,1,1392
+La caisse supporte le poids d'une goutte d'eau,La caisse peut supporter beaucoup de poids,La caisse n'est pas capable de supporter beaucoup de poids,1,1,1392
+Les gens que j'aide sur Mturk sont aussi reconnaissants que des porcs affamés,Les demandeurs ne sont pas reconnaissants.,Les demandeurs sont reconnaissants.,0,1,1394
+Les gens que j'aide sur Mturk sont aussi reconnaissants qu'un chiot nourri,Les demandeurs ne sont pas reconnaissants.,Les demandeurs sont reconnaissants.,1,1,1394
+Ses capacités de pensée critique sont comme de la barbe à papa.,Il n'a aucun esprit critique.,Il a une grande capacité d'esprit critique.,0,1,1399
+Son esprit critique est une machine finement réglée.,Il n'a aucun esprit critique.,Il a une grande capacité d'esprit critique.,1,1,1399
+Ces pancakes ont un goût de ciment avant qu'il ne durcisse.,Les crêpes sont insuffisamment cuites.,Les crêpes sont légères et moelleuses.,0,1,1400
+Ces pancakes ont le goût de cumulus !,Les crêpes sont insuffisamment cuites.,Les crêpes sont légères et moelleuses.,1,1,1400
+Le livre a la profondeur d'une flaque de boue,Le livre est simpliste,Le livre est profond,0,1,1401
+Le livre a la profondeur de The Mariana Trench,Le livre est simpliste,Le livre est profond,1,1,1401
+Sa robe est aussi chic que la couronne d'un roi.,Sa robe est très voyante.,Sa robe est très simple.,0,1,1405
+Sa robe est aussi chic qu'un sac en papier,Sa robe est très voyante.,Sa robe est très simple.,1,1,1405
+Le moteur sonnait aussi prêt qu'un mourant.,Le moteur est sur sa dernière étape.,Le moteur est prêt à fonctionner et durera longtemps.,0,1,1408
+Le moteur semblait aussi prêt qu'un marathonien.,Le moteur est sur sa dernière étape.,Le moteur est prêt à fonctionner et durera longtemps.,1,1,1408
+Elle est aussi grande qu'une girafe,Elle est très grande,Elle est toute petite,0,1,1412
+Elle est aussi grande qu'une souris,Elle est très grande,Elle est toute petite,1,1,1412
+Mon lit est une guimauve géante.,Mon lit est moelleux.,Mon lit est dur.,0,1,1414
+Mon lit est une brique.,Mon lit est moelleux.,Mon lit est dur.,1,1,1414
+Tu es aussi intelligent qu'un mur de briques,tu n'es pas très intelligent,tu es très intelligent,0,1,1415
+Tu es aussi intelligent qu'un génie,tu n'es pas très intelligent,tu es très intelligent,1,1,1415
+Cet endroit a tout le charme d'une scène de meurtre,Cet endroit est horrible,Cet endroit est plein d'émerveillement.,0,1,1421
+Ce lieu a tout le charme d'une forêt enchantée,Cet endroit est horrible,Cet endroit est plein d'émerveillement.,1,1,1421
+Écouter cette performance était comme claquer mes doigts dans la portière de la voiture,écouter cette performance a été une expérience horrible,écouter cette performance a été une expérience merveilleuse,0,1,1423
+Écouter cette performance était comme monter au paradis,écouter cette performance a été une expérience horrible,écouter cette performance a été une expérience merveilleuse,1,1,1423
+Son attitude est aussi froide que la glace,Elle est distante,Elle est amicale,0,1,1428
+Son attitude est aussi chaleureuse que le soleil,Elle est distante,Elle est amicale,1,1,1428
+Le vent a la morsure d'un requin,Le vent est froid.,Le vent est chaud et apaisant.,0,1,1430
+Le vent a la caresse d'un amant,Le vent est froid.,Le vent est chaud et apaisant.,1,1,1430
+Le trou est aussi profond qu'une caverne,Le trou est profond,Le trou est peu profond,0,1,1433
+Le trou est aussi profond qu'une flaque d'eau,Le trou est profond,Le trou est peu profond,1,1,1433
+L'odeur d'un bébé est celle de l'intérieur d'une voiture neuve.,L'odeur d'un bébé est de fraîcheur.,L'odeur d'un bébé est assez puante.,0,1,1447
+L'odeur d'un bébé est celle d'une benne à ordures.,L'odeur d'un bébé est de fraîcheur.,L'odeur d'un bébé est assez puante.,1,1,1447
+La femme était aussi intelligente qu'un fouet,La femme était extrêmement intelligente.,La femme n'était pas intelligente du tout.,0,1,1448
+La femme était aussi intelligente qu'un nouveau-né.,La femme était extrêmement intelligente.,La femme n'était pas intelligente du tout.,1,1,1448
+Ma compréhension est celle d'une fourmi étudiant la physique,Ma compréhension est nulle,Ma compréhension est vaste,0,1,1457
+Ma compréhension est celle d'un supercalculateur,Ma compréhension est nulle,Ma compréhension est vaste,1,1,1457
+Le feu brûle aussi longtemps que le monde tourne,Le feu brûle longtemps,Le feu s'éteint rapidement,0,1,1458
+Le feu brûle le temps de chanter l'ABC,Le feu brûle longtemps,Le feu s'éteint rapidement,1,1,1458
+L'espace entre eux était un gouffre.,Ils sont éloignés les uns des autres.,Ils sont très proches.,0,1,1459
+L'espace entre eux était un fil.,Ils sont éloignés les uns des autres.,Ils sont très proches.,1,1,1459
+La chanson a l'énergie d'un éclair pour le cerveau.,La chanson est pleine de puissance.,La chanson est ordinaire et ennuyeuse.,0,1,1463
+La chanson a l'énergie d'un chien qui clapote de l'eau.,La chanson est pleine de puissance.,La chanson est ordinaire et ennuyeuse.,1,1,1463
+Le budget est aussi serré que Spandex,Le budget est très serré.,Le budget n'est pas serré du tout.,0,1,1470
+Le budget est aussi serré qu'une paire de pantalons de survêtement extra-larges,Le budget est très serré.,Le budget n'est pas serré du tout.,1,1,1470
+Son travail était aussi simple que de manger un gâteau au chocolat.,Le travail était en fait vraiment facile.,Le travail était extrêmement difficile et douloureux.,0,1,1473
+Son travail était aussi facile que de rouler sur des charbons ardents.,Le travail était en fait vraiment facile.,Le travail était extrêmement difficile et douloureux.,1,1,1473
+"Lors du test, elle se sentait comme une physicienne nucléaire.",Elle s'est sentie très intelligente en passant le test.,Elle s'est sentie très stupide en passant le test.,0,1,1474
+"En passant le test, elle se sentait comme une enfant de deux mois.",Elle s'est sentie très intelligente en passant le test.,Elle s'est sentie très stupide en passant le test.,1,1,1474
+La prose de cet écrivain est le smog de la ville,La prose de cet écrivain est difficile et désagréable à traiter,La prose de cet écrivain est simple et agréable à traiter,0,1,1476
+La prose de cet écrivain est une tarte maison,La prose de cet écrivain est difficile et désagréable à traiter,La prose de cet écrivain est simple et agréable à traiter,1,1,1476
+Mes opportunités sont comme des fenêtres fermées,je n'ai pas le choix,Mes options sont grandes ouvertes,0,1,1478
+Mes opportunités sont comme des fenêtres grandes ouvertes,je n'ai pas le choix,Mes options sont grandes ouvertes,1,1,1478
+Sa voix était comme une banshee.,Sa voix est forte.,Sa voix est douce.,0,1,1479
+Sa voix était comme un oiseau chanteur.,Sa voix est forte.,Sa voix est douce.,1,1,1479
+La fille est aussi intelligente qu'un astronome de la NASA,La fille est follement intelligente.,La fille est totalement stupide.,0,1,1480
+La fille est aussi intelligente qu'une personne analphabète,La fille est follement intelligente.,La fille est totalement stupide.,1,1,1480
+La nouvelle tenue de Joe lui a fait sentir comme un million de dollars,La tenue a fait que Joe se sente bien,La tenue a fait que Joe se sentait mal,0,1,1484
+La nouvelle tenue de Joe le faisait se sentir comme une fourmi,La tenue a fait que Joe se sente bien,La tenue a fait que Joe se sentait mal,1,1,1484
+Les annonces de placement de produit sont aussi subtiles qu'un tuba accompagnant un piccolo,les publicités sont agressives,les pubs sont sournoises,0,1,1485
+Les annonces de placement de produit sont aussi subtiles que l'esprit britannique,les publicités sont agressives,les pubs sont sournoises,1,1,1485
+La route est un champ de mines,Il y a beaucoup d'obstacles sur la route,"La route est lisse, plate et ouverte",0,1,1489
+La route est une piste,Il y a beaucoup d'obstacles sur la route,"La route est lisse, plate et ouverte",1,1,1489
+Le chien a la patience de la mer,Le chien peut attendre longtemps,Le chien ne peut pas attendre,0,1,1490
+Le chien a la patience d'un nourrisson,Le chien peut attendre longtemps,Le chien ne peut pas attendre,1,1,1490
+Jeremy s'est mis au football comme un poisson dans l'eau.,Jeremy est vraiment bon au football.,Jeremy est vraiment mauvais au football.,0,1,1495
+Jeremy s'est mis au football comme un poisson atterrit.,Jeremy est vraiment bon au football.,Jeremy est vraiment mauvais au football.,1,1,1495
+Votre chat est amical comme un ours en peluche.,Le chat est adorable et amical.,Le chat est vicieux et effrayant.,0,1,1496
+Votre chat est sympathique comme un vélociraptor.,Le chat est adorable et amical.,Le chat est vicieux et effrayant.,1,1,1496
+Le collier est une étoile.,Le collier brille.,Le collier est terne.,0,1,1499
+Le collier est une tarte à la boue.,Le collier brille.,Le collier est terne.,1,1,1499
+L'homme a les yeux d'une chauve-souris,L'homme ne voit rien.,L'homme a une vision claire et nette.,0,1,1505
+L'homme a les yeux d'un tireur d'élite,L'homme ne voit rien.,L'homme a une vision claire et nette.,1,1,1505
+L'homme a la patience d'un bébé,L'homme est colérique.,L'homme est doté d'une grande patience.,0,1,1506
+L'homme a la patience d'un dieu,L'homme est colérique.,L'homme est doté d'une grande patience.,1,1,1506
+La lumière a l'éclat d'un trou noir,La lumière est très tamisée.,La lumière brille vivement.,0,1,1507
+La lumière a l'éclat d'une enseigne au néon clignotante,La lumière est très tamisée.,La lumière brille vivement.,1,1,1507
+La conférence était aussi amusante qu'un carnaval,La conférence était amusante à assister.,La conférence était ennuyeuse.,0,1,1511
+La conférence était aussi amusante qu'un cours de mathématiques,La conférence était amusante à assister.,La conférence était ennuyeuse.,1,1,1511
+Il avait l'autorité de Joseph Staline.,Il était trop dur et avait beaucoup d'autorité.,Il n'avait pas d'autorité.,0,1,1519
+Il avait l'autorité d'un chiot.,Il était trop dur et avait beaucoup d'autorité.,Il n'avait pas d'autorité.,1,1,1519
+Son ego était une montgolfière.,Elle avait un énorme ego.,Elle n'avait pas un énorme ego.,0,1,1520
+Son ego était un ballon éclaté.,Elle avait un énorme ego.,Elle n'avait pas un énorme ego.,1,1,1520
+Il a l'intelligence émotionnelle d'un rocher,Il manque complètement d'empathie et de considération émotionnelle pour les autres.,Il est conscient des problèmes des autres et cherche constamment à les aider.,0,1,1525
+Il a l'intelligence émotionnelle du Dr Phil,Il manque complètement d'empathie et de considération émotionnelle pour les autres.,Il est conscient des problèmes des autres et cherche constamment à les aider.,1,1,1525
+Le moniteur a la luminosité du soleil,Le moniteur est lumineux,Le moniteur est sombre,0,1,1527
+Le moniteur a la luminosité d'une grotte,Le moniteur est lumineux,Le moniteur est sombre,1,1,1527
+Le haut-parleur a le volume d'un concert,Le haut-parleur est fort,L'orateur est silencieux,0,1,1528
+L'orateur a le volume d'un murmure,Le haut-parleur est fort,L'orateur est silencieux,1,1,1528
+La salle a l'espace d'un auditorium,La chambre est grande,La chambre est petite,0,1,1529
+La chambre a l'espace d'un placard,La chambre est grande,La chambre est petite,1,1,1529
+Le complexe d'appartements était aussi vieux que les grandes pyramides,Le complexe d'appartements était très vieux.,Le complexe d'appartements était très récent.,0,1,1535
+Le complexe d'appartements était aussi vieux qu'un bébé qui venait de naître,Le complexe d'appartements était très vieux.,Le complexe d'appartements était très récent.,1,1,1535
+Le prototype fonctionnait aussi bien qu'une voiture fraîchement sortie du lot,Le prototype était lisse.,Le prototype était rugueux et non lisse.,0,1,1537
+Le prototype fonctionnait aussi bien qu'une voiture fraîchement sortie de la décharge,Le prototype était lisse.,Le prototype était rugueux et non lisse.,1,1,1537
+J'ai trouvé le livre aussi intéressant que le tour de magie le plus étonnant du monde,J'ai trouvé le livre très intéressant,J'ai trouvé le livre très ennuyeux,0,1,1546
+J'ai trouvé le livre aussi intéressant qu'une conférence scientifique par cœur,J'ai trouvé le livre très intéressant,J'ai trouvé le livre très ennuyeux,1,1,1546
+Cette nourriture est aussi saine que la médecine,La nourriture est très saine,La nourriture est très malsaine,0,1,1550
+Cette nourriture est aussi saine que des déchets toxiques,La nourriture est très saine,La nourriture est très malsaine,1,1,1550
+Les médias grand public ont la crédibilité d'un condamné ivre,On ne peut pas croire les grands médias,Les médias grand public sont crédibles,0,1,1553
+Les médias grand public ont la crédibilité d'un citoyen modèle,On ne peut pas croire les grands médias,Les médias grand public sont crédibles,1,1,1553
+La santé du patient était celle d'une fleur fanée,Le patient n'était pas en bonne santé,Le patient était en très bonne santé,0,1,1555
+La santé du patient était celle d'un cheval fort à son apogée,Le patient n'était pas en bonne santé,Le patient était en très bonne santé,1,1,1555
+Il était aussi joueur qu'un chiot,Il était très joueur,Il n'était pas joueur du tout,0,1,1558
+Il était aussi joueur qu'un rocher,Il était très joueur,Il n'était pas joueur du tout,1,1,1558
+La température d'aujourd'hui était comme une journée typique sur Mercure.,Aujourd'hui il faisait très chaud.,Aujourd'hui était extrêmement cool.,0,1,1562
+La température d'aujourd'hui était ce à quoi on s'attendrait à vivre dans un réfrigérateur.,Aujourd'hui il faisait très chaud.,Aujourd'hui était extrêmement cool.,1,1,1562
+Les cheveux de la femme étaient un miroir.,Les cheveux de la femme étaient brillants.,Les cheveux de la femme étaient ternes.,0,1,1575
+Les cheveux de la femme étaient un pâté de boue.,Les cheveux de la femme étaient brillants.,Les cheveux de la femme étaient ternes.,1,1,1575
+Le diamant était un miroir.,Le diamant était brillant.,Le diamant était terne.,0,1,1576
+Le diamant était un pâté de boue.,Le diamant était brillant.,Le diamant était terne.,1,1,1576
+Les bois du cerf ont le flou d'un chêne couvert de mousse,Le cerf a des bois très flous,Les bois du cerf ne sont pas du tout flous,0,1,1581
+Les bois du cerf ont le flou du derrière d'un bébé,Le cerf a des bois très flous,Les bois du cerf ne sont pas du tout flous,1,1,1581
+Il était aussi rapide qu'un guépard,Il était très rapide,Il était très lent,0,1,1582
+Il était aussi rapide qu'une tortue,Il était très rapide,Il était très lent,1,1,1582
+Elle a le coeur d'une pierre,Elle est très antipathique.,Elle est très gentille.,0,1,1585
+Elle a le coeur d'or,Elle est très antipathique.,Elle est très gentille.,1,1,1585
+Elle sent aussi bon que faire des cookies,Elle sent bon,Elle sent mauvais,0,1,1592
+Elle sent aussi bon qu'un égout,Elle sent bon,Elle sent mauvais,1,1,1592
+L'influenceur des médias sociaux avait autant d'influence qu'une personnalité présidentielle,L'influenceur des médias sociaux avait une grande influence.,L'influenceur des médias sociaux n'avait aucune influence.,0,1,1594
+L'influenceur des médias sociaux avait autant d'influence qu'une mouche,L'influenceur des médias sociaux avait une grande influence.,L'influenceur des médias sociaux n'avait aucune influence.,1,1,1594
+La fille portait du poids sur elle comme un lutteur de sumo,La fille avait une tonne de poids sur son corps.,La fille était très maigre.,0,1,1595
+La fille pesait sur elle comme une ballerine,La fille avait une tonne de poids sur son corps.,La fille était très maigre.,1,1,1595
+Les orques sont les tueurs en série de l'océan.,Les orques tuent d'autres poissons.,Les orques protègent l'océan.,0,1,1602
+Les orques sont les baby-sitters de l'océan.,Les orques tuent d'autres poissons.,Les orques protègent l'océan.,1,1,1602
+Le monde est une vieille poubelle.,Le monde est horrible.,Le monde est merveilleux.,0,1,1603
+Le monde est un sundae de crème glacée.,Le monde est horrible.,Le monde est merveilleux.,1,1,1603
+La théorie a la validité de A tall tale from Paul Bunyan,La théorie n'est pas valable,La théorie est très solide et valide,0,1,1604
+La théorie a la validité du meilleur travail d'Einstein,La théorie n'est pas valable,La théorie est très solide et valide,1,1,1604
+L'article de journal se lisait comme un bon roman.,"L'article de journal était intéressant, bien écrit et engageant pour le lecteur.","L'article de journal était amateur, rédigé de manière bâclée et simpliste.",0,1,1609
+L'article de journal se lisait comme le travail d'un journaliste de collège.,"L'article de journal était intéressant, bien écrit et engageant pour le lecteur.","L'article de journal était amateur, rédigé de manière bâclée et simpliste.",1,1,1609
+Sa durée d'attention était aussi longue qu'une piscine à débordement,Elle pourrait faire attention pendant longtemps.,Elle ne pouvait pas faire attention.,0,1,1614
+Sa capacité d'attention était aussi longue qu'un Oompa Loompa,Elle pourrait faire attention pendant longtemps.,Elle ne pouvait pas faire attention.,1,1,1614
+Le politicien a la personnalité d'une maison de retraite.,Le politicien est sénile.,L'homme politique est immature.,0,1,1616
+Le politicien a la personnalité d'une classe de maternelle.,Le politicien est sénile.,L'homme politique est immature.,1,1,1616
+Tes cheveux ressemblent à une vadrouille,Vos cheveux sont en désordre et peu attrayants,Vos cheveux sont beaux et brillants,0,1,1626
+Tes cheveux ressemblent à des fils de soie,Vos cheveux sont en désordre et peu attrayants,Vos cheveux sont beaux et brillants,1,1,1626
+Ton parfum sent le lait gâté,L'odeur du parfum est horrible,L'odeur du parfum est parfumée,0,1,1628
+Ton parfum sent comme Une forêt fleurie.,L'odeur du parfum est horrible,L'odeur du parfum est parfumée,1,1,1628
+Elle a l'imagination d'un artiste,Elle a une bonne imagination,Elle n'a pas d'imagination,0,1,1629
+Elle a l'imagination d'un rocher,Elle a une bonne imagination,Elle n'a pas d'imagination,1,1,1629
+La femme était aussi folle qu'un taureau enragé,La femme était très en colère,La femme n'était pas folle,0,1,1640
+La femme était aussi folle qu'un chaton,La femme était très en colère,La femme n'était pas folle,1,1,1640
+Ses yeux étaient comme deux émeraudes étincelantes,ses yeux étaient vert vif,ses yeux étaient bleus,0,1,1644
+Ses yeux étaient comme les vagues de l'océan,ses yeux étaient vert vif,ses yeux étaient bleus,1,1,1644
+Les cookies sont savoureux comme une tarte,Les cookies ont bon goût,Les cookies ont mauvais goût,0,1,1646
+Les cookies sont savoureux comme du lait pourri,Les cookies ont bon goût,Les cookies ont mauvais goût,1,1,1646
+La crème glacée est aussi délicieuse que la sciure de bois.,La glace a un goût horrible.,La glace a un goût merveilleux.,0,1,1649
+La glace est aussi délicieuse que Sunny Delight.,La glace a un goût horrible.,La glace a un goût merveilleux.,1,1,1649
+L'enfant était aussi jolie que la crotte de chien sur ma chaussure.,L'enfant était laid.,L'enfant était beau.,0,1,1650
+L'enfant était aussi jolie que la fleur qui fleurit une fois par an.,L'enfant était laid.,L'enfant était beau.,1,1,1650
+L'ego de la fille est aussi fragile qu'un jaune d'oeuf,Les sentiments de la fille sont facilement blessés.,L'ego de la fille est solide.,0,1,1652
+L'ego de la fille est aussi fragile qu'un roc,Les sentiments de la fille sont facilement blessés.,L'ego de la fille est solide.,1,1,1652
+C'est un dé auquel il manque une face.,Le sien porte malheur.,Il est chanceux.,0,1,1654
+Il est un sac plein de dés.,Le sien porte malheur.,Il est chanceux.,1,1,1654
+Le succès dans la vie est comme un casino.,Le succès dans la vie repose principalement sur la chance.,Le succès dans la vie repose principalement sur les compétences.,0,1,1657
+"Le succès dans la vie, c'est comme le poker.",Le succès dans la vie repose principalement sur la chance.,Le succès dans la vie repose principalement sur les compétences.,1,1,1657
+Le piment est aussi chaud qu'El Paso en été.,Le piment est très piquant.,Le piment n'est pas chaud du tout.,0,1,1660
+Le chili est aussi chaud qu'une boule de neige.,Le piment est très piquant.,Le piment n'est pas chaud du tout.,1,1,1660
+La femme de M. Edward est une déesse,"La femme de M. Edward est une personne très bonne, douce et généreuse","La femme de M. Edward est une personne folle, stupide ou ennuyeuse",0,1,1663
+La femme de M. Edward est une vache folle,"La femme de M. Edward est une personne très bonne, douce et généreuse","La femme de M. Edward est une personne folle, stupide ou ennuyeuse",1,1,1663
+Sa personnalité est aussi intéressante qu'un titre du New York Times,Elle a une personnalité intéressante.,Elle n'a pas de personnalité.,0,1,1665
+Sa personnalité est aussi intéressante qu'une liste de courses,Elle a une personnalité intéressante.,Elle n'a pas de personnalité.,1,1,1665
+Le casino avait l'ambiance d'une casse sale,Le casino avait une mauvaise ambiance,Le casino avait une bonne ambiance,0,1,1668
+Le casino avait l'ambiance d'un palais d'or,Le casino avait une mauvaise ambiance,Le casino avait une bonne ambiance,1,1,1668
+Elle est aussi envieuse qu'un raton laveur affamé,elle est gourmande,elle est belle,0,1,1670
+Elle est aussi envieuse qu'une nonne,elle est gourmande,elle est belle,1,1,1670
+Le patron était aussi mauvais que le diable,le patron est méchant,le patron est sympa,0,1,1671
+Le patron était aussi mauvais qu'un ange,le patron est méchant,le patron est sympa,1,1,1671
+Cléopâtre avait la beauté des dieux Vénus et Hathor combinés,Cléopâtre était très belle,Cléopâtre était très laide,0,1,1673
+Cléopâtre avait la beauté du vilain petit canard après avoir été frappée deux fois avec le vilain bâton,Cléopâtre était très belle,Cléopâtre était très laide,1,1,1673
+L'amour est aussi beau qu'un coucher de soleil,L'amour est beau,L'amour est laid,0,1,1678
+L'amour est aussi beau que le phacochère,L'amour est beau,L'amour est laid,1,1,1678
+La veste était aussi tendance que Tik Tok,La veste était tendance,La veste était obsolète,0,1,1679
+La veste était aussi tendance que MySpace,La veste était tendance,La veste était obsolète,1,1,1679
+Le tartre est aussi gratifiant que de manger de la nourriture pour chien,le calcul n'est pas agréable,le calcul est fascinant,0,1,1684
+Le calcul est aussi gratifiant que la découverte d'une planète habitée,le calcul n'est pas agréable,le calcul est fascinant,1,1,1684
+L'amour c'est trouver une aiguille dans une botte de foin,Trouver l'amour est difficile mais ça vaut le coup,trouver l'amour est dur et douloureux,0,1,1685
+L'amour est un morceau de foin dans une pile d'aiguilles,Trouver l'amour est difficile mais ça vaut le coup,trouver l'amour est dur et douloureux,1,1,1685
+il a la capacité émotionnelle d'une piscine à chat,Il n'est pas émotionnellement ouvert,il est très ouvert émotionnellement,0,1,1686
+il a la capacité émotionnelle d'un grand lac,Il n'est pas émotionnellement ouvert,il est très ouvert émotionnellement,1,1,1686
+Cette société a l'intégrité d'un politicien.,La société n'a pas d'intégrité.,La société a beaucoup d'intégrité.,0,1,1689
+Cette corporation a l'intégrité d'un moine.,La société n'a pas d'intégrité.,La société a beaucoup d'intégrité.,1,1,1689
+Il était aussi magique qu'une neige fraîche d'hiver.,Il était très intrigant.,Il était très ennuyeux.,0,1,1692
+Il était aussi magique qu'une pierre terne.,Il était très intrigant.,Il était très ennuyeux.,1,1,1692
+"Tomber amoureux, c'est sauter d'un immeuble sans filet de sécurité",Tomber amoureux fait peur.,Tomber amoureux est sans danger.,0,1,1694
+"Tomber amoureux, c'est être enveloppé dans des couvertures chaudes",Tomber amoureux fait peur.,Tomber amoureux est sans danger.,1,1,1694
+La magie chevauche une licorne à travers une forêt luxuriante,La magie est merveilleuse.,La magie est horrible.,0,1,1695
+La magie entre dans le caca de chien,La magie est merveilleuse.,La magie est horrible.,1,1,1695
+La fille était aussi mince qu'une plume,La fille était si mince qu'elle était vaporeuse.,La fille était très grosse.,0,1,1700
+La fille était aussi mince qu'un ballon gonflé,La fille était si mince qu'elle était vaporeuse.,La fille était très grosse.,1,1,1700
+Ses yeux étaient en acier.,Ses yeux étaient durs et obscurcissaient sa personnalité.,Ses yeux véhiculaient une personnalité fragile et montraient sa personnalité.,0,1,1704
+Ses yeux étaient en verre.,Ses yeux étaient durs et obscurcissaient sa personnalité.,Ses yeux véhiculaient une personnalité fragile et montraient sa personnalité.,1,1,1704
+Cette maison est aussi grande que la cabane en rondins d'Abraham Lincoln,La maison est petite.,La maison est grande.,0,1,1706
+Cette maison est aussi grande que le Taj Mahal,La maison est petite.,La maison est grande.,1,1,1706
+C'est aussi réel qu'un minotaure inversé,Il n'existe pas,C'est très réel,0,1,1714
+C'est aussi réel que les étoiles dans le ciel,Il n'existe pas,C'est très réel,1,1,1714
+Il peut courir comme un cheval de course gagnant.,Il peut très bien courir.,Il ne peut pas très bien courir.,0,1,1716
+Il peut courir comme un bourrin mourant.,Il peut très bien courir.,Il ne peut pas très bien courir.,1,1,1716
+L'adolescent a la profondeur d'une piscine pour enfants.,L'adolescent est superficiel.,L'adolescent est profond.,0,1,1726
+L'adolescent a la profondeur du Grand Canyon.,L'adolescent est superficiel.,L'adolescent est profond.,1,1,1726
+Le champagne a l'effervescence du café tiède.,Le champagne est plat.,Le champagne est pétillant.,0,1,1728
+Le champagne a l'effervescence d'une pastille antiacide.,Le champagne est plat.,Le champagne est pétillant.,1,1,1728
+Le méchant était aussi puissant qu'un dieu,Le méchant était puissant,Le méchant était presque impuissant,0,1,1732
+Le méchant était aussi puissant qu'un insecte,Le méchant était puissant,Le méchant était presque impuissant,1,1,1732
+La conception était considérée par d'autres comme aussi résistante aux balles qu'une forteresse,La conception est saine,La conception est faible et mal définie,0,1,1748
+La conception était considérée par d'autres comme une dispute entre des fantômes,La conception est saine,La conception est faible et mal définie,1,1,1748
+La guerre a duré aussi longtemps que la hauteur de Napoléon,La guerre a été très courte.,La guerre a été longue.,0,1,1753
+La guerre a duré aussi longtemps que la taille de Shaquille O'Neal,La guerre a été très courte.,La guerre a été longue.,1,1,1753
+L'argument a la force d'une forteresse abandonnée.,L'argument est faible.,L'argument est fort.,0,1,1755
+L'argument a la force d'une arme de guerre.,L'argument est faible.,L'argument est fort.,1,1,1755
+La fille a assez d'amis pour remplir les profondeurs d'une boîte à chaussures,La fille n'a presque pas d'amis.,La fille est très populaire.,0,1,1758
+La fille a assez d'amis pour remplir les profondeurs de l'océan Atlantique,La fille n'a presque pas d'amis.,La fille est très populaire.,1,1,1758
+La performance était aussi excitante qu'un ouragan.,La performance était bonne.,La prestation était mauvaise.,0,1,1763
+La performance était aussi excitante qu'un trottoir humide.,La performance était bonne.,La prestation était mauvaise.,1,1,1763
+Le cerveau de John est un ordinateur,Jean est doué pour les calculs,John traite les choses très lentement,0,1,1768
+Le cerveau de John est un escargot,Jean est doué pour les calculs,John traite les choses très lentement,1,1,1768
+Cette tâche mécanique est un son provenant d'un phare,Cette tâche mécanique est bien expliquée,Cette tâche mécanique turque est vague,0,1,1770
+Cette tâche mécanique est une tempête de pollution,Cette tâche mécanique est bien expliquée,Cette tâche mécanique turque est vague,1,1,1770
+Ta mère pourrait convaincre un chat de devenir végétalien,Ta mère est une excellente cuisinière.,Ta mère est une horrible cuisinière.,0,1,1771
+Ta mère pourrait rivaliser avec les observateurs de poids,Ta mère est une excellente cuisinière.,Ta mère est une horrible cuisinière.,1,1,1771
+L'agriculteur a planté les cultures avec le soin d'un marin ivre,Le fermier était négligent,Le fermier a été précis,0,1,1775
+L'agriculteur a planté les cultures avec les soins d'un chirurgien expérimenté,Le fermier était négligent,Le fermier a été précis,1,1,1775
+Le cerveau est un ordinateur,"Le cerveau est intelligent, beau, complexe et profond","Le cerveau est simple, basique, incapable de pensée rationnelle.",0,1,1779
+Le cerveau est de la gelée,"Le cerveau est intelligent, beau, complexe et profond","Le cerveau est simple, basique, incapable de pensée rationnelle.",1,1,1779
+Les vagues de l'océan se sont frayées un chemin jusqu'au rivage de la plage et m'ont tendu la main avec une invitation à participer à leur danse et à leur mystère,Les vagues de l'océan sont apaisantes et curatives,Les vagues de l'océan sont dangereuses et peuvent vous tuer,0,1,1781
+Les vagues de l'océan se sont frayées un chemin jusqu'au rivage de la plage et m'ont frappé avec des bruits de fracas bruyants et des ruées intimidantes d'eau mousseuse,Les vagues de l'océan sont apaisantes et curatives,Les vagues de l'océan sont dangereuses et peuvent vous tuer,1,1,1781
+Le vent s'est approché de moi et m'a parlé à travers le bruissement des feuilles des arbres et m'a chuchoté à l'oreille à travers le sifflement des branches,"Le vent est doux, rassurant et relaxant","Le vent est intense, menaçant et destructeur",0,1,1782
+Le vent s'est approché de moi et a élevé sa voix vers moi avec des rafales soudaines de vitesse qui ont arraché les feuilles des arbres et m'ont crié dessus à travers le crépitement et la rupture des branches,"Le vent est doux, rassurant et relaxant","Le vent est intense, menaçant et destructeur",1,1,1782
+Le soleil a ouvert ses portes le matin et avec ses longs bras illuminé mon environnement avec une lumière qui s'intensifiait lentement montrant les couleurs et les formes de la vie tout en réchauffant ma peau et en étant,La lumière du soleil révèle les couleurs et les formes et est chaleureuse,La lumière du soleil aveugle nos yeux et est chaude et destructrice,0,1,1783
+Le soleil a ouvert ses portes le matin et avec ses longs bras m'a aveuglé avec son intensité et a brûlé ma peau moite,La lumière du soleil révèle les couleurs et les formes et est chaleureuse,La lumière du soleil aveugle nos yeux et est chaude et destructrice,1,1,1783
+J'ai la capacité musicale d'un tamia,Ma musique semble rauque et aléatoire,Ma musique est apaisante et mélodieuse,0,1,1784
+J'ai la capacité musicale d'un oiseau chanteur,Ma musique semble rauque et aléatoire,Ma musique est apaisante et mélodieuse,1,1,1784
+Un ordinateur peut être son meilleur ami,Les ordinateurs peuvent être un atout majeur,Les ordinateurs peuvent être très préjudiciables,0,1,1788
+Un ordinateur peut être son ennemi juré,Les ordinateurs peuvent être un atout majeur,Les ordinateurs peuvent être très préjudiciables,1,1,1788
+La plage était aussi chaude qu'un désert,La plage était très chaude.,La plage était très froide.,0,1,1790
+La plage était aussi chaude qu'un iceberg,La plage était très chaude.,La plage était très froide.,1,1,1790
+Le navire a coulé aussi vite qu'un rocher,Le navire coula rapidement.,Le navire a coulé très lentement.,0,1,1792
+Le navire a coulé aussi vite qu'une plume flottante,Le navire coula rapidement.,Le navire a coulé très lentement.,1,1,1792
+Elle avait la grâce d'un cerf caracolant dans la forêt,Elle est gracieuse,Elle n'est pas gracieuse,0,1,1793
+Elle avait la grâce d'un hippopotame en rollers,Elle est gracieuse,Elle n'est pas gracieuse,1,1,1793
+Ce lit est aussi doux qu'un trottoir jonché de verre brisé,Ce lit est dur,Ce lit est doux,0,1,1797
+Ce lit est aussi doux qu'un chat persan,Ce lit est dur,Ce lit est doux,1,1,1797
+Ces chaussures ressemblent à une paire de pinces à étau chauffées au rouge,Ces chaussures sont très inconfortables,Ces chaussures sont très confortables,0,1,1798
+Ces chaussures ressemblent à une paire de tapis magiques,Ces chaussures sont très inconfortables,Ces chaussures sont très confortables,1,1,1798
+Cet arbre a l'écorce d'une râpe à fromage,L'arbre a une écorce rugueuse.,L'arbre a une écorce lisse.,0,1,1809
+Cet arbre a l'écorce d'un poteau de pompier,L'arbre a une écorce rugueuse.,L'arbre a une écorce lisse.,1,1,1809
+Sa combinaison de couleurs rappelait les conséquences d'un déraillement de train.,Sa combinaison de couleurs était un désastre.,Sa combinaison de couleurs était divine.,0,1,1811
+Sa combinaison de couleurs rappelait les peintures des grands maîtres.,Sa combinaison de couleurs était un désastre.,Sa combinaison de couleurs était divine.,1,1,1811
+Le test était aussi simple que A-B-C,Le test était facile,L'épreuve était difficile,0,1,1814
+Le test était une bête,Le test était facile,L'épreuve était difficile,1,1,1814
+Cet homme a l'intelligence d'un mauvais génie,L'homme est une personne très intelligente,L'homme est fondamentalement un animal muet,0,1,1816
+Cet homme a l'intelligence d'un mulot,L'homme est une personne très intelligente,L'homme est fondamentalement un animal muet,1,1,1816
+Les e-mails sont aussi rapides qu'une tortue,Les e-mails sont lents.,Les e-mails sont rapides.,0,1,1817
+Les e-mails sont aussi rapides qu'une fusée,Les e-mails sont lents.,Les e-mails sont rapides.,1,1,1817
+Le dîner était aussi savoureux qu'une chaussure en cuir,Le dîner était très sec et sans saveur.,Le dîner a été primé.,0,1,1819
+Le dîner était aussi savoureux qu'une étoile Michelin,Le dîner était très sec et sans saveur.,Le dîner a été primé.,1,1,1819
+L'explication était comme de l'eau claire,L'explication était facile et simple à comprendre,L'explication fait sens.,0,1,1821
+L'explication était comme de la boue,L'explication était facile et simple à comprendre,L'explication fait sens.,1,1,1821

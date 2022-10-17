@@ -1,0 +1,1095 @@
+startphrase,ending1,ending2,labels,valid,qid
+その少女はスズメのように飛び回っていた,The girl was very fickle.,The girl was very stable.,0,1,1
+少女は岩のように機敏だった,The girl was very fickle.,The girl was very stable.,1,1,1
+教会のように平和でした。,It was very peaceful.,"It was full of conflict and danger, not peace.",0,1,3
+戦場のように平和だった。,It was very peaceful.,"It was full of conflict and danger, not peace.",1,1,3
+葉は草のように青かった,The leaves were very green,The leaves were brown and not green at all.,0,1,4
+葉は土のように緑だった,The leaves were very green,The leaves were brown and not green at all.,1,1,4
+食料品の買い物は太陽が降り注ぐビーチで貝殻を見つけること,"Shopping for groceries is a fun, rewarding chore","Shopping for groceries is a crazy, nearly impossible chore",0,1,6
+食料品の買い物は、狂人が作成したリストを使ったスカベンジャー ハントです。,"Shopping for groceries is a fun, rewarding chore","Shopping for groceries is a crazy, nearly impossible chore",1,1,6
+戦争は間違った手足の切断です,War is the wrong solution to a problem,War is a necessary solution,0,1,8
+戦争はあなたの命を救うための切断です,War is the wrong solution to a problem,War is a necessary solution,1,1,8
+春の草のように緑です,It's fairy green,It's not too green,0,1,12
+暑い夏の草のように緑です,It's fairy green,It's not too green,1,1,12
+これは眠っている子犬のように平和です,It's very peaceful,It's not very peaceful,0,1,13
+これは 1940 年代のヨーロッパのように平和です,It's very peaceful,It's not very peaceful,1,1,13
+音楽はサイレンのように大声でした。,The music was very loud.,The music was very quiet.,0,1,15
+音楽はささやきのように大声でした。,The music was very loud.,The music was very quiet.,1,1,15
+仕事は結婚相手と同じくらい利用可能です。,Jobs are not available.,Jobs are very available.,0,1,17
+仕事は学士と同じくらい利用可能です。,Jobs are not available.,Jobs are very available.,1,1,17
+平和は飛ぶ人間,Peace is impossible,Peace is possible,0,1,18
+平和は人の歩み,Peace is impossible,Peace is possible,1,1,18
+植物は子守唄,Plants are calming,Plants are disturbing,0,1,19
+植物は大きなドラムです,Plants are calming,Plants are disturbing,1,1,19
+車は片目のネズミのように醜かった,it was hideous,it was beautiful,0,1,21
+車は白鳥のように醜かった,it was hideous,it was beautiful,1,1,21
+その男は王子様のようにハンサムだった,he was good looking,he was ugly,0,1,23
+その男はアホみたいにハンサムだった,he was good looking,he was ugly,1,1,23
+会話は鋲のように鋭かった,The conversation was sharp and witty.,The conversation was dull and not sharp.,0,1,25
+会話は岩のように鋭かった,The conversation was sharp and witty.,The conversation was dull and not sharp.,1,1,25
+彼は太った少年がケーキを食べるようにそれを食べた,The food was tasty to him,The food was unpalatable to him,0,1,27
+彼は少年がブロッコリーを食べるようにそれを食べた,The food was tasty to him,The food was unpalatable to him,1,1,27
+彼は赤ん坊を抱く母親のようにそれを拾い上げた,He held it with pride and care,He held it with disgust and caution,0,1,28
+彼はコンドームを持ったプレイボーイのようにそれを拾い上げた,He held it with pride and care,He held it with disgust and caution,1,1,28
+彼は猿のように数学のテストを急いで通過した,He rushed because he is dumb,He rushed because he is smart,0,1,29
+彼はロケット科学者のように数学のテストを急いだ,He rushed because he is dumb,He rushed because he is smart,1,1,29
+クマはライオンのようにお腹がすいた,it was starving,it didn't need food,0,1,41
+くまは一枚の紙のようにお腹がすいた,it was starving,it didn't need food,1,1,41
+その会話は、目隠しされた税金を簡単に行うことができました。,Having that conversation was difficult,Having that conversation was easy.,0,1,44
+その会話は、日曜日の朝のような安らぎをもたらしました。,Having that conversation was difficult,Having that conversation was easy.,1,1,44
+彼らの会話は砲撃でした。,Their conversations were heated and antagonistic.,Their conversations were friendly.,0,1,45
+彼らの会話は言葉による抱擁でした。,Their conversations were heated and antagonistic.,Their conversations were friendly.,1,1,45
+その話は悪夢のように不安だった,The story was very disturbing.,"The story failed to be disturbing, and in fact seemed cute.",0,1,48
+その話は生まれたばかりの子犬のように不安だった,The story was very disturbing.,"The story failed to be disturbing, and in fact seemed cute.",1,1,48
+余裕のある家への期待は、溶けた氷に変わりました。,Their expectations were not met.,Their expectations were exceeded.,0,1,52
+余裕のある家に対する彼らの期待は、2 階を飛び越えました。,Their expectations were not met.,Their expectations were exceeded.,1,1,52
+子供の歌声を聞いた者は、穏やかな波に乗って連れ去られた。,Those that heard the singing were pleasantly entertained.,Those that heard the singing were unpleasantly inundated.,0,1,53
+子供が歌うのを聞いた人々は、侵入する音に苦しめられました。,Those that heard the singing were pleasantly entertained.,Those that heard the singing were unpleasantly inundated.,1,1,53
+彼女は天使のように歌う,her voice is magical,her voice is awful,0,1,55
+彼女はウシガエルのように歌う,her voice is magical,her voice is awful,1,1,55
+HIの意見は具体的なほどしっかりしていた,He was very certain of his opinion,He was very uncertain of his opinion,0,1,57
+HIの意見は綿球のように固かった,He was very certain of his opinion,He was very uncertain of his opinion,1,1,57
+パイロットは生まれたばかりの赤ちゃんを扱うように飛行機を着陸させました。,The landing was smooth and gentle,The landing was bumpy and rough,0,1,58
+パイロットはジェットコースターに乗っているかのように飛行機を着陸させた.,The landing was smooth and gentle,The landing was bumpy and rough,1,1,58
+男の性格はビーニーベイビーみたい,The man has a soft personality.,The man has a hard personality.,0,1,60
+男の性格は練兵長のようなもの,The man has a soft personality.,The man has a hard personality.,1,1,60
+ポスターは虹のようにカラフルでした,The poster has a lot of color.,The poster was dull and colorless.,0,1,65
+ポスターは歩道のようにカラフルでした,The poster has a lot of color.,The poster was dull and colorless.,1,1,65
+彼女はビーバーのように熱心です,she is excited,she is bored,0,1,69
+彼女はナマケモノのように熱心だ,she is excited,she is bored,1,1,69
+ボートのモーターはバブリングの酔っぱらいです,It is barely running,It is running strong,0,1,73
+ボートのモーターはほえるライオン,It is barely running,It is running strong,1,1,73
+弁護士の冒頭弁論はロシアの小説だった。,The lawyer's opening argument was long.,The lawyer's opening argument was tawdry.,0,1,81
+弁護士の冒頭弁論は空港のペーパーバックだった。,The lawyer's opening argument was long.,The lawyer's opening argument was tawdry.,1,1,81
+家は美術館のようにきれいだった,The house was very clean.,The house was a mess.,0,1,84
+家はペイントボール競技場のように清潔でした,The house was very clean.,The house was a mess.,1,1,84
+ぶどうは中古のおもちゃのようなみずみずしさを持っていました。,The grapes weren't fresh.,The grapes were very fresh.,0,1,94
+ブドウは初夏の朝のようなみずみずしさを持っていました。,The grapes weren't fresh.,The grapes were very fresh.,1,1,94
+おもちゃには処刑の楽しみがあった,The toy was not fun,The toy was fun,0,1,97
+そのおもちゃはジェットコースターの楽しさを持っていた,The toy was not fun,The toy was fun,1,1,97
+映画のメッセージはミントティーのように心温まるものだった,The movie message was very heartwarming.,The movie's message wasn't heartwarming at all.,0,1,104
+映画のメッセージはアイスキャンディーのように心温まるものだった,The movie message was very heartwarming.,The movie's message wasn't heartwarming at all.,1,1,104
+その本は朝食のパンケーキと同じくらい古典的だった,The book was very classic.,The book wasn't a classic.,0,1,105
+その本は紫を着た花嫁のように古典的だった,The book was very classic.,The book wasn't a classic.,1,1,105
+おもちゃは今年からAクォーターと同じくらい新しいものでした。,The toy was recent,The toy was dated.,0,1,108
+そのおもちゃは、あなたが生まれた年から 4 分の 1 ほど新しいものでした。,The toy was recent,The toy was dated.,1,1,108
+その女性は木のように背が高かった,The woman was tall,The woman was short,0,1,111
+その女性は足台と同じくらい背が高かった,The woman was tall,The woman was short,1,1,111
+トムはロボットの喜びを味わった.,Tom is not very joyful.,Tom is very joyful.,0,1,114
+トムは犬のように喜びました。,Tom is not very joyful.,Tom is very joyful.,1,1,114
+映画はA峡谷の深さを持っています。,The movie is deeply philosophical.,The movie has little substance.,0,1,116
+この映画には甌穴の深さがあります。,The movie is deeply philosophical.,The movie has little substance.,1,1,116
+映画にはA谷の深さがあります。,The movie is expansive in it's meaning.,The movie lacks depth.,0,1,117
+映画はAフラットランドの深さを持っています。,The movie is expansive in it's meaning.,The movie lacks depth.,1,1,117
+彼女は象のように繊細だった,She was a lumbering clod,She was fragile,0,1,123
+彼女は雪の結晶のように繊細だった,She was a lumbering clod,She was fragile,1,1,123
+彼女の夕食は古い靴のような味がした,The food was disgusting,The food was gloriously delicious,0,1,124
+彼女の夕食は天国からのマナのような味がした,The food was disgusting,The food was gloriously delicious,1,1,124
+少年のレモネード スタンドはフォーチュン 500 企業と同じくらい成功した,The boy's lemonade stand was a wild success.,The boy's lemonade stand did terribly.,0,1,127
+少年のレモネード スタンドは、1962 年のニューヨーク メッツと同じくらい成功しました。,The boy's lemonade stand was a wild success.,The boy's lemonade stand did terribly.,1,1,127
+彼は映画スターと同じくらい有名です,people know him,no one knows him,0,1,136
+彼はゴミ箱の中のゴキブリと同じくらい有名です,people know him,no one knows him,1,1,136
+彼女はプロムクイーンのように派手です,she is elegant,she is dirty,0,1,137
+彼女は皿の水と同じくらい空想的です,she is elegant,she is dirty,1,1,137
+彼女の顔は太陽のように輝いていた,Her face was luminous,her face was dull,0,1,141
+彼女の顔はほこりっぽい鏡に映ったように輝いていた,Her face was luminous,her face was dull,1,1,141
+彼は類人猿の大きさでした。,He was huge.,He was small.,0,1,146
+彼はアリの大きさでした。,He was huge.,He was small.,1,1,146
+この曲にはアメーバらしいクリエイティビティがありました。,The song was too simplistic.,The song was very complex and beautiful.,0,1,147
+この曲には、ルーヴル美術館のすべての絵画の創造性がありました。,The song was too simplistic.,The song was very complex and beautiful.,1,1,147
+あの映画は25歳のサナダムシくらいだった,It's extremely long,It's as short as can be,0,1,154
+あの映画はハウィー・マンデルの髪と同じくらいの長さだった,It's extremely long,It's as short as can be,1,1,154
+遊び場はドラキュラの牙のように安全です。,The playground is dangerous.,The playground is secure.,0,1,155
+遊び場は保険と同じくらい安全です。,The playground is dangerous.,The playground is secure.,1,1,155
+マネージャーは私たちの火花にキンドリングを追加しました。,The manager motivated his employees.,The manager demotivated his employees.,0,1,160
+マネージャーは火花に水を加えました。,The manager motivated his employees.,The manager demotivated his employees.,1,1,160
+その学生は起業家としての才能を持っていた,he has talant,he was talentless,0,1,161
+その生徒は目の見えないカワウソのように才能があった,he has talant,he was talentless,1,1,161
+その女性は映画スターのように魅力的だった,she was fancy,she was unkempt,0,1,162
+その女性は古い靴のように魅力的だった,she was fancy,she was unkempt,1,1,162
+彼の高さはセコイアの木に匹敵した,He was tall,He was short,0,1,164
+彼の身長はネズミに匹敵した,He was tall,He was short,1,1,164
+彼女はキリンと目の高さまで来ました,She was tall,She was short,0,1,165
+彼女は幼児と目の高さまで来ました,She was tall,She was short,1,1,165
+レストランのプラット・デュ・ジュールは神々のアンブロシアでした,The food was delicious,The food was disgusting,0,1,166
+レストランのプラット・デュ・ジュールは熱いゴミだった,The food was delicious,The food was disgusting,1,1,166
+車は水のないプールのように役に立ちました,the car was useless,the car was helpful,0,1,168
+車は夕食時に銀器と同じくらい役に立ちました,the car was useless,the car was helpful,1,1,168
+私の犬はカゲロウのように食べます,My dog is never eating,My dog never ceases eating,0,1,173
+私の犬はタラレのように食べます,My dog is never eating,My dog never ceases eating,1,1,173
+その映画は、2013 年の Xbox One の発売と同じくらい悲惨でした。,It isn't very good,It's quite successful,0,1,177
+あの映画は、エイブラハム・リンカーンの大統領時代と同じくらい悲惨だった,It isn't very good,It's quite successful,1,1,177
+コンセプトはスクランブルエッグと同じくらい混乱していた,The concept was hard to understand.,The concept was easy to understand.,0,1,178
+コンセプトは子供のパズルのようにわかりにくいものでした,The concept was hard to understand.,The concept was easy to understand.,1,1,178
+ブリトーは火山の熱を持っています,The burrito is hot,The burrito is cold,0,1,183
+ブリトーは氷山の熱さを持っています,The burrito is hot,The burrito is cold,1,1,183
+時間はカタツムリのように動きました。,Time was slow.,Time was fast.,0,1,184
+時間はチーターのように動きました。,Time was slow.,Time was fast.,1,1,184
+男は僧侶の忍耐力を持っています。,The man is very patient.,The man is very impatient.,0,1,188
+男はお風呂で猫の忍耐力を持っています。,The man is very patient.,The man is very impatient.,1,1,188
+アートは虹のようにカラフル,the art is vibrant,the art is dull,0,1,192
+アートは曇り空のようにカラフル,the art is vibrant,the art is dull,1,1,192
+男の頭は芸術品のようにかっこよかった,The man's head was attractive,The man's head was ugly,0,1,194
+男の頭はゴミ箱のようにハンサムだった,The man's head was attractive,The man's head was ugly,1,1,194
+建物は宇宙そのものと同じくらい古い,It's very old,It's brand new,0,1,196
+建物は明日生まれる赤ちゃんと同じくらい古い,It's very old,It's brand new,1,1,196
+その扇にはギリシャの神アイオロスの風力が宿っている,It can blow a lot,It can hardly blow at all,0,1,197
+そのファンは、プラグを抜いたヘアドライヤーの送風力を持っています,It can blow a lot,It can hardly blow at all,1,1,197
+サンドイッチの肉はタオルのようにしっとり,The sandwich meat was moist.,The sandwich meat was dry.,0,1,201
+サンドイッチの肉はサンドペーパーのようにしっとり,The sandwich meat was moist.,The sandwich meat was dry.,1,1,201
+彼女はてんとう虫のように大きかった。,She was small.,She was big.,0,1,206
+彼女は象と同じくらい大きかった。,She was small.,She was big.,1,1,206
+未来は泥だまりのように輝いていた,The future is dull,The future is bright,0,1,213
+未来はダイヤモンドの輝きを持っていた,The future is dull,The future is bright,1,1,213
+女の子の幸せはシャンパンのボトルのように爆発した,The girl's happiness was effusive.,The girl's happiness didn't really explode at all.,0,1,216
+少女の幸せが子守唄のように爆発した,The girl's happiness was effusive.,The girl's happiness didn't really explode at all.,1,1,216
+問題はTootsie Rollと同じくらい大きかった,The problem was small.,The problem was large.,0,1,217
+問題は南極と同じくらい大きかった,The problem was small.,The problem was large.,1,1,217
+少女の気性は火のついた試合だった,The girl was easily provoked.,The girl's temper was even.,0,1,218
+少女の気性は干潮だった,The girl was easily provoked.,The girl's temper was even.,1,1,218
+読み終わったばかりの本は、私の人生の羅針盤です。,The book contains a lot of timeless wisdom and helpful knowledge.,The book's content is so trashy and useless that one can't bear reading it again.,0,1,224
+読み終えたばかりの本は、私の新しいバグマッシャーです。,The book contains a lot of timeless wisdom and helpful knowledge.,The book's content is so trashy and useless that one can't bear reading it again.,1,1,224
+ヘビは、ローションのボトルに一度も触れたことのない砂漠の住人の皮膚を持っています,The snake has dry and scaly skin,The snake's skin is not dry and scaly,0,1,229
+ヘビはぬるぬるした水生ウナギの皮を持っています,The snake has dry and scaly skin,The snake's skin is not dry and scaly,1,1,229
+レポーターはバスケットボールセンターと同じくらい背が高かった,the reporter was tall,the reporter was short,0,1,233
+レポーターは小人ほど背が高かった,the reporter was tall,the reporter was short,1,1,233
+病気は山火事のように広がっています,It is spreading quickly,It is spreading slowly,0,1,237
+病気は指の爪の成長のように広がっています,It is spreading quickly,It is spreading slowly,1,1,237
+十代は超高層ビルだった,The teen was tall.,The teen was short.,0,1,245
+十代は蟻塚でした,The teen was tall.,The teen was short.,1,1,245
+調査は羽の束の重さを持っていた,The investigation is not important,The investigation has a major impact,0,1,253
+調査の重みがあった 市全体への波及効果,The investigation is not important,The investigation has a major impact,1,1,253
+先生は親のように励ましてくれます,the teacher helps,the teacher doesn't help,0,1,254
+先生は死んだ鳥のように励ましている,the teacher helps,the teacher doesn't help,1,1,254
+彼女の髪は馬栗のたてがみのような光沢を持っていた,Her hair was shiny,Her hair was dull,0,1,259
+彼女の髪は麦わらのような光沢を持っていた,Her hair was shiny,Her hair was dull,1,1,259
+彼のクラスは電球のように輝いていた,His class was brilliant,His class was not so smart.,0,1,260
+彼のクラスは岩のように輝いていた,His class was brilliant,His class was not so smart.,1,1,260
+家は寒い夜の冬の小屋のように居心地が良かった。,The house was comfortable to be in.,The house was uncomfortable to be in.,0,1,268
+家は独房のように居心地が良かった。,The house was comfortable to be in.,The house was uncomfortable to be in.,1,1,268
+兵士は釘のように強かった,The soldier is very tough,The soldier is very weak,0,1,270
+兵士は綿のように強かった,The soldier is very tough,The soldier is very weak,1,1,270
+彼女は象のように脆かった,She was sturdy and not fragile,She was extremely fragile,0,1,274
+彼女はクリスタルのティーカップのように壊れやすかった,She was sturdy and not fragile,She was extremely fragile,1,1,274
+彼女の最も近い親戚は馬かもしれません,She is ugly,She is dainty,0,1,276
+彼女の最も近い親戚は鳥かもしれません,She is ugly,She is dainty,1,1,276
+そのアスリートは80年代のマイク・タイソンに匹敵した,the athlete was great,the athlete was bad,0,1,277
+そのアスリートは 80 歳のとき、マイク・タイソンと同じくらい上手だった,the athlete was great,the athlete was bad,1,1,277
+その学生はスペリングビーで犬のように混乱していた,he didn't know what was going on,he knew everything,0,1,278
+学生は法廷で弁護士と同じくらい混乱していた,he didn't know what was going on,he knew everything,1,1,278
+コーナーはパレードのようににぎやかでした,The corner was busy,The corner was abandoned and not busy,0,1,281
+コーナーは墓地のように忙しかった,The corner was busy,The corner was abandoned and not busy,1,1,281
+その本はパーティーのように楽しかった,The book was entertaining.,The book was not entertaining at all.,0,1,282
+その本は葬式のように面白かった,The book was entertaining.,The book was not entertaining at all.,1,1,282
+アーティストはバニラアイスクリームと同じくらい創造的です,The artist has no new ideas.,The artist is very creative.,0,1,284
+アーティストは、キャラメルバルサミコの渦巻きアイスクリームと同じくらい創造的です,The artist has no new ideas.,The artist is very creative.,1,1,284
+ムカデの足の数だけエピソードがある番組,It has many episodes,It has very few,0,1,287
+この番組は夜空の月の数だけエピソードがある,It has many episodes,It has very few,1,1,287
+私と私の親戚は結合双生児のような親密さを持っています,They're extremely close,They very far apart,0,1,288
+私と私の親戚は北極と南極の近さを持っています,They're extremely close,They very far apart,1,1,288
+家は鉄のように壊れやすい,The house is strong,The house is weak,0,1,292
+家は絹のようにもろい,The house is strong,The house is weak,1,1,292
+その俳優は動物園のライオンの展示と同じくらい注目を集めた,The actor got tons of attention.,The actor got no attention at all.,0,1,299
+その俳優は浜辺の砂粒と同じくらい注目を集めた,The actor got tons of attention.,The actor got no attention at all.,1,1,299
+そのシャツはゴミ袋のように見える,It is ugly,It is pretty,0,1,301
+そのシャツはバラの茂みのように見えます,It is ugly,It is pretty,1,1,301
+その本には医師の敬意が込められている,It is well respected,It is not highly respected,0,1,303
+その本は陰謀論者の尊敬を集めている,It is well respected,It is not highly respected,1,1,303
+私の新しい車はペニー株の信頼性を持っています,My new car is unpredictable,My new car is dependable,0,1,306
+私の新しい車は、微調整されたピアノの信頼性を持っています,My new car is unpredictable,My new car is dependable,1,1,306
+土台は板のように平らでした,The foundation was flat.,The foundation was round and curved.,0,1,311
+土台は地球のように平らだった,The foundation was flat.,The foundation was round and curved.,1,1,311
+車は亀のように速い,the car is slow,the car is speedy,0,1,322
+車は稲妻のように速い,the car is slow,the car is speedy,1,1,322
+彼はジェット機でチーターよりも速く走っている,He's running fast,He's not moving at all,0,1,330
+彼は死んだカタツムリよりも速く走っている,He's running fast,He's not moving at all,1,1,330
+男の気性はハバネロペッパーだった,The man had a big temper.,The man had a mild temper.,0,1,334
+男の気性は一杯のオーツミルクだった。,The man had a big temper.,The man had a mild temper.,1,1,334
+政府は壊れた橋のように安定している,The government is falling apart,The government is very strong and stable.,0,1,335
+政府はれんが造りの家のように強い,The government is falling apart,The government is very strong and stable.,1,1,335
+宝くじに当選する確率は、干し草の山から針を見つけるのと同じくらい高い,The odds of sinning the lottery  are extremely low,The odds of winning the lottery are fantastic,0,1,336
+宝くじに当選する確率は、マッチに火をつけて火を期待するのと同じくらい良いです。,The odds of sinning the lottery  are extremely low,The odds of winning the lottery are fantastic,1,1,336
+彼女は車に乗っている犬のように元気いっぱいです,she is excited,she is tired,0,1,339
+彼女はベッドでナマケモノのように熱狂している,she is excited,she is tired,1,1,339
+彼は司祭として公正である,he is nice,he is mean,0,1,340
+彼は悪魔のように公正だ,he is nice,he is mean,1,1,340
+枝は鋼鉄の梁のように頑丈だった,The branch was sturdy enough to hold a lot of weight.,The branch was weak and could snap easily.,0,1,344
+枝は小枝のように丈夫だった,The branch was sturdy enough to hold a lot of weight.,The branch was weak and could snap easily.,1,1,344
+あれは 1950 年代の冷蔵庫と同じくらいの電力を消費している,It uses a lot of electricity,It uses no electricity,0,1,348
+あれはクローゼットにある Wii U と同じくらいの電力を消費している,It uses a lot of electricity,It uses no electricity,1,1,348
+寝亀のようなワクワク感のある芝居です。,The play is dull.,The play is rousing.,0,1,351
+劇は宝くじの大当たりの興奮を持っています。,The play is dull.,The play is rousing.,1,1,351
+海の波が打ち寄せるのと同じくらい予測可能である女の子,The girl was very predictable.,The girl was totally unpredictable.,0,1,353
+少女はタイタニックの沈没と同じくらい予測可能です,The girl was very predictable.,The girl was totally unpredictable.,1,1,353
+その男は山のように背が高い,The man is tall,The man is short,0,1,356
+その男はフットスツールの高さを持っています,The man is tall,The man is short,1,1,356
+家は城のように魅力的です,the house is pretty,the house is ugly,0,1,361
+家はロードキルと同じくらい魅惑的です,the house is pretty,the house is ugly,1,1,361
+生徒は鈍いナイフのように鋭かった,The student us dumb,The student is smart,0,1,362
+その生徒はヤマアラシの羽ペンのように鋭かった,The student us dumb,The student is smart,1,1,362
+彼の歌声は黒板の指の爪のように聞こえる,The voice makes you cringr,The voice is calming,0,1,363
+彼の歌声は軽やかなそよ風に聞こえる,The voice makes you cringr,The voice is calming,1,1,363
+商品は金と同じくらい価値があった,The goods were valuable,The goods were worthless,0,1,365
+商品は土と同じくらい価値があった,The goods were valuable,The goods were worthless,1,1,365
+パズルはパイのように簡単だった,The puzzle was easy,The puzzle was hard.,0,1,366
+パズルは脳手術と同じくらい簡単だった,The puzzle was easy,The puzzle was hard.,1,1,366
+その政治家はアップルパイと同じくらい人気があった,The politician was very popular.,The politician was very unpopular.,0,1,367
+その政治家は根管治療のように人気があった,The politician was very popular.,The politician was very unpopular.,1,1,367
+会合は葬列のように活気に満ちていた。,The meeting was not lively at all.,The meeting was very lively.,0,1,368
+会議は、弾む家にいる子供たちのグループのように活気に満ちていました。,The meeting was not lively at all.,The meeting was very lively.,1,1,368
+彼はドレスを選ぶ花嫁のようにアイテムを買い求めた,He shopped with great care,He shopped in a hurry,0,1,372
+彼は逃げる強盗のように商品を買い求めた,He shopped with great care,He shopped in a hurry,1,1,372
+映画を見るのは歯科医院に行くようなものだった,The movie was dreadful,The movie was enjoyable,0,1,373
+映画を見るのはカーニバルに行くようなものだった,The movie was dreadful,The movie was enjoyable,1,1,373
+クッキーはTootsie Rollのように歯ごたえがありました,The cookie was perfectly chewy.,The cookie was extremely dense and tough.,0,1,374
+クッキーはレンガのように歯ごたえがありました,The cookie was perfectly chewy.,The cookie was extremely dense and tough.,1,1,374
+ピザ配達員はオリンピック短距離走者並みの速さだった,The pizza arrived quickly.,The pizza took forever to come.,0,1,375
+ピザの配達人はプレートのような速さを持っていた,The pizza arrived quickly.,The pizza took forever to come.,1,1,375
+鍋のローストは沼の水の香りがします。,The pot roast smells bad.,The pot roast smells flavorsome.,0,1,377
+おばあさんの台所の香りが漂う鍋焼き。,The pot roast smells bad.,The pot roast smells flavorsome.,1,1,377
+写真は、インクブロット テストの鮮明さを持っています。,The photograph is out of focus.,The photograph is crystal clear.,0,1,378
+写真は完全な虹の透明度を持っています。,The photograph is out of focus.,The photograph is crystal clear.,1,1,378
+彼はケネディの政治手腕を持っている,He has good political skills,He lacks skill in politics,0,1,380
+彼は生まれたばかりの赤ん坊のような政治的手腕を持っている,He has good political skills,He lacks skill in politics,1,1,380
+このパズルは火星に人を乗せるのが難しい,It is very difficult,It is very easy,0,1,382
+このパズルは、子供のブロック並べ替えゲームの難しさを持っています,It is very difficult,It is very easy,1,1,382
+その少年はコメディアンのように面白かった,it was funny,it wasn't funny,0,1,384
+その少年は死んだハエのように面白かった,it was funny,it wasn't funny,1,1,384
+その政治家の謝罪はチェスの一手だった.,The politician's apology was calculated.,The politician's apology was chaotic.,0,1,386
+その政治家の謝罪は雪崩だった.,The politician's apology was calculated.,The politician's apology was chaotic.,1,1,386
+彼はまむしのように危険だった,He was very dangerous,He was not dangerous,0,1,389
+彼はノミのように危険だった,He was very dangerous,He was not dangerous,1,1,389
+水は太陽の表面のように熱かった,The water was scalding hot,The water was cold,0,1,390
+水はつららのように熱かった,The water was scalding hot,The water was cold,1,1,390
+彼女の言い訳には脱走兵の確信があった。,Her excuse lacked conviction.,Her excuse was full of conviction.,0,1,393
+彼女の言い訳には、復活主義者の説教者の確信がありました。,Her excuse lacked conviction.,Her excuse was full of conviction.,1,1,393
+脅威は対向列車だった,The threat was imminent.,The threat was distant.,0,1,404
+脅威は 3 番目のいとこが 3 回削除されました,The threat was imminent.,The threat was distant.,1,1,404
+彼らの愛は、ボブ・ディランの歌詞のように理解しやすいものでした。,Their love was complex and hard to interpret.,Their love was hot and short lived.,0,1,421
+彼らの愛は、カリフォルニアの山火事の季節のようでした。,Their love was complex and hard to interpret.,Their love was hot and short lived.,1,1,421
+その本は、合併契約の法律用語のように私の注意を引いた,The book totally bored me.,The book really interested me.,0,1,422
+その本はくだらない雑誌の見出しのように私の注意を引いた,The book totally bored me.,The book really interested me.,1,1,422
+彼女の思考はヨーヨーのようだった,Her thoughts were all over the place.,Her thoughts were steady.,0,1,423
+彼女の思いは春の小川のようだった,Her thoughts were all over the place.,Her thoughts were steady.,1,1,423
+彼女のエゴはリッツクラッカーだった,Her ego was very fragile.,Her ego was unshakeable.,0,1,424
+彼女の自我はレンガ造りの建物だった,Her ego was very fragile.,Her ego was unshakeable.,1,1,424
+彼の心は鉄の檻,He has a very good memory and rarely forgets anything,"His memory is terrible, things go in one ear and out the other",0,1,425
+彼の心は開いた納屋のドア,He has a very good memory and rarely forgets anything,"His memory is terrible, things go in one ear and out the other",1,1,425
+画面は懐中電灯のように薄暗い。,The screen was bright.,The screen was dim.,0,1,429
+画面はろうそくのように薄暗かった。,The screen was bright.,The screen was dim.,1,1,429
+あの政治家の演説はリンカーンのゲティスバーグ演説としてよかった,The speech was sycinct and powerful,The speech was overbearing and boring.,0,1,439
+あの政治家の演説は大学教授の濃密な講義として良かった。,The speech was sycinct and powerful,The speech was overbearing and boring.,1,1,439
+あなたは枕のように固いです,You are soft,You are stubborn,0,1,446
+あなたは岩のように固い,You are soft,You are stubborn,1,1,446
+あなたは卵のようにタフです,eggs crack,coconuts are hard,0,1,447
+あなたはココナッツのようにタフです,eggs crack,coconuts are hard,1,1,447
+その少女はカメレオンのように感情をカモフラージュするのが得意だ,The girl hides her emotions well.,The girl shows off her emotions.,0,1,453
+その少女は孔雀のように自分の感情をカモフラージュするのが得意だ,The girl hides her emotions well.,The girl shows off her emotions.,1,1,453
+私の銀行口座はサハラ砂漠のように乾いている,"My bank account is barren, I have no money","My bank account is fat with cash, I'm rich",0,1,457
+私の銀行口座は感謝祭の七面鳥のようにいっぱいです,"My bank account is barren, I have no money","My bank account is fat with cash, I'm rich",1,1,457
+漫画で描かれているような月のチーズ感のあるサンドウィッチ,The sandwich is very cheesy,The sandwich lacks cheese,0,1,458
+サンドイッチは、主なトッピングのないピザのチーズ感があります,The sandwich is very cheesy,The sandwich lacks cheese,1,1,458
+タワーは、晴天の日に金属屋根の耐風性を備えています。,The tower has a high wind resistance,The tower has almost no resistance to wind,0,1,459
+塔は上昇気流に巻き込まれたキャンディーの包み紙のような風の抵抗を持っています,The tower has a high wind resistance,The tower has almost no resistance to wind,1,1,459
+体は鶏小屋で空腹の虎の生存能力を持っています,It has high survivability,It has a low survivability rate,0,1,460
+体は嵐の海での紙袋の生存力を持っています,It has high survivability,It has a low survivability rate,1,1,460
+彼女はアクロバットのようにその馬に乗った,She rode it well,She rode it poorly,0,1,461
+彼女は発作の犠牲者のようにその馬に乗った,She rode it well,She rode it poorly,1,1,461
+スピーチはセメントブロックのように感動的でした,It is dull,It is motivating,0,1,462
+スピーチは足のないマラソンランナーと同じくらい感動的でした,It is dull,It is motivating,1,1,462
+グラスはIKEAの説明書通りクリアです,It is not clear,It is see thru,0,1,463
+ガラスはサランラップのようにクリア,It is not clear,It is see thru,1,1,463
+クッキーは乾パンのような味がしました。,The cookies are awful.,The cookies are delicous.,0,1,464
+クッキーは天国のような味でした。,The cookies are awful.,The cookies are delicous.,1,1,464
+床は油のように滑りやすかった,The floor was slippery.,The floor wasn't slippery at all.,0,1,468
+床はサンドペーパーのように滑りやすかった,The floor was slippery.,The floor wasn't slippery at all.,1,1,468
+宝石は悪いカツラと同じくらい偽物だった,The gem was obviously fake.,The gem was obviously real.,0,1,469
+宝石は私たちが呼吸する空気と同じくらい偽物だった,The gem was obviously fake.,The gem was obviously real.,1,1,469
+少年たちは軍隊と同じくらい規律正しい,The boys are highly disciplined.,The boys lack any discipline.,0,1,472
+少年たちは樽猿のように規律正しい,The boys are highly disciplined.,The boys lack any discipline.,1,1,472
+ヘリコプターは、崩壊するタワーの信頼性を備えていました。,The helicopter was not reliable.,The helicopter was very reliable.,0,1,482
+ヘリコプターは戦艦の信頼性を備えていました。,The helicopter was not reliable.,The helicopter was very reliable.,1,1,482
+この本は私の手にある絹のようなものです。,This book is hard to put down.,This book is forgettable.,0,1,498
+この本はハードカバーの健忘症のようなものです。,This book is hard to put down.,This book is forgettable.,1,1,498
+チームの情熱は地獄のように燃えていた,The team had a lot of passion,THe team had very little passion,0,1,502
+チームの情熱はマッチのように燃えていた,The team had a lot of passion,THe team had very little passion,1,1,502
+その剣はレーザーのように鋭かった,The sword was sharp,The sword was dull,0,1,504
+剣は棒のように鋭かった,The sword was sharp,The sword was dull,1,1,504
+彼は経験豊富な将軍の戦術的な正確さで操縦しました。,He manuevered skillfully.,He maneuvered poorly.,0,1,508
+彼はピエロの車の戦術的な正確さで操縦しました。,He manuevered skillfully.,He maneuvered poorly.,1,1,508
+エンディングは、すべてのトリミングを備えた感謝祭のディナーと同じくらい満足のいくものでした.,The ending was satisfying.,The ending was unsatisfying.,0,1,509
+エンディングは、古くなった塩味のクラッカーと同じくらい満足のいくものでした.,The ending was satisfying.,The ending was unsatisfying.,1,1,509
+あの男は岩のように賢い,The guy is dumb,The guy is intelligent,0,1,511
+あの人はコンピューターのように頭がいい,The guy is dumb,The guy is intelligent,1,1,511
+友情はナプキンの契約と同じくらい意味があった,The friendship wasn't meaningful at all.,The friendship was highly meaningful.,0,1,523
+友情は国際条約と同じくらい意味のあるものでした,The friendship wasn't meaningful at all.,The friendship was highly meaningful.,1,1,523
+子供は大理石の板のようにじっとしていました,The child was totally still.,The child couldn't stop moving.,0,1,524
+その子供は滝のように静かだった,The child was totally still.,The child couldn't stop moving.,1,1,524
+彼はダイヤモンドのように強い。,He is very strong.,He is weak.,0,1,531
+彼は黒鉛のように強い。,He is very strong.,He is weak.,1,1,531
+五つ星の食事を作った後はマスターシェフの満足感を味わう,He is very satisfied,He has very little satisfaction,0,1,532
+彼は、マスターシェフが缶詰のボウルを作っているような満足感を持っています🍝,He is very satisfied,He has very little satisfaction,1,1,532
+彼女はブヨの献身を持っていた,She is flighty and unfocused,She applies pressure consistently and over time.,0,1,535
+彼女は構造プレートの献身を持っていました,She is flighty and unfocused,She applies pressure consistently and over time.,1,1,535
+彼女が感じた欲望はほんの少しだった,She felt little desire,She felt a strong desire,0,1,537
+彼女が感じた欲望は押し寄せる波だった,She felt little desire,She felt a strong desire,1,1,537
+男はうるさい子供の味を持っています。,The man has poor taste in things.,The man has exquisite and fine taste in things.,0,1,539
+その男は英国女王の味を持っている.,The man has poor taste in things.,The man has exquisite and fine taste in things.,1,1,539
+ベッドは雲のように快適です。,The bed is very comfortable.,The bed is very uncomfortable.,0,1,540
+ベッドはあなたの元に会うのと同じくらい快適です。,The bed is very comfortable.,The bed is very uncomfortable.,1,1,540
+彼女は聖人の忍耐力を持っています,She is very patient,She is not patient at all,0,1,547
+彼女は雄牛の忍耐力を持っています,She is very patient,She is not patient at all,1,1,547
+彼は子犬のような道徳を持っています。,He is very moral and kind.,He is not very moral or kind.,0,1,552
+彼はハゲタカの道徳を持っています。,He is very moral and kind.,He is not very moral or kind.,1,1,552
+彼女への彼の欲望は暴走馬でした。,His desire for her was wild.,His desire for her was dormant.,0,1,554
+彼女への彼の欲望はカタツムリだった。,His desire for her was wild.,His desire for her was dormant.,1,1,554
+彼は風のように疾走できた,He was fast.,He was slow.,0,1,558
+彼は亀のように疾走できた,He was fast.,He was slow.,1,1,558
+ソケットのプラグのように、お互いの個性にフィットします。,They fit each other's personalities perfectly.,They don't fit each other's personalities well at all.,0,1,564
+紙の上の磁石のようにお互いの個性にフィットする,They fit each other's personalities perfectly.,They don't fit each other's personalities well at all.,1,1,564
+スパゲッティは、怒った偏狭な学校の教師の視線のように冷たかった,The spaghetti was cold,The spaghetti was very hot,0,1,568
+スパゲッティはハデスへの休暇のように寒かった,The spaghetti was cold,The spaghetti was very hot,1,1,568
+彼女の心は貸金庫のようだった,Her mind is closed and secretive,Her mind is wide open and easily accessible,0,1,569
+彼女の心は子供のおもちゃ箱のようだった,Her mind is closed and secretive,Her mind is wide open and easily accessible,1,1,569
+幽霊は、内気な中学生と、やり過ぎの兄と野性的でやんちゃな妹という透明な姿をしています。,The ghost is very hard to see,The ghost is very noticeable,0,1,570
+幽霊は陶磁器店のいじめっ子のように見えず、被害者に陶磁器をぶつけています,The ghost is very hard to see,The ghost is very noticeable,1,1,570
+君の知恵は刃のように鋭い,Your wit is clever.,Your wit is dull and not clever.,0,1,575
+あなたの機知は石のように鋭い,Your wit is clever.,Your wit is dull and not clever.,1,1,575
+彼女はバレリーナの優雅さとエレガンスをすべて備えていた,She is very graceful and elegant.,"She is not graceful or elegant, and in fact is cumbersome and unsophisticated.",0,1,576
+彼女はダンプトラックのすべての優雅さと優雅さを持っていました,She is very graceful and elegant.,"She is not graceful or elegant, and in fact is cumbersome and unsophisticated.",1,1,576
+先生はノミのような忍耐力を持っていた,The teacher was impatient.,The teacher was patient.,0,1,579
+先生は亀のような忍耐力を持っていた,The teacher was impatient.,The teacher was patient.,1,1,579
+その犬はヨギの態度をとっていた,The dog had a calm attitude.,The dog had an aggressive attitude.,0,1,586
+その犬は武将の態度をとっていた,The dog had a calm attitude.,The dog had an aggressive attitude.,1,1,586
+彼は競走馬の速さで走ることができました。,He was really fast.,He was really slow.,0,1,587
+年老いた亀の速さで走ることができました。,He was really fast.,He was really slow.,1,1,587
+ヘンリーはゴールデンレトリバーです。,Henry is trustworthy and friendly.,Henry is not friendly or trustworthy.,0,1,589
+ヘンリーはコブラです。,Henry is trustworthy and friendly.,Henry is not friendly or trustworthy.,1,1,589
+この猫はバレリーナの優雅さを持っています。,The cat is extremely graceful.,The cat is clumsy and ungraceful.,0,1,601
+この猫は氷の上の豚の優雅さを持っています。,The cat is extremely graceful.,The cat is clumsy and ungraceful.,1,1,601
+その犬は岩のボウルと同じくらい頭がいい,the dog is dumb,the dog is smart,0,1,605
+犬は科学者のように賢い,the dog is dumb,the dog is smart,1,1,605
+税金のペナルティはボウリングの玉と同じくらい重かった,The tax penalty was very heavy.,The tax penalty was very light.,0,1,607
+税金はヘアピンのように重かった,The tax penalty was very heavy.,The tax penalty was very light.,1,1,607
+食事は火山のように温かい,The food is hot,the food is cold,0,1,613
+食べ物は氷のように温かい,The food is hot,the food is cold,1,1,613
+道はパンケーキのように平ら,The road is flat,The road is rolling,0,1,614
+道路はジェットコースターのように平らです,The road is flat,The road is rolling,1,1,614
+彼女は窓のように透明です,You can see her intentions,You can't tell what kind of person she is,0,1,616
+彼女は壁のように透明です,You can see her intentions,You can't tell what kind of person she is,1,1,616
+彼は金の心を持っている,He has a great deal of concern for others,He doesn't care too much for others,0,1,618
+彼は石炭の心を持っている,He has a great deal of concern for others,He doesn't care too much for others,1,1,618
+この映画には、ロッキングチェアでいっぱいの部屋にいる猫のような緊張感があります。,The movie is tense.,The movie's pace is relaxed.,0,1,619
+映画はぬるめんのような緊張感があります。,The movie is tense.,The movie's pace is relaxed.,1,1,619
+その本はアリの浴槽の深さを持っている,the story is superficial,the story is profound,0,1,622
+その本はマリアナ海溝の深さを持っています,the story is superficial,the story is profound,1,1,622
+彼女はヨーヨーの糸のようにびくびくしていた,She was very anxious.,She was very calm.,0,1,630
+彼女はヨギのようにびくびくしていた,She was very anxious.,She was very calm.,1,1,630
+仕事は中国の工場と同じくらい良い給料,The job pays very little,The job pays excellent.,0,1,639
+その仕事は政治家の給料と同じくらい良い給料を払っている.,The job pays very little,The job pays excellent.,1,1,639
+その本は水滴を数えるのと同じくらい面白い,The book is beyond boring.,The book is incredible.,0,1,640
+その本はタイムトラベルと同じくらい面白い。,The book is beyond boring.,The book is incredible.,1,1,640
+日付にはエキゾチックな物語のすべての魔法がありました,The date was intriguing,The date was boring,0,1,643
+日付には案内広告のすべての魔法がありました,The date was intriguing,The date was boring,1,1,643
+写真はさわやかな秋の日の日の出のように美しい,The photography is beautiful and moving,The photography is ugly and unwanted,0,1,652
+写真はゴミの山のように美しい,The photography is beautiful and moving,The photography is ugly and unwanted,1,1,652
+ピエロはねずみを捕まえたばかりの猫のような笑顔をしています,The clown's smile is wide and happy,"The clown's smile is inexpressive, flat",0,1,653
+ピエロは操り人形のような笑顔,The clown's smile is wide and happy,"The clown's smile is inexpressive, flat",1,1,653
+彼女は彼のことを完全なおむつと同じくらい高く評価している,She thinks he's worthless.,She prizes him.,0,1,656
+彼女は彼のことをダイヤモンドのように高く評価している,She thinks he's worthless.,She prizes him.,1,1,656
+母の言葉にはゴミが散らばっていた。,His mother's words were stupid.,His mother's words were wise.,0,1,657
+母の言葉には宝石が散りばめられていた。,His mother's words were stupid.,His mother's words were wise.,1,1,657
+群衆はオオカミでいっぱいでした。,The crowd had several dangerous leaders.,The crowd had several unthinking followers.,0,1,658
+群衆は羊でいっぱいでした。,The crowd had several dangerous leaders.,The crowd had several unthinking followers.,1,1,658
+彼はネズミのように食べます。,He doesn't eat a lot.,He eats a lot.,0,1,664
+彼は犬のように食べる。,He doesn't eat a lot.,He eats a lot.,1,1,664
+うさぎは、チンチラと交配させたアイダーダックの柔らかさを持っていました,The rabbit feels extremely soft,The rabbit feels rough,0,1,668
+うさぎは5時の影で男の顔の柔らかさを持っていた,The rabbit feels extremely soft,The rabbit feels rough,1,1,668
+先生は好きな人とデートする女の子のように楽しかった,the teacher was interested,the teacher didn't want to hear anything,0,1,672
+先生は法廷で裁判官のように面白がっていた,the teacher was interested,the teacher didn't want to hear anything,1,1,672
+シリーズ全体に水たまりの深さがありました。,The series was boring.,The series was profound.,0,1,678
+シリーズ全体が湖のように深かった。,The series was boring.,The series was profound.,1,1,678
+空気は産業革命前の中国のようにきれいだった,The air is quite clean,The air is filthy,0,1,683
+空気は開けたての掃除機のようにきれいだった,The air is quite clean,The air is filthy,1,1,683
+彼女はビーバーのように忙しい。,She is really busy.,She is lazy.,0,1,687
+彼女はナマケモノのように忙しい。,She is really busy.,She is lazy.,1,1,687
+彼女は鳴き鳥のように歌います。,She sings well.,She sings badly.,0,1,688
+彼女は遠吠えする猫のように歌います。,She sings well.,She sings badly.,1,1,688
+彼は閉じたドアのように開いています。,He is not open at all.,He is very open.,0,1,689
+彼は大きなモールのようにオープンです。,He is not open at all.,He is very open.,1,1,689
+彼の気分は太陽のように永続的でした。,His mood never changes.,His mood was always changing.,0,1,690
+彼の気分は潮の永続性を持っていました。,His mood never changes.,His mood was always changing.,1,1,690
+彼女はアンネ・フランクのように隠れていた,She was hiding well,She was hiding poorly,0,1,693
+彼女はサーカスのピエロのように隠れていた,She was hiding well,She was hiding poorly,1,1,693
+それらの事実は聖書のようでした,Those facts were not true,Those facts were true,0,1,694
+それらの事実は辞書のようでした,Those facts were not true,Those facts were true,1,1,694
+ゲームの最終スコアは、犬の尻尾の毛よりも近いものになりました。,The teams scored similar amounts of points till the end of the game.,The teams did not score similar amounts till the end of the game.,0,1,707
+ゲームの最終スコアは、サッカー場の 2 つのゴールポストよりも遠いものになりました。,The teams scored similar amounts of points till the end of the game.,The teams did not score similar amounts till the end of the game.,1,1,707
+事実は泥棒の嘘のように事件を証明した,The facts were unreliable,The facts were solid and supported the case,0,1,708
+事実は、堅実なシャーロック・ホームズの事件のように事件を証明した,The facts were unreliable,The facts were solid and supported the case,1,1,708
+笑いは魂にとって音楽のようなものです。,Laughter makes me happy.,Laughter annoys me.,0,1,712
+笑いは、黒板で金切り声をあげるようなものです。,Laughter makes me happy.,Laughter annoys me.,1,1,712
+事実は不動の岩です。,Facts cannot be changed.,Facts are constantly changing.,0,1,714
+事実は流動的です。,Facts cannot be changed.,Facts are constantly changing.,1,1,714
+彼の図書館は頭脳でした。,His library was really intellectual.,His library was unimpressive.,0,1,716
+彼の書斎は煙のようなものでした。,His library was really intellectual.,His library was unimpressive.,1,1,716
+彼女の顔はクレーターです。,Her face is bumpy.,Her face is smooth.,0,1,718
+彼女の顔はスケートリンクです。,Her face is bumpy.,Her face is smooth.,1,1,718
+運転手は木こり。,The driver is not careful.,The driver is careful.,0,1,719
+ドライバーはバレリーナ。,The driver is not careful.,The driver is careful.,1,1,719
+猿は現代のエジソン,The monkey was smart,The monkey was dumb,0,1,731
+サルは1年生のドロップアウトでした,The monkey was smart,The monkey was dumb,1,1,731
+彼女は宗教的な経験をした後、教皇の良心を持っています,She has a good conscience,She has a bad conscience,0,1,734
+彼女は悪い日にヒトラーの良心を持っています,She has a good conscience,She has a bad conscience,1,1,734
+キャンディーの包み紙には、温水浴槽に浸かった後の老婆のしわがあります,The wrapper is very crinkly,The wrapper has no crinkles,0,1,735
+キャンディの包み紙には、ボトックス注射後の有名人の顔のようなしわがあります,The wrapper is very crinkly,The wrapper has no crinkles,1,1,735
+マイクはカエルのようにびくびくしています,the microphone is highly sensitive / overpowered.,the microphone is highly insensitive / underpowered.,0,1,736
+マイクは泥のようにビクビク,the microphone is highly sensitive / overpowered.,the microphone is highly insensitive / underpowered.,1,1,736
+女性は濡れたモップのように芸術的です。,The woman is not artistic.,The woman is a wonderful artist.,0,1,740
+その女性はゴッホと同じくらい芸術的です。,The woman is not artistic.,The woman is a wonderful artist.,1,1,740
+駐車場はクレーターです。,The parking lot is bumpy.,The parking lot is smooth.,0,1,744
+駐車場はガラス張りです。,The parking lot is bumpy.,The parking lot is smooth.,1,1,744
+パンチはマシュマロの強さで私を襲った,The punch is soft,The punch is hard,0,1,749
+パンチは石のような強さで私を襲った,The punch is soft,The punch is hard,1,1,749
+鳥の翼幅はどこまでも続く,The wings on the bird are large and massive,The wings are so small they look like a butterfly's wings.,0,1,754
+鳥の翼幅は蝶と同じくらい小さい,The wings on the bird are large and massive,The wings are so small they look like a butterfly's wings.,1,1,754
+授業は濡れた紙袋のように面白かった。,Class was boring and dull.,Class was very inspiring and made me think in a different way.,0,1,755
+生まれ変わったような刺激的な授業でした。,Class was boring and dull.,Class was very inspiring and made me think in a different way.,1,1,755
+彼の声は早朝のコーヒーでした。,He had a very soothing voice.,His voice was startlingly unpleasant.,0,1,757
+彼の声は早朝の警報でした。,He had a very soothing voice.,His voice was startlingly unpleasant.,1,1,757
+犬は命を与えられた忠誠心と愛です。,Dog wonderful creatures.,Dogs are gross creatures.,0,1,758
+犬は物乞いをし、与えられた命をうんちします。,Dog wonderful creatures.,Dogs are gross creatures.,1,1,758
+その男はJ. Crewのモデルのようにハンサムだった,The man had excellent looks.,The man had poor looks.,0,1,764
+その男はハダカデバネズミのようにハンサムだった,The man had excellent looks.,The man had poor looks.,1,1,764
+彼の顔は未舗装の道路です。,His face is bumpy.,His face is smooth.,0,1,768
+彼の顔は一枚のガラスです。,His face is bumpy.,His face is smooth.,1,1,768
+ペインターは解体ダービー。,The painter is rough.,The painter is careful.,0,1,769
+画家は外科医です。,The painter is rough.,The painter is careful.,1,1,769
+マットのガールフレンドは自動販売機です。,Matt's girlfriend is large.,Matt's girlfriend is small.,0,1,772
+マットのガールフレンドは私書箱です。箱。,Matt's girlfriend is large.,Matt's girlfriend is small.,1,1,772
+このテーブルはギリシャの神によって作られました。,The table was well constructed.,The table was poorly made.,0,1,780
+このテーブルはチンパンジーが作ったものです。,The table was well constructed.,The table was poorly made.,1,1,780
+子供部屋はゴミ捨て場,The child's room was messy,The child's room was clean,0,1,785
+子供部屋は手術前の病室でした,The child's room was messy,The child's room was clean,1,1,785
+彼女の心は壊れた椅子のセットだった,Her mind was confused.,Her mind was clever.,0,1,789
+彼女の心はビンテージの本棚でした。,Her mind was confused.,Her mind was clever.,1,1,789
+その男は脳神経外科医並みの技術でプロジェクトに取り組んだ,The man brought expert skills to the project.,The man brought no skills to the project.,0,1,791
+その男は中学生並みのスキルでプロジェクトに取り組んだ,The man brought expert skills to the project.,The man brought no skills to the project.,1,1,791
+その男は渋滞に巻き込まれた車のように素早く動いた,The man moved with no speed at all.,The man moved with great speed.,0,1,792
+男はナイアガラの滝のように素早く動いた,The man moved with no speed at all.,The man moved with great speed.,1,1,792
+彼は私が彼にお金を与えるつもりであるかのように私に話しました。,He was really friendly.,He was really evasive.,0,1,797
+彼は私がお金を要求すると思ったように私に話しかけました。,He was really friendly.,He was really evasive.,1,1,797
+これは、吹雪の中の角氷と同じくらい役に立ちます。,It's not useful at all.,It's very useful.,0,1,798
+これは、吹雪の中でキャビンを暖房するのと同じくらい役に立ちます。,It's not useful at all.,It's very useful.,1,1,798
+マットレスは花崗岩のように柔らかかった,The mattress is hard,the mattress is soft,0,1,802
+マットレスは雲のように柔らかかった,The mattress is hard,the mattress is soft,1,1,802
+石鹸はゆり畑のようなにおいがした,the soap smelled good,the soap smelled bad,0,1,803
+石鹸はヌーの糞のようなにおいがした。,the soap smelled good,the soap smelled bad,1,1,803
+私たちは宇宙の寿命のすべての時間を持っています,We have a lot of time,We have very little time,0,1,806
+私たちはイエバエの寿命のすべての時間を持っています,We have a lot of time,We have very little time,1,1,806
+文化には、子供用プールの深さがあります。,The culture is superficial.,The culture is complex.,0,1,808
+文化にはマリアナ海溝の深さがあります。,The culture is superficial.,The culture is complex.,1,1,808
+道路は岩盤です。,The road is bumpy.,The road is smooth.,0,1,809
+道路はスケートリンクです。,The road is bumpy.,The road is smooth.,1,1,809
+ヨーグルトはオニオンリングバッターのようでした,The yogurt was thick.,The yogurt was thin.,0,1,811
+ヨーグルトは霧のようだった,The yogurt was thick.,The yogurt was thin.,1,1,811
+家屋のメゾナイト羽目板は水だけでなくスポンジもはじく,Masonite siding soaks up water,Masonite is water repellant,0,1,814
+家屋のメゾナイト羽目板はレインコートと同様に水をはじきます,Masonite siding soaks up water,Masonite is water repellant,1,1,814
+彼らの文化には牧草地のような開放性があります,The culture is very open and tolerant,The culture is not open or tolerant,0,1,823
+彼らの文化にはクローゼットのような開放性があります,The culture is very open and tolerant,The culture is not open or tolerant,1,1,823
+女はバケツの浅さ,She is very shallow,She is not very shallow,0,1,825
+女は海の浅さを持っている,She is very shallow,She is not very shallow,1,1,825
+この場所は博物館のように文化的です,This place is highly cultured.,This place is lowbrow and not cultured.,0,1,829
+この場所はトラックの停留所と同じくらい文化的です,This place is highly cultured.,This place is lowbrow and not cultured.,1,1,829
+彼はボディビルダー並みに強い,He is strong.,He is weak.,0,1,832
+彼はおじいちゃんのように強い,He is strong.,He is weak.,1,1,832
+フェイスクリームは砂利の質感です。,The face cream is too rough.,The face cream is light.,0,1,841
+フェイスクリームはチョコレートムースのような食感。,The face cream is too rough.,The face cream is light.,1,1,841
+犬は金魚のように獰猛です,The dog is docile.,The dog is dangerous .,0,1,850
+その犬は飢えた熊のように獰猛です,The dog is docile.,The dog is dangerous .,1,1,850
+霧は鉄のように濃い,The fog is thick and hard to see through.,The fog is thin and easy to see through.,0,1,851
+霧はプレキシガラスのように濃い,The fog is thick and hard to see through.,The fog is thin and easy to see through.,1,1,851
+司祭は9.1の地震と同じくらい頻繁に性的に活発です,A priest is rarely sexually active,A priest is extremely sexually active,0,1,852
+司祭はセントヘレンズ山のように性的に活発です,A priest is rarely sexually active,A priest is extremely sexually active,1,1,852
+医者はスタートレックのコンピューターの頭脳を持っている.,The doctor is very intelligent,The doctor isn't very smart,0,1,860
+医者は未発達のハトの脳を持っている,The doctor is very intelligent,The doctor isn't very smart,1,1,860
+その少女はハリウッド女優と同じくらい要求が厳しかった,The girl was highly demanding.,The girl was not demanding at all.,0,1,862
+その少女は炊き出しのボランティアと同じくらいきつかった,The girl was highly demanding.,The girl was not demanding at all.,1,1,862
+彼女がポーンしようとした宝石は、ホーボーのハンカチの価値がある,The jewelry is not worth much,The jewelry is very valuable,0,1,869
+彼女がポーンしようとした宝石の価値は金の延べ棒の山,The jewelry is not worth much,The jewelry is very valuable,1,1,869
+彼女はフンコロガシの美しさを持っていた,She is ugly,She is beautiful,0,1,871
+彼女は素晴らしいファッションモデルの美しさを持っていた,She is ugly,She is beautiful,1,1,871
+彼はNFLプレーヤーのポジショニングを持っています.,He's got professional level positioning.,He's got terrible positioning.,0,1,875
+彼はイカのポジショニングを持っています。,He's got professional level positioning.,He's got terrible positioning.,1,1,875
+彼は仏教の僧侶の規律を持っています。,He's extremely disciplined.,He's not disciplined at all.,0,1,877
+彼は野生のハイエナの規律を持っています。,He's extremely disciplined.,He's not disciplined at all.,1,1,877
+コショウは地獄です,The pepper is super spicy,The pepper is not spicy,0,1,878
+コショウはアイスキューブです,The pepper is super spicy,The pepper is not spicy,1,1,878
+彼は殴られた犬のような怒りを持っている,He's very angry,He's not at all angry,0,1,883
+彼は幸せな蝶のような怒りを持っています,He's very angry,He's not at all angry,1,1,883
+彼女の髪には、2010 年 4 月のメキシコ湾のオイルが付着しています。,Her hair is oily,Her hair is oil free,0,1,885
+彼女の髪にはドーンの食器用洗剤のオイルがついています,Her hair is oily,Her hair is oil free,1,1,885
+教会はオカルト集会と同じくらい正統的でした。,The church was heretical and move beyond the boundaries of accepted teachings.,The church was within the boundaries of accepted teachings and were in line with the Great Tradition.,0,1,886
+教会は古代の教父たちと同じくらい正統的でした。,The church was heretical and move beyond the boundaries of accepted teachings.,The church was within the boundaries of accepted teachings and were in line with the Great Tradition.,1,1,886
+少女の舌は剣のように鋭かった,The girls tongue was very sharp.,The girl's tongue wasn't sharp at all.,0,1,890
+少女の舌は枕のように鋭かった,The girls tongue was very sharp.,The girl's tongue wasn't sharp at all.,1,1,890
+彼は仏のように霊的です,He is very religious,He is not religious,0,1,892
+彼は私の犬と同じくらい精神的です,He is very religious,He is not religious,1,1,892
+彼の思考は砂時計の砂のように流れた,His thoughts flowed smoothly and steadily.,His thoughts were all over the place.,0,1,897
+彼の思考はブレイクダンスの猿のように流れた,His thoughts flowed smoothly and steadily.,His thoughts were all over the place.,1,1,897
+彼のバチェラー パッドは、タコ ベルの夜の学生寮のバスルームと同じくらい新鮮な匂いがした,His bachelor pad smelled awful,His bachelor pad smelled wonderful,0,1,899
+彼のバチェラー パッドは、ラルフ ローレンのフレグランス ファクトリーと同じくらい新鮮な匂いがした,His bachelor pad smelled awful,His bachelor pad smelled wonderful,1,1,899
+私の魂は1ドル札と同じ重さです,My soul is without a worry,My soul is worried,0,1,904
+私の魂はトラックのタイヤと同じくらい重い,My soul is without a worry,My soul is worried,1,1,904
+彼は神からビジョンを得た後、教皇の精神性を持っています,He is very spiritual,He is not spiritual at all,0,1,910
+彼は教会を焼き払う無神論者の精神性を持っています,He is very spiritual,He is not spiritual at all,1,1,910
+この映画は、100個の太陽の寿命のランタイムを持っていました,The film was very long,The film was quite short,0,1,911
+この映画には、アリが 1 分間に移動する距離のランタイムがありました,The film was very long,The film was quite short,1,1,911
+医者はハチの群れのように友好的です。,The doctor is mean.,The doctor is lovable.,0,1,913
+ドクターは子犬のようにフレンドリーです。,The doctor is mean.,The doctor is lovable.,1,1,913
+彼のスピーチには、排尿しなければならない男の緊急性があった,His speech had a lot of urgency,His speech had no urgency,0,1,924
+彼の演説には、締め切りが遠いという緊急性があった,His speech had a lot of urgency,His speech had no urgency,1,1,924
+この作品は金魚のように鮮やかです。,This work of art is dumb.,This work of art is a masterpiece.,0,1,925
+この芸術作品は、タージマハルと同じくらい素晴らしいです。,This work of art is dumb.,This work of art is a masterpiece.,1,1,925
+この衣装はグレムリンの群れにふさわしい。,This outfit is horrible.,This outfit is amazing.,0,1,926
+この衣装はキャットウォークにふさわしい.,This outfit is horrible.,This outfit is amazing.,1,1,926
+彼らはネズミとチーズのように協力します。,They collaborate really well.,They do not collaborate well at all.,0,1,928
+彼らはネズミと空腹の猫のように協力します。,They collaborate really well.,They do not collaborate well at all.,1,1,928
+彼はドリルインストラクターの規律を持っています。,He is very disciplined.,He is not disciplined at all.,0,1,929
+彼は幼児の規律を持っています。,He is very disciplined.,He is not disciplined at all.,1,1,929
+彼はチーターのスピードを持っています。,He is very fast.,He is very slow.,0,1,930
+彼はナマケモノのようなスピードを持っています。,He is very fast.,He is very slow.,1,1,930
+彼女は年老いた怒った猫のように友好的でした,She wasn't kind at all,She was happy to see us,0,1,933
+彼女は生まれたばかりの子犬のようにフレンドリーでした,She wasn't kind at all,She was happy to see us,1,1,933
+彼女はブヨの注意力を持っています,She has a short attention span,She has a long attention span,0,1,935
+彼女はイルカの注意力を持っています,She has a short attention span,She has a long attention span,1,1,935
+家は古代エジプトのミイラの時代,The house is old,The house is young,0,1,936
+家はトム・クルーズ主演のミイラの時代です,The house is old,The house is young,1,1,936
+この缶には、Boyardee シェフのパントリーのすべての麺が入ります,The can holds many noodles,The can has few noodles in it,0,1,938
+缶には「楽しいサイズ」の麺がすべて入ります。,The can holds many noodles,The can has few noodles in it,1,1,938
+バレリーナはフラミンゴの優雅さと優美さを備えていました。,The ballerina was graceful.,The ballerina was clumsy.,0,1,941
+バレリーナはカバのような気品と優美さを備えていました。,The ballerina was graceful.,The ballerina was clumsy.,1,1,941
+その犬は臆病なライオンのように勇気がある.,The dog is cowardly.,The dog is very brave.,0,1,944
+犬は軍隊全体と同じくらい勇敢です。,The dog is cowardly.,The dog is very brave.,1,1,944
+気球にはアクアマンのように水中を浮遊する能力があった,The balloon is good at floating,The balloon floats poorly,0,1,957
+気球は陸上でアクアマンの浮遊能力を持っていた,The balloon is good at floating,The balloon floats poorly,1,1,957
+金具は蛇革です。,The metal is rough.,The metal is smooth.,0,1,966
+金属は鏡です。,The metal is rough.,The metal is smooth.,1,1,966
+その場所はパーティーのように楽しかった,The place was joyful.,The place was miserable.,0,1,979
+その場所は葬​​式のように楽しいものでした,The place was joyful.,The place was miserable.,1,1,979
+これはベーコンのようにカリカリ！,The item is very crispy.,The item isn't crispy at all.,0,1,982
+生ベーコンのようにカリカリ！,The item is very crispy.,The item isn't crispy at all.,1,1,982
+レッサーパンダみたいで可愛い！,He was very cute.,He was not very cute.,0,1,983
+彼はブロブフィッシュのようにかわいいです。,He was very cute.,He was not very cute.,1,1,983
+金属はヘラクレスの強さを持っています。,The metal is very strong,The metal is very weak,0,1,985
+金属は、濡れた天使の髪のパスタ麺の強さを持っています.,The metal is very strong,The metal is very weak,1,1,985
+このプロジェクトを敵のように過ごしたい,You do not want to spend time on the project,You do want to spend time on the project,0,1,995
+このプロジェクトを自分のゲームのように過ごしたい,You do not want to spend time on the project,You do want to spend time on the project,1,1,995
+プロジェクトは私の敵と同じくらい有利です,The project is not favorable,The project is favorable,0,1,996
+プロジェクトは私のゲームと同じくらい有利です,The project is not favorable,The project is favorable,1,1,996
+彼は北極星のように明るい。,He's very smart.,He's not very smart.,0,1,1002
+彼は切れた電球のように明るい。,He's very smart.,He's not very smart.,1,1,1002
+うさぎはレーシングカー並みの速さ,The rabbit is fast,The rabbit is slow,0,1,1005
+うさぎはナマケモノ並みの速さ,The rabbit is fast,The rabbit is slow,1,1,1005
+アヒルは、草の葉を通り過ぎるたびにレースカーのクラクションを鳴らしているようなうるささを持っていた.,The duck is noisy,The duck is quiet,0,1,1008
+アヒルは、文鎮の下に積み重ねられた紙のすべての騒々しさを持っていた.,The duck is noisy,The duck is quiet,1,1,1008
+その女性は、脱皮する蛇の皮を持っています。,"That woman has dead, peeling skin.",That woman has smooth skin.,0,1,1011
+あの女はガラスのような肌をしている。,"That woman has dead, peeling skin.",That woman has smooth skin.,1,1,1011
+この小説には、ボアコンストリクターの感情的な関連性があります。,The novel is not relatable.,The novel is relatable.,0,1,1014
+その小説には、古い友人のような感情的な関連性がある.,The novel is not relatable.,The novel is relatable.,1,1,1014
+家はグランドキャニオンと同じくらい大きい,The house is enormous.,The house is tiny.,0,1,1021
+家はネズミ捕りと同じくらい大きい,The house is enormous.,The house is tiny.,1,1,1021
+この映画には、ディックとジェーンの本のような深みがあります,The movie is simplistic.,The movie has a deep plot.,0,1,1025
+その映画はシェイクスピア劇のような奥深さを持っている,The movie is simplistic.,The movie has a deep plot.,1,1,1025
+平均的な人は、複雑で知覚力のある哺乳類の感情を持っています,The average person has many emotions,The average person has no emotions,0,1,1033
+普通の人は、冷たく無感覚なオートマトンのような感情を持っている,The average person has many emotions,The average person has no emotions,1,1,1033
+食べ放題のビュッフェで太った男の吸収力を持つスポンジ,The sponge has high absorbance,The sponge can absorb little,0,1,1034
+スポンジはトイレットペーパー1枚分の吸収力があります,The sponge has high absorbance,The sponge can absorb little,1,1,1034
+CEOのアイデアは感情を持ったロボットのように最先端だった,The CEO's idea was extremely novel.,The CEO's idea was outdated.,0,1,1037
+CEOのアイデアはMySpaceと同じくらい最先端だった,The CEO's idea was extremely novel.,The CEO's idea was outdated.,1,1,1037
+その少女はグーグルと同じくらい知識が豊富だった,The girl was extremely smart.,The girl was ignorant.,0,1,1038
+その少女は訓練を受けていない子犬と同じくらい知識が豊富だった,The girl was extremely smart.,The girl was ignorant.,1,1,1038
+ピーターは外航船に分類できる靴を履いています。,Peter wears shoes in a very large size.,Peter wears shoes in a very small size.,0,1,1039
+ピーターはエルフに合う靴を履いています。,Peter wears shoes in a very large size.,Peter wears shoes in a very small size.,1,1,1039
+メキシコシティの雰囲気はサウナ,The atmosphere is smoggy,The atmosphere is clean,0,1,1042
+メキシコシティの雰囲気はガラス張り,The atmosphere is smoggy,The atmosphere is clean,1,1,1042
+花には母のキスの香りがする,The flower smells good,The flower smells bad,0,1,1043
+花には悪魔のキスの香りがする,The flower smells good,The flower smells bad,1,1,1043
+関係はマラソンの長さを持っていました,The relationship was long,The relationship was short,0,1,1044
+関係はクリップの長さを持っていた,The relationship was long,The relationship was short,1,1,1044
+ジョージは大量のレンガのように地面にぶつかった,George hit the ground hard,George hit the ground softly,0,1,1049
+ジョージは羽のように地面にぶつかった,George hit the ground hard,George hit the ground softly,1,1,1049
+この映画には、一次元の漫画のキャラクターの深みがあります。,The movie is boring,The movie is profound,0,1,1050
+この映画は、宇宙空間のすべてを取り囲むブラック ホールの深さを持っています。,The movie is boring,The movie is profound,1,1,1050
+作家は空のバスタブの深さを持っていました。,The writer was dull.,The writer was profound.,0,1,1053
+作家はマリアナ海溝の深さを持っていました。,The writer was dull.,The writer was profound.,1,1,1053
+チアリーダーは、空のシンクの深さを持っていました.,The cheerleader was superficial.,The cheerleader was profound.,0,1,1054
+チアリーダーは海の底の深さを持っていました。,The cheerleader was superficial.,The cheerleader was profound.,1,1,1054
+ゴキブリに対する彼女の反応は、大発作中に感電死するのと同じくらい微妙でした,Her reaction to the cockroach was histrionic,Her reaction to the cockroach was calm,0,1,1056
+ゴキブリに対する彼女の反応は、科学者がペトリ皿のカビを観察するのと同じくらい微妙でした,Her reaction to the cockroach was histrionic,Her reaction to the cockroach was calm,1,1,1056
+この曲は、黒板に釘を打つのと同じように聞くのに適しています。,the song is unpleasant,the song is ethereally good.,0,1,1060
+この歌は、天使が鐘を鳴らす音と同じくらい聴き心地が良いです。,the song is unpleasant,the song is ethereally good.,1,1,1060
+宿題は理論物理学の複雑さを持っています,The homework is impossible to fully understand,The homework is simple and straightforward,0,1,1062
+宿題は岩のように複雑です,The homework is impossible to fully understand,The homework is simple and straightforward,1,1,1062
+その波はシアーズタワー,the wave is tall,the wave is short,0,1,1066
+その波は蟻塚,the wave is tall,the wave is short,1,1,1066
+アイスボックスの中にいるように感じた気温,The temperature was cold.,The temperature was hot.,0,1,1078
+ブロイラーの中にいるように感じた気温,The temperature was cold.,The temperature was hot.,1,1,1078
+クラシック音楽を聴くと、感情の海のように感じます,classical music is intense,classical music is dull,0,1,1082
+クラシック音楽を聴くと昏睡状態に陥る,classical music is intense,classical music is dull,1,1,1082
+カウンターは蛇,The counter is curvy.,The counter is straight.,0,1,1085
+カウンターは定規です。,The counter is curvy.,The counter is straight.,1,1,1085
+フライパンに卵を入れたくらいの温かさです。,It's very hot.,It's not hot at all.,0,1,1087
+アイスキューブと同じくらい暖かいです。,It's very hot.,It's not hot at all.,1,1,1087
+あの本には睡眠薬の効果がある,The book is boring,The book is exciting,0,1,1092
+あの本にはカフェイン錠剤の効果がある,The book is boring,The book is exciting,1,1,1092
+あなたは俳優のように表現力豊かです,You're very expressive,You're unexpressive,0,1,1094
+あなたはロボットのように表現力豊かです,You're very expressive,You're unexpressive,1,1,1094
+彼は水たまりのように深い,He's not a deep thinker,He's a very deep thinker,0,1,1098
+彼は海のように深い,He's not a deep thinker,He's a very deep thinker,1,1,1098
+その先生はグーグルです。,That teacher is knowledgeable.,That teacher is out-of-date.,0,1,1103
+その先生はアメリカオンラインです。,That teacher is knowledgeable.,That teacher is out-of-date.,1,1,1103
+あなたのお母さんは熱気球です。,Your momma is bloated.,Your momma is sexy.,0,1,1104
+あなたのお母さんは滑らかなオオヤマネコです。,Your momma is bloated.,Your momma is sexy.,1,1,1104
+ホテルのベッドは24金の豪華さ,The bed was very luxurious.,The hotel bed was not luxurious at all.,0,1,1107
+ホテルのベッドは寝袋のように豪華でした,The bed was very luxurious.,The hotel bed was not luxurious at all.,1,1,1107
+ドレスはセロファンのような厚みがありました。,The dress was sheer.,The dress was solid.,0,1,1114
+ドレスは無垢の木片のような厚みがありました。,The dress was sheer.,The dress was solid.,1,1,1114
+ジャグジーには、オリンピックのダイバーが空気を吸いに来るのと同じ吸引力がありました,The whirlpool had a strong suction,The suction of the whirlpool was weak,0,1,1119
+ワールプールは、チーズバーガーのラッパーを吸い上げた後、真空の吸引力を持っていました,The whirlpool had a strong suction,The suction of the whirlpool was weak,1,1,1119
+ダーシーは義足でマイケル・ジャクソンのダンススキルを持っていた,Darcy is a great dancer,Darcy can hardly dance at all,0,1,1120
+ダーシーは松葉杖をついた6本足のクモのようなダンススキルを持っていた,Darcy is a great dancer,Darcy can hardly dance at all,1,1,1120
+私の怒りは宇宙のようなものです。,My anger is vast.,My anger is fluctuating.,0,1,1124
+私の怒りは揺れる波のようです。,My anger is vast.,My anger is fluctuating.,1,1,1124
+彼の到着は花火のショーと同じくらいエキサイティングだった,He created much excitement,People were bored by his appearance,0,1,1129
+彼の到着はかたつむりレースのようにエキサイティングでした,He created much excitement,People were bored by his appearance,1,1,1129
+彼は野獣のように怒っていた,He was angry,"He was calm, and not angry",0,1,1133
+彼は禅師のように怒っていた,He was angry,"He was calm, and not angry",1,1,1133
+あなたはボールのように滑らかです,You're very smooth,You're very rough and not smooth,0,1,1134
+あなたはサボテンのように滑らかです,You're very smooth,You're very rough and not smooth,1,1,1134
+その女性はサイのようにたくましかった。,The woman was very tough.,The woman was not very tough.,0,1,1136
+その女性はモルモットのようなタフさを持っていました。,The woman was very tough.,The woman was not very tough.,1,1,1136
+その男は、10年の経験を持つ外科医の信頼性を持っていました。,The man was very reliable.,The man couldn't be relied on at all.,0,1,1137
+あの男は十歳の外科医並みの信頼を持っていた。,The man was very reliable.,The man couldn't be relied on at all.,1,1,1137
+蛾は羊たちの沈黙を思い出させた,The moth reminded me of something frightening.,The moth reminded me of something comforting.,0,1,1144
+その蛾はおばあちゃんの家で過ごした夏を思い出させた,The moth reminded me of something frightening.,The moth reminded me of something comforting.,1,1,1144
+蝶は土塀の色をしていた,The butterfly's coloration is drab,The butterfly's coloration is beautiful,0,1,1146
+その蝶はクジャクの羽の色をしていた,The butterfly's coloration is drab,The butterfly's coloration is beautiful,1,1,1146
+店の品揃えは孤独な露天商のようだった,The store has a limited selection of items,The store has a wide range of items,0,1,1147
+店内の品揃えはまるで巨大デパート,The store has a limited selection of items,The store has a wide range of items,1,1,1147
+社長は材木屋でした。,The CEO was clumsy,The CEO was careful.,0,1,1150
+社長は彫刻家。,The CEO was clumsy,The CEO was careful.,1,1,1150
+その男はアクロバットの調整をしていた,He was very coordinated,He was very uncoordinated,0,1,1153
+その男は酔った船乗りの調整をしていた,He was very coordinated,He was very uncoordinated,1,1,1153
+アダムは津波のように強い。,Adam is strong.,Adam is weak.,0,1,1154
+アダムは穏やかな波のように強い,Adam is strong.,Adam is weak.,1,1,1154
+リサは斧のように鋭い。,Lisa is smart.,Lisa is dumb.,0,1,1155
+リサはスポンジのように鋭い。,Lisa is smart.,Lisa is dumb.,1,1,1155
+彼の家は手指消毒剤でできているようでした。,The house was really clean.,The house was disgusting.,0,1,1156
+彼の家はバクテリアでできているようだった。,The house was really clean.,The house was disgusting.,1,1,1156
+あのお化け屋敷はニンジンを食べるバニーの恐怖要素がある,The haunted house was mild and tame,The haunted house was scary and sickening,0,1,1163
+あのお化け屋敷はゾンビにゴキブリを無理矢理食わせられる恐怖要素がある,The haunted house was mild and tame,The haunted house was scary and sickening,1,1,1163
+学生たちは心臓胸部外科医のように集中しています,The students are as focused as can be.,The students have a total lack of focus.,0,1,1170
+生徒たちは子犬のように集中しています,The students are as focused as can be.,The students have a total lack of focus.,1,1,1170
+ゾウはクジラです。,The elephant is large.,The elephant is small.,0,1,1173
+ゾウはネズミです。,The elephant is large.,The elephant is small.,1,1,1173
+詩の意味は、ウェルギリウスのアエネイスと同じくらい分かりやすいものでした。,The meaning is not self-explanatory; it requires education from experts in understanding it.,The meaning is easy to decipher without much expertise.,0,1,1187
+詩の意味は、子供の頃のおとぎ話と同じくらい親しみやすいものでした。,The meaning is not self-explanatory; it requires education from experts in understanding it.,The meaning is easy to decipher without much expertise.,1,1,1187
+そのシーンはレモネードのように爽やかでした,The scene was totally refreshing.,The scene wasn't refreshing at all.,0,1,1188
+その光景は空のグラスのようにさわやかだった,The scene was totally refreshing.,The scene wasn't refreshing at all.,1,1,1188
+車はクジラ,The car is large,The car is small,0,1,1192
+車はアメーバ,The car is large,The car is small,1,1,1192
+椅子の脚は小枝です,The legs are thin and brittle,The legs are thick and heavy,0,1,1194
+椅子の脚は木の幹,The legs are thin and brittle,The legs are thick and heavy,1,1,1194
+彼の笑顔は閉ざされたドアでした。,His smile was not inviting.,His smile was inviting.,0,1,1196
+彼の笑顔は開いたドアでした。,His smile was not inviting.,His smile was inviting.,1,1,1196
+その商談はクーデターだった,The business meeting was when they betrayed the leader.,The business meeting was when they selected the leader.,0,1,1197
+その商談は王室の戴冠式でした。,The business meeting was when they betrayed the leader.,The business meeting was when they selected the leader.,1,1,1197
+私は一年の日数と同じ数の本のアイデアを持っています,I have over 300 book ideas,I only have a few book ideas.,0,1,1211
+私は本のアイデアを 100 の 00 の数だけ持っています,I have over 300 book ideas,I only have a few book ideas.,1,1,1211
+クマは子犬です,The bear is sweet and docile,The bear is aggressive,0,1,1212
+熊はTレックス,The bear is sweet and docile,The bear is aggressive,1,1,1212
+彼がその車を運転しているという事実は、彼の両親が彼を愛していなかったことを示しています。,The car demonstrates the underlying insecurities of the driver.,The car demonstrates the driver's secure sense of themselves.,0,1,1216
+彼がその車を運転しているという事実は、彼が高校でいじめられたことがないことを示しています。,The car demonstrates the underlying insecurities of the driver.,The car demonstrates the driver's secure sense of themselves.,1,1,1216
+ラクダの背中にこぶの水がすべて入っている井戸,There's a lot of water in the well,The well is dry,0,1,1217
+井戸にはゴビ砂漠の水がすべて入っている,There's a lot of water in the well,The well is dry,1,1,1217
+かみそりはギロチンのように鋭かった,The razor was sharp,The razor was not sharp,0,1,1221
+かみそりは鈍い鉛筆のように鋭かった,The razor was sharp,The razor was not sharp,1,1,1221
+私はアリのように生きることを好みます。,I prefee to live a life focused on working hard so that I am prepared for the future,"I prefer to live a life that is carefree and in the moment, with no thought of the future.",0,1,1223
+私はバッタのように生きることを好みます。,I prefee to live a life focused on working hard so that I am prepared for the future,"I prefer to live a life that is carefree and in the moment, with no thought of the future.",1,1,1223
+彼女の心は鉄の罠です。,"She remembers everything, no matter how insignificant.","She remembers nothing, and has lost half of what she once knew.",0,1,1224
+彼女の心はスイスチーズです。,"She remembers everything, no matter how insignificant.","She remembers nothing, and has lost half of what she once knew.",1,1,1224
+その曲はフットボールの試合のようにアップビートだった,The song was really upbeat.,The song was heavyhanded.,0,1,1225
+その歌は葬儀の賛美歌のように明るいものだった,The song was really upbeat.,The song was heavyhanded.,1,1,1225
+カミソリは新しく磨かれた刃です。,The razor is sharp.,The razor is dull.,0,1,1227
+カミソリはさびたキッチンばさみです。,The razor is sharp.,The razor is dull.,1,1,1227
+彼女は猫のように休みます。,She rests a lot.,She doesn't rest much at all.,0,1,1231
+彼女は三つ子の母親と同じくらい休みます。,She rests a lot.,She doesn't rest much at all.,1,1,1231
+ボールは空高く跳ねた,The ball bounced very high,The ball barely bounced at all.,0,1,1234
+ボールは地面と同じ高さまで跳ね返った,The ball bounced very high,The ball barely bounced at all.,1,1,1234
+かみそりは剣の切れ味を持っていた,The razor was sharp,The razor was dull,0,1,1235
+かみそりは石のように鋭かった,The razor was sharp,The razor was dull,1,1,1235
+かみそりはさびの棒です,The razor is rusty and old.,The razor is sharp.,0,1,1240
+かみそりはナイフです。,The razor is rusty and old.,The razor is sharp.,1,1,1240
+彼は石の心を持っている,He is hard,He is generous,0,1,1245
+彼は金の心を持っている,He is hard,He is generous,1,1,1245
+キリンはウナギの赤ちゃんです。,The giraffe is awkward.,The giraffe is elegant.,0,1,1251
+キリンはガゼルです。,The giraffe is awkward.,The giraffe is elegant.,1,1,1251
+彼はキリンと同じくらい背が高い。,He's really tall.,He's really short.,0,1,1252
+彼はノームと同じくらい背が高い。,He's really tall.,He's really short.,1,1,1252
+彼女はピエロのように笑います。,She laughs a lot.,She doesn't laugh much at all.,0,1,1254
+彼女は厳格な司書のように笑う。,She laughs a lot.,She doesn't laugh much at all.,1,1,1254
+車はバターのようにスムーズに運転した,The car drove smoothly,The car drove roughly,0,1,1257
+車は砂利のように滑らかに走った,The car drove smoothly,The car drove roughly,1,1,1257
+私たちは最後の骨をめぐって争う 2 匹の犬と同じくらい仲良しです。,They're not really good friends at all and are desperate.,They are good friends and are comfortable.,0,1,1267
+私たちはごちそうを楽しむ 2 匹の犬のように仲良しです。,They're not really good friends at all and are desperate.,They are good friends and are comfortable.,1,1,1267
+彼女の言い訳の正当性は、ティッシュ ペーパーのように頑丈でした。,Her excuse was flimsy,Her excuse was solid,0,1,1269
+彼女の言い訳の正当性は、米国議会図書館と同じくらい頑強だった,Her excuse was flimsy,Her excuse was solid,1,1,1269
+彼女は私を母親のように愛していた,She loved me.,She didn't love me at all.,0,1,1272
+彼女は意地悪な継母のように私を愛していた,She loved me.,She didn't love me at all.,1,1,1272
+彼の声はネズミのように静かだった,His voice was quiet.,His voice was loud.,0,1,1273
+彼の声はメガホンのように静かだった,His voice was quiet.,His voice was loud.,1,1,1273
+種は、岩を背負ってマラソンを走るほどの硬さを持っている,The seeds are hard,The seeds are soft,0,1,1274
+種はとろけるアイスクリームのボウルの硬さを持っています,The seeds are hard,The seeds are soft,1,1,1274
+お肉は焼きたてのクリスマスハムの香り,The meat smells good,The meat smells foul,0,1,1275
+肉は汗をかいたランニングシューズのにおいがする,The meat smells good,The meat smells foul,1,1,1275
+このテーブルは山のような安定感があります,This table is very strong.,This table is very flimsy.,0,1,1278
+このテーブルは、トランプの家のような安定性を備えています。,This table is very strong.,This table is very flimsy.,1,1,1278
+その建物はジュラ紀に建てられました。,That building was built a long time ago,That building was built very recently.,0,1,1279
+あの建物は一秒前に建てられた。,That building was built a long time ago,That building was built very recently.,1,1,1279
+この食事はまるでゴードン・ラムゼイが作ったかのような味です。,The food is delicious.,The food is disgusting.,0,1,1284
+この食事は、舌のない 3 匹のネズミが作ったような味です。,The food is delicious.,The food is disgusting.,1,1,1284
+ホッケー選手は解体ダービーでした。,The hockey player was sloppy.,The hockey player was careful.,0,1,1288
+ホッケー選手はガゼルでした。,The hockey player was sloppy.,The hockey player was careful.,1,1,1288
+彼は星のように輝いていた,He shined brightly.,He was dull and didn't shine at all.,0,1,1290
+彼は土のように輝いていた,He shined brightly.,He was dull and didn't shine at all.,1,1,1290
+彼女は太陽のように熱かった,She was hot,"She was not hot, but cold.",0,1,1291
+彼女はアイスキャンディーのように熱かった,She was hot,"She was not hot, but cold.",1,1,1291
+犬は羽ばたきの柔らかさを持っています,The dog is soft,The dog isn't soft,0,1,1293
+犬は小惑星の柔らかさを持っています,The dog is soft,The dog isn't soft,1,1,1293
+レビューによると、製品の品質は高速道路で故障した車の品質でした,The product quality was poor,The product quality was excellent,0,1,1296
+レビューによると、製品の品質はこれまでで最も堅牢な製品の品質でした,The product quality was poor,The product quality was excellent,1,1,1296
+人生は素晴らしい散歩です,Life is enjoyable,Life is hard,0,1,1298
+人生は困難な道のりです,Life is enjoyable,Life is hard,1,1,1298
+人生はごみ箱の火です。,Life is trash.,Life is wonderful.,0,1,1303
+人生は蝶です。,Life is trash.,Life is wonderful.,1,1,1303
+ポーカー ゲームには、太陽のように高い賭け金がありました,The poker game was high-stakes.,The poker game was low-stakes.,0,1,1309
+ポーカー ゲームは賭け​​金が床と同じくらい高かった,The poker game was high-stakes.,The poker game was low-stakes.,1,1,1309
+結婚の愛は、サンデーの上のチェリーです.,"love in marriage is the best, finishing touch",love in marriage is an unpleasant surprise that ruins it,0,1,1315
+結婚における愛は、きれいなリンゴの中の虫,"love in marriage is the best, finishing touch",love in marriage is an unpleasant surprise that ruins it,1,1,1315
+初恋は凍った道,your first love is dangerous and hard to navigate,your first love is comfortable and comforting,0,1,1316
+初恋はあたたかいブランケット,your first love is dangerous and hard to navigate,your first love is comfortable and comforting,1,1,1316
+離婚は嵐の後の虹,divorce is something surprisingly good after something devastating,divorce is the feeling of failing,0,1,1317
+離婚は沈没船,divorce is something surprisingly good after something devastating,divorce is the feeling of failing,1,1,1317
+その本はテーマパークのように面白かった,The book was interesting,The book was boring,0,1,1318
+その本は濡れたペンキのように面白かった,The book was interesting,The book was boring,1,1,1318
+歌は退廃的なチョコレートのように美味しかった,The song is excellent,The song is horrible,0,1,1319
+歌は吐くほど美味しかった,The song is excellent,The song is horrible,1,1,1319
+その少年はマラソンの勝者のように疲れていた,The boy was exhausted.,The boy wasn't tired at all.,0,1,1325
+少年はエナジャイザーバニーと同じくらい疲れていた,The boy was exhausted.,The boy wasn't tired at all.,1,1,1325
+企業のヒエラルキーはグランドキャニオンのようにフラットだった,The corporate hierarchy was alive and well.,The corporate hierarchy was nonexistent.,0,1,1327
+会社のヒエラルキーはノートのようにフラットだった,The corporate hierarchy was alive and well.,The corporate hierarchy was nonexistent.,1,1,1327
+彼はワシのようなビジョンを持っています。,He has extremely good vision.,He can barely see.,0,1,1329
+彼はブラインドバットのビジョンを持っています。,He has extremely good vision.,He can barely see.,1,1,1329
+彼女はゴリラの強さを持っています。,She's very strong.,She's not strong at all.,0,1,1330
+彼女はネズミの赤ちゃんの強さを持っています。,She's very strong.,She's not strong at all.,1,1,1330
+彼女のバナナブレッドはプリンのようにしっとり,Her banana bread is very moist,Her banana bread is very dry,0,1,1336
+彼女のバナナブレッドは皮のようにしっとり,Her banana bread is very moist,Her banana bread is very dry,1,1,1336
+あの車はカタツムリのように動く,The car is slow,The car is fast,0,1,1339
+あの車はロケットのように動く,The car is slow,The car is fast,1,1,1339
+そのメロディーは、子供が初めてピアノを習った時のように聞こえた.,The melody was simplistic and randomly thrown together.,"The melody was complex, beautiful, and had the feel of a classic work of art.",0,1,1341
+旋律はショパンの協奏曲のように聞こえた。,The melody was simplistic and randomly thrown together.,"The melody was complex, beautiful, and had the feel of a classic work of art.",1,1,1341
+マットレスにはナイフのような快適さがあります。,The mattress is too hard.,The mattress is warm and cozy.,0,1,1343
+マットレスはホットタブの快適さを持っています。,The mattress is too hard.,The mattress is warm and cozy.,1,1,1343
+風鈴は黒板の爪のような音色だった。,The wind chimes sound harsh.,The wind chimes sound pleasing.,0,1,1344
+風鈴は子どもたちの笑い声のような音色でした。,The wind chimes sound harsh.,The wind chimes sound pleasing.,1,1,1344
+ベイクセールには、オリンピックプールの深さを埋めるのに十分なカップケーキがあります,The bake sale has a ton of cupcakes.,The bake sale doesn't have many cupcakes.,0,1,1347
+ベイクセールには、指ぬきの奥までいっぱいになるカップケーキがあります,The bake sale has a ton of cupcakes.,The bake sale doesn't have many cupcakes.,1,1,1347
+彼はロケット科学者の頭脳を持っています。,He's very smart.,He's very dumb.,0,1,1348
+彼はクラゲのような頭脳を持っています。,He's very smart.,He's very dumb.,1,1,1348
+あのステーキナイフはメスのように切れます。,The knife is very sharp.,The knife is not sharp at all.,0,1,1349
+あのステーキナイフはスプーンのように切れます。,The knife is very sharp.,The knife is not sharp at all.,1,1,1349
+彼はかみそりのように鋭い。,He's very smart and quick.,He's not smart.,0,1,1350
+彼はバターナイフのように鋭い。,He's very smart and quick.,He's not smart.,1,1,1350
+靴ひもは日本の幽霊の髪の毛のような糸引き,The shoelaces are quite stringy,The shoelaces are stiff,0,1,1351
+靴ひもは石化した木の枝のような糸引き,The shoelaces are quite stringy,The shoelaces are stiff,1,1,1351
+彼女は妖精のように踊る,she dances well,she dances poorly,0,1,1353
+彼女は亀のように踊る,she dances well,she dances poorly,1,1,1353
+彼はナイフのように鋭い服装をした,He dressed well,He dressed poorly,0,1,1355
+彼はクレヨンのように鋭い服を着た,He dressed well,He dressed poorly,1,1,1355
+コーヒーは火の温度,The coffee is burning hot,The coffee is very cold,0,1,1357
+コーヒーは氷の温度,The coffee is burning hot,The coffee is very cold,1,1,1357
+フレディ・クルーガーみたいに敵が怖かった,The enemy was scary,The enemy was not scary,0,1,1364
+敵は白雪姫のように怖かった,The enemy was scary,The enemy was not scary,1,1,1364
+歌手はヒマラヤの範囲を持っています,The singer has a wide vocal range,"The singer has a narrow, poor range",0,1,1369
+歌い手は砂の山の音域を持っている,The singer has a wide vocal range,"The singer has a narrow, poor range",1,1,1369
+俳優は虹の魅力を持っています,The actor has a beautiful attractive countenance,The actor has an uninteresting look,0,1,1370
+アクターはカメムシの魅力を持っています,The actor has a beautiful attractive countenance,The actor has an uninteresting look,1,1,1370
+彼は小学校の先生の忍耐力を持っています。,He's really patient.,He's not patient at all.,0,1,1373
+彼は空腹のサメの忍耐力を持っています。,He's really patient.,He's not patient at all.,1,1,1373
+エッセイの意味は看板の見出しのようにわかりやすい,The essay's meaning is totally clear.,The essay's meaning is very abstract.,0,1,1383
+エッセイの意味はロスコの絵のように単純明快,The essay's meaning is totally clear.,The essay's meaning is very abstract.,1,1,1383
+状況はメープルシロップのようにベトベト,The situation is hard to get out of.,The situation isn't very messy.,0,1,1384
+水のようにベタベタした状況,The situation is hard to get out of.,The situation isn't very messy.,1,1,1384
+原始の森のようなお部屋です。,The room is serene.,The room is chaotic.,0,1,1385
+部屋はロックコンサートのような雰囲気です。,The room is serene.,The room is chaotic.,1,1,1385
+ジョンは絞首台から逃げる男と同じくらいやる気があった。,John was really motivated.,John was not motivated at all.,0,1,1390
+ジョンは、無給の労働者と同じくらいやる気がありました。,John was really motivated.,John was not motivated at all.,1,1,1390
+木枠はクジラに乗ったゾウの重さを支えます,The crate can hold a lot of weight,The crate isn't capable of handling much weight,0,1,1392
+木枠は水滴の重さを保持します,The crate can hold a lot of weight,The crate isn't capable of handling much weight,1,1,1392
+ムタークで私が助けた人々は、空腹の豚のように感謝しています,Requesters aren't grateful.,Requesters are grateful.,0,1,1394
+私が Mturk で支援する人々は、餌を与えられた子犬と同じくらい感謝しています,Requesters aren't grateful.,Requesters are grateful.,1,1,1394
+彼の批判的思考力は綿菓子のようなものです。,He has no critical thinking skills.,He has great critical thinking skills.,0,1,1399
+彼のクリティカル シンキング スキルは、精巧に調整されたマシンです。,He has no critical thinking skills.,He has great critical thinking skills.,1,1,1399
+これらのパンケーキは、固まる前のセメントのような味がします。,The pancakes are undercooked.,The pancakes are light and fluffy.,0,1,1400
+これらのパンケーキは積雲のような味がします!,The pancakes are undercooked.,The pancakes are light and fluffy.,1,1,1400
+本は泥の水たまりの深さを持っています,The book is simplistic,The book is profound,0,1,1401
+本はマリアナ海溝の深さを持っています,The book is simplistic,The book is profound,1,1,1401
+彼女のドレスは王冠のように派手だ.,Her dress is very showy.,Her dress is very plain.,0,1,1405
+彼女のドレスは紙袋のように派手だ,Her dress is very showy.,Her dress is very plain.,1,1,1405
+モーターは死にゆく男のように準備ができているように聞こえました。,The motor is on its last leg.,The motor is ready to go and will last a long time.,0,1,1408
+モーターはマラソンランナーと同じくらい準備ができているように聞こえました.,The motor is on its last leg.,The motor is ready to go and will last a long time.,1,1,1408
+彼女はキリンと同じくらい背が高い,She's very tall,She's very small,0,1,1412
+彼女はネズミと同じくらい背が高い,She's very tall,She's very small,1,1,1412
+私のベッドは巨大なマシュマロです。,My bed is soft.,My bed is hard.,0,1,1414
+私のベッドはレンガです。,My bed is soft.,My bed is hard.,1,1,1414
+あなたはレンガの壁のように頭がいい,you are not very smart,you are very smart,0,1,1415
+あなたは天才のように頭がいい,you are not very smart,you are very smart,1,1,1415
+この場所には殺人現場のすべての魅力があります,This place is terrible,This place is full of wonder.,0,1,1421
+この場所は魔法の森のすべての魅力を持っています,This place is terrible,This place is full of wonder.,1,1,1421
+その演奏を聴いていると、車のドアに指をバタンと閉めるようなものでした,listening to that performance was a horrible experience,listening to that performance was a wonderful experience,0,1,1423
+あの演奏を聴いているとまるで楽園に昇るようだった,listening to that performance was a horrible experience,listening to that performance was a wonderful experience,1,1,1423
+彼女の態度は氷のように冷たい,She is standoffish,She is friendly,0,1,1428
+彼女の態度は太陽のように暖かい,She is standoffish,She is friendly,1,1,1428
+風は鮫に噛まれる,The wind is cold.,The wind is warm and soothing.,0,1,1430
+風には恋人の愛撫がある,The wind is cold.,The wind is warm and soothing.,1,1,1430
+その穴は洞窟のように深い,The hole is deep,The hole is shallow,0,1,1433
+その穴は水たまりのように深い,The hole is deep,The hole is shallow,1,1,1433
+赤ちゃんの匂いは、新車の車内の匂いです。,The smell of a baby is of freshness.,The smell of a baby is quite stinky.,0,1,1447
+赤ちゃんの匂いは、道端のゴミ箱の匂いです。,The smell of a baby is of freshness.,The smell of a baby is quite stinky.,1,1,1447
+その女性は鞭のように賢かった,The woman was extremely smart.,The woman wasnt smart at all.,0,1,1448
+その女性は生まれたばかりの赤ん坊のように賢かった。,The woman was extremely smart.,The woman wasnt smart at all.,1,1,1448
+私の理解は、物理学を研究しているアリの理解です,My comprehension is nil,My comprehension is vast,0,1,1457
+私の理解はスーパーコンピュータのそれです,My comprehension is nil,My comprehension is vast,1,1,1457
+世界が回る限り、火は燃え続ける,The fire burns for a long time,The fire burns out quickly,0,1,1458
+いろはを歌うのにかかる時間だけ火が燃える,The fire burns for a long time,The fire burns out quickly,1,1,1458
+それらの間の空間は裂け目でした。,They are distant from one another.,They are very close.,0,1,1459
+それらの間のスペースは糸でした。,They are distant from one another.,They are very close.,1,1,1459
+この曲には、脳に稲妻のようなエネルギーが宿っています。,The song is full of power.,The song is ordinary and dull.,0,1,1463
+この歌は、犬が水をなめているようなエネルギーを持っています。,The song is full of power.,The song is ordinary and dull.,1,1,1463
+予算はスパンデックス並みに厳しい,The budget is very tight.,The budget isn't tight at all.,0,1,1470
+予算は特大のスウェットパンツと同じくらい厳しい,The budget is very tight.,The budget isn't tight at all.,1,1,1470
+彼女の労働は、チョコレート ケーキを食べるのと同じくらい簡単でした。,The labor was actually really easy.,The labor was extremely difficult and painful.,0,1,1473
+彼女の労働は、燃える石炭の上を転がるのと同じくらい簡単でした。,The labor was actually really easy.,The labor was extremely difficult and painful.,1,1,1473
+テストを受けたとき、彼女は核物理学者のように感じました。,She felt very smart while taking the test.,She felt very stupid while taking the test.,0,1,1474
+テストを受けたとき、彼女は生後2か月のように感じました。,She felt very smart while taking the test.,She felt very stupid while taking the test.,1,1,1474
+あの作家の散文はシティスモッグ,That writer's prose is difficult and unpleasant to process,That writer's prose is simple and pleasant to process,0,1,1476
+あの作家の散文は自家製パイ,That writer's prose is difficult and unpleasant to process,That writer's prose is simple and pleasant to process,1,1,1476
+私の機会は、窓がバタンと閉められたようなものです,I have no options,My options are wide open,0,1,1478
+私のチャンスは大きく開いた窓のようなものです,I have no options,My options are wide open,1,1,1478
+彼女の声はバンシーのようでした。,Her voice is loud.,Her voice is soft.,0,1,1479
+彼女の声は鳴き鳥のようでした。,Her voice is loud.,Her voice is soft.,1,1,1479
+その少女はNASAの天文学者と同じくらい頭がいい,The girl is wildly intelligent.,The girl is totally dumb.,0,1,1480
+その少女は文盲の人と同じくらい頭がいい,The girl is wildly intelligent.,The girl is totally dumb.,1,1,1480
+ジョーの新しい衣装は、彼を百万ドルのように感じさせた,The outfit made Joe feel good,The outfit made Joe feel bad,0,1,1484
+ジョーの新しい衣装は彼をアリのように感じさせた,The outfit made Joe feel good,The outfit made Joe feel bad,1,1,1484
+プロダクト プレイスメント広告は、ピッコロに付随するチューバのように微妙です,ads are abrasive,ads are sly,0,1,1485
+商品配置広告は英国の機知のように巧妙です,ads are abrasive,ads are sly,1,1,1485
+道は地雷原,There are many obstacles in the road,"The road is smooth, flat and open",0,1,1489
+道は滑走路,There are many obstacles in the road,"The road is smooth, flat and open",1,1,1489
+犬は海の忍耐力を持っています,The dog can wait a long time,The dog cannot wait,0,1,1490
+その犬は幼児の忍耐力を持っている,The dog can wait a long time,The dog cannot wait,1,1,1490
+ジェレミーは、魚が水を飲むようにサッカーを始めました。,Jeremy is really good at soccer.,Jeremy is really bad at soccer.,0,1,1495
+ジェレミーは、魚が陸に上がるようにサッカーを始めました。,Jeremy is really good at soccer.,Jeremy is really bad at soccer.,1,1,1495
+あなたの猫はテディベアのように人懐っこいです。,The cat is lovable and friendly.,The cat is vicious and scary.,0,1,1496
+あなたの猫はヴェロキラプトルのように友好的です。,The cat is lovable and friendly.,The cat is vicious and scary.,1,1,1496
+ネックレスは星。,The necklace is shining.,The necklace is dull.,0,1,1499
+ネックレスはマッドパイです。,The necklace is shining.,The necklace is dull.,1,1,1499
+その男はコウモリの目をしている,The man can't see anything.,"The man has clear, sharp vision.",0,1,1505
+その男は狙撃兵の目をしている,The man can't see anything.,"The man has clear, sharp vision.",1,1,1505
+男は赤ん坊のような忍耐力を持っている,The man is short-tempered.,The man is has a large amount of patience.,0,1,1506
+男は神の忍耐力を持っている,The man is short-tempered.,The man is has a large amount of patience.,1,1,1506
+光はブラックホールの輝きを持っています,The light is very dim.,The light is shining brightly.,0,1,1507
+光は点滅するネオンサインの輝きを持っています,The light is very dim.,The light is shining brightly.,1,1,1507
+会議はカーニバルのように楽しかった,The conference was fun to attend.,The conference was boring.,0,1,1511
+会議は数学の講義と同じくらい楽しかった,The conference was fun to attend.,The conference was boring.,1,1,1511
+彼はヨシフ・スターリンの権威を持っていました。,He was too harsh and had a lot of authority.,He had not authority.,0,1,1519
+彼は子犬の権威を持っていました。,He was too harsh and had a lot of authority.,He had not authority.,1,1,1519
+彼女の自我は熱気球でした。,She had a huge ego.,She did not have a huge ego.,0,1,1520
+彼女のエゴは弾けた風船だった。,She had a huge ego.,She did not have a huge ego.,1,1,1520
+彼は岩のような感情的知性を持っています,He completely lacks empathy and emotional consideration for others.,"He is conscious of other people's problems, and reaches out constantly to help them.",0,1,1525
+彼はフィル博士の感情的知性を持っています,He completely lacks empathy and emotional consideration for others.,"He is conscious of other people's problems, and reaches out constantly to help them.",1,1,1525
+モニターは太陽の明るさを持っています,The monitor is bright,The monitor is dark,0,1,1527
+モニターは洞窟のような明るさ,The monitor is bright,The monitor is dark,1,1,1527
+スピーカーはコンサートのラウドネスを持っています,The speaker is loud,The speaker is quiet,0,1,1528
+スピーカーはささやき声の大きさを持っています,The speaker is loud,The speaker is quiet,1,1,1528
+部屋は講堂のスペースを持っています,The room is large,The room is small,0,1,1529
+部屋にはクローゼットのスペースがあります,The room is large,The room is small,1,1,1529
+集合住宅は大ピラミッドと同じくらい古い,The apartment complex was very old.,The apartment complex was very new.,0,1,1535
+団地は生まれたての赤ん坊のように古い,The apartment complex was very old.,The apartment complex was very new.,1,1,1535
+プロトタイプは、新車のように滑らかに走りました,The prototype was smooth.,The prototype was rough and not smooth.,0,1,1537
+プロトタイプは、ゴミ捨て場から出たばかりの車のようにスムーズに走りました,The prototype was smooth.,The prototype was rough and not smooth.,1,1,1537
+私はその本が世界で最も素晴らしい手品と同じくらい面白いと思った,I found the book to be very interesting,I found the book to be very boring,0,1,1546
+私はその本が暗記された科学の講義と同じくらい興味深いと思った,I found the book to be very interesting,I found the book to be very boring,1,1,1546
+この食べ物は薬と同じくらい健康的です,The food is very healthy,The food is very unhealthy,0,1,1550
+この食べ物は有毒廃棄物と同じくらい健康的です,The food is very healthy,The food is very unhealthy,1,1,1550
+主流のニュース メディアには、酔っ払った囚人の信頼性があります。,The mainstream news media cannot be believed,The mainstream news media is credible,0,1,1553
+主流のニュース メディアには、模範的な市民としての信頼性があります。,The mainstream news media cannot be believed,The mainstream news media is credible,1,1,1553
+患者の健康状態は、しおれた花の状態でした,The patient was not healthy,The patient was very healthy,0,1,1555
+患者の健康状態は、全盛期の強い馬の健康状態でした,The patient was not healthy,The patient was very healthy,1,1,1555
+彼は子犬のように遊び好きだった,He was very playful,He wasn't playful at all,0,1,1558
+彼は岩のように遊び好きだった,He was very playful,He wasn't playful at all,1,1,1558
+今日の気温は、水星の典型的な一日のようでした。,Today was very hot.,Today was extremely cool.,0,1,1562
+今日の気温は、冷蔵庫に住むと予想される温度でした。,Today was very hot.,Today was extremely cool.,1,1,1562
+女性の髪は鏡でした。,The woman's hair was shiny.,The woman's hair was dull.,0,1,1575
+女性の髪はマッドパイでした。,The woman's hair was shiny.,The woman's hair was dull.,1,1,1575
+ダイヤモンドは鏡でした。,The diamond was shiny.,The diamond was dull.,0,1,1576
+ダイヤモンドはマッドパイでした。,The diamond was shiny.,The diamond was dull.,1,1,1576
+シカの角は、コケに覆われた樫の木のようにぼやけています。,The deer has very fuzzy antlers,The deer's antlers aren't at all fuzzy,0,1,1581
+鹿の角は赤ちゃんのお尻のようにぼやけています,The deer has very fuzzy antlers,The deer's antlers aren't at all fuzzy,1,1,1581
+彼はチーターのように速かった,He was very fast,He was very slow,0,1,1582
+彼は亀のように速かった,He was very fast,He was very slow,1,1,1582
+彼女は石のような心を持っている,She is very unfriendly.,She is very kind.,0,1,1585
+彼女は金の心を持っている,She is very unfriendly.,She is very kind.,1,1,1585
+彼女はクッキーを焼くのと同じくらいいいにおいがする,She smells great,She smells terrible,0,1,1592
+彼女は下水道と同じくらいいいにおいがする,She smells great,She smells terrible,1,1,1592
+ソーシャル メディアのインフルエンサーは、大統領の人物と同じくらいの影響力を持っていた,The social media influencer had wide influence.,The social media influencer had no influence at all.,0,1,1594
+ソーシャルメディアのインフルエンサーはハエと同じくらい影響力があった,The social media influencer had wide influence.,The social media influencer had no influence at all.,1,1,1594
+その少女は力士のように体重を背負った,The girl had a ton of weight on her body.,The girl was very thin.,0,1,1595
+その少女はバレリーナのように体重を背負った,The girl had a ton of weight on her body.,The girl was very thin.,1,1,1595
+シャチは海の連続殺人犯です。,The orcas murder other fish.,The orcas protect the ocean.,0,1,1602
+シャチは海のベビーシッターです。,The orcas murder other fish.,The orcas protect the ocean.,1,1,1602
+世界は古いゴミ箱です。,The world is awful.,The world is wonderful.,0,1,1603
+世界はアイスクリームサンデー。,The world is awful.,The world is wonderful.,1,1,1603
+この理論には、ポール・バニヤンのほら話の妥当性があります,The theory is not valid,The theory is very solid and valid,0,1,1604
+理論はアインシュタインの最高の仕事の妥当性を持っています,The theory is not valid,The theory is very solid and valid,1,1,1604
+その新聞記事は良い小説のように読まれた.,"The newspaper article was interesting, well-written, and engaging to the reader.","The newspaper article was amateurish, sloppily-written, and simplistic.",0,1,1609
+その新聞記事は中学生のジャーナリストの仕事のように読まれた.,"The newspaper article was interesting, well-written, and engaging to the reader.","The newspaper article was amateurish, sloppily-written, and simplistic.",1,1,1609
+彼女の集中力はインフィニティ プールと同じくらいだった,She could pay attention for a long time.,She could not pay attention.,0,1,1614
+彼女の集中力はウンパ・ルンパと同じくらいだった,She could pay attention for a long time.,She could not pay attention.,1,1,1614
+その政治家は老人ホームの性格をしている.,The politician is senile.,The politician is immature.,0,1,1616
+その政治家は幼稚園の教室のような性格を持っています。,The politician is senile.,The politician is immature.,1,1,1616
+あなたの髪はぼろモップのように見えます,Your hair is a mess and unappealing,Your hair is beautiful and lustrous,0,1,1626
+あなたの髪は絹の糸のように見えます,Your hair is a mess and unappealing,Your hair is beautiful and lustrous,1,1,1626
+あなたの香水は甘やかされて育ったミルクのようなにおいがする,The scent of the perfume is horrible,The scent of the perfume is fragrant,0,1,1628
+あなたの香水は花の森のような香りです。,The scent of the perfume is horrible,The scent of the perfume is fragrant,1,1,1628
+彼女は芸術家の想像力を持っている,She has a good imagination,She has no imagination,0,1,1629
+彼女は岩のような想像力を持っています,She has a good imagination,She has no imagination,1,1,1629
+女は暴れる雄牛のように狂っていた,The woman was very mad,The woman was not mad,0,1,1640
+その女性は子猫のように怒っていた,The woman was very mad,The woman was not mad,1,1,1640
+彼女の目は 2 つの輝くエメラルドのようだった,her eyes were bright green,her eyes were blue,0,1,1644
+彼女の目は海の波のようだった,her eyes were bright green,her eyes were blue,1,1,1644
+クッキーはパイのようにおいしい,The cookies taste good,The cookies taste bad,0,1,1646
+クッキーは腐った牛乳のようにおいしい,The cookies taste good,The cookies taste bad,1,1,1646
+おがくずのように美味しいアイスクリームです。,The ice cream tastes terrible.,The ice cream tastes wonderful.,0,1,1649
+アイスクリームはサニーディライトと同じくらい美味しいです。,The ice cream tastes terrible.,The ice cream tastes wonderful.,1,1,1649
+その子は私の靴についた犬のうんちのように可愛かった。,The child was ugly.,The child was beautiful.,0,1,1650
+その子は一年に一度咲く花のように可愛かった。,The child was ugly.,The child was beautiful.,1,1,1650
+少女のエゴは卵黄のように儚い,The girl's feelings are easily hurt.,The girl's ego is solid.,0,1,1652
+少女のエゴは岩のように脆い,The girl's feelings are easily hurt.,The girl's ego is solid.,1,1,1652
+彼は面が欠けているサイコロです。,His is unlucky.,He is lucky.,0,1,1654
+彼はサイコロの完全な袋です。,His is unlucky.,He is lucky.,1,1,1654
+人生の成功はカジノのようなものです。,Success in life is mostly based on luck.,Success in life is mostly based on skill.,0,1,1657
+人生の成功はポーカーのようなものです。,Success in life is mostly based on luck.,Success in life is mostly based on skill.,1,1,1657
+チリは夏のエルパソと同じくらい辛いです。,The chili is very hot.,The chili is not hot at all.,0,1,1660
+唐辛子は雪玉のように辛い。,The chili is very hot.,The chili is not hot at all.,1,1,1660
+エドワード氏の妻は女神,"Mr. Edward wife is a very good, gentle and kind-hearted person","Mr. Edward wife is a crazy, stupid or an annoying person",0,1,1663
+エドワード氏の妻は狂牛病,"Mr. Edward wife is a very good, gentle and kind-hearted person","Mr. Edward wife is a crazy, stupid or an annoying person",1,1,1663
+彼女の人柄はニューヨークタイムズの見出しと同じくらい興味深い,She has an interesting personality.,She has no personality.,0,1,1665
+彼女の性格は食料品リストのように興味深い,She has an interesting personality.,She has no personality.,1,1,1665
+カジノは汚いジャンクヤードの雰囲気を持っていた,The casino had a bad atmosphere,The casino had a good atmosphere,0,1,1668
+カジノは黄金の宮殿の雰囲気を持っていた,The casino had a bad atmosphere,The casino had a good atmosphere,1,1,1668
+彼女は飢えたアライグマのようにうらやましい,she is greedy,she is nice,0,1,1670
+彼女は修道女のようにうらやましい,she is greedy,she is nice,1,1,1670
+上司は悪魔のように悪かった,the boss is mean,the boss is nice,0,1,1671
+ボスは天使のように邪悪だった,the boss is mean,the boss is nice,1,1,1671
+クレオパトラはヴィーナスとハトホルを合わせたような美しさを持っていた,Cleopatra was quite beautiful,Cleopatra was very ugly,0,1,1673
+クレオパトラは、醜い棒で2回殴られた後、醜いアヒルの子の美しさを持っていました,Cleopatra was quite beautiful,Cleopatra was very ugly,1,1,1673
+愛は夕日のように美しい,Love is beautiful,Love is ugly,0,1,1678
+愛はイボイノシシのように美しい,Love is beautiful,Love is ugly,1,1,1678
+ジャケットはTik Tokと同じくらいトレンディでした,The jacket was trendy,The jacket was outdated,0,1,1679
+ジャケットはMySpaceと同じくらいトレンディだった,The jacket was trendy,The jacket was outdated,1,1,1679
+微積分はドッグフードを食べるのと同じくらいやりがいがあります,calculus is not pleasant,calculus is fascinating,0,1,1684
+微積分は、居住惑星を発見するのと同じくらいやりがいがあります,calculus is not pleasant,calculus is fascinating,1,1,1684
+愛は干し草の山から針を見つけること,Finding love is hard but worth it,finding love is hard and painful,0,1,1685
+愛は針の束の中の一片の干し草,Finding love is hard but worth it,finding love is hard and painful,1,1,1685
+彼は子猫のプールの感情的な能力を持っています,He is not emotionally-open,he is very open emotionally,0,1,1686
+彼は大きな湖のような感情的な能力を持っています,He is not emotionally-open,he is very open emotionally,1,1,1686
+あの企業は政治家の誠実さを持っています。,The corporation doesn't have integrity.,The corporation has a lot of integrity.,0,1,1689
+あの法人は僧侶の誠実さを持っています。,The corporation doesn't have integrity.,The corporation has a lot of integrity.,1,1,1689
+彼は冬の新雪のように魔法のようでした。,He was very intriguing.,He was very boring.,0,1,1692
+彼は鈍い石のように魔法のようでした。,He was very intriguing.,He was very boring.,1,1,1692
+恋に落ちることはセーフティーネットのないビルから飛び降りること,Falling in love is scary.,Falling in love is safe.,0,1,1694
+恋は暖かい毛布に包まれて,Falling in love is scary.,Falling in love is safe.,1,1,1694
+魔法は緑豊かな森の中をユニコーンに乗っています,Magic is wonderful.,Magic is awful.,0,1,1695
+魔法が犬の糞に足を踏み入れる,Magic is wonderful.,Magic is awful.,1,1,1695
+その少女は羽のように痩せていた,The girl was so thin she was wispy.,The girl was very fat.,0,1,1700
+少女は膨らんだ風船のように痩せていた,The girl was so thin she was wispy.,The girl was very fat.,1,1,1700
+彼の目は鋼でできていました。,His eyes were hard and obscured his personality.,His eyes conveyed a fragile personality and shows his personality.,0,1,1704
+彼の目はガラスでできていました。,His eyes were hard and obscured his personality.,His eyes conveyed a fragile personality and shows his personality.,1,1,1704
+この家は、エイブラハム・リンカーンの丸太小屋と同じ大きさです,The house is small.,The house is big.,0,1,1706
+この家はタージ・マハルと同じくらい大きい,The house is small.,The house is big.,1,1,1706
+逆ミノタウロスみたいにリアル,It doesn't exist,It's very real,0,1,1714
+それは空の星のようにリアルです,It doesn't exist,It's very real,1,1,1714
+彼は優勝した競走馬のように走ることができます。,He can run really well.,He cannot run really well.,0,1,1716
+彼は死にかけているナグのように走ることができます。,He can run really well.,He cannot run really well.,1,1,1716
+ティーンエイジャーには、子供用プールの深さがあります。,The teenager is superficial.,The teenager is profound.,0,1,1726
+ティーンエイジャーはグランドキャニオンの深さを持っています。,The teenager is superficial.,The teenager is profound.,1,1,1726
+シャンパンは、ぬるいコーヒーのような泡立ち。,The champagne is flat.,The champagne is bubbly.,0,1,1728
+シャンパンは制酸剤の錠剤のような発泡性を持っています。,The champagne is flat.,The champagne is bubbly.,1,1,1728
+悪役は神のように強力だった,The villain was powerful,The villain was nearly powerless,0,1,1732
+悪役は虫のようにパワフルだった,The villain was powerful,The villain was nearly powerless,1,1,1732
+設計は、要塞と同じくらい防弾であると他の人に考えられていました,The design is sound,The design is weak and ill-defined,0,1,1748
+デザインは幽霊同士の口論のようなものだと他人に思われた,The design is sound,The design is weak and ill-defined,1,1,1748
+戦争はナポレオンの身長がある限り続いた,The war was very short.,The war was long.,0,1,1753
+戦争はシャキール・オニールの身長が続く限り続いた,The war was very short.,The war was long.,1,1,1753
+議論には遺棄された要塞のような力があります。,The argument is weak.,The argument is strong.,0,1,1755
+議論は戦争の武器の強さを持っています。,The argument is weak.,The argument is strong.,1,1,1755
+女の子には靴箱の奥まで友達がいっぱいいる,The girl has almost no friends.,The girl is very popular.,0,1,1758
+その少女には大西洋の海の底を満たすのに十分な友達がいる.,The girl has almost no friends.,The girl is very popular.,1,1,1758
+パフォーマンスはハリケーンのようにエキサイティングでした。,The performance was good.,The performance was bad.,0,1,1763
+パフォーマンスは、湿った歩道と同じくらい刺激的でした。,The performance was good.,The performance was bad.,1,1,1763
+ジョンの頭脳はコンピューター,John is good at calculations,John processes things very slowly,0,1,1768
+ジョンの頭脳はカタツムリ,John is good at calculations,John processes things very slowly,1,1,1768
+このメカニカルタークのタスクは灯台からの音です,This mechanicalturk task is well-explained,This mechanicalturk task is vague,0,1,1770
+この機械的作業は汚染の嵐です,This mechanicalturk task is well-explained,This mechanicalturk task is vague,1,1,1770
+あなたのお母さんは猫に菜食主義を納得させることができた,Your mom is a great cook.,Your mom is an awful cook.,0,1,1771
+あなたのお母さんは体重ウォッチャーと競争することができます,Your mom is a great cook.,Your mom is an awful cook.,1,1,1771
+農夫は酔った船乗りの世話をして作物を植えた,The farmer was sloppy,The farmer was precise,0,1,1775
+農家は経験豊富な外科医の注意を払って作物を植えました,The farmer was sloppy,The farmer was precise,1,1,1775
+脳はコンピューター,"The brain is intelligent, beautiful, complex, and profound","The brain is simple, basic, not capable of rational thought.",0,1,1779
+脳はゼリー,"The brain is intelligent, beautiful, complex, and profound","The brain is simple, basic, not capable of rational thought.",1,1,1779
+海の波が浜辺に押し寄せ、ダンスとミステリーに参加するように招待して私に手を差し伸べました,The ocean waves are soothing and healing,The ocean waves are dangerous and can kill you,0,1,1781
+海の波が浜辺に押し寄せ、大きな砕ける音と威圧的な泡状の水で私を襲った.,The ocean waves are soothing and healing,The ocean waves are dangerous and can kill you,1,1,1781
+風が私に近づき、木の葉のざわめきを通して私に話しかけ、枝の口笛を通して私の耳にささやきました,"The wind is gentle, assuring and relaxing","The wind is intense, threatening and destructive",0,1,1782
+風が私に近づき、その声を私に向けて突然の爆発的な速度で上げ、木から葉を剥ぎ取り、パチパチ音を立てて枝を折って私に怒鳴りつけました,"The wind is gentle, assuring and relaxing","The wind is intense, threatening and destructive",1,1,1782
+朝、太陽がドアを開け、長い腕で周囲を明るくし、ゆっくりと強まる光で生命の色と形を示し、肌を温めながら生きていました。,The sun's light reveals colors and shapes and is warm,The sun's light blinds our eyes and is hot and destructive,0,1,1783
+朝、太陽がドアを開け、その長い腕でその強さで目がくらみ、汗まみれの肌を焦がした,The sun's light reveals colors and shapes and is warm,The sun's light blinds our eyes and is hot and destructive,1,1,1783
+私はシマリスの音楽的才能を持っています,My music sounds scratchy and random,My music is soothing and melodious,0,1,1784
+私は鳴き鳥のような音楽的能力を持っています,My music sounds scratchy and random,My music is soothing and melodious,1,1,1784
+コンピュータは親友になれる,Computers can be a great asset,Computers can be a great detriment,0,1,1788
+コンピューターは苦い敵になり得る,Computers can be a great asset,Computers can be a great detriment,1,1,1788
+ビーチは砂漠のように暑かった,The beach was very warm.,The beach was very cold.,0,1,1790
+ビーチは氷山のように熱かった,The beach was very warm.,The beach was very cold.,1,1,1790
+船は岩のように速く沈んだ,The ship went down fast.,The ship went down very slowly.,0,1,1792
+船は浮く羽のように速く沈んだ,The ship went down fast.,The ship went down very slowly.,1,1,1792
+彼女は森に飛び込む鹿のような優美さを持っていた,She is graceful,She is not graceful,0,1,1793
+彼女はローラーブレードでカバの優雅さを持っていました,She is graceful,She is not graceful,1,1,1793
+このベッドはガラスの破片が散らばる歩道のように柔らかい,This bed is hard,This bed is soft,0,1,1797
+このベッドはペルシャ猫のように柔らかい,This bed is hard,This bed is soft,1,1,1797
+これらの靴は、真っ赤な万力クランプのように感じます,These shoes are very uncomfortable,These shoes are very comfortable,0,1,1798
+この靴はまるで魔法の絨毯のようです,These shoes are very uncomfortable,These shoes are very comfortable,1,1,1798
+この木の樹皮はチーズおろし器のようだ,The tree has rough bark.,The tree has smooth bark.,0,1,1809
+この木の樹皮は消防士の棒のようだ,The tree has rough bark.,The tree has smooth bark.,1,1,1809
+彼女の色の組み合わせは、列車の脱線事故の余波を連想させました。,Her combination of colors was a disaster.,Her combination of colors was divine.,0,1,1811
+彼女の色の組み合わせは、偉大な巨匠の絵画を連想させます。,Her combination of colors was a disaster.,Her combination of colors was divine.,1,1,1811
+テストはA-B-Cと同じくらい簡単でした,The test was easy,The test was difficult,0,1,1814
+テストは野獣だった,The test was easy,The test was difficult,1,1,1814
+あの男は悪の天才の知性を持っている,The man is a highly intelligent person,The man is basically a dumb animal,0,1,1816
+あの男は野ネズミの知性を持っている,The man is a highly intelligent person,The man is basically a dumb animal,1,1,1816
+メールは亀のように速い,Emails are slow.,Emails are fast.,0,1,1817
+メールはロケットのように速い,Emails are slow.,Emails are fast.,1,1,1817
+夕食は革靴のように美味しかった,The dinner was very dry and tasteless.,The dinner was award winning.,0,1,1819
+夕食はミシュランの星と同じくらい美味しかった,The dinner was very dry and tasteless.,The dinner was award winning.,1,1,1819
+説明は澄んだ水のようでした,The explanation was easy and simple to understand,The explanation made to sense.,0,1,1821
+説明は泥のようだった,The explanation was easy and simple to understand,The explanation made to sense.,1,1,1821

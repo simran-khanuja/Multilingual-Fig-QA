@@ -1,0 +1,1095 @@
+startphrase,ending1,ending2,labels,valid,qid
+लड़की के पास एक गौरैया की उड़ान थी,The girl was very fickle.,The girl was very stable.,0,1,1
+लड़की के पास एक चट्टान की उड़ान थी,The girl was very fickle.,The girl was very stable.,1,1,1
+यह एक चर्च की तरह शांतिपूर्ण था।,It was very peaceful.,"It was full of conflict and danger, not peace.",0,1,3
+यह युद्ध के मैदान की तरह शांतिपूर्ण था।,It was very peaceful.,"It was full of conflict and danger, not peace.",1,1,3
+पत्ते घास की तरह हरे थे,The leaves were very green,The leaves were brown and not green at all.,0,1,4
+पत्तियाँ मिट्टी की तरह हरी थीं,The leaves were very green,The leaves were brown and not green at all.,1,1,4
+किराने के सामान की खरीदारी धूप वाले समुद्र तट पर गोले ढूंढ रही है,"Shopping for groceries is a fun, rewarding chore","Shopping for groceries is a crazy, nearly impossible chore",0,1,6
+किराने के सामान की खरीदारी एक पागल द्वारा बनाई गई सूची के साथ एक मेहतर शिकार है,"Shopping for groceries is a fun, rewarding chore","Shopping for groceries is a crazy, nearly impossible chore",1,1,6
+युद्ध गलत अंग का विच्छेदन है,War is the wrong solution to a problem,War is a necessary solution,0,1,8
+युद्ध आपके जीवन को बचाने के लिए एक अंगच्छेदन है,War is the wrong solution to a problem,War is a necessary solution,1,1,8
+यह वसंत ऋतु में घास की तरह हरा होता है,It's fairy green,It's not too green,0,1,12
+यह भीषण गर्मी के दौरान घास की तरह हरी होती है,It's fairy green,It's not too green,1,1,12
+यह सोते हुए पिल्ला की तरह शांतिपूर्ण है,It's very peaceful,It's not very peaceful,0,1,13
+यह उतना ही शांतिपूर्ण है जितना कि 40 के दशक में यूरोपीय,It's very peaceful,It's not very peaceful,1,1,13
+संगीत सायरन की तरह तेज था।,The music was very loud.,The music was very quiet.,0,1,15
+संगीत फुसफुसाहट की तरह जोर से था।,The music was very loud.,The music was very quiet.,1,1,15
+नौकरी एक शादी के आदमी के रूप में उपलब्ध है।,Jobs are not available.,Jobs are very available.,0,1,17
+नौकरियां स्नातक के रूप में उपलब्ध हैं।,Jobs are not available.,Jobs are very available.,1,1,17
+शांति एक इंसान की उड़ान है,Peace is impossible,Peace is possible,0,1,18
+शांति एक मानव चल रहा है,Peace is impossible,Peace is possible,1,1,18
+पौधे एक लोरी हैं,Plants are calming,Plants are disturbing,0,1,19
+पौधे एक जोरदार ड्रम हैं,Plants are calming,Plants are disturbing,1,1,19
+कार एक आंख वाले चूहे की तरह बदसूरत थी,it was hideous,it was beautiful,0,1,21
+कार हंस की तरह बदसूरत थी,it was hideous,it was beautiful,1,1,21
+वह आदमी राजकुमार की तरह सुंदर था,he was good looking,he was ugly,0,1,23
+वह आदमी एक होबो की तरह सुंदर था,he was good looking,he was ugly,1,1,23
+बातचीत एक कील के रूप में तेज थी,The conversation was sharp and witty.,The conversation was dull and not sharp.,0,1,25
+बातचीत चट्टान की तरह तेज थी,The conversation was sharp and witty.,The conversation was dull and not sharp.,1,1,25
+उसने इसे ऐसे खाया जैसे एक मोटा लड़का केक खाता है,The food was tasty to him,The food was unpalatable to him,0,1,27
+उसने इसे ऐसे खाया जैसे एक छोटा लड़का ब्रोकली खाता है,The food was tasty to him,The food was unpalatable to him,1,1,27
+उसने उसे ऐसे उठाया जैसे कोई माँ बच्चे को पकड़े हुए हो,He held it with pride and care,He held it with disgust and caution,0,1,28
+उसने इसे कंडोम पकड़े हुए प्लेबॉय की तरह उठाया,He held it with pride and care,He held it with disgust and caution,1,1,28
+वह एक वानर की तरह गणित की परीक्षा में भाग गया,He rushed because he is dumb,He rushed because he is smart,0,1,29
+वह एक रॉकेट वैज्ञानिक की तरह गणित की परीक्षा में भाग गया,He rushed because he is dumb,He rushed because he is smart,1,1,29
+भालू शेर की तरह भूखा था,it was starving,it didn't need food,0,1,41
+भालू कागज के टुकड़े की तरह भूखा था,it was starving,it didn't need food,1,1,41
+उस बातचीत में आपके करों को आंखों पर पट्टी बांधने में आसानी हुई।,Having that conversation was difficult,Having that conversation was easy.,0,1,44
+उस बातचीत में रविवार की सुबह की आसानी थी।,Having that conversation was difficult,Having that conversation was easy.,1,1,44
+उनकी बातचीत तोपखाने की बमबारी थी।,Their conversations were heated and antagonistic.,Their conversations were friendly.,0,1,45
+उनकी बातचीत शब्दों से आलिंगन थी।,Their conversations were heated and antagonistic.,Their conversations were friendly.,1,1,45
+कहानी एक दुःस्वप्न की तरह परेशान करने वाली थी,The story was very disturbing.,"The story failed to be disturbing, and in fact seemed cute.",0,1,48
+कहानी एक नवजात पिल्ले की तरह परेशान करने वाली थी,The story was very disturbing.,"The story failed to be disturbing, and in fact seemed cute.",1,1,48
+"वे जिस घर का खर्च उठा सकते थे, उसकी उनकी उम्मीदें पिघली हुई बर्फ में बदल गईं।",Their expectations were not met.,Their expectations were exceeded.,0,1,52
+"वे जिस घर का खर्च उठा सकते थे, उसकी उनकी उम्मीदें दूसरी कहानी से आगे निकल गईं।",Their expectations were not met.,Their expectations were exceeded.,1,1,52
+"जिन लोगों ने बच्चे को गाते हुए सुना, वे कोमल लहरों पर बह गए।",Those that heard the singing were pleasantly entertained.,Those that heard the singing were unpleasantly inundated.,0,1,53
+"जिन लोगों ने बच्चे को गाते सुना, उन्हें घुसपैठ के नोटों से प्रताड़ित किया गया।",Those that heard the singing were pleasantly entertained.,Those that heard the singing were unpleasantly inundated.,1,1,53
+वह एक परी की तरह गाती है,her voice is magical,her voice is awful,0,1,55
+वह एक बैल मेंढक की तरह गाती है,her voice is magical,her voice is awful,1,1,55
+HI की राय ठोस की तरह दृढ़ थी,He was very certain of his opinion,He was very uncertain of his opinion,0,1,57
+HI की राय कपास की गेंद की तरह दृढ़ थी,He was very certain of his opinion,He was very uncertain of his opinion,1,1,57
+पायलट ने विमान को ऐसे उतारा जैसे वह एक नवजात शिशु को संभाल रहा हो।,The landing was smooth and gentle,The landing was bumpy and rough,0,1,58
+पायलट ने विमान को ऐसे उतारा जैसे वह किसी रोलर कोस्टर पर हो।,The landing was smooth and gentle,The landing was bumpy and rough,1,1,58
+आदमी का व्यक्तित्व एक बेनी बेबी की तरह है,The man has a soft personality.,The man has a hard personality.,0,1,60
+आदमी का व्यक्तित्व एक ड्रिल सार्जेंट की तरह है,The man has a soft personality.,The man has a hard personality.,1,1,60
+पोस्टर इंद्रधनुष की तरह रंगीन था,The poster has a lot of color.,The poster was dull and colorless.,0,1,65
+पोस्टर फुटपाथ की तरह रंगीन था,The poster has a lot of color.,The poster was dull and colorless.,1,1,65
+वह एक ऊदबिलाव की तरह उत्सुक है,she is excited,she is bored,0,1,69
+वह एक सुस्ती की तरह उत्सुक है,she is excited,she is bored,1,1,69
+नाव की मोटर बड़बड़ाते हुए नशे में है,It is barely running,It is running strong,0,1,73
+नाव की मोटर गर्जना करने वाला शेर है,It is barely running,It is running strong,1,1,73
+वकील का प्रारंभिक तर्क एक रूसी उपन्यास था।,The lawyer's opening argument was long.,The lawyer's opening argument was tawdry.,0,1,81
+वकील का शुरुआती तर्क एक हवाईअड्डा पेपरबैक था।,The lawyer's opening argument was long.,The lawyer's opening argument was tawdry.,1,1,81
+घर में एक संग्रहालय की सफाई थी,The house was very clean.,The house was a mess.,0,1,84
+घर में पेंटबॉल के मैदान की सफाई थी,The house was very clean.,The house was a mess.,1,1,84
+अंगूर में पुराने खिलौने की ताजगी थी।,The grapes weren't fresh.,The grapes were very fresh.,0,1,94
+अंगूर में गर्मियों की सुबह की ताजगी थी।,The grapes weren't fresh.,The grapes were very fresh.,1,1,94
+खिलौने में निष्पादन का आनंद था,The toy was not fun,The toy was fun,0,1,97
+खिलौने में रोलर कोस्टर का आनंद था,The toy was not fun,The toy was fun,1,1,97
+फिल्म का संदेश एक कप पुदीने की चाय की तरह दिल को छू लेने वाला था,The movie message was very heartwarming.,The movie's message wasn't heartwarming at all.,0,1,104
+फिल्म का संदेश पॉप्सिकल की तरह दिल को छू लेने वाला था,The movie message was very heartwarming.,The movie's message wasn't heartwarming at all.,1,1,104
+किताब नाश्ते के लिए पेनकेक्स की तरह क्लासिक थी,The book was very classic.,The book wasn't a classic.,0,1,105
+"यह किताब उतनी ही क्लासिक थी, जितनी एक दुल्हन ने बैंगनी रंग में पहनी थी",The book was very classic.,The book wasn't a classic.,1,1,105
+खिलौना इस साल से एक चौथाई जितना नया था।,The toy was recent,The toy was dated.,0,1,108
+खिलौना उतना ही नया था जितना कि आपके जन्म के एक चौथाई वर्ष।,The toy was recent,The toy was dated.,1,1,108
+औरत एक पेड़ जितनी लंबी थी,The woman was tall,The woman was short,0,1,111
+औरत एक पैर की चौकी जितनी लंबी थी,The woman was tall,The woman was short,1,1,111
+टॉम को रोबोट की खुशी थी।,Tom is not very joyful.,Tom is very joyful.,0,1,114
+टॉम को एक कुत्ते की खुशी थी।,Tom is not very joyful.,Tom is very joyful.,1,1,114
+फिल्म में ए कैन्यन की गहराई है।,The movie is deeply philosophical.,The movie has little substance.,0,1,116
+फिल्म में एक गड्ढे की गहराई है।,The movie is deeply philosophical.,The movie has little substance.,1,1,116
+फिल्म में ए वैली की गहराई है।,The movie is expansive in it's meaning.,The movie lacks depth.,0,1,117
+फिल्म में ए फ्लैटलैंड की गहराई है।,The movie is expansive in it's meaning.,The movie lacks depth.,1,1,117
+वह एक हाथी की तरह नाजुक थी,She was a lumbering clod,She was fragile,0,1,123
+वह बर्फ के टुकड़े की तरह नाजुक थी,She was a lumbering clod,She was fragile,1,1,123
+उसके खाने का स्वाद एक पुराने जूते की तरह था,The food was disgusting,The food was gloriously delicious,0,1,124
+उसके खाने का स्वाद स्वर्ग से मन्ना जैसा था,The food was disgusting,The food was gloriously delicious,1,1,124
+लड़के का नींबू पानी स्टैंड फॉर्च्यून 500 कंपनी जितना ही सफल रहा,The boy's lemonade stand was a wild success.,The boy's lemonade stand did terribly.,0,1,127
+लड़के का नींबू पानी स्टैंड 1962 के न्यूयॉर्क मेट्स की तरह ही सफल रहा,The boy's lemonade stand was a wild success.,The boy's lemonade stand did terribly.,1,1,127
+वह एक फिल्म स्टार के रूप में प्रसिद्ध हैं,people know him,no one knows him,0,1,136
+वह कूड़ेदान में रोच के रूप में प्रसिद्ध है,people know him,no one knows him,1,1,136
+वह एक प्रोम क्वीन की तरह फैंसी है,she is elegant,she is dirty,0,1,137
+वह डिश वाटर की तरह फैंसी है,she is elegant,she is dirty,1,1,137
+उसका चेहरा सूरज की तरह चमक रहा था,Her face was luminous,her face was dull,0,1,141
+उसका चेहरा धूल भरे दर्पण के प्रतिबिंब की तरह चमक रहा था,Her face was luminous,her face was dull,1,1,141
+वह एक वानर के आकार का था।,He was huge.,He was small.,0,1,146
+वह एक चींटी के आकार का था।,He was huge.,He was small.,1,1,146
+गाने में एक अमीबा की रचनात्मकता थी।,The song was too simplistic.,The song was very complex and beautiful.,0,1,147
+गीत में लौवर के सभी चित्रों की रचनात्मकता थी।,The song was too simplistic.,The song was very complex and beautiful.,1,1,147
+वह फिल्म 25 साल के टैपवार्म जितनी लंबी थी,It's extremely long,It's as short as can be,0,1,154
+वह फिल्म होवी मंडेल के बालों जितनी लंबी थी,It's extremely long,It's as short as can be,1,1,154
+खेल का मैदान उतना ही सुरक्षित है जितना कि ड्रैकुला के नुकीले।,The playground is dangerous.,The playground is secure.,0,1,155
+खेल का मैदान बीमा पॉलिसी जितना ही सुरक्षित है।,The playground is dangerous.,The playground is secure.,1,1,155
+मैनेजर ने हमारी चिंगारी को और भी तेज कर दिया।,The manager motivated his employees.,The manager demotivated his employees.,0,1,160
+मैनेजर ने हमारी चिंगारी में पानी डाला।,The manager motivated his employees.,The manager demotivated his employees.,1,1,160
+छात्र एक उद्यमी के रूप में प्रतिभाशाली था,he has talant,he was talentless,0,1,161
+छात्र एक अंधे ऊदबिलाव के रूप में प्रतिभाशाली था,he has talant,he was talentless,1,1,161
+फिल्म स्टार की तरह ग्लैमरस थी ये महिला,she was fancy,she was unkempt,0,1,162
+औरत पुराने जूते की तरह ग्लैमरस थी,she was fancy,she was unkempt,1,1,162
+उसकी ऊंचाई एक लाल लकड़ी के पेड़ के बराबर थी,He was tall,He was short,0,1,164
+उसकी ऊंचाई एक चूहे के बराबर थी,He was tall,He was short,1,1,164
+वह जिराफ के साथ आंखों के स्तर तक आ गई,She was tall,She was short,0,1,165
+वह एक बच्चे के साथ आंखों के स्तर तक आई,She was tall,She was short,1,1,165
+रेस्तरां की प्लेट डू पत्रिकाएं देवताओं का अमृत थीं,The food was delicious,The food was disgusting,0,1,166
+रेस्टोरेंट की प्लाट डू पत्रिकाओं में गर्म कचरा था,The food was delicious,The food was disgusting,1,1,166
+कार बिना पानी वाले पूल के समान उपयोगी थी,the car was useless,the car was helpful,0,1,168
+रात के खाने के दौरान कार चांदी के बर्तन की तरह उपयोगी थी,the car was useless,the car was helpful,1,1,168
+मेरा कुत्ता मेफ्लाई की तरह खाता है,My dog is never eating,My dog never ceases eating,0,1,173
+मेरा कुत्ता टैरारे की तरह खाता है,My dog is never eating,My dog never ceases eating,1,1,173
+वह फिल्म 2013 में एक्सबॉक्स वन के लॉन्च जितनी विनाशकारी थी,It isn't very good,It's quite successful,0,1,177
+वह फिल्म अब्राहम लिंकन प्रेसीडेंसी जितनी विनाशकारी थी,It isn't very good,It's quite successful,1,1,177
+अवधारणा एक तले हुए अंडे की तरह भ्रमित करने वाली थी,The concept was hard to understand.,The concept was easy to understand.,0,1,178
+अवधारणा एक किडी पहेली के रूप में भ्रमित करने वाली थी,The concept was hard to understand.,The concept was easy to understand.,1,1,178
+बरिटो में ज्वालामुखी की गर्मी होती है,The burrito is hot,The burrito is cold,0,1,183
+बरिटो में हिमखंड की गर्मी होती है,The burrito is hot,The burrito is cold,1,1,183
+समय घोंघे की तरह घूमता रहा।,Time was slow.,Time was fast.,0,1,184
+समय चीते की तरह घूमता रहा।,Time was slow.,Time was fast.,1,1,184
+आदमी के पास एक साधु का धैर्य है।,The man is very patient.,The man is very impatient.,0,1,188
+आदमी के पास स्नान में बिल्ली का धैर्य है।,The man is very patient.,The man is very impatient.,1,1,188
+कला इंद्रधनुष की तरह रंगीन है,the art is vibrant,the art is dull,0,1,192
+कला बादलों के आकाश की तरह रंगीन है,the art is vibrant,the art is dull,1,1,192
+आदमी का सिर कला के काम की तरह सुंदर था,The man's head was attractive,The man's head was ugly,0,1,194
+आदमी का सिर कूड़ेदान की तरह सुंदर था,The man's head was attractive,The man's head was ugly,1,1,194
+इमारत उतनी ही पुरानी है जितनी खुद ब्रह्मांड,It's very old,It's brand new,0,1,196
+इमारत उतनी ही पुरानी है जितनी कि कल पैदा होने वाले बच्चे,It's very old,It's brand new,1,1,196
+उस पंखे में यूनानी देवता आयोलस की उड़ाने की शक्ति है,It can blow a lot,It can hardly blow at all,0,1,197
+उस पंखे में एक अनप्लग्ड हेअर ड्रायर की उड़ाने की शक्ति होती है,It can blow a lot,It can hardly blow at all,1,1,197
+सैंडविच का मांस एक टॉलेट की तरह नम था,The sandwich meat was moist.,The sandwich meat was dry.,0,1,201
+सैंडविच का मांस सैंडपेपर की तरह नम था,The sandwich meat was moist.,The sandwich meat was dry.,1,1,201
+वह एक लेडी बग जितनी बड़ी थी।,She was small.,She was big.,0,1,206
+वह हाथी जितनी बड़ी थी।,She was small.,She was big.,1,1,206
+भविष्य में मिट्टी के पोखर की चमक थी,The future is dull,The future is bright,0,1,213
+भविष्य में थी हीरे की चमक,The future is dull,The future is bright,1,1,213
+शैंपेन की बोतल की तरह फूट पड़ी लड़की की खुशी,The girl's happiness was effusive.,The girl's happiness didn't really explode at all.,0,1,216
+लोरी की तरह फूट पड़ी बच्ची की खुशी,The girl's happiness was effusive.,The girl's happiness didn't really explode at all.,1,1,216
+समस्या एक टुत्सी रोल जितनी बड़ी थी,The problem was small.,The problem was large.,0,1,217
+समस्या अंटार्कटिका जितनी बड़ी थी,The problem was small.,The problem was large.,1,1,217
+जलती हुई माचिस की तीली थी लड़की का मिजाज,The girl was easily provoked.,The girl's temper was even.,0,1,218
+लड़की का मिजाज लो टाइड था,The girl was easily provoked.,The girl's temper was even.,1,1,218
+"जिस किताब को मैंने अभी-अभी पढ़ना समाप्त किया है, वह मेरे जीवन का एक कम्पास है।",The book contains a lot of timeless wisdom and helpful knowledge.,The book's content is so trashy and useless that one can't bear reading it again.,0,1,224
+जिस किताब को मैंने अभी पढ़ना समाप्त किया है वह मेरा नया बग स्मैशर है।,The book contains a lot of timeless wisdom and helpful knowledge.,The book's content is so trashy and useless that one can't bear reading it again.,1,1,224
+सांप के पास एक रेगिस्तानी निवासी की त्वचा होती है जिसने कभी लोशन की बोतल को नहीं छुआ है,The snake has dry and scaly skin,The snake's skin is not dry and scaly,0,1,229
+"सांप के पास एक घिनौनी, जलीय ईल की त्वचा होती है",The snake has dry and scaly skin,The snake's skin is not dry and scaly,1,1,229
+रिपोर्टर बास्केटबॉल केंद्र जितना लंबा था,the reporter was tall,the reporter was short,0,1,233
+रिपोर्टर एक बौना जितना लंबा था,the reporter was tall,the reporter was short,1,1,233
+यह बीमारी जंगल में आग की तरह फैल रही है,It is spreading quickly,It is spreading slowly,0,1,237
+उंगली के नाखून के बढ़ने की तरह फैल रहा है रोग,It is spreading quickly,It is spreading slowly,1,1,237
+किशोर एक गगनचुंबी इमारत थी,The teen was tall.,The teen was short.,0,1,245
+किशोर एक एंथिल था,The teen was tall.,The teen was short.,1,1,245
+जांच में पंखों का एक गुच्छा का वजन था,The investigation is not important,The investigation has a major impact,0,1,253
+जांच में एक शहर-व्यापी लहर प्रभाव का भार था,The investigation is not important,The investigation has a major impact,1,1,253
+शिक्षक माता-पिता के रूप में उत्साहजनक है,the teacher helps,the teacher doesn't help,0,1,254
+शिक्षक मरे हुए पंछी की तरह हौसला बढ़ाने वाला होता है,the teacher helps,the teacher doesn't help,1,1,254
+उसके बालों में घोड़े के शाहबलूत माने की चमक थी,Her hair was shiny,Her hair was dull,0,1,259
+उसके बालों में भूसे की चमक थी,Her hair was shiny,Her hair was dull,1,1,259
+उनकी कक्षा में एक प्रकाश बल्ब की सारी चमक थी,His class was brilliant,His class was not so smart.,0,1,260
+उनकी कक्षा में एक चट्टान की सारी चमक थी,His class was brilliant,His class was not so smart.,1,1,260
+सर्द रात में घर सर्दियों के केबिन की तरह आरामदायक था।,The house was comfortable to be in.,The house was uncomfortable to be in.,0,1,268
+घर जेल की कोठरी की तरह आरामदेह था।,The house was comfortable to be in.,The house was uncomfortable to be in.,1,1,268
+सिपाही कीलों की तरह सख्त था,The soldier is very tough,The soldier is very weak,0,1,270
+सिपाही कपास की तरह सख्त था,The soldier is very tough,The soldier is very weak,1,1,270
+वह हाथी की तरह नाजुक थी,She was sturdy and not fragile,She was extremely fragile,0,1,274
+वह क्रिस्टल प्याली की तरह नाजुक थी,She was sturdy and not fragile,She was extremely fragile,1,1,274
+उसका सबसे करीबी रिश्तेदार भी एक घोड़ा हो सकता है,She is ugly,She is dainty,0,1,276
+उसका सबसे करीबी रिश्तेदार भी एक पक्षी हो सकता है,She is ugly,She is dainty,1,1,276
+एथलीट 80 के दशक में माइक टायसन जितना ही अच्छा था,the athlete was great,the athlete was bad,0,1,277
+एथलीट 80 साल की उम्र में माइक टायसन जितना अच्छा था,the athlete was great,the athlete was bad,1,1,277
+छात्र स्पेलिंग बी में कुत्ते की तरह भ्रमित था,he didn't know what was going on,he knew everything,0,1,278
+कोर्ट में वकील की तरह उलझा था छात्र,he didn't know what was going on,he knew everything,1,1,278
+कोना परेड की तरह व्यस्त था,The corner was busy,The corner was abandoned and not busy,0,1,281
+कोना कब्रिस्तान की तरह व्यस्त था,The corner was busy,The corner was abandoned and not busy,1,1,281
+किताब एक पार्टी की तरह मनोरंजक थी,The book was entertaining.,The book was not entertaining at all.,0,1,282
+पुस्तक अंतिम संस्कार की तरह मनोरंजक थी,The book was entertaining.,The book was not entertaining at all.,1,1,282
+कलाकार वैनिला आइसक्रीम की तरह रचनात्मक है,The artist has no new ideas.,The artist is very creative.,0,1,284
+कलाकार कारमेल बेलसमिक ज़ुल्फ़ आइसक्रीम जितना ही रचनात्मक है,The artist has no new ideas.,The artist is very creative.,1,1,284
+इस शो में उतने ही एपिसोड हैं जितने एक सेंटीपीड के पैर हैं,It has many episodes,It has very few,0,1,287
+इस शो में उतने ही एपिसोड हैं जितने रात के आसमान में चांद होते हैं,It has many episodes,It has very few,1,1,287
+मेरे और मेरे रिश्तेदार में जुड़वाँ बच्चों की निकटता है,They're extremely close,They very far apart,0,1,288
+मेरे और मेरे रिश्तेदार के पास उत्तरी और दक्षिणी ध्रुवों की निकटता है,They're extremely close,They very far apart,1,1,288
+घर स्टील की तरह नाजुक है,The house is strong,The house is weak,0,1,292
+घर रेशम की तरह नाजुक है,The house is strong,The house is weak,1,1,292
+एक चिड़ियाघर में एक शेर की प्रदर्शनी के रूप में अभिनेता को उतना ही ध्यान मिला,The actor got tons of attention.,The actor got no attention at all.,0,1,299
+अभिनेता ने समुद्र तट पर रेत के दाने जितना ध्यान आकर्षित किया,The actor got tons of attention.,The actor got no attention at all.,1,1,299
+वह शर्ट कचरा बैग की तरह दिखती है,It is ugly,It is pretty,0,1,301
+वह शर्ट गुलाब की झाड़ी की तरह दिखती है,It is ugly,It is pretty,1,1,301
+पुस्तक में एक डॉक्टर का सम्मान है,It is well respected,It is not highly respected,0,1,303
+पुस्तक में एक षड्यंत्र सिद्धांतकार का सम्मान है,It is well respected,It is not highly respected,1,1,303
+मेरी नई कार में एक पैसा स्टॉक की विश्वसनीयता है,My new car is unpredictable,My new car is dependable,0,1,306
+मेरी नई कार में बारीक ट्यून किए गए पियानो की विश्वसनीयता है,My new car is unpredictable,My new car is dependable,1,1,306
+नींव एक बोर्ड के रूप में सपाट थी,The foundation was flat.,The foundation was round and curved.,0,1,311
+नींव एक ग्लोब के रूप में सपाट थी,The foundation was flat.,The foundation was round and curved.,1,1,311
+कार कछुए की तरह तेज है,the car is slow,the car is speedy,0,1,322
+कार बिजली के एक बोल्ट की तरह तेज है,the car is slow,the car is speedy,1,1,322
+वह जेट पर चीते से भी तेज दौड़ रहा है,He's running fast,He's not moving at all,0,1,330
+वह मरे हुए घोंघे से भी तेज दौड़ रहा है,He's running fast,He's not moving at all,1,1,330
+आदमी का मिजाज था हबानेरो काली मिर्च,The man had a big temper.,The man had a mild temper.,0,1,334
+आदमी का गुस्सा एक कप जई का दूध था।,The man had a big temper.,The man had a mild temper.,1,1,334
+टूटे हुए पुल की तरह स्थिर है सरकार,The government is falling apart,The government is very strong and stable.,0,1,335
+ईंट के घर की तरह मजबूत होती है सरकार,The government is falling apart,The government is very strong and stable.,1,1,335
+लॉटरी जीतने की संभावना भूसे के ढेर में सुई खोजने के बराबर है,The odds of sinning the lottery  are extremely low,The odds of winning the lottery are fantastic,0,1,336
+लॉटरी जीतने की संभावना उतनी ही अच्छी है जितना कि माचिस जलाना और आग की उम्मीद करना।,The odds of sinning the lottery  are extremely low,The odds of winning the lottery are fantastic,1,1,336
+वह कार की सवारी पर एक कुत्ते की तरह विपुल है,she is excited,she is tired,0,1,339
+वह बिस्तर में सुस्ती की तरह विपुल है,she is excited,she is tired,1,1,339
+वह एक पुजारी के रूप में निष्पक्ष है,he is nice,he is mean,0,1,340
+वह एक शैतान के रूप में निष्पक्ष है,he is nice,he is mean,1,1,340
+शाखा स्टील बीम की तरह मजबूत थी,The branch was sturdy enough to hold a lot of weight.,The branch was weak and could snap easily.,0,1,344
+टहनी टहनी की तरह मज़बूत थी,The branch was sturdy enough to hold a lot of weight.,The branch was weak and could snap easily.,1,1,344
+वह चीज 1950 के दशक के रेफ्रिजरेटर जितनी बिजली चूस रही है,It uses a lot of electricity,It uses no electricity,0,1,348
+वह चीज़ उतनी ही बिजली चूस रही है जितनी कि अलमारी में मौजूद Wii U,It uses a lot of electricity,It uses no electricity,1,1,348
+नाटक में सोते हुए कछुए का उत्साह है।,The play is dull.,The play is rousing.,0,1,351
+नाटक में लॉटरी जैकपॉट का उत्साह है।,The play is dull.,The play is rousing.,1,1,351
+लड़की उतनी ही अनुमानित है जितनी समुद्र की लहरें दुर्घटनाग्रस्त,The girl was very predictable.,The girl was totally unpredictable.,0,1,353
+लड़की टाइटैनिक के डूबने की तरह ही अनुमानित है,The girl was very predictable.,The girl was totally unpredictable.,1,1,353
+आदमी के पास एक पहाड़ की ऊंचाई है,The man is tall,The man is short,0,1,356
+आदमी के पास एक फुटस्टूल की ऊंचाई है,The man is tall,The man is short,1,1,356
+घर महल की तरह मनमोहक है,the house is pretty,the house is ugly,0,1,361
+घर रोडकिल की तरह करामाती है,the house is pretty,the house is ugly,1,1,361
+छात्र एक सुस्त चाकू की तरह तेज था,The student us dumb,The student is smart,0,1,362
+छात्र ए साही की तरह तेज था,The student us dumb,The student is smart,1,1,362
+उनकी गायन आवाज ब्लैकबोर्ड पर नाखूनों की तरह लगती है,The voice makes you cringr,The voice is calming,0,1,363
+उनकी गायन की आवाज एक तेज हवा की तरह लगती है,The voice makes you cringr,The voice is calming,1,1,363
+सामान सोने जितना कीमती था,The goods were valuable,The goods were worthless,0,1,365
+माल गंदगी के समान मूल्यवान था,The goods were valuable,The goods were worthless,1,1,365
+पहेली पाई जितनी आसान थी,The puzzle was easy,The puzzle was hard.,0,1,366
+पहेली ब्रेन सर्जरी जितनी आसान थी,The puzzle was easy,The puzzle was hard.,1,1,366
+राजनेता सेब पाई के रूप में लोकप्रिय थे,The politician was very popular.,The politician was very unpopular.,0,1,367
+राजनेता एक रूट कैनाल के रूप में लोकप्रिय थे,The politician was very popular.,The politician was very unpopular.,1,1,367
+यह बैठक अंतिम संस्कार के जुलूस की तरह जीवंत थी।,The meeting was not lively at all.,The meeting was very lively.,0,1,368
+बैठक एक उछाल भरे घर में बच्चों के समूह की तरह जीवंत थी।,The meeting was not lively at all.,The meeting was very lively.,1,1,368
+उसने उस वस्तु की खरीदारी की जैसे कोई दुल्हन अपनी पोशाक उठा रही हो,He shopped with great care,He shopped in a hurry,0,1,372
+उसने सामान की खरीदारी की जैसे कोई लुटेरा भाग रहा हो,He shopped with great care,He shopped in a hurry,1,1,372
+फिल्म देखना डेंटिस्ट के ऑफिस जाने जैसा था,The movie was dreadful,The movie was enjoyable,0,1,373
+फिल्म देखना कार्निवल में जाने जैसा था,The movie was dreadful,The movie was enjoyable,1,1,373
+कुकी एक टुत्सी रोल की तरह चबाने वाली थी,The cookie was perfectly chewy.,The cookie was extremely dense and tough.,0,1,374
+कुकी ईंट की तरह चबाने वाली थी,The cookie was perfectly chewy.,The cookie was extremely dense and tough.,1,1,374
+पिज्जा डिलीवरी करने वाले के पास ओलंपिक स्प्रिंटर की गति थी,The pizza arrived quickly.,The pizza took forever to come.,0,1,375
+पिज़्ज़ा डिलीवरी बॉय के पास टेक्टोनिक प्लेट की गति थी,The pizza arrived quickly.,The pizza took forever to come.,1,1,375
+पॉट रोस्ट में दलदल के पानी की सुगंध होती है।,The pot roast smells bad.,The pot roast smells flavorsome.,0,1,377
+पॉट रोस्ट में दादी माँ के किचन की महक होती है।,The pot roast smells bad.,The pot roast smells flavorsome.,1,1,377
+तस्वीर में एक स्याही धब्बा परीक्षण की स्पष्टता है।,The photograph is out of focus.,The photograph is crystal clear.,0,1,378
+तस्वीर में पूर्ण इंद्रधनुष की स्पष्टता है।,The photograph is out of focus.,The photograph is crystal clear.,1,1,378
+उनके पास कैनेडी का राजनीतिक कौशल है,He has good political skills,He lacks skill in politics,0,1,380
+उनके पास एक नवजात शिशु का राजनीतिक कौशल है,He has good political skills,He lacks skill in politics,1,1,380
+इस पहेली में एक आदमी को मंगल ग्रह पर रखने की कठिनाई है,It is very difficult,It is very easy,0,1,382
+इस पहेली में बच्चे के ब्लॉक सॉर्टिंग गेम की कठिनाई है,It is very difficult,It is very easy,1,1,382
+लड़का एक कॉमेडियन की तरह मजाकिया था,it was funny,it wasn't funny,0,1,384
+लड़का मरे हुए मक्खी की तरह मजाकिया था,it was funny,it wasn't funny,1,1,384
+राजनेता की माफी एक शतरंज की चाल थी।,The politician's apology was calculated.,The politician's apology was chaotic.,0,1,386
+राजनेता की माफी एक हिमस्खलन थी।,The politician's apology was calculated.,The politician's apology was chaotic.,1,1,386
+वह एक वाइपर की तरह खतरनाक था,He was very dangerous,He was not dangerous,0,1,389
+वह एक पिस्सू की तरह खतरनाक था,He was very dangerous,He was not dangerous,1,1,389
+पानी सूरज की सतह जितना गर्म था,The water was scalding hot,The water was cold,0,1,390
+पानी बर्फ़ की तरह गर्म था,The water was scalding hot,The water was cold,1,1,390
+उसके बहाने एक परित्यक्त सैनिक की सजा थी।,Her excuse lacked conviction.,Her excuse was full of conviction.,0,1,393
+उसके बहाने में एक पुनरुत्थानवादी उपदेशक का विश्वास था।,Her excuse lacked conviction.,Her excuse was full of conviction.,1,1,393
+आने वाली ट्रेन का था खतरा,The threat was imminent.,The threat was distant.,0,1,404
+धमकी एक तीसरे चचेरे भाई को तीन बार हटा दिया गया था,The threat was imminent.,The threat was distant.,1,1,404
+उनका प्यार बॉब डायलन गीत के रूप में समझना आसान था।,Their love was complex and hard to interpret.,Their love was hot and short lived.,0,1,421
+उनका प्यार कैलिफोर्निया के जंगल की आग के मौसम की तरह था।,Their love was complex and hard to interpret.,Their love was hot and short lived.,1,1,421
+एक विलय समझौते में कानूनी रूप से पुस्तक ने मेरा ध्यान खींचा,The book totally bored me.,The book really interested me.,0,1,422
+किताब ने एक रद्दी पत्रिका के शीर्षक की तरह मेरा ध्यान खींचा,The book totally bored me.,The book really interested me.,1,1,422
+उसके विचार यो-यो की तरह थे,Her thoughts were all over the place.,Her thoughts were steady.,0,1,423
+उसके विचार वसंत की धारा की तरह थे,Her thoughts were all over the place.,Her thoughts were steady.,1,1,423
+उसका अहंकार एक रिट्ज पटाखा था,Her ego was very fragile.,Her ego was unshakeable.,0,1,424
+उसका अहंकार एक ईंट की इमारत थी,Her ego was very fragile.,Her ego was unshakeable.,1,1,424
+उसका दिमाग स्टील का पिंजरा है,He has a very good memory and rarely forgets anything,"His memory is terrible, things go in one ear and out the other",0,1,425
+उसका दिमाग एक खुला खलिहान का दरवाजा है,He has a very good memory and rarely forgets anything,"His memory is terrible, things go in one ear and out the other",1,1,425
+स्क्रीन टॉर्च की तरह मंद थी।,The screen was bright.,The screen was dim.,0,1,429
+स्क्रीन मोमबत्ती की तरह धुंधली थी।,The screen was bright.,The screen was dim.,1,1,429
+उस राजनेता का भाषण लिंकन के गेटिसबर्ग पते के रूप में अच्छा था,The speech was sycinct and powerful,The speech was overbearing and boring.,0,1,439
+उस राजनेता का भाषण कॉलेज के प्रोफेसर घने व्याख्यान के रूप में अच्छा था।,The speech was sycinct and powerful,The speech was overbearing and boring.,1,1,439
+आप तकिये की तरह सख्त हैं,You are soft,You are stubborn,0,1,446
+तुम चट्टान की तरह कठोर हो,You are soft,You are stubborn,1,1,446
+आप अंडे की तरह सख्त हैं,eggs crack,coconuts are hard,0,1,447
+आप नारियल की तरह सख्त हैं,eggs crack,coconuts are hard,1,1,447
+गिरगिट की तरह अपनी भावनाओं को छिपाने में लड़की उतनी ही अच्छी है,The girl hides her emotions well.,The girl shows off her emotions.,0,1,453
+लड़की अपनी भावनाओं को छिपाने में मोर की तरह अच्छी होती है,The girl hides her emotions well.,The girl shows off her emotions.,1,1,453
+सहारा के रूप में मेरा बैंक खाता सूखा है,"My bank account is barren, I have no money","My bank account is fat with cash, I'm rich",0,1,457
+मेरा बैंक खाता थैंक्सगिविंग टर्की की तरह भरा हुआ है,"My bank account is barren, I have no money","My bank account is fat with cash, I'm rich",1,1,457
+"जैसा कि कार्टून में दर्शाया गया है, सैंडविच में चंद्रमा की लचक है",The sandwich is very cheesy,The sandwich lacks cheese,0,1,458
+सैंडविच में प्राथमिक टॉपिंग के बिना पिज्जा जैसा लजीजपन होता है,The sandwich is very cheesy,The sandwich lacks cheese,1,1,458
+उचित मौसम के दिन टावर में धातु की छत का पवन प्रतिरोध होता है,The tower has a high wind resistance,The tower has almost no resistance to wind,0,1,459
+टावर में एक अपड्राफ्ट में पकड़े गए कैंडी रैपर का पवन प्रतिरोध है,The tower has a high wind resistance,The tower has almost no resistance to wind,1,1,459
+मुर्गे के घर में भूखे बाघ के शरीर में जीवित रहने की क्षमता होती है,It has high survivability,It has a low survivability rate,0,1,460
+एक तूफानी समुद्र में शरीर में एक पेपर बैग की उत्तरजीविता है,It has high survivability,It has a low survivability rate,1,1,460
+वह एक कलाबाज की तरह उस घोड़े पर सवार हुई,She rode it well,She rode it poorly,0,1,461
+वह उस घोड़े पर एक जब्ती पीड़ित की तरह सवार हुई,She rode it well,She rode it poorly,1,1,461
+भाषण एक सीमेंट ब्लॉक की तरह प्रेरक था,It is dull,It is motivating,0,1,462
+भाषण एक लेगलेस मैराथन धावक के रूप में प्रेरणादायक था,It is dull,It is motivating,1,1,462
+Ikea निर्देशों के अनुसार ग्लास स्पष्ट है,It is not clear,It is see thru,0,1,463
+सरन रैप के रूप में कांच स्पष्ट है,It is not clear,It is see thru,1,1,463
+कुकीज़ हार्डटैक की तरह चखा।,The cookies are awful.,The cookies are delicous.,0,1,464
+कुकीज़ स्वर्ग की तरह चखा।,The cookies are awful.,The cookies are delicous.,1,1,464
+फर्श तेल की तरह फिसलन भरा था,The floor was slippery.,The floor wasn't slippery at all.,0,1,468
+फर्श सैंडपेपर की तरह फिसलन भरा था,The floor was slippery.,The floor wasn't slippery at all.,1,1,468
+मणि एक बुरे टौपी की तरह नकली था,The gem was obviously fake.,The gem was obviously real.,0,1,469
+"हम जिस हवा में सांस लेते हैं, वह रत्न उतना ही नकली था",The gem was obviously fake.,The gem was obviously real.,1,1,469
+लड़के सेना की तरह अनुशासित होते हैं,The boys are highly disciplined.,The boys lack any discipline.,0,1,472
+लड़के बैरल बंदरों की तरह अनुशासित होते हैं,The boys are highly disciplined.,The boys lack any discipline.,1,1,472
+हेलीकॉप्टर में ढहने वाले टॉवर की विश्वसनीयता थी।,The helicopter was not reliable.,The helicopter was very reliable.,0,1,482
+हेलीकॉप्टर में युद्धपोत की विश्वसनीयता थी।,The helicopter was not reliable.,The helicopter was very reliable.,1,1,482
+यह किताब मेरे हाथ में रेशम की तरह है।,This book is hard to put down.,This book is forgettable.,0,1,498
+यह किताब हार्ड-कवर भूलने की बीमारी की तरह है।,This book is hard to put down.,This book is forgettable.,1,1,498
+टीमों का जुनून नरक की तरह जल रहा था,The team had a lot of passion,THe team had very little passion,0,1,502
+टीम का जुनून माचिस की तरह जल रहा था,The team had a lot of passion,THe team had very little passion,1,1,502
+तलवार लेजर की तरह तेज थी,The sword was sharp,The sword was dull,0,1,504
+तलवार लाठी की तरह तेज थी,The sword was sharp,The sword was dull,1,1,504
+उन्होंने एक अनुभवी जनरल की सामरिक सटीकता के साथ युद्धाभ्यास किया।,He manuevered skillfully.,He maneuvered poorly.,0,1,508
+उन्होंने एक जोकर कार की सामरिक सटीकता के साथ युद्धाभ्यास किया।,He manuevered skillfully.,He maneuvered poorly.,1,1,508
+अंत सभी ट्रिमिंग्स के साथ थैंक्सगिविंग डिनर के रूप में संतोषजनक था।,The ending was satisfying.,The ending was unsatisfying.,0,1,509
+अंत एक बासी नमकीन पटाखा जितना संतोषजनक था।,The ending was satisfying.,The ending was unsatisfying.,1,1,509
+वह आदमी चट्टान की तरह होशियार है,The guy is dumb,The guy is intelligent,0,1,511
+वह आदमी कंप्यूटर की तरह स्मार्ट है,The guy is dumb,The guy is intelligent,1,1,511
+दोस्ती रुमाल पर ठेके जितनी सार्थक थी,The friendship wasn't meaningful at all.,The friendship was highly meaningful.,0,1,523
+दोस्ती उतनी ही सार्थक थी जितनी एक अंतरराष्ट्रीय संधि,The friendship wasn't meaningful at all.,The friendship was highly meaningful.,1,1,523
+बच्चा अभी भी संगमरमर की पटिया की तरह था,The child was totally still.,The child couldn't stop moving.,0,1,524
+बच्चा अभी भी झरने जैसा था,The child was totally still.,The child couldn't stop moving.,1,1,524
+वह हीरे की तरह मजबूत है।,He is very strong.,He is weak.,0,1,531
+वह ग्रेफाइट के टुकड़े जितना मजबूत है।,He is very strong.,He is weak.,1,1,531
+5 सितारा भोजन करने के बाद उसे एक मास्टर शेफ की संतुष्टि होती है,He is very satisfied,He has very little satisfaction,0,1,532
+डिब्बाबंद . का कटोरा बनाने के बाद उसे एक मास्टर शेफ की संतुष्टि है,He is very satisfied,He has very little satisfaction,1,1,532
+उसके पास एक gnat . का समर्पण था,She is flighty and unfocused,She applies pressure consistently and over time.,0,1,535
+उसे एक टेक्टोनिक प्लेट का समर्पण था,She is flighty and unfocused,She applies pressure consistently and over time.,1,1,535
+उसने जो इच्छा महसूस की वह एक मात्र छल थी,She felt little desire,She felt a strong desire,0,1,537
+उसने जो इच्छा महसूस की वह एक बढ़ती हुई लहर थी,She felt little desire,She felt a strong desire,1,1,537
+आदमी के पास एक प्यारे बच्चे का स्वाद है।,The man has poor taste in things.,The man has exquisite and fine taste in things.,0,1,539
+आदमी के पास इंग्लैंड की रानी का स्वाद है।,The man has poor taste in things.,The man has exquisite and fine taste in things.,1,1,539
+बिस्तर बादल की तरह आरामदायक है।,The bed is very comfortable.,The bed is very uncomfortable.,0,1,540
+बिस्तर उतना ही आरामदायक है जितना कि अपने पूर्व को देखना।,The bed is very comfortable.,The bed is very uncomfortable.,1,1,540
+उसके पास एक संत का धैर्य है,She is very patient,She is not patient at all,0,1,547
+उसके पास एक बैल का धैर्य है,She is very patient,She is not patient at all,1,1,547
+उसके पास एक पिल्ला कुत्ते की नैतिकता है।,He is very moral and kind.,He is not very moral or kind.,0,1,552
+उसके पास गिद्ध की नैतिकता है।,He is very moral and kind.,He is not very moral or kind.,1,1,552
+उसके लिए उसकी इच्छा एक भगोड़ा घोड़ा था।,His desire for her was wild.,His desire for her was dormant.,0,1,554
+उसके लिए उसकी इच्छा एक घोंघा थी।,His desire for her was wild.,His desire for her was dormant.,1,1,554
+वह हवा की तरह दौड़ सकता था,He was fast.,He was slow.,0,1,558
+वह कछुआ की तरह दौड़ सकता था,He was fast.,He was slow.,1,1,558
+वे एक दूसरे के व्यक्तित्व को सॉकेट में प्लग की तरह फिट करते हैं,They fit each other's personalities perfectly.,They don't fit each other's personalities well at all.,0,1,564
+वे एक दूसरे के व्यक्तित्व को कागज पर चुंबक की तरह फिट करते हैं,They fit each other's personalities perfectly.,They don't fit each other's personalities well at all.,1,1,564
+स्पेगेटी एक नाराज संकीर्ण स्कूल शिक्षक की निगाहों की तरह ठंडी थी,The spaghetti was cold,The spaghetti was very hot,0,1,568
+स्पेगेटी पाताल लोक की छुट्टी की तरह ठंडी थी,The spaghetti was cold,The spaghetti was very hot,1,1,568
+उसका दिमाग एक सुरक्षित जमा बॉक्स की तरह था,Her mind is closed and secretive,Her mind is wide open and easily accessible,0,1,569
+उसका दिमाग बच्चों के खिलौने के डिब्बे की तरह था,Her mind is closed and secretive,Her mind is wide open and easily accessible,1,1,569
+भूत के पास एक शर्मीले मध्यम बच्चे की अदृश्यता है जिसमें एक बड़े भाई और एक जंगली और उग्र छोटी बहन है,The ghost is very hard to see,The ghost is very noticeable,0,1,570
+"भूत के पास चीन की दुकान में एक धमकाने की अदृश्यता है, अपने शिकार पर चीन को तोड़ना",The ghost is very hard to see,The ghost is very noticeable,1,1,570
+आपकी बुद्धि में ब्लेड का तेज है,Your wit is clever.,Your wit is dull and not clever.,0,1,575
+तेरी बुद्धि में पत्थर का तेज है,Your wit is clever.,Your wit is dull and not clever.,1,1,575
+उसके पास एक बैलेरीना की सारी शोभा और शान थी,She is very graceful and elegant.,"She is not graceful or elegant, and in fact is cumbersome and unsophisticated.",0,1,576
+उसके पास एक डंप ट्रक की सभी कृपा और भव्यता थी,She is very graceful and elegant.,"She is not graceful or elegant, and in fact is cumbersome and unsophisticated.",1,1,576
+शिक्षक के पास एक पिस्सू का धैर्य था,The teacher was impatient.,The teacher was patient.,0,1,579
+शिक्षक के पास एक कछुए का धैर्य था,The teacher was impatient.,The teacher was patient.,1,1,579
+कुत्ते की वृत्ति योगी जैसी थी,The dog had a calm attitude.,The dog had an aggressive attitude.,0,1,586
+कुत्ते के पास एक सैन्य कमांडर का रवैया था,The dog had a calm attitude.,The dog had an aggressive attitude.,1,1,586
+वह घुड़दौड़ की गति से दौड़ सकता था।,He was really fast.,He was really slow.,0,1,587
+वह एक बुजुर्ग कछुए की गति से दौड़ सकता था।,He was really fast.,He was really slow.,1,1,587
+हेनरी एक गोल्डन रिट्रीवर है।,Henry is trustworthy and friendly.,Henry is not friendly or trustworthy.,0,1,589
+हेनरी एक कोबरा है।,Henry is trustworthy and friendly.,Henry is not friendly or trustworthy.,1,1,589
+इस बिल्ली में एक बैलेरीना की कृपा है।,The cat is extremely graceful.,The cat is clumsy and ungraceful.,0,1,601
+इस बिल्ली पर बर्फ पर सुअर की कृपा है।,The cat is extremely graceful.,The cat is clumsy and ungraceful.,1,1,601
+कुत्ता चट्टानों के कटोरे की तरह होशियार है,the dog is dumb,the dog is smart,0,1,605
+कुत्ता वैज्ञानिक जितना होशियार है,the dog is dumb,the dog is smart,1,1,605
+टैक्स पेनल्टी एक बॉलिंग बॉल की तरह भारी थी,The tax penalty was very heavy.,The tax penalty was very light.,0,1,607
+कर जुर्माना एक हेयरपिन जितना भारी था,The tax penalty was very heavy.,The tax penalty was very light.,1,1,607
+भोजन ज्वालामुखी की तरह गर्म होता है,The food is hot,the food is cold,0,1,613
+खाना बर्फ की तरह गर्म होता है,The food is hot,the food is cold,1,1,613
+सड़क पैनकेक की तरह सपाट है,The road is flat,The road is rolling,0,1,614
+सड़क रोलर कोस्टर की तरह सपाट है,The road is flat,The road is rolling,1,1,614
+वह खिड़की की तरह पारदर्शी है,You can see her intentions,You can't tell what kind of person she is,0,1,616
+वह दीवार की तरह पारदर्शी है,You can see her intentions,You can't tell what kind of person she is,1,1,616
+उसके पास सोने का दिल है,He has a great deal of concern for others,He doesn't care too much for others,0,1,618
+उसके पास कोयले का दिल है,He has a great deal of concern for others,He doesn't care too much for others,1,1,618
+फिल्म में रॉकिंग कुर्सियों से भरे कमरे में एक बिल्ली का तनाव है।,The movie is tense.,The movie's pace is relaxed.,0,1,619
+फिल्म में गीले नूडल की टेंशन है।,The movie is tense.,The movie's pace is relaxed.,1,1,619
+किताब में चींटी के बाथटब की गहराई है,the story is superficial,the story is profound,0,1,622
+पुस्तक में मारियाना ट्रेंच की गहराई है,the story is superficial,the story is profound,1,1,622
+वह यो-यो स्ट्रिंग की तरह उछल-कूद करने वाली थी,She was very anxious.,She was very calm.,0,1,630
+वह एक योगी की तरह उछल-कूद करने वाली थी,She was very anxious.,She was very calm.,1,1,630
+नौकरी एक चीनी कारखाने के रूप में अच्छा भुगतान करती है,The job pays very little,The job pays excellent.,0,1,639
+नौकरी एक राजनेता के वेतन के रूप में अच्छा भुगतान करती है।,The job pays very little,The job pays excellent.,1,1,639
+किताब पानी की बूंदों को गिनने की तरह दिलचस्प है,The book is beyond boring.,The book is incredible.,0,1,640
+यह किताब समय यात्रा की तरह दिलचस्प है।,The book is beyond boring.,The book is incredible.,1,1,640
+तारीख में एक विदेशी कहानी का सारा जादू था,The date was intriguing,The date was boring,0,1,643
+तारीख में एक वर्गीकृत विज्ञापन का सारा जादू था,The date was intriguing,The date was boring,1,1,643
+फोटोग्राफी एक कुरकुरा शरद ऋतु के दिन सूर्योदय की तरह सुंदर है,The photography is beautiful and moving,The photography is ugly and unwanted,0,1,652
+फोटोग्राफी कूड़े के ढेर की तरह खूबसूरत है,The photography is beautiful and moving,The photography is ugly and unwanted,1,1,652
+जोकर के पास बिल्ली की तरह मुस्कान है जिसने अभी-अभी एक चूहा पकड़ा है,The clown's smile is wide and happy,"The clown's smile is inexpressive, flat",0,1,653
+विदूषक की मुस्कान कठपुतली की तरह होती है,The clown's smile is wide and happy,"The clown's smile is inexpressive, flat",1,1,653
+वह उसे एक पूर्ण डायपर के रूप में उच्च मानती है,She thinks he's worthless.,She prizes him.,0,1,656
+वह उसे हीरे की तरह उच्च मानती है,She thinks he's worthless.,She prizes him.,1,1,656
+उसकी माँ के शब्द कचरे से अटे पड़े थे।,His mother's words were stupid.,His mother's words were wise.,0,1,657
+उसकी माँ के वचन रत्नों से अटे पड़े थे।,His mother's words were stupid.,His mother's words were wise.,1,1,657
+भीड़ भेड़ियों से भरी हुई थी।,The crowd had several dangerous leaders.,The crowd had several unthinking followers.,0,1,658
+भीड़ भेड़ों से भरी हुई थी।,The crowd had several dangerous leaders.,The crowd had several unthinking followers.,1,1,658
+वह चूहे की तरह खाता है।,He doesn't eat a lot.,He eats a lot.,0,1,664
+वह कुत्ते की तरह खाता है।,He doesn't eat a lot.,He eats a lot.,1,1,664
+खरगोश के पास चिनचिला के साथ क्रॉसब्रेड ईडर डक की कोमलता थी,The rabbit feels extremely soft,The rabbit feels rough,0,1,668
+5 बजे की परछाई वाले आदमी के चेहरे पर खरगोश के चेहरे की कोमलता थी,The rabbit feels extremely soft,The rabbit feels rough,1,1,668
+शिक्षिका अपने क्रश के साथ डेट पर एक लड़की की तरह खुश थी,the teacher was interested,the teacher didn't want to hear anything,0,1,672
+शिक्षक कचहरी में जज की तरह खुश था,the teacher was interested,the teacher didn't want to hear anything,1,1,672
+पूरी श्रृंखला में एक पोखर की गहराई थी।,The series was boring.,The series was profound.,0,1,678
+पूरी श्रृंखला में एक झील की गहराई थी।,The series was boring.,The series was profound.,1,1,678
+हवा में पूर्व-औद्योगिक चीन की सफाई थी,The air is quite clean,The air is filthy,0,1,683
+हवा में एक ताजा खुले निर्वात की सफाई थी,The air is quite clean,The air is filthy,1,1,683
+वह एक ऊदबिलाव की तरह व्यस्त है।,She is really busy.,She is lazy.,0,1,687
+वह एक सुस्ती की तरह व्यस्त है।,She is really busy.,She is lazy.,1,1,687
+वह गीत पक्षी की तरह गाती है।,She sings well.,She sings badly.,0,1,688
+वह एक गरजती बिल्ली की तरह गाती है।,She sings well.,She sings badly.,1,1,688
+वह बंद दरवाजे की तरह खुला है।,He is not open at all.,He is very open.,0,1,689
+वह एक बड़े मॉल की तरह खुला है।,He is not open at all.,He is very open.,1,1,689
+उनकी मनोदशा में सूर्य का स्थायित्व था।,His mood never changes.,His mood was always changing.,0,1,690
+उनकी मनोदशा में ज्वार का स्थायित्व था।,His mood never changes.,His mood was always changing.,1,1,690
+वह ऐनी फ्रैंक की तरह छिप रही थी,She was hiding well,She was hiding poorly,0,1,693
+वह सर्कस के जोकर की तरह छिप रही थी,She was hiding well,She was hiding poorly,1,1,693
+वे तथ्य बाइबल की तरह थे,Those facts were not true,Those facts were true,0,1,694
+वो तथ्य शब्दकोश की तरह थे,Those facts were not true,Those facts were true,1,1,694
+खेल का अंतिम स्कोर कुत्ते की पूंछ पर बालों की तुलना में करीब था।,The teams scored similar amounts of points till the end of the game.,The teams did not score similar amounts till the end of the game.,0,1,707
+खेल का अंतिम स्कोर एक फ़ुटबॉल मैदान पर दो गोल पोस्ट से अधिक होने पर समाप्त हुआ।,The teams scored similar amounts of points till the end of the game.,The teams did not score similar amounts till the end of the game.,1,1,707
+तथ्यों ने मामले को चोर के झूठ की तरह सत्यापित किया,The facts were unreliable,The facts were solid and supported the case,0,1,708
+तथ्यों ने मामले को एक ठोस शर्लक होम्स मामले की तरह सत्यापित किया,The facts were unreliable,The facts were solid and supported the case,1,1,708
+हँसी आत्मा के लिए संगीत की तरह है।,Laughter makes me happy.,Laughter annoys me.,0,1,712
+हंसी चॉकबोर्ड पर चीखने जैसी है।,Laughter makes me happy.,Laughter annoys me.,1,1,712
+तथ्य अचल शिलाखंड हैं।,Facts cannot be changed.,Facts are constantly changing.,0,1,714
+तथ्य तरल हैं।,Facts cannot be changed.,Facts are constantly changing.,1,1,714
+उनका पुस्तकालय एक मस्तिष्क था।,His library was really intellectual.,His library was unimpressive.,0,1,716
+उनका पुस्तकालय धुएं का गुबार था।,His library was really intellectual.,His library was unimpressive.,1,1,716
+उसका चेहरा एक गड्ढा है।,Her face is bumpy.,Her face is smooth.,0,1,718
+उसका चेहरा एक आइस रिंक है।,Her face is bumpy.,Her face is smooth.,1,1,718
+चालक लकड़हारा है।,The driver is not careful.,The driver is careful.,0,1,719
+ड्राइवर एक बैलेरीना है।,The driver is not careful.,The driver is careful.,1,1,719
+बंदर एक आधुनिक एडिसन था,The monkey was smart,The monkey was dumb,0,1,731
+बंदर पहली कक्षा का ड्रॉपआउट था,The monkey was smart,The monkey was dumb,1,1,731
+धार्मिक अनुभव होने के बाद उनके पास पोप का विवेक है,She has a good conscience,She has a bad conscience,0,1,734
+बुरे दिन में उसके पास हिटलर का ज़मीर है,She has a good conscience,She has a bad conscience,1,1,734
+कैंडी रैपर में हॉट टब में भिगोने के बाद एक बूढ़ी औरत की झुर्रियां होती हैं,The wrapper is very crinkly,The wrapper has no crinkles,0,1,735
+कैंडी रैपर में बोटॉक्स इंजेक्शन के बाद सेलिब्रिटी के चेहरे पर झुर्रियां पड़ जाती हैं,The wrapper is very crinkly,The wrapper has no crinkles,1,1,735
+माइक्रोफोन मेंढक की तरह उछल-कूद करता है,the microphone is highly sensitive / overpowered.,the microphone is highly insensitive / underpowered.,0,1,736
+माइक्रोफोन कीचड़ की तरह उछल-कूद करता है,the microphone is highly sensitive / overpowered.,the microphone is highly insensitive / underpowered.,1,1,736
+स्त्री गीले पोछे की तरह कलात्मक होती है।,The woman is not artistic.,The woman is a wonderful artist.,0,1,740
+महिला वैन गॉग की तरह कलात्मक है।,The woman is not artistic.,The woman is a wonderful artist.,1,1,740
+पार्किंग स्थल एक गड्ढा है।,The parking lot is bumpy.,The parking lot is smooth.,0,1,744
+पार्किंग स्थल कांच की एक शीट है।,The parking lot is bumpy.,The parking lot is smooth.,1,1,744
+पंच ने मुझे मार्शमैलो की ताकत से मारा,The punch is soft,The punch is hard,0,1,749
+मुक्के ने मुझे पत्थर की ताकत से मारा,The punch is soft,The punch is hard,1,1,749
+चिड़िया का पंख हमेशा के लिए चलता है,The wings on the bird are large and massive,The wings are so small they look like a butterfly's wings.,0,1,754
+पक्षी के पंखों का फैलाव तितली के पंख जितना छोटा होता है,The wings on the bird are large and massive,The wings are so small they look like a butterfly's wings.,1,1,754
+क्लास गीले पेपर बैग की तरह दिलचस्प थी।,Class was boring and dull.,Class was very inspiring and made me think in a different way.,0,1,755
+कक्षा इतनी उत्तेजक थी कि मुझे पुनर्जन्म का अहसास हुआ।,Class was boring and dull.,Class was very inspiring and made me think in a different way.,1,1,755
+उसकी आवाज सुबह-सुबह कॉफी थी।,He had a very soothing voice.,His voice was startlingly unpleasant.,0,1,757
+उसकी आवाज एक सुबह का अलार्म था।,He had a very soothing voice.,His voice was startlingly unpleasant.,1,1,757
+कुत्ते वफादारी और प्यार से भरी जिंदगी होते हैं।,Dog wonderful creatures.,Dogs are gross creatures.,0,1,758
+कुत्ते भीख मांग रहे हैं और जीवनदान दे रहे हैं।,Dog wonderful creatures.,Dogs are gross creatures.,1,1,758
+वह आदमी जे. क्रू मॉडल जितना ही सुंदर था,The man had excellent looks.,The man had poor looks.,0,1,764
+वह आदमी एक नग्न तिल चूहे की तरह सुंदर था,The man had excellent looks.,The man had poor looks.,1,1,764
+उसका चेहरा एक गंदगी सड़क है।,His face is bumpy.,His face is smooth.,0,1,768
+उसका चेहरा कांच की चादर है।,His face is bumpy.,His face is smooth.,1,1,768
+चित्रकार एक विध्वंस डर्बी है।,The painter is rough.,The painter is careful.,0,1,769
+चित्रकार एक सर्जन है।,The painter is rough.,The painter is careful.,1,1,769
+मैट की प्रेमिका एक वेंडिंग मशीन है।,Matt's girlfriend is large.,Matt's girlfriend is small.,0,1,772
+मैट की प्रेमिका एक पीओ है। डिब्बा।,Matt's girlfriend is large.,Matt's girlfriend is small.,1,1,772
+इस टेबल को एक ग्रीक गॉड ने बनाया है।,The table was well constructed.,The table was poorly made.,0,1,780
+इस टेबल को एक चिंपैंजी ने बनाया है।,The table was well constructed.,The table was poorly made.,1,1,780
+बच्चे का कमरा कूड़े का ढेर था,The child's room was messy,The child's room was clean,0,1,785
+बच्चे का कमरा प्री-सर्जिकल अस्पताल का कमरा था,The child's room was messy,The child's room was clean,1,1,785
+उसका दिमाग टूटी हुई कुर्सियों का एक सेट था,Her mind was confused.,Her mind was clever.,0,1,789
+उसका दिमाग एक विंटेज बुकशेल्फ़ था।,Her mind was confused.,Her mind was clever.,1,1,789
+आदमी ने एक न्यूरोसर्जन के रूप में अधिक कौशल के साथ परियोजना के लिए संपर्क किया,The man brought expert skills to the project.,The man brought no skills to the project.,0,1,791
+उस व्यक्ति ने एक मिडिल स्कूल के छात्र के रूप में उतने ही कौशल के साथ परियोजना के लिए संपर्क किया,The man brought expert skills to the project.,The man brought no skills to the project.,1,1,791
+ट्रैफिक में फंसी कार की तरह तेजी से आगे बढ़ा शख्स,The man moved with no speed at all.,The man moved with great speed.,0,1,792
+वह आदमी नियाग्रा फॉल्स की तरह तेजी से आगे बढ़ा,The man moved with no speed at all.,The man moved with great speed.,1,1,792
+उसने मुझसे ऐसे बात की जैसे मैं उसे पैसे देने जा रहा हूं।,He was really friendly.,He was really evasive.,0,1,797
+उसने मुझसे ऐसे बात की जैसे उसने सोचा था कि मैं पैसे माँगने जा रहा हूँ।,He was really friendly.,He was really evasive.,1,1,797
+यह बर्फ के तूफान में बर्फ के घन के रूप में उपयोगी है।,It's not useful at all.,It's very useful.,0,1,798
+यह लगभग उतना ही उपयोगी है जितना कि एक बर्फीले तूफान में गर्म केबिन।,It's not useful at all.,It's very useful.,1,1,798
+गद्दा ग्रेनाइट की तरह नरम था,The mattress is hard,the mattress is soft,0,1,802
+गद्दा बादल की तरह नरम था,The mattress is hard,the mattress is soft,1,1,802
+साबुन से लिली के खेत की तरह महक आ रही थी,the soap smelled good,the soap smelled bad,0,1,803
+साबुन से जंगली जानवर के गोबर की तरह महक आ रही थी।,the soap smelled good,the soap smelled bad,1,1,803
+हमारे पास ब्रह्मांड के जीवन काल का सारा समय है,We have a lot of time,We have very little time,0,1,806
+हमारे पास एक घरेलू मक्खी के जीवन भर का समय है,We have a lot of time,We have very little time,1,1,806
+संस्कृति में एक किडी पूल की गहराई है।,The culture is superficial.,The culture is complex.,0,1,808
+संस्कृति में मारियाना ट्रेंच की गहराई है।,The culture is superficial.,The culture is complex.,1,1,808
+सड़क चट्टानों का एक बिस्तर है।,The road is bumpy.,The road is smooth.,0,1,809
+सड़क एक बर्फ की रिंक है।,The road is bumpy.,The road is smooth.,1,1,809
+दही प्याज के छल्ले के घोल जैसा था,The yogurt was thick.,The yogurt was thin.,0,1,811
+दही धुंध की तरह था,The yogurt was thick.,The yogurt was thin.,1,1,811
+घरों पर मेसोनाइट साइडिंग पानी के साथ-साथ स्पंज को भी पीछे हटाती है,Masonite siding soaks up water,Masonite is water repellant,0,1,814
+घरों पर मेसोनाइट साइडिंग पानी के साथ-साथ रेनकोट को भी पीछे हटाती है,Masonite siding soaks up water,Masonite is water repellant,1,1,814
+उनकी संस्कृति में एक घास के मैदान का खुलापन है,The culture is very open and tolerant,The culture is not open or tolerant,0,1,823
+उनकी संस्कृति में एक कोठरी का खुलापन है,The culture is very open and tolerant,The culture is not open or tolerant,1,1,823
+औरत के पास एक बाल्टी की उथलापन है,She is very shallow,She is not very shallow,0,1,825
+औरत के पास है सागर की उथल-पुथल,She is very shallow,She is not very shallow,1,1,825
+यह स्थान एक संग्रहालय के रूप में सुसंस्कृत है,This place is highly cultured.,This place is lowbrow and not cultured.,0,1,829
+यह स्थान ट्रक स्टॉप के समान सुसंस्कृत है,This place is highly cultured.,This place is lowbrow and not cultured.,1,1,829
+वह एक बॉडी बिल्डर की तरह मजबूत है,He is strong.,He is weak.,0,1,832
+वह दादाजी की तरह मजबूत है,He is strong.,He is weak.,1,1,832
+फेस क्रीम में बजरी की बनावट होती है।,The face cream is too rough.,The face cream is light.,0,1,841
+फेस क्रीम में चॉकलेट मूस की बनावट होती है।,The face cream is too rough.,The face cream is light.,1,1,841
+कुत्ता सुनहरी मछली की तरह शातिर है,The dog is docile.,The dog is dangerous .,0,1,850
+कुत्ता भूखे भालू की तरह शातिर है,The dog is docile.,The dog is dangerous .,1,1,850
+कोहरा लोहे की तरह घना है,The fog is thick and hard to see through.,The fog is thin and easy to see through.,0,1,851
+कोहरा plexiglass जितना घना है,The fog is thick and hard to see through.,The fog is thin and easy to see through.,1,1,851
+एक पुजारी 9.1 भूकंप जितनी बार यौन रूप से सक्रिय होता है,A priest is rarely sexually active,A priest is extremely sexually active,0,1,852
+एक पुजारी माउंट सेंट हेलेंस की तरह यौन रूप से सक्रिय है,A priest is rarely sexually active,A priest is extremely sexually active,1,1,852
+डॉक्टर के पास स्टार ट्रेक में एक कंप्यूटर का दिमाग है,The doctor is very intelligent,The doctor isn't very smart,0,1,860
+डॉक्टर के पास एक अविकसित कबूतर का दिमाग है,The doctor is very intelligent,The doctor isn't very smart,1,1,860
+हॉलीवुड एक्ट्रेस की तरह डिमांडिंग थी ये लड़की,The girl was highly demanding.,The girl was not demanding at all.,0,1,862
+लड़की सूप रसोई स्वयंसेवक के रूप में मांग कर रही थी,The girl was highly demanding.,The girl was not demanding at all.,1,1,862
+"उसने जिन गहनों को गिरवी रखने की कोशिश की, उनमें ए हॉबो के रूमाल का मूल्य है",The jewelry is not worth much,The jewelry is very valuable,0,1,869
+"उसने जिन गहनों को गिरवी रखने की कोशिश की, उनका मूल्य सोने की छड़ों के ढेर का है",The jewelry is not worth much,The jewelry is very valuable,1,1,869
+उसके पास एक गोबर बीटल की सुंदरता थी,She is ugly,She is beautiful,0,1,871
+वह एक शानदार फैशन मॉडल की सुंदरता रखती थी,She is ugly,She is beautiful,1,1,871
+उन्हें एनएफएल खिलाड़ी की स्थिति मिली है।,He's got professional level positioning.,He's got terrible positioning.,0,1,875
+उसे विद्रूप की स्थिति मिल गई है।,He's got professional level positioning.,He's got terrible positioning.,1,1,875
+उनके पास एक बौद्ध भिक्षु का अनुशासन है।,He's extremely disciplined.,He's not disciplined at all.,0,1,877
+उसके पास एक जंगली लकड़बग्घा का अनुशासन है।,He's extremely disciplined.,He's not disciplined at all.,1,1,877
+काली मिर्च एक नरक है,The pepper is super spicy,The pepper is not spicy,0,1,878
+काली मिर्च एक आइस क्यूब है,The pepper is super spicy,The pepper is not spicy,1,1,878
+उसे एक पीटे हुए कुत्ते का सारा गुस्सा है,He's very angry,He's not at all angry,0,1,883
+उसके पास एक खुश तितली का सारा गुस्सा है,He's very angry,He's not at all angry,1,1,883
+उसके बालों में अप्रैल 2010 में मैक्सिको की खाड़ी का तेल है,Her hair is oily,Her hair is oil free,0,1,885
+उसके बालों में डॉन डिश डिटर्जेंट का तेल है,Her hair is oily,Her hair is oil free,1,1,885
+चर्च एक मनोगत बैठक के रूप में रूढ़िवादी था।,The church was heretical and move beyond the boundaries of accepted teachings.,The church was within the boundaries of accepted teachings and were in line with the Great Tradition.,0,1,886
+चर्च उतना ही रूढ़िवादी था जितना कि प्राचीन चर्च के पिता।,The church was heretical and move beyond the boundaries of accepted teachings.,The church was within the boundaries of accepted teachings and were in line with the Great Tradition.,1,1,886
+लड़की की जीभ तलवार की तरह तेज थी,The girls tongue was very sharp.,The girl's tongue wasn't sharp at all.,0,1,890
+लड़की की जीभ तकिये की तरह तेज थी,The girls tongue was very sharp.,The girl's tongue wasn't sharp at all.,1,1,890
+वह बुद्ध के समान आध्यात्मिक है,He is very religious,He is not religious,0,1,892
+वह मेरे कुत्ते की तरह आध्यात्मिक है,He is very religious,He is not religious,1,1,892
+उसके विचार घंटे के चश्मे में रेत की तरह बहते रहे,His thoughts flowed smoothly and steadily.,His thoughts were all over the place.,0,1,897
+उनके विचार ब्रेक डांस बंदर की तरह बहने लगे,His thoughts flowed smoothly and steadily.,His thoughts were all over the place.,1,1,897
+टैको बेल की रात में उनके कुंवारे पैड से एक फ्रैट डॉर्म बाथरूम की तरह ताज़ा महक आ रही थी,His bachelor pad smelled awful,His bachelor pad smelled wonderful,0,1,899
+उनके कुंवारे पैड से राल्फ लॉरेन खुशबू कारखाने की तरह ताजा महक आ रही थी,His bachelor pad smelled awful,His bachelor pad smelled wonderful,1,1,899
+मेरी आत्मा का वजन एक डॉलर के बिल जितना है,My soul is without a worry,My soul is worried,0,1,904
+मेरी आत्मा का वजन एक ट्रक के टायर जितना है,My soul is without a worry,My soul is worried,1,1,904
+ईश्वर से दर्शन पाकर उनके पास पोप की आध्यात्मिकता है,He is very spiritual,He is not spiritual at all,0,1,910
+उसके पास एक नास्तिक की आध्यात्मिकता है जो चर्चों को जला देता है,He is very spiritual,He is not spiritual at all,1,1,910
+फिल्म में सौ सूर्यों के जीवनकाल का क्रम था,The film was very long,The film was quite short,0,1,911
+फिल्म में एक चींटी द्वारा एक मिनट में तय की गई दूरी का क्रम था,The film was very long,The film was quite short,1,1,911
+डॉक्टर ततैया के झुंड की तरह मिलनसार है।,The doctor is mean.,The doctor is lovable.,0,1,913
+डॉक्टर पिल्लों के एक पैकेट की तरह मिलनसार है।,The doctor is mean.,The doctor is lovable.,1,1,913
+उनके भाषण में एक ऐसे व्यक्ति की तात्कालिकता थी जिसे पेशाब करना पड़ता है,His speech had a lot of urgency,His speech had no urgency,0,1,924
+उनके भाषण में एक दूर की समय सीमा की तात्कालिकता थी,His speech had a lot of urgency,His speech had no urgency,1,1,924
+कला का यह काम सुनहरी मछली की तरह शानदार है।,This work of art is dumb.,This work of art is a masterpiece.,0,1,925
+कला का यह काम ताजमहल की तरह शानदार है।,This work of art is dumb.,This work of art is a masterpiece.,1,1,925
+यह पोशाक ग्रेमलिन के एक पैकेट के योग्य है।,This outfit is horrible.,This outfit is amazing.,0,1,926
+यह पोशाक कैटवॉक के योग्य है।,This outfit is horrible.,This outfit is amazing.,1,1,926
+वे एक माउस और पनीर की तरह सहयोग करते हैं।,They collaborate really well.,They do not collaborate well at all.,0,1,928
+वे एक चूहे और एक भूखी बिल्ली की तरह सहयोग करते हैं।,They collaborate really well.,They do not collaborate well at all.,1,1,928
+उन्हें एक ड्रिल प्रशिक्षक का अनुशासन मिला है।,He is very disciplined.,He is not disciplined at all.,0,1,929
+उसे एक बच्चे का अनुशासन मिला है।,He is very disciplined.,He is not disciplined at all.,1,1,929
+उसके पास चीते की गति है।,He is very fast.,He is very slow.,0,1,930
+उसके पास सुस्ती की गति है।,He is very fast.,He is very slow.,1,1,930
+वह एक बूढ़ी गुस्सैल बिल्ली की तरह मिलनसार थी,She wasn't kind at all,She was happy to see us,0,1,933
+वह एक नवजात पिल्ले की तरह मिलनसार थी,She wasn't kind at all,She was happy to see us,1,1,933
+उसके पास A gnat . का ध्यान अवधि है,She has a short attention span,She has a long attention span,0,1,935
+उसके पास डॉल्फ़िन का ध्यान अवधि है,She has a short attention span,She has a long attention span,1,1,935
+घर प्राचीन मिस्र की एक ममी की उम्र है,The house is old,The house is young,0,1,936
+घर टॉम क्रूज़ अभिनीत द ममी का युग है,The house is old,The house is young,1,1,936
+कैन में शेफ बोयार्डी की पेंट्री के सारे नूडल्स हैं,The can holds many noodles,The can has few noodles in it,0,1,938
+"कैन में भोजन के ""मजेदार आकार"" वाले हिस्से के सभी नूडल्स रखे जा सकते हैं",The can holds many noodles,The can has few noodles in it,1,1,938
+बैलेरीना में राजहंस की शान और शान थी।,The ballerina was graceful.,The ballerina was clumsy.,0,1,941
+बैलेरीना में दरियाई घोड़े की शान और शान थी।,The ballerina was graceful.,The ballerina was clumsy.,1,1,941
+कुत्ता उतना ही साहसी होता है जितना कायर सिंह।,The dog is cowardly.,The dog is very brave.,0,1,944
+कुत्ता पूरी सेना की तरह साहसी होता है।,The dog is cowardly.,The dog is very brave.,1,1,944
+गुब्बारे में पानी के नीचे एक्वामैन की तैरने की क्षमता थी,The balloon is good at floating,The balloon floats poorly,0,1,957
+गुब्बारे में जमीन पर एक्वामैन की तैरने की क्षमता थी,The balloon is good at floating,The balloon floats poorly,1,1,957
+धातु एक साँप की खाल है।,The metal is rough.,The metal is smooth.,0,1,966
+धातु दर्पण है।,The metal is rough.,The metal is smooth.,1,1,966
+यह जगह एक पार्टी की तरह हर्षित थी,The place was joyful.,The place was miserable.,0,1,979
+यह स्थान अंतिम संस्कार की तरह हर्षित था,The place was joyful.,The place was miserable.,1,1,979
+यह तली हुई बेकन की तरह कुरकुरी है!,The item is very crispy.,The item isn't crispy at all.,0,1,982
+यह कच्चे बेकन की तरह खस्ता है!,The item is very crispy.,The item isn't crispy at all.,1,1,982
+वह लाल पांडा की तरह प्यारा है!,He was very cute.,He was not very cute.,0,1,983
+वह एक ब्लॉबफिश की तरह प्यारा है।,He was very cute.,He was not very cute.,1,1,983
+धातु में हरक्यूलिस की ताकत है।,The metal is very strong,The metal is very weak,0,1,985
+धातु में गीले परी बाल पास्ता नूडल की ताकत होती है।,The metal is very strong,The metal is very weak,1,1,985
+मैं इस परियोजना के साथ समय बिताना चाहता हूं जैसे कि यह मेरा दुश्मन था,You do not want to spend time on the project,You do want to spend time on the project,0,1,995
+मैं इस परियोजना के साथ समय बिताना चाहता हूं जैसे कि यह मेरा खेल था,You do not want to spend time on the project,You do want to spend time on the project,1,1,995
+परियोजना मेरे दुश्मन के रूप में अनुकूल है,The project is not favorable,The project is favorable,0,1,996
+परियोजना मेरे खेल की तरह ही अनुकूल है,The project is not favorable,The project is favorable,1,1,996
+वह उत्तर तारे की तरह चमकीला है।,He's very smart.,He's not very smart.,0,1,1002
+वह एक मृत बल्ब की तरह चमकीला है।,He's very smart.,He's not very smart.,1,1,1002
+खरगोश के पास रेसकार की गति होती है,The rabbit is fast,The rabbit is slow,0,1,1005
+खरगोश में सुस्ती की गति होती है,The rabbit is fast,The rabbit is slow,1,1,1005
+बत्तख में एक रेसकार की तरह शोर था जो हर बार घास के एक ब्लेड से गुजरता है,The duck is noisy,The duck is quiet,0,1,1008
+बत्तख के पास पेपरवेट के नीचे कागजों के ढेर का सारा शोर था,The duck is noisy,The duck is quiet,1,1,1008
+उस स्त्री के पास बहाते हुए साँप की खाल है।,"That woman has dead, peeling skin.",That woman has smooth skin.,0,1,1011
+उस महिला के पास कांच के टुकड़े की त्वचा है।,"That woman has dead, peeling skin.",That woman has smooth skin.,1,1,1011
+उपन्यास में बोआ कंस्ट्रिक्टर की भावनात्मक सापेक्षता है।,The novel is not relatable.,The novel is relatable.,0,1,1014
+उपन्यास में एक पुराने मित्र की भावनात्मक सापेक्षता है।,The novel is not relatable.,The novel is relatable.,1,1,1014
+घर ग्रैंड कैन्यन जितना बड़ा है,The house is enormous.,The house is tiny.,0,1,1021
+घर चूहादानी जितना बड़ा है,The house is enormous.,The house is tiny.,1,1,1021
+फिल्म में एक डिक और जेन किताब की गहराई है,The movie is simplistic.,The movie has a deep plot.,0,1,1025
+फिल्म में शेक्सपियर के नाटक की गहराई है,The movie is simplistic.,The movie has a deep plot.,1,1,1025
+"औसत व्यक्ति में एक जटिल, संवेदनशील स्तनपायी की भावनाएं होती हैं",The average person has many emotions,The average person has no emotions,0,1,1033
+"औसत व्यक्ति में ठंड, असंवेदनशील ऑटोमेटन की भावनाएं होती हैं",The average person has many emotions,The average person has no emotions,1,1,1033
+"स्पंज में ""ऑल यू कैन ईट"" बुफे में एक मोटे आदमी का अवशोषण होता है",The sponge has high absorbance,The sponge can absorb little,0,1,1034
+स्पंज में टॉयलेट पेपर के एक-प्लाई के टुकड़े का अवशोषण होता है,The sponge has high absorbance,The sponge can absorb little,1,1,1034
+सीईओ का विचार भावनाओं के साथ रोबोट के रूप में अत्याधुनिक था,The CEO's idea was extremely novel.,The CEO's idea was outdated.,0,1,1037
+सीईओ का विचार माईस्पेस जितना ही अत्याधुनिक था,The CEO's idea was extremely novel.,The CEO's idea was outdated.,1,1,1037
+लड़की गूगल की तरह ही ज्ञानी थी,The girl was extremely smart.,The girl was ignorant.,0,1,1038
+लड़की अप्रशिक्षित पिल्ला जितनी ही ज्ञानी थी,The girl was extremely smart.,The girl was ignorant.,1,1,1038
+पीटर जूते पहनते हैं जिन्हें समुद्र में जाने वाले जहाजों के रूप में वर्गीकृत किया जा सकता है।,Peter wears shoes in a very large size.,Peter wears shoes in a very small size.,0,1,1039
+पीटर जूते पहनता है जो एक योगिनी को फिट कर सकता है।,Peter wears shoes in a very large size.,Peter wears shoes in a very small size.,1,1,1039
+मेक्सिको सिटी का वातावरण सौना है,The atmosphere is smoggy,The atmosphere is clean,0,1,1042
+मेक्सिको सिटी का माहौल शीशे का है,The atmosphere is smoggy,The atmosphere is clean,1,1,1042
+फूल में है माँ के चुम्बन की महक,The flower smells good,The flower smells bad,0,1,1043
+फूल में है शैतान के चुम्बन की सुगंध,The flower smells good,The flower smells bad,1,1,1043
+रिश्ते की लंबाई एक मैराथन थी,The relationship was long,The relationship was short,0,1,1044
+रिश्ते की लंबाई थी पेपर क्लिप,The relationship was long,The relationship was short,1,1,1044
+जॉर्ज ने एक टन ईंटों की तरह जमीन पर प्रहार किया,George hit the ground hard,George hit the ground softly,0,1,1049
+जॉर्ज ने पंख की तरह जमीन पर प्रहार किया,George hit the ground hard,George hit the ground softly,1,1,1049
+फिल्म में एक आयामी कार्टून चरित्र की गहराई है।,The movie is boring,The movie is profound,0,1,1050
+फिल्म में बाहरी अंतरिक्ष के एक सर्वव्यापी ब्लैक होल की गहराई है।,The movie is boring,The movie is profound,1,1,1050
+लेखक के पास एक खाली बाथटब की गहराई थी।,The writer was dull.,The writer was profound.,0,1,1053
+लेखक के पास मारियाना ट्रेंच की गहराई थी।,The writer was dull.,The writer was profound.,1,1,1053
+जयजयकार के पास एक खाली सिंक की गहराई थी।,The cheerleader was superficial.,The cheerleader was profound.,0,1,1054
+जयजयकार के पास समुद्र के तल की गहराई थी।,The cheerleader was superficial.,The cheerleader was profound.,1,1,1054
+कॉकरोच के प्रति उसकी प्रतिक्रिया उतनी ही सूक्ष्म थी जितनी कि एक भव्य माल जब्ती के दौरान बिजली का करंट लगने से,Her reaction to the cockroach was histrionic,Her reaction to the cockroach was calm,0,1,1056
+कॉकरोच के प्रति उसकी प्रतिक्रिया उतनी ही सूक्ष्म थी जितनी एक वैज्ञानिक पेट्री डिश में मोल्ड देख रहा था,Her reaction to the cockroach was histrionic,Her reaction to the cockroach was calm,1,1,1056
+यह गाना सुनने में उतना ही अच्छा है जितना कि चॉकबोर्ड पर कीलों से।,the song is unpleasant,the song is ethereally good.,0,1,1060
+यह गाना सुनने में उतना ही अच्छा है जितना कि फरिश्तों के घंटियों के बजने की आवाज।,the song is unpleasant,the song is ethereally good.,1,1,1060
+होमवर्क में सैद्धांतिक भौतिकी की जटिलता है,The homework is impossible to fully understand,The homework is simple and straightforward,0,1,1062
+गृहकार्य में एक चट्टान की जटिलता है,The homework is impossible to fully understand,The homework is simple and straightforward,1,1,1062
+वह लहर सीयर्स टॉवर है,the wave is tall,the wave is short,0,1,1066
+वह लहर एक एंथिल है,the wave is tall,the wave is short,1,1,1066
+तापमान ने ऐसा महसूस कराया जैसे मैं एक आइसबॉक्स में था,The temperature was cold.,The temperature was hot.,0,1,1078
+तापमान ने ऐसा महसूस कराया जैसे मैं ब्रॉयलर में था,The temperature was cold.,The temperature was hot.,1,1,1078
+शास्त्रीय संगीत सुनना भावनाओं के सागर जैसा लगता है,classical music is intense,classical music is dull,0,1,1082
+शास्त्रीय संगीत सुनकर ऐसा लगता है जैसे कोमा में हूं,classical music is intense,classical music is dull,1,1,1082
+काउंटर एक सांप है,The counter is curvy.,The counter is straight.,0,1,1085
+काउंटर एक शासक है।,The counter is curvy.,The counter is straight.,1,1,1085
+यह एक फ्राइंग पैन में अंडे की तरह गर्म होता है।,It's very hot.,It's not hot at all.,0,1,1087
+यह लगभग एक आइस क्यूब जितना गर्म होता है।,It's very hot.,It's not hot at all.,1,1,1087
+उस किताब पर नींद की गोली का असर है,The book is boring,The book is exciting,0,1,1092
+उस किताब में कैफीन की गोली का असर है,The book is boring,The book is exciting,1,1,1092
+आप एक अभिनेता के रूप में अभिव्यंजक हैं,You're very expressive,You're unexpressive,0,1,1094
+आप रोबोट की तरह अभिव्यंजक हैं,You're very expressive,You're unexpressive,1,1,1094
+वह एक पोखर की तरह गहरा है,He's not a deep thinker,He's a very deep thinker,0,1,1098
+वह समुद्र की तरह गहरा है,He's not a deep thinker,He's a very deep thinker,1,1,1098
+वह शिक्षक है गूगल।,That teacher is knowledgeable.,That teacher is out-of-date.,0,1,1103
+वह शिक्षक है अमेरिका ऑनलाइन।,That teacher is knowledgeable.,That teacher is out-of-date.,1,1,1103
+तुम्हारी माँ एक गर्म हवा का गुब्बारा है।,Your momma is bloated.,Your momma is sexy.,0,1,1104
+तुम्हारी माँ एक चालाक लिंक्स है।,Your momma is bloated.,Your momma is sexy.,1,1,1104
+होटल का बिस्तर 24 कैरेट सोने जितना शानदार था,The bed was very luxurious.,The hotel bed was not luxurious at all.,0,1,1107
+होटल का बिस्तर स्लीपिंग बैग की तरह आलीशान था,The bed was very luxurious.,The hotel bed was not luxurious at all.,1,1,1107
+पोशाक में सिलोफ़न की मोटाई थी।,The dress was sheer.,The dress was solid.,0,1,1114
+पोशाक में लकड़ी के एक ठोस टुकड़े की मोटाई थी।,The dress was sheer.,The dress was solid.,1,1,1114
+भँवर में हवा के लिए आने वाले ओलंपिक गोताखोर की चूषण शक्ति थी,The whirlpool had a strong suction,The suction of the whirlpool was weak,0,1,1119
+चीज़बर्गर रैपर को चूसने के बाद व्हर्लपूल में वैक्यूम की सक्शन पावर थी,The whirlpool had a strong suction,The suction of the whirlpool was weak,1,1,1119
+डार्सी में बायोनिक पैरों के साथ माइकल जैक्सन का नृत्य कौशल था,Darcy is a great dancer,Darcy can hardly dance at all,0,1,1120
+डार्सी के पास बैसाखी पर छह पैरों वाली मकड़ी का नृत्य कौशल था,Darcy is a great dancer,Darcy can hardly dance at all,1,1,1120
+मेरा क्रोध एक ब्रह्मांड की तरह है।,My anger is vast.,My anger is fluctuating.,0,1,1124
+मेरा क्रोध एक लहर की तरह है।,My anger is vast.,My anger is fluctuating.,1,1,1124
+उनका आगमन आतिशबाजी के शो की तरह रोमांचक था,He created much excitement,People were bored by his appearance,0,1,1129
+उनका आगमन घोंघे की दौड़ की तरह रोमांचक था,He created much excitement,People were bored by his appearance,1,1,1129
+वह एक जंगली जानवर की तरह क्रोधित था,He was angry,"He was calm, and not angry",0,1,1133
+वह ज़ेन मास्टर की तरह क्रोधित था,He was angry,"He was calm, and not angry",1,1,1133
+आप गेंद की तरह चिकने हैं,You're very smooth,You're very rough and not smooth,0,1,1134
+आप कैक्टस की तरह चिकने हैं,You're very smooth,You're very rough and not smooth,1,1,1134
+औरत में एक गैंडे की तरह क्रूरता थी।,The woman was very tough.,The woman was not very tough.,0,1,1136
+महिला में गिनी पिग की तरह क्रूरता थी।,The woman was very tough.,The woman was not very tough.,1,1,1136
+उस आदमी के पास दस साल के अनुभव वाले सर्जन की विश्वसनीयता थी।,The man was very reliable.,The man couldn't be relied on at all.,0,1,1137
+उस आदमी के पास दस साल के सर्जन की विश्वसनीयता थी।,The man was very reliable.,The man couldn't be relied on at all.,1,1,1137
+कीट ने मुझे मेमने की चुप्पी की याद दिला दी,The moth reminded me of something frightening.,The moth reminded me of something comforting.,0,1,1144
+पतंगे ने मुझे दादी के ग्रीष्मकाल की याद दिला दी,The moth reminded me of something frightening.,The moth reminded me of something comforting.,1,1,1144
+तितली में मिट्टी की बाड़ का रंग था,The butterfly's coloration is drab,The butterfly's coloration is beautiful,0,1,1146
+तितली में एक मोर के पंख का रंग था,The butterfly's coloration is drab,The butterfly's coloration is beautiful,1,1,1146
+दुकान पर चयन एक अकेला रेहड़ी वाले की तरह था,The store has a limited selection of items,The store has a wide range of items,0,1,1147
+स्टोर पर चयन एक विशाल डिपार्टमेंट स्टोर की तरह था,The store has a limited selection of items,The store has a wide range of items,1,1,1147
+सीईओ लकड़ी काटने वाला था।,The CEO was clumsy,The CEO was careful.,0,1,1150
+सीईओ एक मूर्तिकार था।,The CEO was clumsy,The CEO was careful.,1,1,1150
+आदमी के पास एक कलाबाज का समन्वय था,He was very coordinated,He was very uncoordinated,0,1,1153
+आदमी के पास एक शराबी नाविक का समन्वय था,He was very coordinated,He was very uncoordinated,1,1,1153
+आदम सुनामी जितना शक्तिशाली है।,Adam is strong.,Adam is weak.,0,1,1154
+आदम एक कोमल लहर के समान बलवान है,Adam is strong.,Adam is weak.,1,1,1154
+लिसा कुल्हाड़ी की तरह तेज है।,Lisa is smart.,Lisa is dumb.,0,1,1155
+लिसा स्पंज की तरह तेज है।,Lisa is smart.,Lisa is dumb.,1,1,1155
+उनका घर हैंड सैनिटाइजर से बना हुआ लग रहा था।,The house was really clean.,The house was disgusting.,0,1,1156
+उनका घर बैक्टीरिया से बना हुआ लग रहा था।,The house was really clean.,The house was disgusting.,1,1,1156
+उस प्रेतवाधित घर में एक गाजर खाने वाले खरगोश का डर कारक है,The haunted house was mild and tame,The haunted house was scary and sickening,0,1,1163
+उस प्रेतवाधित घर में एक ज़ोंबी द्वारा मजबूर तिलचट्टे होने का डर कारक है,The haunted house was mild and tame,The haunted house was scary and sickening,1,1,1163
+छात्र कार्डियोथोरेसिक सर्जन के रूप में केंद्रित हैं,The students are as focused as can be.,The students have a total lack of focus.,0,1,1170
+छात्र युवा पिल्लों की तरह केंद्रित हैं,The students are as focused as can be.,The students have a total lack of focus.,1,1,1170
+हाथी एक व्हेल है।,The elephant is large.,The elephant is small.,0,1,1173
+हाथी एक चूहा है।,The elephant is large.,The elephant is small.,1,1,1173
+कविता का अर्थ वर्जिल के एनीड जितना ही सुलभ था।,The meaning is not self-explanatory; it requires education from experts in understanding it.,The meaning is easy to decipher without much expertise.,0,1,1187
+कविता का अर्थ बचपन की परी कथा की तरह सुलभ था।,The meaning is not self-explanatory; it requires education from experts in understanding it.,The meaning is easy to decipher without much expertise.,1,1,1187
+दृश्य नींबू पानी की तरह ताज़ा था,The scene was totally refreshing.,The scene wasn't refreshing at all.,0,1,1188
+दृश्य खाली गिलास की तरह ताज़ा था,The scene was totally refreshing.,The scene wasn't refreshing at all.,1,1,1188
+कार एक व्हेल है,The car is large,The car is small,0,1,1192
+कार एक अमीबा है,The car is large,The car is small,1,1,1192
+कुर्सी के पैर टहनियाँ हैं,The legs are thin and brittle,The legs are thick and heavy,0,1,1194
+कुर्सी के पैर पेड़ के तने हैं,The legs are thin and brittle,The legs are thick and heavy,1,1,1194
+उसकी मुस्कान एक बंद दरवाजा था।,His smile was not inviting.,His smile was inviting.,0,1,1196
+उसकी मुस्कान एक खुला दरवाजा था।,His smile was not inviting.,His smile was inviting.,1,1,1196
+वह व्यापार बैठक एक तख्तापलट थी,The business meeting was when they betrayed the leader.,The business meeting was when they selected the leader.,0,1,1197
+वह व्यापार बैठक शाही राज्याभिषेक थी।,The business meeting was when they betrayed the leader.,The business meeting was when they selected the leader.,1,1,1197
+मेरे पास उतने ही किताबी विचार हैं जितने साल में एक दिन होते हैं,I have over 300 book ideas,I only have a few book ideas.,0,1,1211
+मेरे पास उतने ही पुस्तक विचार हैं जितने सौ में 00 होते हैं,I have over 300 book ideas,I only have a few book ideas.,1,1,1211
+भालू एक पिल्ला कुत्ता है,The bear is sweet and docile,The bear is aggressive,0,1,1212
+भालू एक टी-रेक्स है,The bear is sweet and docile,The bear is aggressive,1,1,1212
+"तथ्य यह है कि वह उस कार को चलाता है, आपको बताता है कि उसके माता-पिता ने उसे कभी प्यार नहीं किया।",The car demonstrates the underlying insecurities of the driver.,The car demonstrates the driver's secure sense of themselves.,0,1,1216
+"तथ्य यह है कि वह उस कार को चलाता है, आपको बताता है कि उसे हाई स्कूल में कभी भी धमकाया नहीं गया था।",The car demonstrates the underlying insecurities of the driver.,The car demonstrates the driver's secure sense of themselves.,1,1,1216
+कुएँ में ऊँट की पीठ में कूबड़ का सारा पानी होता है,There's a lot of water in the well,The well is dry,0,1,1217
+कुएं में है गोबी मरुस्थल का सारा पानी,There's a lot of water in the well,The well is dry,1,1,1217
+उस्तरा गिलोटिन की तरह तेज था,The razor was sharp,The razor was not sharp,0,1,1221
+रेज़र एक नीरस पेंसिल की तरह नुकीला था,The razor was sharp,The razor was not sharp,1,1,1221
+मैं चींटी की तरह रहना पसंद करता हूं।,I prefee to live a life focused on working hard so that I am prepared for the future,"I prefer to live a life that is carefree and in the moment, with no thought of the future.",0,1,1223
+मैं टिड्डे की तरह रहना पसंद करता हूं।,I prefee to live a life focused on working hard so that I am prepared for the future,"I prefer to live a life that is carefree and in the moment, with no thought of the future.",1,1,1223
+उसका दिमाग एक स्टील का जाल है।,"She remembers everything, no matter how insignificant.","She remembers nothing, and has lost half of what she once knew.",0,1,1224
+उसका दिमाग स्विस पनीर है।,"She remembers everything, no matter how insignificant.","She remembers nothing, and has lost half of what she once knew.",1,1,1224
+यह गीत फ़ुटबॉल खेल रैली की तरह उत्साहित था,The song was really upbeat.,The song was heavyhanded.,0,1,1225
+गीत अंतिम संस्कार के भजन की तरह उत्साहित था,The song was really upbeat.,The song was heavyhanded.,1,1,1225
+रेज़र एक नया पॉलिश किया हुआ ब्लेड है।,The razor is sharp.,The razor is dull.,0,1,1227
+रेज़र जंग लगी रसोई की कैंची की एक जोड़ी है।,The razor is sharp.,The razor is dull.,1,1,1227
+वह बिल्ली की तरह आराम करती है।,She rests a lot.,She doesn't rest much at all.,0,1,1231
+वह त्रिगुणों की माँ के समान विश्राम करती है।,She rests a lot.,She doesn't rest much at all.,1,1,1231
+गेंद आसमान की तरह उछली,The ball bounced very high,The ball barely bounced at all.,0,1,1234
+गेंद जमीन की तरह उछली,The ball bounced very high,The ball barely bounced at all.,1,1,1234
+उस्तरे में तलवार की धार थी,The razor was sharp,The razor was dull,0,1,1235
+उस्तरे में पत्थर जैसा तेज था,The razor was sharp,The razor was dull,1,1,1235
+छुरा जंग की छड़ी है,The razor is rusty and old.,The razor is sharp.,0,1,1240
+छुरा एक चाकू है।,The razor is rusty and old.,The razor is sharp.,1,1,1240
+उसके पास पत्थर का दिल है,He is hard,He is generous,0,1,1245
+उसके पास सोने का दिल है,He is hard,He is generous,1,1,1245
+जिराफ एक नवजात शिशु ईल है।,The giraffe is awkward.,The giraffe is elegant.,0,1,1251
+जिराफ एक गजल है।,The giraffe is awkward.,The giraffe is elegant.,1,1,1251
+वह जिराफ जितना लंबा है।,He's really tall.,He's really short.,0,1,1252
+वह एक सूक्ति जितना लंबा है।,He's really tall.,He's really short.,1,1,1252
+वह एक जोकर की तरह हंसती है।,She laughs a lot.,She doesn't laugh much at all.,0,1,1254
+वह एक सख्त लाइब्रेरियन की तरह हंसती हैं।,She laughs a lot.,She doesn't laugh much at all.,1,1,1254
+कार मक्खन की तरह चिकनी चलती है,The car drove smoothly,The car drove roughly,0,1,1257
+कार बजरी की तरह चिकनी चलती है,The car drove smoothly,The car drove roughly,1,1,1257
+हम उतने ही अच्छे दोस्त हैं जितने दो कुत्ते आखिरी हड्डी के लिए लड़ते हैं।,They're not really good friends at all and are desperate.,They are good friends and are comfortable.,0,1,1267
+हम दो कुत्तों की तरह अच्छे दोस्त हैं जो दावत का आनंद ले रहे हैं।,They're not really good friends at all and are desperate.,They are good friends and are comfortable.,1,1,1267
+उसके बहाने की वैधता टिशू पेपर की शीट की तरह मजबूत थी,Her excuse was flimsy,Her excuse was solid,0,1,1269
+उनके बहाने की वैधता कांग्रेस के पुस्तकालय की तरह मजबूत थी,Her excuse was flimsy,Her excuse was solid,1,1,1269
+वह मुझे एक माँ की तरह प्यार करती थी,She loved me.,She didn't love me at all.,0,1,1272
+वह मुझे एक दुष्ट सौतेली माँ की तरह प्यार करती थी,She loved me.,She didn't love me at all.,1,1,1272
+उसकी आवाज चूहे की तरह शांत थी,His voice was quiet.,His voice was loud.,0,1,1273
+उसकी आवाज मेगाफोन की तरह शांत थी,His voice was quiet.,His voice was loud.,1,1,1273
+आपकी पीठ पर एक बोल्डर ले जाने के दौरान बीज में मैराथन दौड़ने की कठोरता होती है,The seeds are hard,The seeds are soft,0,1,1274
+बीजों में एक कटोरी पिघलने वाली आइसक्रीम की कठोरता होती है,The seeds are hard,The seeds are soft,1,1,1274
+मांस में ताजा बेक्ड क्रिसमस हैम की गंध होती है,The meat smells good,The meat smells foul,0,1,1275
+मांस में दौड़ने वाले जूतों की पसीने वाली जोड़ी की गंध होती है,The meat smells good,The meat smells foul,1,1,1275
+इस तालिका में एक पर्वत की स्थिरता है,This table is very strong.,This table is very flimsy.,0,1,1278
+इस तालिका में ताश के पत्तों के घर की स्थिरता है।,This table is very strong.,This table is very flimsy.,1,1,1278
+उस इमारत का निर्माण जुरासिक काल में हुआ था।,That building was built a long time ago,That building was built very recently.,0,1,1279
+वह भवन एक सेकंड पहले बनाया गया था।,That building was built a long time ago,That building was built very recently.,1,1,1279
+यह खाने का स्वाद ऐसा है मानो इसे गॉर्डन रामसे ने बनाया हो।,The food is delicious.,The food is disgusting.,0,1,1284
+यह खाने का स्वाद ऐसा है जैसे इसे बिना जीभ वाले तीन चूहों ने बनाया हो।,The food is delicious.,The food is disgusting.,1,1,1284
+हॉकी खिलाड़ी एक विध्वंस डर्बी था।,The hockey player was sloppy.,The hockey player was careful.,0,1,1288
+हॉकी खिलाड़ी गजल था।,The hockey player was sloppy.,The hockey player was careful.,1,1,1288
+वह सितारों की तरह चमकता था,He shined brightly.,He was dull and didn't shine at all.,0,1,1290
+वह गंदगी की तरह चमक रहा था,He shined brightly.,He was dull and didn't shine at all.,1,1,1290
+वह सूरज की तरह गर्म थी,She was hot,"She was not hot, but cold.",0,1,1291
+वह पॉप्सिकल्स की तरह हॉट थी,She was hot,"She was not hot, but cold.",1,1,1291
+कुत्ते के पास पंख वाले डस्टर की कोमलता है,The dog is soft,The dog isn't soft,0,1,1293
+कुत्ते में एक क्षुद्रग्रह की कोमलता है,The dog is soft,The dog isn't soft,1,1,1293
+समीक्षाओं ने संकेत दिया कि उत्पाद की गुणवत्ता फ्रीवे पर एक टूटी हुई कार की थी,The product quality was poor,The product quality was excellent,0,1,1296
+समीक्षाओं ने संकेत दिया कि उत्पाद की गुणवत्ता अब तक के सबसे मजबूत उत्पाद की थी,The product quality was poor,The product quality was excellent,1,1,1296
+जीवन एक अद्भुत सैर है,Life is enjoyable,Life is hard,0,1,1298
+जीवन एक कठिन यात्रा है,Life is enjoyable,Life is hard,1,1,1298
+जीवन एक कूड़ेदान की आग है।,Life is trash.,Life is wonderful.,0,1,1303
+जीवन एक तितली है।,Life is trash.,Life is wonderful.,1,1,1303
+पोकर गेम में सूरज जितना ऊंचा दांव था,The poker game was high-stakes.,The poker game was low-stakes.,0,1,1309
+पोकर गेम में फर्श जितना ऊंचा दांव था,The poker game was high-stakes.,The poker game was low-stakes.,1,1,1309
+शादी में प्यार संडे के ऊपर चेरी है,"love in marriage is the best, finishing touch",love in marriage is an unpleasant surprise that ruins it,0,1,1315
+शादी में प्यार सुंदर सेब के अंदर का कीड़ा है,"love in marriage is the best, finishing touch",love in marriage is an unpleasant surprise that ruins it,1,1,1315
+आपका पहला प्यार एक बर्फीली सड़क है,your first love is dangerous and hard to navigate,your first love is comfortable and comforting,0,1,1316
+आपका पहला प्यार एक गर्म कंबल है,your first love is dangerous and hard to navigate,your first love is comfortable and comforting,1,1,1316
+तलाक एक तूफान के बाद एक इंद्रधनुष है,divorce is something surprisingly good after something devastating,divorce is the feeling of failing,0,1,1317
+तलाक एक डूबता जहाज है,divorce is something surprisingly good after something devastating,divorce is the feeling of failing,1,1,1317
+किताब एक थीम पार्क की तरह दिलचस्प थी,The book was interesting,The book was boring,0,1,1318
+किताब गीली पेंट की तरह दिलचस्प थी,The book was interesting,The book was boring,1,1,1318
+यह गाना डिकैडेंट चॉकलेट की तरह स्वादिष्ट था,The song is excellent,The song is horrible,0,1,1319
+गाना उल्टी जैसा स्वादिष्ट था,The song is excellent,The song is horrible,1,1,1319
+लड़का मैराथन विजेता की तरह थका हुआ था,The boy was exhausted.,The boy wasn't tired at all.,0,1,1325
+लड़का एनर्जाइज़र बनी की तरह थका हुआ था,The boy was exhausted.,The boy wasn't tired at all.,1,1,1325
+कॉर्पोरेट पदानुक्रम ग्रैंड कैन्यन की तरह सपाट था,The corporate hierarchy was alive and well.,The corporate hierarchy was nonexistent.,0,1,1327
+कॉर्पोरेट पदानुक्रम नोटबुक पेपर की तरह सपाट था,The corporate hierarchy was alive and well.,The corporate hierarchy was nonexistent.,1,1,1327
+उसे एक चील का दर्शन मिला है।,He has extremely good vision.,He can barely see.,0,1,1329
+उसे एक अंधे बल्ले की दृष्टि मिली है।,He has extremely good vision.,He can barely see.,1,1,1329
+उसके पास गोरिल्ला की ताकत है।,She's very strong.,She's not strong at all.,0,1,1330
+उसे एक बच्चे के चूहे की ताकत मिली है।,She's very strong.,She's not strong at all.,1,1,1330
+उसकी केले की रोटी हलवे की तरह नम है,Her banana bread is very moist,Her banana bread is very dry,0,1,1336
+उसकी केले की रोटी चमड़े की तरह नम है,Her banana bread is very moist,Her banana bread is very dry,1,1,1336
+वह कार घोंघे की तरह चलती है,The car is slow,The car is fast,0,1,1339
+वह कार रॉकेट की तरह चलती है,The car is slow,The car is fast,1,1,1339
+माधुर्य एक बच्चे की पहली पियानो बजाना सीखने जैसा लग रहा था।,The melody was simplistic and randomly thrown together.,"The melody was complex, beautiful, and had the feel of a classic work of art.",0,1,1341
+माधुर्य चोपिन कंसर्टो की तरह लग रहा था।,The melody was simplistic and randomly thrown together.,"The melody was complex, beautiful, and had the feel of a classic work of art.",1,1,1341
+गद्दे में चाकू का आराम होता है।,The mattress is too hard.,The mattress is warm and cozy.,0,1,1343
+गद्दे में एक गर्म टब का आराम है।,The mattress is too hard.,The mattress is warm and cozy.,1,1,1343
+विंड चाइम्स में ब्लैकबोर्ड पर नाखूनों का स्वर था।,The wind chimes sound harsh.,The wind chimes sound pleasing.,0,1,1344
+विंड चाइम्स में बच्चों के हंसने का लहजा था।,The wind chimes sound harsh.,The wind chimes sound pleasing.,1,1,1344
+बेक बिक्री में ओलंपिक स्विमिंग पूल की गहराई को भरने के लिए पर्याप्त कपकेक हैं,The bake sale has a ton of cupcakes.,The bake sale doesn't have many cupcakes.,0,1,1347
+सेंकना बिक्री में एक थिम्बल की गहराई को भरने के लिए पर्याप्त कपकेक हैं,The bake sale has a ton of cupcakes.,The bake sale doesn't have many cupcakes.,1,1,1347
+उसे एक रॉकेट वैज्ञानिक की चतुराई मिली है।,He's very smart.,He's very dumb.,0,1,1348
+उसे जेलिफ़िश का स्मार्ट मिल गया है।,He's very smart.,He's very dumb.,1,1,1348
+वह स्टेक चाकू एक स्केलपेल की तरह कट जाता है।,The knife is very sharp.,The knife is not sharp at all.,0,1,1349
+वह स्टेक चाकू चम्मच की तरह कटता है।,The knife is very sharp.,The knife is not sharp at all.,1,1,1349
+वह रेजर की तरह तेज है।,He's very smart and quick.,He's not smart.,0,1,1350
+वह बटर नाइफ की तरह तेज है।,He's very smart and quick.,He's not smart.,1,1,1350
+फावड़ियों में एक जापानी भूत के बालों की कठोरता होती है,The shoelaces are quite stringy,The shoelaces are stiff,0,1,1351
+फावड़ियों में एक डरावने पेड़ की शाखा की कठोरता होती है,The shoelaces are quite stringy,The shoelaces are stiff,1,1,1351
+वह एक परी की तरह नृत्य करती है,she dances well,she dances poorly,0,1,1353
+वह कछुए की तरह नाचती है,she dances well,she dances poorly,1,1,1353
+उसने चाकू की तरह तेज कपड़े पहने,He dressed well,He dressed poorly,0,1,1355
+उन्होंने एक क्रेयॉन के रूप में तेज कपड़े पहने,He dressed well,He dressed poorly,1,1,1355
+कॉफी आग का तापमान है,The coffee is burning hot,The coffee is very cold,0,1,1357
+कॉफी बर्फ का तापमान है,The coffee is burning hot,The coffee is very cold,1,1,1357
+फ़्रेडी क्रुएगर की तरह डरावना था दुश्मन,The enemy was scary,The enemy was not scary,0,1,1364
+स्नो व्हाइट की तरह डरावना था दुश्मन,The enemy was scary,The enemy was not scary,1,1,1364
+गायक के पास हिमालय की सीमा है,The singer has a wide vocal range,"The singer has a narrow, poor range",0,1,1369
+गायक के पास रेत के टीले की सीमा होती है,The singer has a wide vocal range,"The singer has a narrow, poor range",1,1,1369
+अभिनेता के पास एक इंद्रधनुष की अपील है,The actor has a beautiful attractive countenance,The actor has an uninteresting look,0,1,1370
+अभिनेता के पास बदबूदार बग की अपील है,The actor has a beautiful attractive countenance,The actor has an uninteresting look,1,1,1370
+उन्हें प्राथमिक विद्यालय के शिक्षक का धैर्य मिला है।,He's really patient.,He's not patient at all.,0,1,1373
+उसे एक भूखे शार्क का धैर्य मिला है।,He's really patient.,He's not patient at all.,1,1,1373
+निबंध का अर्थ बिलबोर्ड शीर्षक जितना सीधा है,The essay's meaning is totally clear.,The essay's meaning is very abstract.,0,1,1383
+निबंध का अर्थ रोथको पेंटिंग की तरह सीधा है,The essay's meaning is totally clear.,The essay's meaning is very abstract.,1,1,1383
+स्थिति मेपल सिरप की तरह चिपचिपी है,The situation is hard to get out of.,The situation isn't very messy.,0,1,1384
+स्थिति पानी की तरह चिपचिपी है,The situation is hard to get out of.,The situation isn't very messy.,1,1,1384
+कमरे में एक प्राचीन जंगल की भावना है।,The room is serene.,The room is chaotic.,0,1,1385
+कमरे में एक रॉक कॉन्सर्ट की भावना है।,The room is serene.,The room is chaotic.,1,1,1385
+जॉन फाँसी से भाग रहे एक आदमी के समान प्रेरित था।,John was really motivated.,John was not motivated at all.,0,1,1390
+जॉन बिना वेतन के एक कर्मचारी के रूप में प्रेरित था।,John was really motivated.,John was not motivated at all.,1,1,1390
+टोकरा व्हेल की सवारी करने वाले हाथी का वजन रखता है,The crate can hold a lot of weight,The crate isn't capable of handling much weight,0,1,1392
+टोकरा पानी की एक बूंद का भार रखता है,The crate can hold a lot of weight,The crate isn't capable of handling much weight,1,1,1392
+"मैं मटर्क पर जिन लोगों की मदद करता हूं, वे भूखे सूअर की तरह आभारी हैं",Requesters aren't grateful.,Requesters are grateful.,0,1,1394
+मैं मटर्क पर जिन लोगों की मदद करता हूं वे एक खिलाए गए पिल्ला के रूप में आभारी हैं,Requesters aren't grateful.,Requesters are grateful.,1,1,1394
+उनकी आलोचनात्मक सोच कौशल कपास कैंडी की तरह है।,He has no critical thinking skills.,He has great critical thinking skills.,0,1,1399
+उनकी महत्वपूर्ण सोच कौशल एक बारीक ट्यून की गई मशीन है।,He has no critical thinking skills.,He has great critical thinking skills.,1,1,1399
+सख्त होने से पहले इन पेनकेक्स का स्वाद सीमेंट जैसा होता है।,The pancakes are undercooked.,The pancakes are light and fluffy.,0,1,1400
+इन पेनकेक्स का स्वाद मेघपुंज बादलों की तरह होता है!,The pancakes are undercooked.,The pancakes are light and fluffy.,1,1,1400
+किताब में एक मिट्टी के पोखर की गहराई है,The book is simplistic,The book is profound,0,1,1401
+पुस्तक में मारियाना ट्रेंच की गहराई है,The book is simplistic,The book is profound,1,1,1401
+उसका पहनावा राजा के ताज के समान फैंसी है।,Her dress is very showy.,Her dress is very plain.,0,1,1405
+उसकी पोशाक एक पेपर बैग की तरह फैंसी है,Her dress is very showy.,Her dress is very plain.,1,1,1405
+मोटर एक मरते हुए आदमी के रूप में तैयार लग रहा था।,The motor is on its last leg.,The motor is ready to go and will last a long time.,0,1,1408
+मोटर मैराथन धावक के रूप में तैयार लग रहा था।,The motor is on its last leg.,The motor is ready to go and will last a long time.,1,1,1408
+वह जिराफ जितनी लंबी है,She's very tall,She's very small,0,1,1412
+वह एक चूहे जितनी लंबी है,She's very tall,She's very small,1,1,1412
+मेरा बिस्तर एक विशाल मार्शमैलो है।,My bed is soft.,My bed is hard.,0,1,1414
+मेरा बिस्तर एक ईंट है।,My bed is soft.,My bed is hard.,1,1,1414
+तुम ईंट की दीवार की तरह होशियार हो,you are not very smart,you are very smart,0,1,1415
+आप एक जीनियस की तरह स्मार्ट हैं,you are not very smart,you are very smart,1,1,1415
+इस जगह में मर्डर सीन का सारा आकर्षण है,This place is terrible,This place is full of wonder.,0,1,1421
+इस जगह में एक मुग्ध जंगल के सभी आकर्षण हैं,This place is terrible,This place is full of wonder.,1,1,1421
+उस प्रदर्शन को सुनना मेरी उंगलियों को कार के दरवाजे में पटकने जैसा था,listening to that performance was a horrible experience,listening to that performance was a wonderful experience,0,1,1423
+उस प्रदर्शन को सुनना स्वर्ग में चढ़ने जैसा था,listening to that performance was a horrible experience,listening to that performance was a wonderful experience,1,1,1423
+उसका व्यवहार बर्फ की तरह ठंडा है,She is standoffish,She is friendly,0,1,1428
+उसका स्वभाव सूर्य के समान गर्म है,She is standoffish,She is friendly,1,1,1428
+हवा में शार्क का दंश है,The wind is cold.,The wind is warm and soothing.,0,1,1430
+हवा में एक प्रेमी का दुलार है,The wind is cold.,The wind is warm and soothing.,1,1,1430
+गड्ढा गुफा जितना गहरा है,The hole is deep,The hole is shallow,0,1,1433
+गड्ढा पोखर जितना गहरा है,The hole is deep,The hole is shallow,1,1,1433
+एक बच्चे की गंध एक नई कार के इंटीरियर की तरह होती है।,The smell of a baby is of freshness.,The smell of a baby is quite stinky.,0,1,1447
+बच्चे की गंध सड़क किनारे कूड़ेदान की तरह होती है।,The smell of a baby is of freshness.,The smell of a baby is quite stinky.,1,1,1447
+औरत चाबुक की तरह होशियार थी,The woman was extremely smart.,The woman wasnt smart at all.,0,1,1448
+महिला नवजात शिशु की तरह होशियार थी।,The woman was extremely smart.,The woman wasnt smart at all.,1,1,1448
+मेरी समझ भौतिकी पढ़ने वाली चींटी की है,My comprehension is nil,My comprehension is vast,0,1,1457
+मेरी समझ एक सुपर कंप्यूटर की है,My comprehension is nil,My comprehension is vast,1,1,1457
+आग तब तक जलती है जब तक दुनिया बदल जाती है,The fire burns for a long time,The fire burns out quickly,0,1,1458
+एबीसी गाने में लगने वाले समय के लिए आग जलती है,The fire burns for a long time,The fire burns out quickly,1,1,1458
+उनके बीच की जगह एक खाई थी।,They are distant from one another.,They are very close.,0,1,1459
+उनके बीच का स्थान एक धागा था।,They are distant from one another.,They are very close.,1,1,1459
+गीत में मस्तिष्क के लिए बिजली के बोल्ट की ऊर्जा है।,The song is full of power.,The song is ordinary and dull.,0,1,1463
+गाने में कुत्ते के पानी को चाटने की ऊर्जा है।,The song is full of power.,The song is ordinary and dull.,1,1,1463
+बजट स्पैन्डेक्स जितना सख्त है,The budget is very tight.,The budget isn't tight at all.,0,1,1470
+बजट अतिरिक्त बड़े स्वेटपैंट्स की एक जोड़ी के रूप में तंग है,The budget is very tight.,The budget isn't tight at all.,1,1,1470
+उसका श्रम चॉकलेट केक खाने जितना आसान था।,The labor was actually really easy.,The labor was extremely difficult and painful.,0,1,1473
+उसका श्रम जलते अंगारों पर लुढ़कने जितना आसान था।,The labor was actually really easy.,The labor was extremely difficult and painful.,1,1,1473
+परीक्षा देते समय वह एक परमाणु भौतिक विज्ञानी की तरह महसूस करती थी।,She felt very smart while taking the test.,She felt very stupid while taking the test.,0,1,1474
+परीक्षा देते समय उसे लगा कि वह दो महीने की हो गई है।,She felt very smart while taking the test.,She felt very stupid while taking the test.,1,1,1474
+उस लेखक का गद्य है सिटी स्मॉग,That writer's prose is difficult and unpleasant to process,That writer's prose is simple and pleasant to process,0,1,1476
+उस लेखक का गद्य घर का बना पाई है,That writer's prose is difficult and unpleasant to process,That writer's prose is simple and pleasant to process,1,1,1476
+मेरे अवसर ऐसे हैं जैसे खिड़कियाँ बंद हो जाती हैं,I have no options,My options are wide open,0,1,1478
+मेरे अवसर खुली हुई खिड़कियों की तरह हैं,I have no options,My options are wide open,1,1,1478
+उसकी आवाज बंशी जैसी थी।,Her voice is loud.,Her voice is soft.,0,1,1479
+उसकी आवाज एक गीतकार की तरह थी।,Her voice is loud.,Her voice is soft.,1,1,1479
+लड़की नासा खगोलशास्त्री जितनी बुद्धिमान है,The girl is wildly intelligent.,The girl is totally dumb.,0,1,1480
+लड़की उतनी ही बुद्धिमान होती है जितनी अनपढ़,The girl is wildly intelligent.,The girl is totally dumb.,1,1,1480
+जोस के नए संगठन ने उसे एक लाख रुपये की तरह महसूस किया था,The outfit made Joe feel good,The outfit made Joe feel bad,0,1,1484
+जोस के नए पहनावे ने उसे एक चींटी की तरह महसूस कराया,The outfit made Joe feel good,The outfit made Joe feel bad,1,1,1484
+उत्पाद प्लेसमेंट विज्ञापन पिककोलो के साथ ट्यूबा के समान सूक्ष्म होते हैं,ads are abrasive,ads are sly,0,1,1485
+उत्पाद प्लेसमेंट विज्ञापन उतने ही सूक्ष्म हैं जितने ब्रिटिश बुद्धि,ads are abrasive,ads are sly,1,1,1485
+सड़क एक खदान है,There are many obstacles in the road,"The road is smooth, flat and open",0,1,1489
+सड़क एक रनवे है,There are many obstacles in the road,"The road is smooth, flat and open",1,1,1489
+कुत्ते के पास समुद्र का धैर्य है,The dog can wait a long time,The dog cannot wait,0,1,1490
+कुत्ते के पास एक शिशु का धैर्य है,The dog can wait a long time,The dog cannot wait,1,1,1490
+जेरेमी ने फुटबॉल को ऐसे लिया जैसे मछली पानी में ले जाती है।,Jeremy is really good at soccer.,Jeremy is really bad at soccer.,0,1,1495
+जेरेमी ने फ़ुटबॉल को ऐसे लिया जैसे कोई मछली उतरती है।,Jeremy is really good at soccer.,Jeremy is really bad at soccer.,1,1,1495
+आपकी बिल्ली टेडी बियर की तरह मिलनसार है।,The cat is lovable and friendly.,The cat is vicious and scary.,0,1,1496
+आपकी बिल्ली एक वेलोसिरैप्टर के रूप में अनुकूल है।,The cat is lovable and friendly.,The cat is vicious and scary.,1,1,1496
+हार एक तारा है।,The necklace is shining.,The necklace is dull.,0,1,1499
+हार एक मिट्टी पाई है।,The necklace is shining.,The necklace is dull.,1,1,1499
+आदमी के पास बल्ले की आंखें हैं,The man can't see anything.,"The man has clear, sharp vision.",0,1,1505
+आदमी के पास एक स्नाइपर की आंखें हैं,The man can't see anything.,"The man has clear, sharp vision.",1,1,1505
+आदमी के पास एक बच्चे का धैर्य है,The man is short-tempered.,The man is has a large amount of patience.,0,1,1506
+आदमी के पास भगवान का धैर्य है,The man is short-tempered.,The man is has a large amount of patience.,1,1,1506
+प्रकाश में ब्लैक होल की चमक होती है,The light is very dim.,The light is shining brightly.,0,1,1507
+प्रकाश में चमकती नीयन चिन्ह की चमक होती है,The light is very dim.,The light is shining brightly.,1,1,1507
+सम्मेलन एक कार्निवाल की तरह मजेदार था,The conference was fun to attend.,The conference was boring.,0,1,1511
+सम्मेलन एक गणित व्याख्यान के रूप में मजेदार था,The conference was fun to attend.,The conference was boring.,1,1,1511
+उनके पास जोसेफ स्टालिन का अधिकार था।,He was too harsh and had a lot of authority.,He had not authority.,0,1,1519
+उसके पास एक पिल्ला कुत्ते का अधिकार था।,He was too harsh and had a lot of authority.,He had not authority.,1,1,1519
+उसका अहंकार एक गर्म हवा का गुब्बारा था।,She had a huge ego.,She did not have a huge ego.,0,1,1520
+उसका अहंकार एक फटा हुआ गुब्बारा था।,She had a huge ego.,She did not have a huge ego.,1,1,1520
+उसके पास एक चट्टान की भावनात्मक बुद्धि है,He completely lacks empathy and emotional consideration for others.,"He is conscious of other people's problems, and reaches out constantly to help them.",0,1,1525
+उनके पास डॉ. फिला की भावनात्मक बुद्धिमत्ता है,He completely lacks empathy and emotional consideration for others.,"He is conscious of other people's problems, and reaches out constantly to help them.",1,1,1525
+मॉनिटर में सूर्य की चमक होती है,The monitor is bright,The monitor is dark,0,1,1527
+मॉनिटर में एक गुफा की चमक होती है,The monitor is bright,The monitor is dark,1,1,1527
+स्पीकर में एक संगीत कार्यक्रम का ज़ोर होता है,The speaker is loud,The speaker is quiet,0,1,1528
+स्पीकर में फुसफुसाते हुए जोर होता है,The speaker is loud,The speaker is quiet,1,1,1528
+कमरे में एक सभागार की जगह है,The room is large,The room is small,0,1,1529
+कमरे में एक कोठरी की जगह है,The room is large,The room is small,1,1,1529
+अपार्टमेंट परिसर उतना ही पुराना था जितना कि ग्रेट पिरामिड,The apartment complex was very old.,The apartment complex was very new.,0,1,1535
+अपार्टमेंट परिसर एक नवजात शिशु जितना पुराना था,The apartment complex was very old.,The apartment complex was very new.,1,1,1535
+"प्रोटोटाइप एक कार की तरह सुचारू रूप से चला, जो बहुत दूर से ताज़ा है",The prototype was smooth.,The prototype was rough and not smooth.,0,1,1537
+प्रोटोटाइप कचरा डंप से ताजा कार के रूप में सुचारू रूप से चला गया,The prototype was smooth.,The prototype was rough and not smooth.,1,1,1537
+मुझे यह किताब उतनी ही रोचक लगी जितनी दुनिया की सबसे आश्चर्यजनक जादू की चाल,I found the book to be very interesting,I found the book to be very boring,0,1,1546
+मुझे यह पुस्तक रटने वाले वैज्ञानिक व्याख्यान की तरह दिलचस्प लगी,I found the book to be very interesting,I found the book to be very boring,1,1,1546
+दवा की तरह सेहतमंद है ये खाना,The food is very healthy,The food is very unhealthy,0,1,1550
+यह भोजन जहरीले कचरे की तरह स्वस्थ है,The food is very healthy,The food is very unhealthy,1,1,1550
+मुख्यधारा के समाचार मीडिया में एक शराबी अपराधी की विश्वसनीयता है,The mainstream news media cannot be believed,The mainstream news media is credible,0,1,1553
+मुख्यधारा के समाचार मीडिया में एक आदर्श नागरिक की विश्वसनीयता है,The mainstream news media cannot be believed,The mainstream news media is credible,1,1,1553
+रोगी का स्वास्थ्य एक मुरझाए हुए फूल के समान था,The patient was not healthy,The patient was very healthy,0,1,1555
+रोगी का स्वास्थ्य उसके प्रमुख में एक मजबूत घोड़े की तरह था,The patient was not healthy,The patient was very healthy,1,1,1555
+वह एक पिल्ला की तरह चंचल था,He was very playful,He wasn't playful at all,0,1,1558
+वह चट्टान की तरह चंचल था,He was very playful,He wasn't playful at all,1,1,1558
+बुध पर आज का तापमान सामान्य दिन जैसा रहा।,Today was very hot.,Today was extremely cool.,0,1,1562
+आज का तापमान वह था जो रेफ्रिजरेटर में रहने की अपेक्षा करता था।,Today was very hot.,Today was extremely cool.,1,1,1562
+महिला के बाल एक दर्पण थे।,The woman's hair was shiny.,The woman's hair was dull.,0,1,1575
+महिला के बाल मिट्टी की पाई थे।,The woman's hair was shiny.,The woman's hair was dull.,1,1,1575
+हीरा एक दर्पण था।,The diamond was shiny.,The diamond was dull.,0,1,1576
+हीरा मिट्टी की पाई थी।,The diamond was shiny.,The diamond was dull.,1,1,1576
+हिरण के सींगों में काई से ढके ओक के पेड़ की तरह फजीता होती है,The deer has very fuzzy antlers,The deer's antlers aren't at all fuzzy,0,1,1581
+हिरन के सींगों में बच्चे के पीछे का फजीलापन होता है,The deer has very fuzzy antlers,The deer's antlers aren't at all fuzzy,1,1,1581
+वह चीते की तरह तेज था,He was very fast,He was very slow,0,1,1582
+वह कछुए की तरह तेज था,He was very fast,He was very slow,1,1,1582
+उसके पास एक पत्थर का दिल है,She is very unfriendly.,She is very kind.,0,1,1585
+उसके पास सोने का दिल है,She is very unfriendly.,She is very kind.,1,1,1585
+वह कुकीज बेक करने जितनी अच्छी महकती है,She smells great,She smells terrible,0,1,1592
+वह एक सीवर के रूप में अच्छी खुशबू आ रही है,She smells great,She smells terrible,1,1,1592
+सोशल मीडिया प्रभावित करने वाले का उतना ही प्रभाव था जितना कि एक राष्ट्रपति के रूप में,The social media influencer had wide influence.,The social media influencer had no influence at all.,0,1,1594
+सोशल मीडिया प्रभावित करने वाले का उतना ही प्रभाव था जितना कि एक मक्खी,The social media influencer had wide influence.,The social media influencer had no influence at all.,1,1,1594
+लड़की ने सूमो पहलवान की तरह अपने ऊपर ढोया भार,The girl had a ton of weight on her body.,The girl was very thin.,0,1,1595
+लड़की ने बैलेरीना की तरह अपने ऊपर वजन ढोया,The girl had a ton of weight on her body.,The girl was very thin.,1,1,1595
+ओर्कास सागर के सीरियल किलर हैं।,The orcas murder other fish.,The orcas protect the ocean.,0,1,1602
+Orcas सागर के दाई हैं।,The orcas murder other fish.,The orcas protect the ocean.,1,1,1602
+दुनिया एक पुराना कचरा पात्र है।,The world is awful.,The world is wonderful.,0,1,1603
+दुनिया एक आइसक्रीम संडे है।,The world is awful.,The world is wonderful.,1,1,1603
+थ्योरी में पॉल बन्यान की एक लंबी कहानी की वैधता है,The theory is not valid,The theory is very solid and valid,0,1,1604
+सिद्धांत में आइंस्टीन के सर्वश्रेष्ठ कार्य की वैधता है,The theory is not valid,The theory is very solid and valid,1,1,1604
+अखबार का लेख एक अच्छे उपन्यास की तरह पढ़ा।,"The newspaper article was interesting, well-written, and engaging to the reader.","The newspaper article was amateurish, sloppily-written, and simplistic.",0,1,1609
+अखबार का लेख एक मिडिल स्कूल पत्रकार के काम की तरह पढ़ा।,"The newspaper article was interesting, well-written, and engaging to the reader.","The newspaper article was amateurish, sloppily-written, and simplistic.",1,1,1609
+उसका ध्यान अवधि एक अनंत पूल जितना लंबा था,She could pay attention for a long time.,She could not pay attention.,0,1,1614
+उसका ध्यान अवधि एक ओम्पा लूम्पा जितनी लंबी थी,She could pay attention for a long time.,She could not pay attention.,1,1,1614
+राजनेता के पास एक नर्सिंग होम का व्यक्तित्व होता है।,The politician is senile.,The politician is immature.,0,1,1616
+राजनेता के पास बालवाड़ी कक्षा का व्यक्तित्व है।,The politician is senile.,The politician is immature.,1,1,1616
+आपके बाल चीर-फाड़ की तरह दिखते हैं,Your hair is a mess and unappealing,Your hair is beautiful and lustrous,0,1,1626
+आपके बाल रेशमी धागों की तरह दिखते हैं,Your hair is a mess and unappealing,Your hair is beautiful and lustrous,1,1,1626
+आपके परफ्यूम से खराब दूध की तरह महक आती है,The scent of the perfume is horrible,The scent of the perfume is fragrant,0,1,1628
+तुम्हारे इत्र से फूलों के जंगल की तरह महक आती है।,The scent of the perfume is horrible,The scent of the perfume is fragrant,1,1,1628
+उसके पास एक कलाकार की कल्पना है,She has a good imagination,She has no imagination,0,1,1629
+उसके पास एक चट्टान की कल्पना है,She has a good imagination,She has no imagination,1,1,1629
+औरत उग्र बैल की तरह पागल थी,The woman was very mad,The woman was not mad,0,1,1640
+औरत बिल्ली के बच्चे की तरह पागल थी,The woman was very mad,The woman was not mad,1,1,1640
+उसकी आँखें दो जगमगाते पन्ने जैसी थीं,her eyes were bright green,her eyes were blue,0,1,1644
+उसकी आँखें समुंदर की लहरों की तरह थीं,her eyes were bright green,her eyes were blue,1,1,1644
+कुकीज़ पाई के रूप में स्वादिष्ट हैं,The cookies taste good,The cookies taste bad,0,1,1646
+कुकीज सड़े हुए दूध की तरह स्वादिष्ट होती हैं,The cookies taste good,The cookies taste bad,1,1,1646
+आइसक्रीम चूरा की तरह स्वादिष्ट होती है।,The ice cream tastes terrible.,The ice cream tastes wonderful.,0,1,1649
+यह आइसक्रीम सनी डिलाइट जितनी ही स्वादिष्ट है।,The ice cream tastes terrible.,The ice cream tastes wonderful.,1,1,1649
+बच्चा मेरे जूते पर कुत्ते के मल के समान सुंदर था।,The child was ugly.,The child was beautiful.,0,1,1650
+बच्चा साल में एक बार खिलने वाले फूल की तरह सुंदर था।,The child was ugly.,The child was beautiful.,1,1,1650
+लड़की का अहंकार अंडे की जर्दी जितना नाजुक होता है,The girl's feelings are easily hurt.,The girl's ego is solid.,0,1,1652
+लड़की का अहंकार चट्टान की तरह नाजुक होता है,The girl's feelings are easily hurt.,The girl's ego is solid.,1,1,1652
+वह एक पासा है जिसमें एक पक्ष गायब है।,His is unlucky.,He is lucky.,0,1,1654
+वह पासे का पूरा थैला है।,His is unlucky.,He is lucky.,1,1,1654
+जीवन में सफलता एक कैसीनो की तरह है।,Success in life is mostly based on luck.,Success in life is mostly based on skill.,0,1,1657
+जीवन में सफलता पोकर की तरह है।,Success in life is mostly based on luck.,Success in life is mostly based on skill.,1,1,1657
+मिर्च गर्मियों में एल पासो जितनी गर्म होती है।,The chili is very hot.,The chili is not hot at all.,0,1,1660
+मिर्च स्नोबॉल की तरह गर्म होती है।,The chili is very hot.,The chili is not hot at all.,1,1,1660
+श्री एडवर्ड पत्नी एक देवी है,"Mr. Edward wife is a very good, gentle and kind-hearted person","Mr. Edward wife is a crazy, stupid or an annoying person",0,1,1663
+मिस्टर एडवर्ड की पत्नी पागल गाय है,"Mr. Edward wife is a very good, gentle and kind-hearted person","Mr. Edward wife is a crazy, stupid or an annoying person",1,1,1663
+उनका व्यक्तित्व न्यूयॉर्क टाइम्स की हेडलाइन जितना ही दिलचस्प है,She has an interesting personality.,She has no personality.,0,1,1665
+उसका व्यक्तित्व किराने की सूची की तरह दिलचस्प है,She has an interesting personality.,She has no personality.,1,1,1665
+कैसीनो में एक गंदे कबाड़खाने का माहौल था,The casino had a bad atmosphere,The casino had a good atmosphere,0,1,1668
+कैसीनो में सोने के महल का माहौल था,The casino had a bad atmosphere,The casino had a good atmosphere,1,1,1668
+वह एक भूखे रेकून की तरह ईर्ष्यालु है,she is greedy,she is nice,0,1,1670
+वह एक नन की तरह ईर्ष्यालु है,she is greedy,she is nice,1,1,1670
+मालिक शैतान की तरह दुष्ट था,the boss is mean,the boss is nice,0,1,1671
+मालिक एक देवदूत की तरह दुष्ट था,the boss is mean,the boss is nice,1,1,1671
+क्लियोपेट्रा में शुक्र और हाथोर देवताओं की सुंदरता संयुक्त थी,Cleopatra was quite beautiful,Cleopatra was very ugly,0,1,1673
+क्लियोपेट्रा बदसूरत डकलिंग के साथ दो बार हिट होने के बाद बदसूरत डकलिंग की सुंदरता थी,Cleopatra was quite beautiful,Cleopatra was very ugly,1,1,1673
+प्यार सूर्यास्त की तरह खूबसूरत है,Love is beautiful,Love is ugly,0,1,1678
+प्यार उतना ही खूबसूरत होता है जितना कि वार्थोग,Love is beautiful,Love is ugly,1,1,1678
+जैकेट टिक टोक की तरह ट्रेंडी थी,The jacket was trendy,The jacket was outdated,0,1,1679
+जैकेट माइस्पेस की तरह ही ट्रेंडी थी,The jacket was trendy,The jacket was outdated,1,1,1679
+कैलकुलस उतना ही फायदेमंद है जितना कि कुत्ते का खाना खाना,calculus is not pleasant,calculus is fascinating,0,1,1684
+कैलकुलस एक बसे हुए ग्रह की खोज के समान ही फायदेमंद है,calculus is not pleasant,calculus is fascinating,1,1,1684
+प्रेम भूसे के ढेर में सुई ढूंढ रहा है,Finding love is hard but worth it,finding love is hard and painful,0,1,1685
+प्यार सुइयों के ढेर में घास का एक टुकड़ा है,Finding love is hard but worth it,finding love is hard and painful,1,1,1685
+उसके पास किटी पूल की भावनात्मक क्षमता है,He is not emotionally-open,he is very open emotionally,0,1,1686
+उसके पास एक महान झील की भावनात्मक क्षमता है,He is not emotionally-open,he is very open emotionally,1,1,1686
+उस निगम में एक राजनेता की ईमानदारी होती है।,The corporation doesn't have integrity.,The corporation has a lot of integrity.,0,1,1689
+उस निगम में एक साधु की ईमानदारी है।,The corporation doesn't have integrity.,The corporation has a lot of integrity.,1,1,1689
+वह ताजा सर्दियों की बर्फ की तरह जादुई था।,He was very intriguing.,He was very boring.,0,1,1692
+वह एक सुस्त पत्थर की तरह जादुई था।,He was very intriguing.,He was very boring.,1,1,1692
+प्यार में पड़ना बिना सुरक्षा जाल वाली इमारत से कूदना है,Falling in love is scary.,Falling in love is safe.,0,1,1694
+प्यार में पड़ना गर्म कंबल में लपेटा जा रहा है,Falling in love is scary.,Falling in love is safe.,1,1,1694
+हरे-भरे जंगल में जादू एक गेंडा की सवारी कर रहा है,Magic is wonderful.,Magic is awful.,0,1,1695
+कुत्ते के शिकार में जादू चल रहा है,Magic is wonderful.,Magic is awful.,1,1,1695
+लड़की पंख की तरह पतली थी,The girl was so thin she was wispy.,The girl was very fat.,0,1,1700
+लड़की फूले हुए गुब्बारे की तरह पतली थी,The girl was so thin she was wispy.,The girl was very fat.,1,1,1700
+उसकी आंखें स्टील की बनी थीं।,His eyes were hard and obscured his personality.,His eyes conveyed a fragile personality and shows his personality.,0,1,1704
+उसकी आंखें कांच की बनी थीं।,His eyes were hard and obscured his personality.,His eyes conveyed a fragile personality and shows his personality.,1,1,1704
+यह घर अब्राहम लिंकन के लॉग केबिन जितना बड़ा है,The house is small.,The house is big.,0,1,1706
+ताजमहल जितना बड़ा है यह घर,The house is small.,The house is big.,1,1,1706
+यह एक रिवर्स मिनोटौर की तरह वास्तविक है,It doesn't exist,It's very real,0,1,1714
+यह आकाश में सितारों की तरह वास्तविक है,It doesn't exist,It's very real,1,1,1714
+वह एक विजेता घुड़दौड़ की तरह दौड़ सकता है।,He can run really well.,He cannot run really well.,0,1,1716
+वह मरते हुए नाग की तरह दौड़ सकता है।,He can run really well.,He cannot run really well.,1,1,1716
+किशोरी के पास किडी पूल की गहराई है।,The teenager is superficial.,The teenager is profound.,0,1,1726
+किशोरी के पास ग्रांड कैन्यन की गहराई है।,The teenager is superficial.,The teenager is profound.,1,1,1726
+शैंपेन में गुनगुनी कॉफी की चमक होती है।,The champagne is flat.,The champagne is bubbly.,0,1,1728
+शैंपेन में एक एंटासिड टैबलेट की चमक होती है।,The champagne is flat.,The champagne is bubbly.,1,1,1728
+खलनायक एक देवता के समान शक्तिशाली था,The villain was powerful,The villain was nearly powerless,0,1,1732
+खलनायक एक कीट की तरह शक्तिशाली था,The villain was powerful,The villain was nearly powerless,1,1,1732
+डिजाइन को दूसरों ने किले के रूप में बुलेट प्रूफ के रूप में माना था,The design is sound,The design is weak and ill-defined,0,1,1748
+दूसरों द्वारा डिजाइन को भूतों के बीच तर्क की तरह माना जाता था,The design is sound,The design is weak and ill-defined,1,1,1748
+युद्ध नेपोलियन की ऊंचाई तक चला,The war was very short.,The war was long.,0,1,1753
+युद्ध तब तक चला जब तक शकील ओ'नील की ऊंचाई,The war was very short.,The war was long.,1,1,1753
+तर्क में एक परित्यक्त किले की ताकत है।,The argument is weak.,The argument is strong.,0,1,1755
+तर्क में युद्ध के हथियार की ताकत है।,The argument is weak.,The argument is strong.,1,1,1755
+शोएबॉक्स की गहराई को भरने के लिए लड़की के पास पर्याप्त दोस्त हैं,The girl has almost no friends.,The girl is very popular.,0,1,1758
+अटलांटिक महासागर की गहराइयों को भरने के लिए लड़की के पास काफी दोस्त हैं,The girl has almost no friends.,The girl is very popular.,1,1,1758
+प्रदर्शन तूफान की तरह रोमांचक था।,The performance was good.,The performance was bad.,0,1,1763
+प्रदर्शन एक नम फुटपाथ की तरह रोमांचक था।,The performance was good.,The performance was bad.,1,1,1763
+जॉन का दिमाग एक कंप्यूटर है,John is good at calculations,John processes things very slowly,0,1,1768
+जॉन का दिमाग एक घोंघा है,John is good at calculations,John processes things very slowly,1,1,1768
+यह यांत्रिक तुर्क कार्य एक प्रकाशस्तंभ की ध्वनि है,This mechanicalturk task is well-explained,This mechanicalturk task is vague,0,1,1770
+यह मैकेनिकलटर्क कार्य एक प्रदूषण तूफान है,This mechanicalturk task is well-explained,This mechanicalturk task is vague,1,1,1770
+आपकी माँ एक बिल्ली को शाकाहार के लिए मना सकती है,Your mom is a great cook.,Your mom is an awful cook.,0,1,1771
+आपकी माँ वजन पर नजर रखने वालों के साथ प्रतिस्पर्धा कर सकती हैं,Your mom is a great cook.,Your mom is an awful cook.,1,1,1771
+शराबी नाविक की देखरेख में किसान ने लगाई फसलें,The farmer was sloppy,The farmer was precise,0,1,1775
+किसान ने एक अनुभवी सर्जन की देखरेख में फसल बोई,The farmer was sloppy,The farmer was precise,1,1,1775
+मस्तिष्क एक कंप्यूटर है,"The brain is intelligent, beautiful, complex, and profound","The brain is simple, basic, not capable of rational thought.",0,1,1779
+दिमाग जेली है,"The brain is intelligent, beautiful, complex, and profound","The brain is simple, basic, not capable of rational thought.",1,1,1779
+समुद्र की लहरों ने समुद्र तट के लिए अपना रास्ता मजबूर कर दिया और मेरे पास उनके नृत्य और रहस्य में भाग लेने का निमंत्रण दिया,The ocean waves are soothing and healing,The ocean waves are dangerous and can kill you,0,1,1781
+समुद्र की लहरों ने समुद्र तट के किनारे पर अपना रास्ता मजबूर कर दिया और जोर से दुर्घटनाग्रस्त आवाजों और झागदार पानी की डरावनी लहरों के साथ मुझ पर वार किया,The ocean waves are soothing and healing,The ocean waves are dangerous and can kill you,1,1,1781
+हवा मेरे पास आई और पेड़ के पत्तों की सरसराहट के माध्यम से मुझसे बात की और शाखाओं की सीटी के माध्यम से मेरे कान में फुसफुसाया,"The wind is gentle, assuring and relaxing","The wind is intense, threatening and destructive",0,1,1782
+हवा मेरे पास पहुंची और अचानक तेज गति से मेरी ओर आवाज उठाई जिसने पेड़ों से पत्ते छीन लिए और शाखाओं के लिए दरार और टूटने के माध्यम से मुझ पर चिल्लाया,"The wind is gentle, assuring and relaxing","The wind is intense, threatening and destructive",1,1,1782
+"सूरज ने सुबह अपने दरवाजे खोले और अपनी लंबी भुजाओं से मेरे आस-पास के वातावरण को उज्ज्वल कर दिया, धीरे-धीरे तेज रोशनी के साथ मेरी त्वचा को गर्म करते हुए जीवन के रंग और आकार दिखाते हुए",The sun's light reveals colors and shapes and is warm,The sun's light blinds our eyes and is hot and destructive,0,1,1783
+सूरज ने सुबह अपने दरवाजे खोले और अपनी लंबी भुजाओं से मुझे इसकी तीव्रता से अंधा कर दिया और मेरी पसीने से तर त्वचा को जला दिया,The sun's light reveals colors and shapes and is warm,The sun's light blinds our eyes and is hot and destructive,1,1,1783
+मेरे पास एक चिपमंक की संगीत क्षमता है,My music sounds scratchy and random,My music is soothing and melodious,0,1,1784
+मेरे पास एक गीतकार की संगीत क्षमता है,My music sounds scratchy and random,My music is soothing and melodious,1,1,1784
+कंप्यूटर किसी का सबसे अच्छा दोस्त हो सकता है,Computers can be a great asset,Computers can be a great detriment,0,1,1788
+कंप्यूटर किसी का कड़वी दुश्मन हो सकता है,Computers can be a great asset,Computers can be a great detriment,1,1,1788
+समुद्र तट रेगिस्तान की तरह गर्म था,The beach was very warm.,The beach was very cold.,0,1,1790
+समुद्र तट एक हिमखंड की तरह गर्म था,The beach was very warm.,The beach was very cold.,1,1,1790
+जहाज चट्टान की तरह तेजी से नीचे गिरा,The ship went down fast.,The ship went down very slowly.,0,1,1792
+जहाज तैरते पंख की तरह तेजी से नीचे उतरा,The ship went down fast.,The ship went down very slowly.,1,1,1792
+उसे एक हिरण की कृपा जंगल में चली गई,She is graceful,She is not graceful,0,1,1793
+उसे रोलर ब्लेड पर एक दरियाई घोड़े की कृपा थी,She is graceful,She is not graceful,1,1,1793
+यह बिस्तर टूटे शीशे से अटे फुटपाथ की तरह नरम है,This bed is hard,This bed is soft,0,1,1797
+यह बिस्तर एक फारसी बिल्ली की तरह नरम है,This bed is hard,This bed is soft,1,1,1797
+ये जूते लाल-गर्म वाइस क्लैंप की एक जोड़ी की तरह महसूस करते हैं,These shoes are very uncomfortable,These shoes are very comfortable,0,1,1798
+ये जूते जादू के कालीनों की एक जोड़ी की तरह लगते हैं,These shoes are very uncomfortable,These shoes are very comfortable,1,1,1798
+इस पेड़ में एक पनीर ग्रेटर की छाल होती है,The tree has rough bark.,The tree has smooth bark.,0,1,1809
+इस पेड़ में एक फायरमैन के डंडे की छाल होती है,The tree has rough bark.,The tree has smooth bark.,1,1,1809
+उसके रंगों का संयोजन एक ट्रेन के पटरी से उतरने के बाद की याद दिलाता था।,Her combination of colors was a disaster.,Her combination of colors was divine.,0,1,1811
+उसका रंग संयोजन महान आचार्यों के चित्रों की याद दिलाता था।,Her combination of colors was a disaster.,Her combination of colors was divine.,1,1,1811
+टेस्ट ए-बी-सी जितना आसान था,The test was easy,The test was difficult,0,1,1814
+परीक्षण एक जानवर था,The test was easy,The test was difficult,1,1,1814
+उस आदमी के पास एक दुष्ट प्रतिभा की बुद्धि है,The man is a highly intelligent person,The man is basically a dumb animal,0,1,1816
+उस आदमी के पास फील्ड माउस की बुद्धि है,The man is a highly intelligent person,The man is basically a dumb animal,1,1,1816
+ईमेल कछुए की तरह तेज़ होते हैं,Emails are slow.,Emails are fast.,0,1,1817
+ईमेल रॉकेट की तरह तेज़ होते हैं,Emails are slow.,Emails are fast.,1,1,1817
+रात का खाना चमड़े के जूते की तरह स्वादिष्ट था,The dinner was very dry and tasteless.,The dinner was award winning.,0,1,1819
+रात का खाना एक मिशेलिन स्टार की तरह स्वादिष्ट था,The dinner was very dry and tasteless.,The dinner was award winning.,1,1,1819
+व्याख्या साफ पानी की तरह थी,The explanation was easy and simple to understand,The explanation made to sense.,0,1,1821
+व्याख्या कीचड़ की तरह थी,The explanation was easy and simple to understand,The explanation made to sense.,1,1,1821
