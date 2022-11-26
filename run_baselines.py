@@ -88,6 +88,14 @@ def parse_args():
     parser.add_argument("--do_predict", action='store_true',
                         help="Whether to run prediction on the test set. (Training will not be executed.)")
 
+    parser.add_argument("--save_embeddings", action='store_true',
+                        help="Whether to save [CLS] embeddings for each example in the test set.")
+    
+    parser.add_argument("--save_embeddings_in_tsv", action='store_true',
+                        help="Whether to save embeddings in tsv format as well.")
+
+    parser.add_argument("--embedding_output_dir", type=str, default=None, help="Where to store embeddings.")
+
     parser.add_argument(
         "--max_length",
         type=int,
@@ -215,6 +223,23 @@ def parse_args():
     )
     args = parser.parse_args()
 
+    # Sanity checks: check whether train and eval file present
+    if not args.do_predict:
+        if args.train_file is None or args.eval_file is None:
+            raise ValueError(
+                "Either predict mode or need training and eval file."
+            )
+
+    # If predict: check whether test file present
+    else:
+        if args.test_file is None:
+            raise ValueError("Need test file for predict mode.")
+    
+    # If save embeddings: check whether embedding file present
+    if args.save_embeddings:
+        if args.embedding_output_dir is None:
+            raise ValueError("Need embedding output dir for save embeddings mode.")
+
     if args.push_to_hub:
         assert args.output_dir is not None, "Need an `output_dir` to create a repo when `--push_to_hub` is passed."
 
@@ -329,6 +354,14 @@ def main():
     #
     # In distributed training, the load_dataset function guarantee that only one local process can concurrently
     # download the dataset.
+
+    if args.do_predict:
+        split_key = "test"
+        extension = args.test_file.split(".")[-1]
+    else:
+        split_key = "train"
+        extension = args.train_file.split(".")[-1]
+
     if args.dataset_name is not None:
         # Downloading and loading a dataset from the hub.
         raw_datasets = load_dataset(args.dataset_name, args.dataset_config_name)
@@ -340,7 +373,6 @@ def main():
             data_files["validation"] = args.validation_file
         if args.test_file is not None:
             data_files["test"] = args.test_file
-        extension = args.train_file.split(".")[-1]
         raw_datasets = load_dataset(extension, data_files=data_files)
 
     # Trim a number of training examples
@@ -350,12 +382,7 @@ def main():
     # See more about loading any type of standard or custom dataset (from files, python dict, pandas DataFrame, etc) at
     # https://huggingface.co/docs/datasets/loading_datasets.html.
 
-    if raw_datasets["train"] is not None:
-        column_names = raw_datasets["train"].column_names
-    elif raw_datasets["validation"] is not None:
-        column_names = raw_datasets["validation"].column_names
-    else:
-        column_names = raw_datasets["test"].column_names
+    column_names = raw_datasets[split_key].column_names
 
     # When using your own dataset or a different dataset from swag, you will probably need to change this.
     ending_names = [f"ending{i}" for i in [1, 2]]
@@ -373,6 +400,9 @@ def main():
     else:
         config = CONFIG_MAPPING[args.model_type]()
         logger.warning("You are instantiating a new config instance from scratch.")
+
+    # Set output hidden states to True to get access to all hidden states
+    config.output_hidden_states = True
 
     if args.tokenizer_name:
         tokenizer = AutoTokenizer.from_pretrained(args.tokenizer_name, use_fast=not args.use_slow_tokenizer)
@@ -403,8 +433,6 @@ def main():
     def preprocess_function(examples):
         first_sentences = [[context] * 2 for context in examples[context_name]]
         second_sentences = [[examples[end][i] for end in ending_names] for i in range(len(examples[context_name]))]
-        print(first_sentences[0:10])
-        print(second_sentences[0:10])
         labels = examples[label_column_name]
 
         # Flatten out
@@ -419,22 +447,24 @@ def main():
             padding=padding,
             truncation=True,
         )
+
+        # Save the decoded sentences if storing embeddings
+        if args.do_predict and args.save_embeddings:
+            sentence_fp = os.path.join(args.embedding_output_dir, "sentences.tsv")
+            with open(sentence_fp, "a") as f:
+                for i in range(len(tokenized_examples["input_ids"])):
+                    f.write(tokenizer.decode(tokenized_examples["input_ids"][i]) + "\n")
+
         # Un-flatten
         tokenized_inputs = {k: [v[i : i + 2] for i in range(0, len(v), 2)] for k, v in tokenized_examples.items()}
         tokenized_inputs["labels"] = labels
+
         return tokenized_inputs
 
     with accelerator.main_process_first():
         processed_datasets = raw_datasets.map(
-            preprocess_function, batched=True, remove_columns=raw_datasets["train"].column_names
+            preprocess_function, batched=True, remove_columns=raw_datasets[split_key].column_names
         )
-
-    train_dataset = processed_datasets["train"]
-    eval_dataset = processed_datasets["validation"]
-
-    # Log a few random samples from the training set:
-    for index in random.sample(range(len(train_dataset)), 3):
-        logger.info(f"Sample {index} of the training set: {train_dataset[index]}.")
 
     # DataLoaders creation:
     if args.pad_to_max_length:
@@ -448,102 +478,80 @@ def main():
         data_collator = DataCollatorForMultipleChoice(
             tokenizer, pad_to_multiple_of=(8 if accelerator.use_fp16 else None)
         )
-
-    train_dataloader = DataLoader(
-        train_dataset, shuffle=True, collate_fn=data_collator, batch_size=args.per_device_train_batch_size
-    )
-    eval_dataloader = DataLoader(eval_dataset, collate_fn=data_collator, batch_size=args.per_device_eval_batch_size)
-
-    # Optimizer
-    # Split weights in two groups, one with weight decay and the other not.
-    no_decay = ["bias", "LayerNorm.weight"]
-    optimizer_grouped_parameters = [
-        {
-            "params": [p for n, p in model.named_parameters() if not any(nd in n for nd in no_decay)],
-            "weight_decay": args.weight_decay,
-        },
-        {
-            "params": [p for n, p in model.named_parameters() if any(nd in n for nd in no_decay)],
-            "weight_decay": 0.0,
-        },
-    ]
-    optimizer = torch.optim.AdamW(optimizer_grouped_parameters, lr=args.learning_rate)
-
-    # Use the device given by the `accelerator` object.
-    device = accelerator.device
-    model.to(device)
-
-    # Scheduler and math around the number of training steps.
-    num_update_steps_per_epoch = math.ceil(len(train_dataloader) / args.gradient_accumulation_steps)
-    if args.max_train_steps is None:
-        args.max_train_steps = args.num_train_epochs * num_update_steps_per_epoch
-    else:
-        args.num_train_epochs = math.ceil(args.max_train_steps / num_update_steps_per_epoch)
-
-    num_warmup_steps = 0.1 * args.max_train_steps
-    lr_scheduler = get_scheduler(
-        name=args.lr_scheduler_type,
-        optimizer=optimizer,
-        num_warmup_steps=num_warmup_steps,
-        num_training_steps=args.max_train_steps,
-    )
-
-    # Prepare everything with our `accelerator`.
-    model, optimizer, train_dataloader, eval_dataloader, lr_scheduler = accelerator.prepare(
-        model, optimizer, train_dataloader, eval_dataloader, lr_scheduler
-    )
-
-    # We need to recalculate our total training steps as the size of the training dataloader may have changed.
-    num_update_steps_per_epoch = math.ceil(len(train_dataloader) / args.gradient_accumulation_steps)
-    args.max_train_steps = args.num_train_epochs * num_update_steps_per_epoch
-
-    # Figure out how many steps we should save the Accelerator states
-    if hasattr(args.checkpointing_steps, "isdigit"):
-        checkpointing_steps = args.checkpointing_steps
-        if args.checkpointing_steps.isdigit():
-            checkpointing_steps = int(args.checkpointing_steps)
-    else:
-        checkpointing_steps = None
-
-    # We need to initialize the trackers we use, and also store our configuration.
-    # We initialize the trackers only on main process because `accelerator.log`
-    # only logs on main process and we don't want empty logs/runs on other processes.
-    if args.with_tracking:
-        if accelerator.is_main_process:
-            experiment_config = vars(args)
-            # TensorBoard cannot log Enums, need the raw value
-            experiment_config["lr_scheduler_type"] = experiment_config["lr_scheduler_type"].value
-            accelerator.init_trackers("swag_no_trainer", experiment_config)
-
+    
     # Metrics
     metric = load_metric("accuracy")
 
-    if args.do_predict:
-        test_dataset = processed_datasets["test"]
-        test_dataloader = DataLoader(test_dataset, collate_fn=data_collator, batch_size=args.per_device_eval_batch_size)
-        test_dataloader = accelerator.prepare(test_dataloader)
-        for step, batch in enumerate(test_dataloader):
-            with torch.no_grad():
-                outputs = model(**batch)
-            predictions = outputs.logits.argmax(dim=-1)
-            predictions, references = accelerator.gather((predictions, batch["labels"]))
-            # If we are in a multiprocess environment, the last batch has duplicates
-            if accelerator.num_processes > 1:
-                if step == len(test_dataloader) - 1:
-                    predictions = predictions[: len(test_dataloader.dataset) - samples_seen]
-                    references = references[: len(test_dataloader.dataset) - samples_seen]
-                else:
-                    samples_seen += references.shape[0]
-            metric.add_batch(
-                predictions=predictions,
-                references=references,
-            )
+    if not args.do_predict:
+        train_dataset = processed_datasets["train"]
+        eval_dataset = processed_datasets["validation"]
 
-        eval_metric = metric.compute()
-        accelerator.print(f"test {args.test_file}: {eval_metric}")
+        # Log a few random samples from the training set:
+        for index in random.sample(range(len(train_dataset)), 3):
+            logger.info(f"Sample {index} of the training set: {train_dataset[index]}.")
 
+        train_dataloader = DataLoader(
+            train_dataset, shuffle=True, collate_fn=data_collator, batch_size=args.per_device_train_batch_size
+        )
+        eval_dataloader = DataLoader(eval_dataset, collate_fn=data_collator, batch_size=args.per_device_eval_batch_size)
 
-    else:
+        # Optimizer
+        # Split weights in two groups, one with weight decay and the other not.
+        no_decay = ["bias", "LayerNorm.weight"]
+        optimizer_grouped_parameters = [
+            {
+                "params": [p for n, p in model.named_parameters() if not any(nd in n for nd in no_decay)],
+                "weight_decay": args.weight_decay,
+            },
+            {
+                "params": [p for n, p in model.named_parameters() if any(nd in n for nd in no_decay)],
+                "weight_decay": 0.0,
+            },
+        ]
+        optimizer = torch.optim.AdamW(optimizer_grouped_parameters, lr=args.learning_rate)
+
+        # Scheduler and math around the number of training steps.
+        num_update_steps_per_epoch = math.ceil(len(train_dataloader) / args.gradient_accumulation_steps)
+        if args.max_train_steps is None:
+            args.max_train_steps = args.num_train_epochs * num_update_steps_per_epoch
+        else:
+            args.num_train_epochs = math.ceil(args.max_train_steps / num_update_steps_per_epoch)
+
+        num_warmup_steps = 0.1 * args.max_train_steps
+        lr_scheduler = get_scheduler(
+            name=args.lr_scheduler_type,
+            optimizer=optimizer,
+            num_warmup_steps=num_warmup_steps,
+            num_training_steps=args.max_train_steps,
+        )
+
+        # Prepare everything with our `accelerator`.
+        model, optimizer, train_dataloader, eval_dataloader, lr_scheduler = accelerator.prepare(
+            model, optimizer, train_dataloader, eval_dataloader, lr_scheduler
+        )
+
+        # We need to recalculate our total training steps as the size of the training dataloader may have changed.
+        num_update_steps_per_epoch = math.ceil(len(train_dataloader) / args.gradient_accumulation_steps)
+        args.max_train_steps = args.num_train_epochs * num_update_steps_per_epoch
+
+        # Figure out how many steps we should save the Accelerator states
+        if hasattr(args.checkpointing_steps, "isdigit"):
+            checkpointing_steps = args.checkpointing_steps
+            if args.checkpointing_steps.isdigit():
+                checkpointing_steps = int(args.checkpointing_steps)
+        else:
+            checkpointing_steps = None
+
+        # We need to initialize the trackers we use, and also store our configuration.
+        # We initialize the trackers only on main process because `accelerator.log`
+        # only logs on main process and we don't want empty logs/runs on other processes.
+        if args.with_tracking:
+            if accelerator.is_main_process:
+                experiment_config = vars(args)
+                # TensorBoard cannot log Enums, need the raw value
+                experiment_config["lr_scheduler_type"] = experiment_config["lr_scheduler_type"].value
+                accelerator.init_trackers("swag_no_trainer", experiment_config)
+
         # Train!
         total_batch_size = args.per_device_train_batch_size * accelerator.num_processes * args.gradient_accumulation_steps
 
@@ -591,7 +599,9 @@ def main():
                     if resume_step is not None and step < resume_step:
                         completed_steps += 1
                         continue
-                outputs = model(**batch)
+                outputs = model(input_ids=batch["input_ids"], 
+                                attention_mask=batch["attention_mask"],
+                                labels=batch["labels"])
                 loss = outputs.loss
                 # We keep track of the loss at each epoch
                 if args.with_tracking:
@@ -678,6 +688,51 @@ def main():
                     repo.push_to_hub(commit_message="End of training", auto_lfs_prune=True)
             with open(os.path.join(args.output_dir, "all_results.json"), "w") as f:
                 json.dump({"eval_accuracy": eval_metric["accuracy"]}, f)
+    
+    else:
+         # Use the device given by the `accelerator` object.
+        cls_embeddings_all = []
+        test_dataset = processed_datasets["test"]
+        test_dataloader = DataLoader(test_dataset, collate_fn=data_collator, batch_size=args.per_device_eval_batch_size)
+        model, test_dataloader = accelerator.prepare(model, test_dataloader)
+        for step, batch in enumerate(test_dataloader):
+            with torch.no_grad():
+                outputs = model(input_ids=batch["input_ids"], 
+                                attention_mask=batch["attention_mask"],
+                                labels=batch["labels"])
+            predictions = outputs.logits.argmax(dim=-1)
+            predictions, references = accelerator.gather((predictions, batch["labels"]))
+
+            # Obtain [CLS] embedding from hidden states
+            if args.save_embeddings:
+                tensor_outfile = os.path.join(args.embedding_output_dir, "embeddings.pt")
+                tsv_outfile = os.path.join(args.embedding_output_dir, "embeddings.tsv")
+                cls_embeddings = outputs.hidden_states[-1][:, 0, :]
+                cls_embeddings = accelerator.gather(cls_embeddings)
+                if accelerator.is_main_process:
+                    for cls_embedding in cls_embeddings:
+                        cls_embeddings_all.append(cls_embedding)
+                        cls_embedding = cls_embedding.cpu().numpy()
+                        with open(tsv_outfile, "a") as f:
+                            f.write("\t".join([str(x) for x in cls_embedding]) + "\n")
+            # If we are in a multiprocess environment, the last batch has duplicates
+            if accelerator.num_processes > 1:
+                if step == len(test_dataloader) - 1:
+                    predictions = predictions[: len(test_dataloader.dataset) - samples_seen]
+                    references = references[: len(test_dataloader.dataset) - samples_seen]
+                else:
+                    samples_seen += references.shape[0]
+            metric.add_batch(
+                predictions=predictions,
+                references=references,
+            )
+
+        eval_metric = metric.compute()
+        accelerator.print(f"test {args.test_file}: {eval_metric}")
+
+        if args.save_embeddings:
+            if accelerator.is_main_process:
+                torch.save({"embeddings": cls_embeddings_all}, tensor_outfile)
 
 
 if __name__ == "__main__":
