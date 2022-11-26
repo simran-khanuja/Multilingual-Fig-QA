@@ -1,4 +1,4 @@
-MODEL=xlmr_large
+MODEL=xlm_roberta_large
 MODEL_NAME_OR_PATH=xlm-roberta-large
 
 # TRAIN

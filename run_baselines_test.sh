@@ -1,19 +1,21 @@
 # TEST
 test_files=( "dev_fr_en.csv" "dev_fr_fr.csv" "dev_hi_en.csv" "dev_hi_hi.csv" "dev_ja_en.csv" "dev_ja_ja.csv" )
+languages=( "fr_en" "fr_fr" "hi_en" "hi_hi" "ja_en" "ja_ja" )
+
 LR=5e-6
 SEED=10
-MODEL=xlmr_large
+MODEL=xlm_roberta_large
 
-for test_file in "${test_files[@]}"
+for index in "${!test_files[@]}"
 do
+    rm -rf "./${MODEL}/embeddings_seed${SEED}_lr${LR}_${languages[index]}"
+    mkdir -p "./${MODEL}/embeddings_seed${SEED}_lr${LR}_${languages[index]}"
     echo "======================================================================="
-    echo "========================= Metaphor ${MODEL} LR ${LR} seed ${SEED} ==========================="
+    echo "========== Metaphor ${MODEL} LR ${LR} seed ${SEED} language ${languages[index]} ========"
     echo "======================================================================="
     python run_baselines.py \
     --model_name_or_path ./${MODEL}/ckpts_seed${SEED}_lr${LR} \
-    --train_file train.csv \
-    --validation_file dev.csv \
-    --test_file translated_dev_sets/${test_file} \
+    --test_file translated_dev_sets/${test_files[index]} \
     --do_predict \
     --max_length 128 \
     --per_device_train_batch_size 32 \
@@ -22,5 +24,8 @@ do
     --learning_rate ${LR} \
     --num_train_epochs 20 \
     --output_dir ./${MODEL}/ckpts_seed${SEED}_lr${LR} \
-    --seed $SEED > ./logs/${MODEL}_seed${SEED}_lr${LR}_${test_file}.log
+    --seed $SEED \
+    --save_embeddings \
+    --save_embeddings_in_tsv \
+    --embedding_output_dir ./${MODEL}/embeddings_seed${SEED}_lr${LR}_${languages[index]}
 done
