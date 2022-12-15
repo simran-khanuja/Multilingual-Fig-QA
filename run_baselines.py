@@ -52,16 +52,30 @@ from transformers import (
     get_scheduler,
 )
 from transformers.utils import PaddingStrategy, get_full_repo_name
-
+import pdb
 
 logger = get_logger(__name__)
 # You should update this to your particular problem to have better documentation of `model_type`
 MODEL_CONFIG_CLASSES = list(MODEL_MAPPING.keys())
 MODEL_TYPES = tuple(conf.model_type for conf in MODEL_CONFIG_CLASSES)
-
+ALL_LANGS = ["en", "hi", "id", "jv", "kn", "su", "sw"]
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Finetune a transformers model on a text classification task")
+    parser.add_argument(
+        "--source_lang",
+        type=str,
+        default="en",
+        help="Source language (to train on)",
+        choices=ALL_LANGS
+    )
+    parser.add_argument(
+        "--target_lang",
+        type=str,
+        default="hi",
+        help="Target language (to evaluate on)",
+        choices=ALL_LANGS
+    )
     parser.add_argument(
         "--dataset_name",
         type=str,
@@ -225,7 +239,7 @@ def parse_args():
 
     # Sanity checks: check whether train and eval file present
     if not args.do_predict:
-        if args.train_file is None or args.eval_file is None:
+        if (args.train_file is None or args.eval_file is None) and (args.source_lang is None):
             raise ValueError(
                 "Either predict mode or need training and eval file."
             )
@@ -355,7 +369,10 @@ def main():
     # In distributed training, the load_dataset function guarantee that only one local process can concurrently
     # download the dataset.
 
-    if args.do_predict:
+    if args.source_lang is not None and args.target_lang is not None:
+        split_key = "train"
+        extension = "csv"
+    elif args.do_predict:
         split_key = "test"
         extension = args.test_file.split(".")[-1]
     else:
@@ -367,14 +384,31 @@ def main():
         raw_datasets = load_dataset(args.dataset_name, args.dataset_config_name)
     else:
         data_files = {}
-        if args.train_file is not None:
-            data_files["train"] = args.train_file
-        if args.validation_file is not None:
-            data_files["validation"] = args.validation_file
-        if args.test_file is not None:
-            data_files["test"] = args.test_file
+        if args.source_lang is not None and args.target_lang is not None:
+            data_files["train"] = f"./langdata/{args.source_lang}.csv"
+            if args.source_lang != args.target_lang:
+                data_files["test"] = f"./langdata/{args.target_lang}.csv"
+        else:
+            if args.train_file is not None:
+                data_files["train"] = args.train_file
+            if args.validation_file is not None:
+                data_files["validation"] = args.validation_file
+            if args.test_file is not None:
+                data_files["test"] = args.test_file
         raw_datasets = load_dataset(extension, data_files=data_files)
 
+        # split into train and validation if we specified by language
+        if args.source_lang is not None and args.target_lang is not None:
+            if args.source_lang != args.target_lang:
+                split_dataset = raw_datasets["train"].train_test_split(test_size=0.1)
+                raw_datasets["train"] = split_dataset["train"]
+                raw_datasets["validation"] = split_dataset["test"]
+            else:
+                split_dataset = raw_datasets["train"].train_test_split(test_size=0.1)
+                split_dataset_2 = split_dataset["test"].train_test_split(test_size=0.5)
+                raw_datasets["train"] = split_dataset["train"]
+                raw_datasets["validation"] = split_dataset_2["train"]
+                raw_datasets["test"] = split_dataset_2["test"]
     # Trim a number of training examples
     if args.debug:
         for split in raw_datasets.keys():
