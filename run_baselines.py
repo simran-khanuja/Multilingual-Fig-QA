@@ -239,7 +239,7 @@ def parse_args():
 
     # Sanity checks: check whether train and eval file present
     if not args.do_predict:
-        if (args.train_file is None or args.eval_file is None) and (args.source_lang is None):
+        if (args.train_file is None or args.validation_file is None) and (args.source_lang is None):
             raise ValueError(
                 "Either predict mode or need training and eval file."
             )
