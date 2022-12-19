@@ -65,14 +65,12 @@ def parse_args():
     parser.add_argument(
         "--source_lang",
         type=str,
-        default="en",
         help="Source language (to train on)",
         choices=ALL_LANGS
     )
     parser.add_argument(
         "--target_lang",
         type=str,
-        default="hi",
         help="Target language (to evaluate on)",
         choices=ALL_LANGS
     )
@@ -313,6 +311,68 @@ class DataCollatorForMultipleChoice:
         batch["labels"] = torch.tensor(labels, dtype=torch.int64)
         return batch
 
+def train_model(starting_epoch, num_train_epochs, train_dataloader, model, optimizer, scheduler, args, completed_steps, eval_dataloader=None):
+    model.train()
+    if args.with_tracking:
+        total_loss = 0
+    for step, batch in enumerate(train_dataloader):
+        # We need to skip steps until we reach the resumed step
+        if args.resume_from_checkpoint and epoch == starting_epoch:
+            if resume_step is not None and step < resume_step:
+                completed_steps += 1
+                continue
+        outputs = model(input_ids=batch["input_ids"], 
+                        attention_mask=batch["attention_mask"],
+                        labels=batch["labels"])
+        loss = outputs.loss
+        # We keep track of the loss at each epoch
+        if args.with_tracking:
+            total_loss += loss.detach().float()
+        loss = loss / args.gradient_accumulation_steps
+        accelerator.backward(loss)
+        if step % args.gradient_accumulation_steps == 0 or step == len(train_dataloader) - 1:
+            optimizer.step()
+            lr_scheduler.step()
+            optimizer.zero_grad()
+            progress_bar.update(1)
+            completed_steps += 1
+
+        if isinstance(checkpointing_steps, int):
+            if completed_steps % checkpointing_steps == 0:
+                output_dir = f"step_{completed_steps }"
+                if args.output_dir is not None:
+                    output_dir = os.path.join(args.output_dir, output_dir)
+                accelerator.save_state(output_dir)
+
+        if completed_steps >= args.max_train_steps:
+            break
+
+    return model, loss
+
+def eval_model(model, eval_dataloader, metric, accelerator):
+    model.eval()
+    samples_seen = 0
+    for step, batch in enumerate(eval_dataloader):
+        with torch.no_grad():
+            outputs = model(**batch)
+        predictions = outputs.logits.argmax(dim=-1)
+        predictions, references = accelerator.gather((predictions, batch["labels"]))
+        # If we are in a multiprocess environment, the last batch has duplicates
+        if accelerator.num_processes > 1:
+            if step == len(eval_dataloader) - 1:
+                predictions = predictions[: len(eval_dataloader.dataset) - samples_seen]
+                references = references[: len(eval_dataloader.dataset) - samples_seen]
+            else:
+                samples_seen += references.shape[0]
+        metric.add_batch(
+            predictions=predictions,
+            references=references,
+        )
+
+    eval_metric = metric.compute()
+    accelerator.print(f"epoch {epoch}: {eval_metric}")
+
+    return eval_metric
 
 def main():
     args = parse_args()
@@ -625,62 +685,12 @@ def main():
 
         for epoch in range(starting_epoch, args.num_train_epochs):
             model.train()
-            if args.with_tracking:
-                total_loss = 0
-            for step, batch in enumerate(train_dataloader):
-                # We need to skip steps until we reach the resumed step
-                if args.resume_from_checkpoint and epoch == starting_epoch:
-                    if resume_step is not None and step < resume_step:
-                        completed_steps += 1
-                        continue
-                outputs = model(input_ids=batch["input_ids"], 
-                                attention_mask=batch["attention_mask"],
-                                labels=batch["labels"])
-                loss = outputs.loss
-                # We keep track of the loss at each epoch
-                if args.with_tracking:
-                    total_loss += loss.detach().float()
-                loss = loss / args.gradient_accumulation_steps
-                accelerator.backward(loss)
-                if step % args.gradient_accumulation_steps == 0 or step == len(train_dataloader) - 1:
-                    optimizer.step()
-                    lr_scheduler.step()
-                    optimizer.zero_grad()
-                    progress_bar.update(1)
-                    completed_steps += 1
+            model, loss = train_model(model, optimizer, scheduler, args, completed_steps)
+            total_loss += loss
+            completed_steps += 1
 
-                if isinstance(checkpointing_steps, int):
-                    if completed_steps % checkpointing_steps == 0:
-                        output_dir = f"step_{completed_steps }"
-                        if args.output_dir is not None:
-                            output_dir = os.path.join(args.output_dir, output_dir)
-                        accelerator.save_state(output_dir)
-
-                if completed_steps >= args.max_train_steps:
-                    break
-
-            model.eval()
-            samples_seen = 0
-            for step, batch in enumerate(eval_dataloader):
-                with torch.no_grad():
-                    outputs = model(**batch)
-                predictions = outputs.logits.argmax(dim=-1)
-                predictions, references = accelerator.gather((predictions, batch["labels"]))
-                # If we are in a multiprocess environment, the last batch has duplicates
-                if accelerator.num_processes > 1:
-                    if step == len(eval_dataloader) - 1:
-                        predictions = predictions[: len(eval_dataloader.dataset) - samples_seen]
-                        references = references[: len(eval_dataloader.dataset) - samples_seen]
-                    else:
-                        samples_seen += references.shape[0]
-                metric.add_batch(
-                    predictions=predictions,
-                    references=references,
-                )
-
-            eval_metric = metric.compute()
-            accelerator.print(f"epoch {epoch}: {eval_metric}")
-
+            eval_metric = evaluate_model(model, eval_dataloader, args)
+        
             if args.with_tracking:
                 accelerator.log(
                     {
