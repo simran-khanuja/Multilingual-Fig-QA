@@ -65,14 +65,12 @@ def parse_args():
     parser.add_argument(
         "--source_lang",
         type=str,
-        default="en",
         help="Source language (to train on)",
         choices=ALL_LANGS
     )
     parser.add_argument(
         "--target_lang",
         type=str,
-        default="hi",
         help="Target language (to evaluate on)",
         choices=ALL_LANGS
     )
