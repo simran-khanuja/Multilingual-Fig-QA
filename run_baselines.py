@@ -246,24 +246,24 @@ def parse_args():
     args = parser.parse_args()
 
     # Sanity checks: check whether train and eval file present
-    if not args.do_predict:
-        if (args.train_file is None or args.validation_file is None) and (args.source_lang is None):
+    if not args["do_predict"]:
+        if (args["train_file"] is None or args["validation_file"] is None) and (args["source_lang"] is None):
             raise ValueError(
                 "Either predict mode or need training and eval file."
             )
 
     # If predict: check whether test file present
     else:
-        if args.test_file is None:
+        if args["test_file"] is None:
             raise ValueError("Need test file for predict mode.")
     
     # If save embeddings: check whether embedding file present
-    if args.save_embeddings:
-        if args.embedding_output_dir is None:
+    if args["save_embeddings"]:
+        if args["embedding_output_dir"] is None:
             raise ValueError("Need embedding output dir for save embeddings mode.")
 
-    if args.push_to_hub:
-        assert args.output_dir is not None, "Need an `output_dir` to create a repo when `--push_to_hub` is passed."
+    if args["push_to_hub"]:
+        assert args["output_dir"] is not None, "Need an `output_dir` to create a repo when `--push_to_hub` is passed."
 
     return args
 
@@ -321,13 +321,16 @@ class DataCollatorForMultipleChoice:
         batch["labels"] = torch.tensor(labels, dtype=torch.int64)
         return batch
 
+def prepare_data():
+    pass
+
 def train_model(train_dataloader, model, accelerator, optimizer, lr_scheduler, args, completed_steps, checkpointing_steps, progress_bar, eval_dataloader=None):
     model.train()
-    if args.with_tracking:
+    if args["with_tracking"]:
         total_loss = 0
     for step, batch in enumerate(train_dataloader):
         # We need to skip steps until we reach the resumed step
-        if args.resume_from_checkpoint and epoch == starting_epoch:
+        if args["resume_from_checkpoint"] and epoch == starting_epoch:
             if resume_step is not None and step < resume_step:
                 completed_steps += 1
                 continue
@@ -336,27 +339,27 @@ def train_model(train_dataloader, model, accelerator, optimizer, lr_scheduler, a
                         labels=batch["labels"])
         loss = outputs.loss
         # We keep track of the loss at each epoch
-        if args.with_tracking:
+        if args["with_tracking"]:
             total_loss += loss.detach().float()
-        loss = loss / args.gradient_accumulation_steps
+        loss = loss / args["gradient_accumulation_steps"]
         accelerator.backward(loss)
         
-        if step % args.gradient_accumulation_steps == 0 or step == len(train_dataloader) - 1:
+        if step % args["gradient_accumulation_steps"] == 0 or step == len(train_dataloader) - 1:
             optimizer.step()
             lr_scheduler.step()
             optimizer.zero_grad()
-            if not args.silent:
+            if not args["silent"]:
                 progress_bar.update(1)
             completed_steps += 1
 
         if isinstance(checkpointing_steps, int):
             if completed_steps % checkpointing_steps == 0:
                 output_dir = f"step_{completed_steps }"
-                if args.output_dir is not None:
-                    output_dir = os.path.join(args.output_dir, output_dir)
+                if args["output_dir"] is not None:
+                    output_dir = os.path.join(args["output_dir"], output_dir)
                 accelerator.save_state(output_dir)
 
-        if completed_steps >= args.max_train_steps:
+        if completed_steps >= args["max_train_steps"]:
             break
 
     return model, loss, completed_steps
@@ -395,7 +398,7 @@ def main_train_loop(train_dataloader, eval_dataloader, model, tokenizer, metric,
 
         eval_metric = eval_model(model, eval_dataloader, metric, accelerator, epoch, args)
     
-        if args.with_tracking:
+        if args["with_tracking"]:
             accelerator.log(
                 {
                     "accuracy": eval_metric,
@@ -406,49 +409,52 @@ def main_train_loop(train_dataloader, eval_dataloader, model, tokenizer, metric,
                 step=completed_steps,
             )
 
-        if args.push_to_hub and epoch < args.num_train_epochs - 1:
+        if args["push_to_hub"] and epoch < args["num_train_epochs"] - 1:
             accelerator.wait_for_everyone()
             unwrapped_model = accelerator.unwrap_model(model)
             unwrapped_model.save_pretrained(
-                args.output_dir, is_main_process=accelerator.is_main_process, save_function=accelerator.save
+                args["output_dir"], is_main_process=accelerator.is_main_process, save_function=accelerator.save
             )
             if accelerator.is_main_process:
-                tokenizer.save_pretrained(args.output_dir)
+                tokenizer.save_pretrained(args["output_dir"])
                 repo.push_to_hub(
                     commit_message=f"Training in progress epoch {epoch}", blocking=False, auto_lfs_prune=True
                 )
 
-        if args.checkpointing_steps == "epoch":
+        if args["checkpointing_steps"] == "epoch":
             output_dir = f"epoch_{epoch}"
-            if args.output_dir is not None:
-                output_dir = os.path.join(args.output_dir, output_dir)
+            if args["output_dir"] is not None:
+                output_dir = os.path.join(args["output_dir"], output_dir)
             accelerator.save_state(output_dir)
 
-    if args.output_dir is not None:
+    if args["output_dir"] is not None:
         accelerator.wait_for_everyone()
         unwrapped_model = accelerator.unwrap_model(model)
         unwrapped_model.save_pretrained(
-            args.output_dir, is_main_process=accelerator.is_main_process, save_function=accelerator.save
+            args["output_dir"], is_main_process=accelerator.is_main_process, save_function=accelerator.save
         )
         if accelerator.is_main_process:
-            tokenizer.save_pretrained(args.output_dir)
-            if args.push_to_hub:
+            tokenizer.save_pretrained(args["output_dir"])
+            if args["push_to_hub"]:
                 repo.push_to_hub(commit_message="End of training", auto_lfs_prune=True)
-        with open(os.path.join(args.output_dir, "all_results.json"), "w") as f:
+        with open(os.path.join(args["output_dir"], "all_results.json"), "w") as f:
             json.dump({"eval_accuracy": eval_metric["accuracy"]}, f)
 
+    return eval_metric["accuracy"]
 
-def main():
-    args = parse_args()
-
+def main(args=None):
+    if args is None:
+        args = parse_args()
+    elif isinstance(args, argparse.Namespace):
+        args = vars(args)
     # Initialize the accelerator. We will let the accelerator handle device placement for us in this example.
     # If we're using tracking, we also need to initialize it here and it will by default pick up all supported trackers
     # in the environment
     accelerator = (
-        Accelerator(log_with=args.report_to, logging_dir=args.output_dir) if args.with_tracking else Accelerator()
+        Accelerator(log_with=args["report_to"], logging_dir=args["output_dir"]) if args["with_tracking"] else Accelerator()
     )
     # Make one log on every process with the configuration for debugging.
-    level = logging.INFO if not args.silent else logging.ERROR
+    level = logging.INFO if not args["silent"] else logging.ERROR
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
         datefmt="%m/%d/%Y %H:%M:%S",
@@ -456,7 +462,7 @@ def main():
     )
     logger.info(accelerator.state, main_process_only=False)
 
-    if args.silent: # also disable hf logs
+    if args["silent"]: # also disable hf logs
         transformers.logging.set_verbosity_error()
         datasets.logging.set_verbosity_error()
         datasets.utils.logging.disable_propagation()
@@ -470,25 +476,25 @@ def main():
             transformers.utils.logging.set_verbosity_error()
 
     # If passed along, set the training seed now.
-    if args.seed is not None:
-        set_seed(args.seed)
+    if args["seed"] is not None:
+        set_seed(args["seed"])
 
     # Handle the repository creation
     if accelerator.is_main_process:
-        if args.push_to_hub:
-            if args.hub_model_id is None:
-                repo_name = get_full_repo_name(Path(args.output_dir).name, token=args.hub_token)
+        if args["push_to_hub"]:
+            if args["hub_model_id"] is None:
+                repo_name = get_full_repo_name(Path(args["output_dir"]).name, token=["hub_token"])
             else:
-                repo_name = args.hub_model_id
-            repo = Repository(args.output_dir, clone_from=repo_name)
+                repo_name = args["hub_model_id"]
+            repo = Repository(args["output_dir"], clone_from=repo_name)
 
-            with open(os.path.join(args.output_dir, ".gitignore"), "w+") as gitignore:
+            with open(os.path.join(args["output_dir"], ".gitignore"), "w+") as gitignore:
                 if "step_*" not in gitignore:
                     gitignore.write("step_*\n")
                 if "epoch_*" not in gitignore:
                     gitignore.write("epoch_*\n")
-        elif args.output_dir is not None:
-            os.makedirs(args.output_dir, exist_ok=True)
+        elif args["output_dir"] is not None:
+            os.makedirs(args["output_dir"], exist_ok=True)
     accelerator.wait_for_everyone()
 
     # Get the datasets: you can either provide your own CSV/JSON/TXT training and evaluation files (see below)
@@ -501,37 +507,37 @@ def main():
     # In distributed training, the load_dataset function guarantee that only one local process can concurrently
     # download the dataset.
 
-    if args.source_lang is not None and args.target_lang is not None:
+    if args["source_lang"] is not None and args["target_lang"] is not None:
         split_key = "train"
         extension = "csv"
-    elif args.do_predict:
+    elif args["do_predict"]:
         split_key = "test"
-        extension = args.test_file.split(".")[-1]
+        extension = args["test_file"].split(".")[-1]
     else:
         split_key = "train"
-        extension = args.train_file.split(".")[-1]
+        extension = args["train_file"].split(".")[-1]
 
-    if args.dataset_name is not None:
+    if args["dataset_name"] is not None:
         # Downloading and loading a dataset from the hub.
-        raw_datasets = load_dataset(args.dataset_name, args.dataset_config_name)
+        raw_datasets = load_dataset(args["dataset_name"], args["dataset_config_name"])
     else:
         data_files = {}
-        if args.source_lang is not None and args.target_lang is not None:
-            data_files["train"] = f"./langdata/{args.source_lang}.csv"
-            if args.source_lang != args.target_lang:
-                data_files["test"] = f"./langdata/{args.target_lang}.csv"
+        if args["source_lang"] is not None and args["target_lang"] is not None:
+            data_files["train"] = f'./langdata/{args["source_lang"]}.csv'
+            if args["source_lang"] != args["target_lang"]:
+                data_files["test"] = f'./langdata/{args["target_lang"]}.csv'
         else:
-            if args.train_file is not None:
-                data_files["train"] = args.train_file
-            if args.validation_file is not None:
-                data_files["validation"] = args.validation_file
-            if args.test_file is not None:
-                data_files["test"] = args.test_file
+            if args["train_file"] is not None:
+                data_files["train"] = args["train_file"]
+            if args["validation_file"] is not None:
+                data_files["validation"] = args["validation_file"]
+            if args["test_file"] is not None:
+                data_files["test"] = args["test_file"]
         raw_datasets = load_dataset(extension, data_files=data_files)
 
         # split into train and validation if we specified by language
-        if args.source_lang is not None and args.target_lang is not None:
-            if args.source_lang != args.target_lang:
+        if args["source_lang"] is not None and args["target_lang"] is not None:
+            if args["source_lang"] != args["target_lang"]:
                 split_dataset = raw_datasets["train"].train_test_split(test_size=0.1)
                 raw_datasets["train"] = split_dataset["train"]
                 raw_datasets["validation"] = split_dataset["test"]
@@ -542,7 +548,7 @@ def main():
                 raw_datasets["validation"] = split_dataset_2["train"]
                 raw_datasets["test"] = split_dataset_2["test"]
     # Trim a number of training examples
-    if args.debug:
+    if args["debug"]:
         for split in raw_datasets.keys():
             raw_datasets[split] = raw_datasets[split].select(range(100))
     # See more about loading any type of standard or custom dataset (from files, python dict, pandas DataFrame, etc) at
@@ -559,31 +565,31 @@ def main():
     #
     # In distributed training, the .from_pretrained methods guarantee that only one local process can concurrently
     # download model & vocab.
-    if args.config_name:
-        config = AutoConfig.from_pretrained(args.model_name_or_path)
-    elif args.model_name_or_path:
-        config = AutoConfig.from_pretrained(args.model_name_or_path)
+    if args["config_name"]:
+        config = AutoConfig.from_pretrained(args["model_name_or_path"])
+    elif args["model_name_or_path"]:
+        config = AutoConfig.from_pretrained(args["model_name_or_path"])
     else:
-        config = CONFIG_MAPPING[args.model_type]()
+        config = CONFIG_MAPPING[args["model_type"]]()
         logger.warning("You are instantiating a new config instance from scratch.")
 
     # Set output hidden states to True to get access to all hidden states
     config.output_hidden_states = True
 
-    if args.tokenizer_name:
-        tokenizer = AutoTokenizer.from_pretrained(args.tokenizer_name, use_fast=not args.use_slow_tokenizer)
-    elif args.model_name_or_path:
-        tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path, use_fast=not args.use_slow_tokenizer)
+    if args["tokenizer_name"]:
+        tokenizer = AutoTokenizer.from_pretrained(args["tokenizer_name"], use_fast=not args["use_slow_tokenizer"])
+    elif args["model_name_or_path"]:
+        tokenizer = AutoTokenizer.from_pretrained(args["model_name_or_path"], use_fast=not args["use_slow_tokenizer"])
     else:
         raise ValueError(
             "You are instantiating a new tokenizer from scratch. This is not supported by this script."
             "You can do it from another script, save it, and load it from here, using --tokenizer_name."
         )
 
-    if args.model_name_or_path:
+    if args["model_name_or_path"]:
         model = AutoModelForMultipleChoice.from_pretrained(
-            args.model_name_or_path,
-            from_tf=bool(".ckpt" in args.model_name_or_path),
+            args["model_name_or_path"],
+            from_tf=bool(".ckpt" in args["model_name_or_path"]),
             config=config,
         )
     else:
@@ -594,7 +600,7 @@ def main():
 
     # Preprocessing the datasets.
     # First we tokenize all the texts.
-    padding = "max_length" if args.pad_to_max_length else False
+    padding = "max_length" if args["pad_to_max_length"] else False
 
     def preprocess_function(examples):
         first_sentences = [[context] * 2 for context in examples[context_name]]
@@ -609,14 +615,14 @@ def main():
         tokenized_examples = tokenizer(
             first_sentences,
             second_sentences,
-            max_length=args.max_length,
+            max_length=args["max_length"],
             padding=padding,
             truncation=True,
         )
 
         # Save the decoded sentences if storing embeddings
-        if args.do_predict and args.save_embeddings:
-            sentence_fp = os.path.join(args.embedding_output_dir, "sentences.tsv")
+        if args["do_predict"] and args["save_embeddings"]:
+            sentence_fp = os.path.join(args["embedding_output_dir"], "sentences.tsv")
             with open(sentence_fp, "a") as f:
                 for i in range(len(tokenized_examples["input_ids"])):
                     f.write(tokenizer.decode(tokenized_examples["input_ids"][i]) + "\n")
@@ -633,7 +639,7 @@ def main():
         )
 
     # DataLoaders creation:
-    if args.pad_to_max_length:
+    if args["pad_to_max_length"]:
         # If padding was already done ot max length, we use the default data collator that will just convert everything
         # to tensors.
         data_collator = default_data_collator
@@ -648,7 +654,7 @@ def main():
     # Metrics
     metric = load_metric("accuracy")
 
-    if not args.do_predict:
+    if not args["do_predict"]:
         train_dataset = processed_datasets["train"]
         eval_dataset = processed_datasets["validation"]
 
@@ -657,9 +663,9 @@ def main():
             logger.info(f"Sample {index} of the training set: {train_dataset[index]}.")
 
         train_dataloader = DataLoader(
-            train_dataset, shuffle=True, collate_fn=data_collator, batch_size=args.per_device_train_batch_size
+            train_dataset, shuffle=True, collate_fn=data_collator, batch_size=args["per_device_train_batch_size"]
         )
-        eval_dataloader = DataLoader(eval_dataset, collate_fn=data_collator, batch_size=args.per_device_eval_batch_size)
+        eval_dataloader = DataLoader(eval_dataset, collate_fn=data_collator, batch_size=args["per_device_eval_batch_size"])
 
         # Optimizer
         # Split weights in two groups, one with weight decay and the other not.
@@ -667,28 +673,28 @@ def main():
         optimizer_grouped_parameters = [
             {
                 "params": [p for n, p in model.named_parameters() if not any(nd in n for nd in no_decay)],
-                "weight_decay": args.weight_decay,
+                "weight_decay": args["weight_decay"],
             },
             {
                 "params": [p for n, p in model.named_parameters() if any(nd in n for nd in no_decay)],
                 "weight_decay": 0.0,
             },
         ]
-        optimizer = torch.optim.AdamW(optimizer_grouped_parameters, lr=args.learning_rate)
+        optimizer = torch.optim.AdamW(optimizer_grouped_parameters, lr=args["learning_rate"])
 
         # Scheduler and math around the number of training steps.
-        num_update_steps_per_epoch = math.ceil(len(train_dataloader) / args.gradient_accumulation_steps)
-        if args.max_train_steps is None:
-            args.max_train_steps = args.num_train_epochs * num_update_steps_per_epoch
+        num_update_steps_per_epoch = math.ceil(len(train_dataloader) / args["gradient_accumulation_steps"])
+        if args["max_train_steps"] is None:
+            args["max_train_steps"] = args["num_train_epochs"] * num_update_steps_per_epoch
         else:
-            args.num_train_epochs = math.ceil(args.max_train_steps / num_update_steps_per_epoch)
+            args["num_train_epochs"] = math.ceil(args["max_train_steps"] / num_update_steps_per_epoch)
 
-        num_warmup_steps = 0.1 * args.max_train_steps
+        num_warmup_steps = 0.1 * args["max_train_steps"]
         lr_scheduler = get_scheduler(
-            name=args.lr_scheduler_type,
+            name=args["lr_scheduler_type"],
             optimizer=optimizer,
             num_warmup_steps=num_warmup_steps,
-            num_training_steps=args.max_train_steps,
+            num_training_steps=args["max_train_steps"],
         )
 
         # Prepare everything with our `accelerator`.
@@ -697,48 +703,49 @@ def main():
         )
 
         # We need to recalculate our total training steps as the size of the training dataloader may have changed.
-        num_update_steps_per_epoch = math.ceil(len(train_dataloader) / args.gradient_accumulation_steps)
-        args.max_train_steps = args.num_train_epochs * num_update_steps_per_epoch
+        num_update_steps_per_epoch = math.ceil(len(train_dataloader) / args["gradient_accumulation_steps"])
+        args["max_train_steps"] = args["num_train_epochs"] * num_update_steps_per_epoch
 
         # Figure out how many steps we should save the Accelerator states
-        if hasattr(args.checkpointing_steps, "isdigit"):
-            checkpointing_steps = args.checkpointing_steps
-            if args.checkpointing_steps.isdigit():
-                checkpointing_steps = int(args.checkpointing_steps)
+        if hasattr(args["checkpointing_steps"], "isdigit"):
+            checkpointing_steps = args["checkpointing_steps"]
+            if args["checkpointing_steps"].isdigit():
+                checkpointing_steps = int(args["checkpointing_steps"])
         else:
             checkpointing_steps = None
 
         # We need to initialize the trackers we use, and also store our configuration.
         # We initialize the trackers only on main process because `accelerator.log`
         # only logs on main process and we don't want empty logs/runs on other processes.
-        if args.with_tracking:
+        if args["with_tracking"]:
             if accelerator.is_main_process:
-                experiment_config = vars(args)
+                if not isinstance(args, dict):
+                    experiment_config = vars(args)
                 # TensorBoard cannot log Enums, need the raw value
                 experiment_config["lr_scheduler_type"] = experiment_config["lr_scheduler_type"].value
                 accelerator.init_trackers("swag_no_trainer", experiment_config)
 
         # Train!
-        total_batch_size = args.per_device_train_batch_size * accelerator.num_processes * args.gradient_accumulation_steps
-
+        total_batch_size = args["per_device_train_batch_size"] * accelerator.num_processes * args["gradient_accumulation_steps"]
+        
         logger.info("***** Running training *****")
         logger.info(f"  Num examples = {len(train_dataset)}")
-        logger.info(f"  Num Epochs = {args.num_train_epochs}")
-        logger.info(f"  Instantaneous batch size per device = {args.per_device_train_batch_size}")
+        logger.info(f"  Num Epochs = {args['num_train_epochs']}")
+        logger.info(f"  Instantaneous batch size per device = {args['per_device_train_batch_size']}")
         logger.info(f"  Total train batch size (w. parallel, distributed & accumulation) = {total_batch_size}")
-        logger.info(f"  Gradient Accumulation steps = {args.gradient_accumulation_steps}")
-        logger.info(f"  Total optimization steps = {args.max_train_steps}")
+        logger.info(f"  Gradient Accumulation steps = {args['gradient_accumulation_steps']}")
+        logger.info(f"  Total optimization steps = {args['max_train_steps']}")
         # Only show the progress bar once on each machine.
-        progress_bar = tqdm(range(args.max_train_steps), disable=not accelerator.is_local_main_process)
+        progress_bar = tqdm(range(args["max_train_steps"]), disable=not accelerator.is_local_main_process)
         #completed_steps = 0
         starting_epoch = 0
 
         # Potentially load in the weights and states from a previous save
-        if args.resume_from_checkpoint:
-            if args.resume_from_checkpoint is not None or args.resume_from_checkpoint != "":
-                accelerator.print(f"Resumed from checkpoint: {args.resume_from_checkpoint}")
-                accelerator.load_state(args.resume_from_checkpoint)
-                path = os.path.basename(args.resume_from_checkpoint)
+        if args["resume_from_checkpoint"]:
+            if args["resume_from_checkpoint"] is not None or args["resume_from_checkpoint"] != "":
+                accelerator.print(f"Resumed from checkpoint: {args['resume_from_checkpoint']}")
+                accelerator.load_state(args["resume_from_checkpoint"])
+                path = os.path.basename(args["resume_from_checkpoint"])
             else:
                 # Get the most recent checkpoint
                 dirs = [f.name for f in os.scandir(os.getcwd()) if f.is_dir()]
@@ -755,14 +762,14 @@ def main():
                 starting_epoch = resume_step // len(train_dataloader)
                 resume_step -= starting_epoch * len(train_dataloader)
 
-        num_train_epochs = args.num_train_epochs if not args.early_stopping_patience else 1000
-        main_train_loop(train_dataloader, eval_dataloader, model, tokenizer, metric, accelerator, optimizer, lr_scheduler, args.num_train_epochs, args, starting_epoch=0, checkpointing_steps=checkpointing_steps)
-        
+        num_train_epochs = args["num_train_epochs"] if not args["early_stopping_patience"] else 1000
+        acc_final = main_train_loop(train_dataloader, eval_dataloader, model, tokenizer, metric, accelerator, optimizer, lr_scheduler, args["num_train_epochs"], args, starting_epoch=0, checkpointing_steps=checkpointing_steps)
+        return acc_final
     else:
          # Use the device given by the `accelerator` object.
         cls_embeddings_all = []
         test_dataset = processed_datasets["test"]
-        test_dataloader = DataLoader(test_dataset, collate_fn=data_collator, batch_size=args.per_device_eval_batch_size)
+        test_dataloader = DataLoader(test_dataset, collate_fn=data_collator, batch_size=args["per_device_eval_batch_size"])
         model, test_dataloader = accelerator.prepare(model, test_dataloader)
         for step, batch in enumerate(test_dataloader):
             with torch.no_grad():
@@ -773,9 +780,9 @@ def main():
             predictions, references = accelerator.gather((predictions, batch["labels"]))
 
             # Obtain [CLS] embedding from hidden states
-            if args.save_embeddings:
-                tensor_outfile = os.path.join(args.embedding_output_dir, "embeddings.pt")
-                tsv_outfile = os.path.join(args.embedding_output_dir, "embeddings.tsv")
+            if args["save_embeddings"]:
+                tensor_outfile = os.path.join(args["embedding_output_dir"], "embeddings.pt")
+                tsv_outfile = os.path.join(args["embedding_output_dir"], "embeddings.tsv")
                 cls_embeddings = outputs.hidden_states[-1][:, 0, :]
                 cls_embeddings = accelerator.gather(cls_embeddings)
                 if accelerator.is_main_process:
@@ -797,9 +804,9 @@ def main():
             )
 
         eval_metric = metric.compute()
-        accelerator.print(f"test {args.test_file}: {eval_metric}")
+        accelerator.print(f"test {args['test_file']}: {eval_metric}")
 
-        if args.save_embeddings:
+        if args["save_embeddings"]:
             if accelerator.is_main_process:
                 torch.save({"embeddings": cls_embeddings_all}, tensor_outfile)
 
