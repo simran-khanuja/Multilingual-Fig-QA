@@ -233,6 +233,16 @@ def parse_args():
             "Only applicable when `--with_tracking` is passed."
         ),
     )
+    parser.add_argument(
+        "--silent",
+        action="store_true",
+        help="Disable logging"
+    )
+    parser.add_argument(
+        "--early_stopping_patience",
+        type=int,
+        help="Patience for early stopping. If not passed, early stopping is not used."
+    )
     args = parser.parse_args()
 
     # Sanity checks: check whether train and eval file present
@@ -311,7 +321,7 @@ class DataCollatorForMultipleChoice:
         batch["labels"] = torch.tensor(labels, dtype=torch.int64)
         return batch
 
-def train_model(starting_epoch, num_train_epochs, train_dataloader, model, optimizer, scheduler, args, completed_steps, eval_dataloader=None):
+def train_model(train_dataloader, model, accelerator, optimizer, lr_scheduler, args, completed_steps, checkpointing_steps, progress_bar, eval_dataloader=None):
     model.train()
     if args.with_tracking:
         total_loss = 0
@@ -330,11 +340,13 @@ def train_model(starting_epoch, num_train_epochs, train_dataloader, model, optim
             total_loss += loss.detach().float()
         loss = loss / args.gradient_accumulation_steps
         accelerator.backward(loss)
+        
         if step % args.gradient_accumulation_steps == 0 or step == len(train_dataloader) - 1:
             optimizer.step()
             lr_scheduler.step()
             optimizer.zero_grad()
-            progress_bar.update(1)
+            if not args.silent:
+                progress_bar.update(1)
             completed_steps += 1
 
         if isinstance(checkpointing_steps, int):
@@ -347,9 +359,9 @@ def train_model(starting_epoch, num_train_epochs, train_dataloader, model, optim
         if completed_steps >= args.max_train_steps:
             break
 
-    return model, loss
+    return model, loss, completed_steps
 
-def eval_model(model, eval_dataloader, metric, accelerator):
+def eval_model(model, eval_dataloader, metric, accelerator, epoch, args):
     model.eval()
     samples_seen = 0
     for step, batch in enumerate(eval_dataloader):
@@ -374,6 +386,58 @@ def eval_model(model, eval_dataloader, metric, accelerator):
 
     return eval_metric
 
+def main_train_loop(train_dataloader, eval_dataloader, model, tokenizer, metric, accelerator, optimizer, lr_scheduler, num_train_epochs, args, starting_epoch=0, checkpointing_steps=None, progress_bar=None):
+    completed_steps = 0
+
+    for epoch in range(starting_epoch, num_train_epochs):
+        model.train()
+        model, total_loss, completed_steps = train_model(train_dataloader, model, accelerator, optimizer, lr_scheduler, args, completed_steps, checkpointing_steps, progress_bar)
+
+        eval_metric = eval_model(model, eval_dataloader, metric, accelerator, epoch, args)
+    
+        if args.with_tracking:
+            accelerator.log(
+                {
+                    "accuracy": eval_metric,
+                    "train_loss": total_loss.item() / len(train_dataloader),
+                    "epoch": epoch,
+                    "step": completed_steps,
+                },
+                step=completed_steps,
+            )
+
+        if args.push_to_hub and epoch < args.num_train_epochs - 1:
+            accelerator.wait_for_everyone()
+            unwrapped_model = accelerator.unwrap_model(model)
+            unwrapped_model.save_pretrained(
+                args.output_dir, is_main_process=accelerator.is_main_process, save_function=accelerator.save
+            )
+            if accelerator.is_main_process:
+                tokenizer.save_pretrained(args.output_dir)
+                repo.push_to_hub(
+                    commit_message=f"Training in progress epoch {epoch}", blocking=False, auto_lfs_prune=True
+                )
+
+        if args.checkpointing_steps == "epoch":
+            output_dir = f"epoch_{epoch}"
+            if args.output_dir is not None:
+                output_dir = os.path.join(args.output_dir, output_dir)
+            accelerator.save_state(output_dir)
+
+    if args.output_dir is not None:
+        accelerator.wait_for_everyone()
+        unwrapped_model = accelerator.unwrap_model(model)
+        unwrapped_model.save_pretrained(
+            args.output_dir, is_main_process=accelerator.is_main_process, save_function=accelerator.save
+        )
+        if accelerator.is_main_process:
+            tokenizer.save_pretrained(args.output_dir)
+            if args.push_to_hub:
+                repo.push_to_hub(commit_message="End of training", auto_lfs_prune=True)
+        with open(os.path.join(args.output_dir, "all_results.json"), "w") as f:
+            json.dump({"eval_accuracy": eval_metric["accuracy"]}, f)
+
+
 def main():
     args = parse_args()
 
@@ -384,18 +448,26 @@ def main():
         Accelerator(log_with=args.report_to, logging_dir=args.output_dir) if args.with_tracking else Accelerator()
     )
     # Make one log on every process with the configuration for debugging.
+    level = logging.INFO if not args.silent else logging.ERROR
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
         datefmt="%m/%d/%Y %H:%M:%S",
-        level=logging.INFO,
+        level=level,
     )
     logger.info(accelerator.state, main_process_only=False)
-    if accelerator.is_local_main_process:
-        datasets.utils.logging.set_verbosity_warning()
-        transformers.utils.logging.set_verbosity_info()
+
+    if args.silent: # also disable hf logs
+        transformers.logging.set_verbosity_error()
+        datasets.logging.set_verbosity_error()
+        datasets.utils.logging.disable_propagation()
+        datasets.disable_progress_bar()
     else:
-        datasets.utils.logging.set_verbosity_error()
-        transformers.utils.logging.set_verbosity_error()
+        if accelerator.is_local_main_process:
+            datasets.utils.logging.set_verbosity_warning()
+            transformers.utils.logging.set_verbosity_info()
+        else:
+            datasets.utils.logging.set_verbosity_error()
+            transformers.utils.logging.set_verbosity_error()
 
     # If passed along, set the training seed now.
     if args.seed is not None:
@@ -658,7 +730,7 @@ def main():
         logger.info(f"  Total optimization steps = {args.max_train_steps}")
         # Only show the progress bar once on each machine.
         progress_bar = tqdm(range(args.max_train_steps), disable=not accelerator.is_local_main_process)
-        completed_steps = 0
+        #completed_steps = 0
         starting_epoch = 0
 
         # Potentially load in the weights and states from a previous save
@@ -683,56 +755,9 @@ def main():
                 starting_epoch = resume_step // len(train_dataloader)
                 resume_step -= starting_epoch * len(train_dataloader)
 
-        for epoch in range(starting_epoch, args.num_train_epochs):
-            model.train()
-            model, loss = train_model(model, optimizer, scheduler, args, completed_steps)
-            total_loss += loss
-            completed_steps += 1
-
-            eval_metric = evaluate_model(model, eval_dataloader, args)
+        num_train_epochs = args.num_train_epochs if not args.early_stopping_patience else 1000
+        main_train_loop(train_dataloader, eval_dataloader, model, tokenizer, metric, accelerator, optimizer, lr_scheduler, args.num_train_epochs, args, starting_epoch=0, checkpointing_steps=checkpointing_steps)
         
-            if args.with_tracking:
-                accelerator.log(
-                    {
-                        "accuracy": eval_metric,
-                        "train_loss": total_loss.item() / len(train_dataloader),
-                        "epoch": epoch,
-                        "step": completed_steps,
-                    },
-                    step=completed_steps,
-                )
-
-            if args.push_to_hub and epoch < args.num_train_epochs - 1:
-                accelerator.wait_for_everyone()
-                unwrapped_model = accelerator.unwrap_model(model)
-                unwrapped_model.save_pretrained(
-                    args.output_dir, is_main_process=accelerator.is_main_process, save_function=accelerator.save
-                )
-                if accelerator.is_main_process:
-                    tokenizer.save_pretrained(args.output_dir)
-                    repo.push_to_hub(
-                        commit_message=f"Training in progress epoch {epoch}", blocking=False, auto_lfs_prune=True
-                    )
-
-            if args.checkpointing_steps == "epoch":
-                output_dir = f"epoch_{epoch}"
-                if args.output_dir is not None:
-                    output_dir = os.path.join(args.output_dir, output_dir)
-                accelerator.save_state(output_dir)
-
-        if args.output_dir is not None:
-            accelerator.wait_for_everyone()
-            unwrapped_model = accelerator.unwrap_model(model)
-            unwrapped_model.save_pretrained(
-                args.output_dir, is_main_process=accelerator.is_main_process, save_function=accelerator.save
-            )
-            if accelerator.is_main_process:
-                tokenizer.save_pretrained(args.output_dir)
-                if args.push_to_hub:
-                    repo.push_to_hub(commit_message="End of training", auto_lfs_prune=True)
-            with open(os.path.join(args.output_dir, "all_results.json"), "w") as f:
-                json.dump({"eval_accuracy": eval_metric["accuracy"]}, f)
-    
     else:
          # Use the device given by the `accelerator` object.
         cls_embeddings_all = []
