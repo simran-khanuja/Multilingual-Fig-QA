@@ -23,6 +23,7 @@ import json
 import logging
 import math
 import os
+import copy
 import random
 from dataclasses import dataclass
 from itertools import chain
@@ -392,6 +393,8 @@ def eval_model(model, eval_dataloader, metric, accelerator, epoch, args):
 def main_train_loop(train_dataloader, eval_dataloader, model, tokenizer, metric, accelerator, optimizer, lr_scheduler, num_train_epochs, args, starting_epoch=0, checkpointing_steps=None, progress_bar=None):
     completed_steps = 0
 
+    if num_train_epochs != 2:
+        pdb.set_trace()
     for epoch in range(starting_epoch, num_train_epochs):
         model.train()
         model, total_loss, completed_steps = train_model(train_dataloader, model, accelerator, optimizer, lr_scheduler, args, completed_steps, checkpointing_steps, progress_bar)
@@ -448,6 +451,10 @@ def main(args=None):
         
     if not isinstance(args, dict):
         args = vars(args)
+    
+    # or else there will be inconsistencies between hyperparam runs.
+    args = copy.deepcopy(args)
+    
     # Initialize the accelerator. We will let the accelerator handle device placement for us in this example.
     # If we're using tracking, we also need to initialize it here and it will by default pick up all supported trackers
     # in the environment
@@ -685,6 +692,8 @@ def main(args=None):
 
         # Scheduler and math around the number of training steps.
         num_update_steps_per_epoch = math.ceil(len(train_dataloader) / args["gradient_accumulation_steps"])
+
+        # This section of code is causing a strange error when re-run.
         if args["max_train_steps"] is None:
             args["max_train_steps"] = args["num_train_epochs"] * num_update_steps_per_epoch
         else:
@@ -763,6 +772,8 @@ def main(args=None):
                 starting_epoch = resume_step // len(train_dataloader)
                 resume_step -= starting_epoch * len(train_dataloader)
 
+        if args["num_train_epochs"] != 2:
+            pdb.set_trace()
         num_train_epochs = args["num_train_epochs"] if not args["early_stopping_patience"] else 1000
         acc_final = main_train_loop(train_dataloader, eval_dataloader, model, tokenizer, metric, accelerator, optimizer, lr_scheduler, args["num_train_epochs"], args, starting_epoch=0, checkpointing_steps=checkpointing_steps)
         return acc_final

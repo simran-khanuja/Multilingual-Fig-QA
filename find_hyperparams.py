@@ -2,6 +2,7 @@ import argparse
 from hyperopt import hp, fmin, tpe, Trials, STATUS_OK, space_eval
 
 from run_baselines import prepare_data, main
+import pdb
 
 NUM_EPOCHS = 20
 MODEL_NAME = None
@@ -45,8 +46,9 @@ def objective(params):
     MOCK_ARGS["learning_rate"] = params["learning_rate"]
     #MOCK_ARGS["weight_decay"] = params["weight_decay"]
     MOCK_ARGS["num_train_epochs"] = NUM_EPOCHS
-
+    
     print(params)
+    
     acc = main(MOCK_ARGS)
     return {"loss": -acc, "status": STATUS_OK}
 
@@ -78,10 +80,15 @@ if __name__ == "__main__":
     parser.add_argument("--max_evals", type=int, default=100)
     parser.add_argument("--use_grid_search", action="store_true", help="Use grid search instead of hyperopt")
     args = parser.parse_args()
+    
+    print(f"finding hyperparams for {args.model_name} with {args.num_train_epochs} epochs")
 
     MODEL_NAME = args.model_name
     NUM_EPOCHS = args.num_train_epochs
     MOCK_ARGS["num_train_epochs"] = NUM_EPOCHS
+    MOCK_ARGS["train_file"] = args.train_file
+    MOCK_ARGS["validation_file"] = args.eval_file
+
     best_config, trials = main_tune(args)
     print("DONE! Best hyperparameters: ", best_config)
     print("best loss: ", trials.best_trial["result"]["loss"])
