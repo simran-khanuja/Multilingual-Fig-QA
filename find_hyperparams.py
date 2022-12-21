@@ -58,7 +58,7 @@ def main_tune(args):
     if isinstance(args, argparse.Namespace):
         args = vars(args)
     
-    best = fmin(objective, search_space, algo=tpe.suggest, max_evals=10)
+    best = fmin(objective, search_space, algo=tpe.suggest, max_evals=args.max_evals)
 
     print(best)
     
@@ -68,6 +68,7 @@ if __name__ == "__main__":
     parser.add_argument("--eval_file", type=str, default="langdata/en_dev.csv")
     parser.add_argument("--model_name", type=str, default="bert-base-multilingual-cased", choices=["bert-base-multilingual-cased", "xlm-roberta-base", "xlm-roberta-large"])
     parser.add_argument("--num_train_epochs", type=int)
+    parser.add_argument("--max_evals", type=int, default=100)
     args = parser.parse_args()
 
     MODEL_NAME = args.model_name
