@@ -58,8 +58,8 @@ def main_tune(args):
         }
     else:
         search_space = {
-            "learning_rate": [1e-5, 2e-5, 3e-5, 4e-5, 5e-5, 6e-5, 7e-5, 8e-5, 9e-5, 1e-4],
-            "batch_size": [8, 16, 32, 64],
+            "learning_rate": hp.choice("learning_rate", [1e-7, 5e-7, 1e-6, 5e-6, 1e-5, 5e-5, 1e-4, 5e-4]),
+            "batch_size": hp.choice("batch_size", [8, 16, 32, 64])
         }
     if isinstance(args, argparse.Namespace):
         args = vars(args)
