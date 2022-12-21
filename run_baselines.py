@@ -58,7 +58,7 @@ logger = get_logger(__name__)
 # You should update this to your particular problem to have better documentation of `model_type`
 MODEL_CONFIG_CLASSES = list(MODEL_MAPPING.keys())
 MODEL_TYPES = tuple(conf.model_type for conf in MODEL_CONFIG_CLASSES)
-ALL_LANGS = ["en", "hi", "id", "jv", "kn", "su", "sw"]
+ALL_LANGS = ["en", "hi", "id", "jv", "kn", "su", "sw", None]
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Finetune a transformers model on a text classification task")
@@ -395,6 +395,7 @@ def main():
                 data_files["validation"] = args.validation_file
             if args.test_file is not None:
                 data_files["test"] = args.test_file
+
         raw_datasets = load_dataset(extension, data_files=data_files)
 
         # split into train and validation if we specified by language
