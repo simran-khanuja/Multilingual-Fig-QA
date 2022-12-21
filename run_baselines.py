@@ -770,8 +770,6 @@ def main(args=None):
                 starting_epoch = resume_step // len(train_dataloader)
                 resume_step -= starting_epoch * len(train_dataloader)
 
-        if args["num_train_epochs"] != 2:
-            pdb.set_trace()
         num_train_epochs = args["num_train_epochs"] if not args["early_stopping_patience"] else 1000
         acc_final = main_train_loop(train_dataloader, eval_dataloader, model, tokenizer, metric, accelerator, optimizer, lr_scheduler, args["num_train_epochs"], args, starting_epoch=0, checkpointing_steps=checkpointing_steps)
         return acc_final
