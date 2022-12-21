@@ -2,9 +2,8 @@ import argparse
 from hyperopt import hp, fmin, tpe, Trials, STATUS_OK
 
 from run_baselines import prepare_data, main
-import pdb
 
-NUM_EPOCHS = 10
+NUM_EPOCHS = 20
 MODEL_NAME = None
 
 MOCK_ARGS = {
@@ -37,7 +36,6 @@ MOCK_ARGS = {
     "resume_from_checkpoint": None,
     "early_stopping_patience": None,
     "weight_decay": 0.0,
-
 }
 
 def objective(params):
@@ -50,29 +48,29 @@ def objective(params):
 
     print(params)
     acc = main(MOCK_ARGS)
-    #acc = main_train_loop(train_dataloader, eval_dataloader, model, tokenizer, metric, accelerator, optimizer, lr_scheduler, NUM_EPOCHS, args, starting_epoch=0, checkpointing_steps=checkpointing_steps)
     return {"loss": -acc, "status": STATUS_OK}
 
 def main_tune(args):
     search_space = {
-        "learning_rate": hp.uniform("learning_rate", 1e-6, 1e-3),
+        "learning_rate": hp.uniform("learning_rate", 1e-7, 1e-4),
         "batch_size": hp.choice("batch_size", [8, 16, 32, 64]),
-        #"weight_decay": hp.uniform("weight_decay", 0, 0.1),
     }
     if isinstance(args, argparse.Namespace):
         args = vars(args)
     
-    best = fmin(objective, search_space, algo=tpe.suggest, max_evals=100)
+    best = fmin(objective, search_space, algo=tpe.suggest, max_evals=10)
 
     print(best)
     
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Search for hyperparameters")
-    parser.add_argument("--train_file", type=str, default="train.csv")
-    parser.add_argument("--eval_file", type=str, default="eval.csv")
-    parser.add_argument("--model_name", type=str, default="bert-base-multilingual-cased")
-    parser.add_argument("--num_train_epochs", type=int, dest="NUM_EPOCHS")
+    parser.add_argument("--train_file", type=str, default="langdata/en_train.csv")
+    parser.add_argument("--eval_file", type=str, default="langdata/en_dev.csv")
+    parser.add_argument("--model_name", type=str, default="bert-base-multilingual-cased", choices=["bert-base-multilingual-cased", "xlm-roberta-base", "xlm-roberta-large"])
+    parser.add_argument("--num_train_epochs", type=int)
     args = parser.parse_args()
 
     MODEL_NAME = args.model_name
+    NUM_EPOCHS = args.num_train_epochs
+    MOCK_ARGS["num_train_epochs"] = NUM_EPOCHS
     main_tune(args)
