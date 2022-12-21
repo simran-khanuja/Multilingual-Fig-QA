@@ -393,8 +393,6 @@ def eval_model(model, eval_dataloader, metric, accelerator, epoch, args):
 def main_train_loop(train_dataloader, eval_dataloader, model, tokenizer, metric, accelerator, optimizer, lr_scheduler, num_train_epochs, args, starting_epoch=0, checkpointing_steps=None, progress_bar=None):
     completed_steps = 0
 
-    if num_train_epochs != 2:
-        pdb.set_trace()
     for epoch in range(starting_epoch, num_train_epochs):
         model.train()
         model, total_loss, completed_steps = train_model(train_dataloader, model, accelerator, optimizer, lr_scheduler, args, completed_steps, checkpointing_steps, progress_bar)
