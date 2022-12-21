@@ -246,24 +246,24 @@ def parse_args():
     args = parser.parse_args()
 
     # Sanity checks: check whether train and eval file present
-    if not args["do_predict"]:
-        if (args["train_file"] is None or args["validation_file"] is None) and (args["source_lang"] is None):
+    if not args.do_predict:
+        if (args.train_file is None or args.validation_file is None) and (args.source_lang is None):
             raise ValueError(
                 "Either predict mode or need training and eval file."
             )
 
     # If predict: check whether test file present
     else:
-        if args["test_file"] is None:
+        if args.test_file is None:
             raise ValueError("Need test file for predict mode.")
     
     # If save embeddings: check whether embedding file present
-    if args["save_embeddings"]:
-        if args["embedding_output_dir"] is None:
+    if args.save_embeddings:
+        if args.embedding_output_dir is None:
             raise ValueError("Need embedding output dir for save embeddings mode.")
 
-    if args["push_to_hub"]:
-        assert args["output_dir"] is not None, "Need an `output_dir` to create a repo when `--push_to_hub` is passed."
+    if args.push_to_hub:
+        assert args.output_dir is not None, "Need an `output_dir` to create a repo when `--push_to_hub` is passed."
 
     return args
 
@@ -445,7 +445,8 @@ def main_train_loop(train_dataloader, eval_dataloader, model, tokenizer, metric,
 def main(args=None):
     if args is None:
         args = parse_args()
-    elif isinstance(args, argparse.Namespace):
+        
+    if not isinstance(args, dict):
         args = vars(args)
     # Initialize the accelerator. We will let the accelerator handle device placement for us in this example.
     # If we're using tracking, we also need to initialize it here and it will by default pick up all supported trackers

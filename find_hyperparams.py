@@ -1,5 +1,5 @@
 import argparse
-from hyperopt import hp, fmin, tpe, Trials, STATUS_OK
+from hyperopt import hp, fmin, tpe, Trials, STATUS_OK, space_eval
 
 from run_baselines import prepare_data, main
 
@@ -51,27 +51,37 @@ def objective(params):
     return {"loss": -acc, "status": STATUS_OK}
 
 def main_tune(args):
-    search_space = {
-        "learning_rate": hp.uniform("learning_rate", 1e-7, 1e-4),
-        "batch_size": hp.choice("batch_size", [8, 16, 32, 64]),
-    }
+    if not args.use_grid_search:
+        search_space = {
+            "learning_rate": hp.uniform("learning_rate", 1e-7, 1e-4),
+            "batch_size": hp.choice("batch_size", [8, 16, 32, 64]),
+        }
+    else:
+        search_space = {
+            "learning_rate": [1e-5, 2e-5, 3e-5, 4e-5, 5e-5, 6e-5, 7e-5, 8e-5, 9e-5, 1e-4],
+            "batch_size": [8, 16, 32, 64],
+        }
     if isinstance(args, argparse.Namespace):
         args = vars(args)
     
-    best = fmin(objective, search_space, algo=tpe.suggest, max_evals=args.max_evals)
+    trials = Trials()
+    best = fmin(objective, search_space, algo=tpe.suggest, max_evals=args["max_evals"], trials=trials)
 
-    print(best)
+    return space_eval(search_space, best), trials
     
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Search for hyperparameters")
     parser.add_argument("--train_file", type=str, default="langdata/en_train.csv")
     parser.add_argument("--eval_file", type=str, default="langdata/en_dev.csv")
-    parser.add_argument("--model_name", type=str, default="bert-base-multilingual-cased", choices=["bert-base-multilingual-cased", "xlm-roberta-base", "xlm-roberta-large"])
-    parser.add_argument("--num_train_epochs", type=int)
+    parser.add_argument("--model_name", type=str, default="bert-base-multilingual-cased", choices=["bert-base-multilingual-cased", "xlm-roberta-base", "xlm-roberta-large", "google/mt5-xxl"])
+    parser.add_argument("--num_train_epochs", type=int, default=20)
     parser.add_argument("--max_evals", type=int, default=100)
+    parser.add_argument("--use_grid_search", action="store_true", help="Use grid search instead of hyperopt")
     args = parser.parse_args()
 
     MODEL_NAME = args.model_name
     NUM_EPOCHS = args.num_train_epochs
     MOCK_ARGS["num_train_epochs"] = NUM_EPOCHS
-    main_tune(args)
+    best_config, trials = main_tune(args)
+    print("DONE! Best hyperparameters: ", best_config)
+    print("best loss: ", trials.best_trial["result"]["loss"])
