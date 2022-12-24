@@ -1,799 +1,1101 @@
 ending1,ending2,startphrase,labels
-Watoto daima hawana hatia,Yeye daima ni mwenye dhambi,Watoto ni malaika,0.0
-Watoto daima hawana hatia,Yeye daima ni mwenye dhambi,Yeye ni mnyama.,1.0
-Maneno yako yanaumiza,Maneno yake yanafariji,Maneno yake ni kama kisu,0.0
-Maneno yako yanaumiza,Maneno yake yanafariji,Maneno yake ni kama kinanda,1.0
-Ana tabasamu zuri,Tabasamu lake linatisha,Tabasamu lake huangaza chumba kizima,0.0
-Ana tabasamu zuri,Tabasamu lake linatisha,Tabasamu lake lilijaa  vitisho  kama shomoro mdogo aliyeshika shoka,1.0
-Nina furaha kubwa sana,Nina huzuni nyingi sana,Nipo katika dimbwi la furaha,0.0
-Nina furaha kubwa sana,Nina huzuni nyingi sana,Ninazama katika bahari ya huzuni,1.0
-Wale wanapendana sana,Wale hawapendani sana,"Penzi lao limepamba moto""",0.0
-Wale wanapendana sana,Wale hawapendani sana,"Penzi lao ni kama moto wa kibatari kwenye upepo""",1.0
-Chakula ni kitamu,Chakula ni kibaya,Wali huu una ladha kama umepikwa  hotelini,0.0
-Chakula ni kitamu,Chakula ni kibaya,Wali huu unaladha kama umepikwa bwenini,1.0
-Mtihani ulikuwa rahisi sana,Mtihani ulikua mgumu,Mtihani ulikuwa kama kipande cha keki,0.0
-Mtihani ulikuwa rahisi sana,Mtihani ulikua mgumu,Mtihani ulikuwa kama ugali wa jela,1.0
-Mchezaji alitoa pasi nzuri,Mchezaji alitoa pasi mbaya,Mzamiru alitoa pasi rula,0.0
-Mchezaji alitoa pasi nzuri,Mchezaji alitoa pasi mbaya,Feisal alitoa pasi mkaa,1.0
-Vijana ndio watakaoleta maendeleo huko mbeleni,Vijana hawahusiki na maendeleo ya taifa ya baadae,Vijana ndio taifa la kesho,0.0
-Vijana ndio watakaoleta maendeleo huko mbeleni,Vijana wataliharibu taifa.,Vijana wataozesha taifa,1.0
-Sauti yako ni inanipa faraja na raha niisikiapo,Sauti yako ni kero kwangu,Sauti yako ni muziki masikioni mwangu,0.0
-Sauti yako ni inanipa faraja na raha niisikiapo,Sauti yako ni kero kwangu,Sauti yako ni kama chiriku,1.0
-Mapenzi hayafichiki,Mapenzi yanafichika,Mapenzi ni kikohozi,0.0
-Mapenzi hayafichiki,Mapenzi yanafichika,Mapenzi ni kama punje ya unga kwenye mchele,1.0
-Ujana huja na kuondoka haraka,Ujana hukaa kwa mda mrefu,Ujana ni moshi,0.0
-Ujana huja na kuondoka haraka,Ujana hukaa kwa mda mrefu,Ujana ni safari ndefu,1.0
-Maisha si marahisi yanahitaji kupambana,Maisha ni marahisi,Maisha ni kama uji,0.0
-Maisha si marahisi yanahitaji kupambana,Maisha ni marahisi,"Maisha sio mchezo, ni vita",1.0
-Kauli yake ilinifanya nijiskie vibaya,Kauli yake ilinifurahisha,Kauli yake ilinikata maini,0.0
-Kauli yake ilinifanya nijiskie vibaya,Kauli yake ilinifurahisha,Kauli yake ilikua kama maji baridi kooni,1.0
-Awamu hii kutakua na michuano migumu,Awamu hii kutakua na michuano mirahisi,Awamu hii kutakua na michuano ya kukata na shoka,0.0
-Awamu hii kutakua na michuano migumu,Awamu hii kutakua na michuano mirahisi,Awamu hii kutakua na michuano lelemama,1.0
-"Sandra, wewe ndiye unayenipa furaha","Sandra, wewe siye unayenipa furaha","Sandra, wewe ndio nuru ya macho yangu",0.0
-"Sandra, wewe ndiye unayenipa furaha","Sandra, wewe siye unayenipa furaha","Sandra, wewe ni kama shubiri kinywani mwangu",1.0
-"Tofauti na dhana iliyokuwepo, mama ndiye mtu anayeishikilia familia kwa pamoja",Mama siye anayeishikilia familia kwa pamoja,"Tofauti na dhana iliyokuwepo, mama ndiye nguzo  ya familia",0.0
-"Tofauti na dhana iliyokuwepo, mama ndiye mtu anayeishikilia familia kwa pamoja",Mama siye anayeishikilia familia kwa pamoja,"Tofauti na dhana iliyokuwepo, mama ndiye kunguni wa familia",1.0
-Ndoa zitakua hadimu siku si nyingi,Ndoa hazitakua hadimu siku za hapa karibuni,Ndoa zitakua hadimu siku za usoni,0.0
-Ndoa zitakua hadimu siku si nyingi,Ndoa hazitakua hadimu siku za hapa karibuni,Kutakua na ndoa kama siafu siku za usoni,1.0
-Mapenzi ni kitu kigumu,Mapenzi ni kitu kirahisi,Mapenzi ni vita,0.0
-Mapenzi ni kitu kigumu,Mapenzi ni kitu kirahisi,Mapenzi ni keki,1.0
-Bahati ikimkuta mwenzio usisubiri ikufikie na wewe,Bahari ikimkuta mwenzio subiri ikufikie na wewe,Bahati ya mwenzio usiilalie mlango wazi,0.0
-Bahati ikimkuta mwenzio usisubiri ikufikie na wewe,Bahari ikimkuta mwenzio subiri ikufikie na wewe,Bahati ya mwenzio ilalie mlango wazi,1.0
-Kijana huyu ana roho nzuri sana,Kijana huyu ana roho mbaya sana,Kijana huyu ana roho ya dhahabu,0.0
-Kijana huyu ana roho nzuri sana,Kijana huyu ana roho mbaya sana,Kijana huyo ana roho ya kutu,1.0
-Maisha yake yana muelekeo,Maisha yake hayana muelekeo,Maisha yake ni kama dira,0.0
-Maisha yake yana muelekeo,Maisha yake hayana muelekeo,Maisha yake ni kama kuku akiyekatwa kichwa,1.0
-Mwendo wake ni wa maringo,Mwendo wake si wa maringo,Mwendo wake ni mithili ya twiga,0.0
-Mwendo wake ni wa maringo,Mwendo wake si wa maringo,Mwendo wake ni wa bata,1.0
-Ukitendea watu mema yatakurudia,Ukitendea watu mema hayatakurudia,Wema ni hazina,0.0
-Ukitendea watu mema yatakurudia,Ukitendea watu mema hayatakurudia,Wema sio kitenesi,1.0
-Alitokwa na machozi mengi ya uchungu,Hakutokwa na machozi mengi ya uchungu,Macho yake yalikua kama mto wkati wa masika.,0.0
-Alitokwa na machozi mengi ya uchungu,Hakutokwa na machozi mengi ya uchungu,Macho yake yalikua kama mto wkati wa kiangazi.,1.0
-Mapigo yake ya moyo yalienda kwa kasi mno,Mapingo yake ya moyo yalienda taratibu,Alihisi ngoma kifuani kwake,0.0
-Mapigo yake ya moyo yalienda kwa kasi mno,Mapingo yake ya moyo yalienda taratibu,Alihisi kifua chake kimeganda kama barafu,1.0
-Alipora mkoba wangu na kukimbia,Alipora mkoba wangu na kuanza kutembea taratibu,Alipora mkoba wangu na kutimua vumbi,0.0
-Alipora mkoba wangu na kukimbia,Alipora mkoba wangu na kuanza kutembea taratibu,Alipora mkoba wangu na kutembea kama konokono,1.0
-Walibishana hadi wakapigana,Walibishana lakini hawakupigana,Walibishana hadi wakashikana mashati,0.0
-Walibishana hadi wakapigana,Walibishana lakini hawakupigana,Walibishana kitakatifu,1.0
-Bahati  hukumkuta asiye na uwezo wa kuitumia,Bahati humkuta mwenye uwezo wa kuitumia,Upele humuota asiye na kucha,0.0
-Bahati  hukumkuta asiye na uwezo wa kuitumia,Bahati humkuta mwenye uwezo wa kuitumia,Jasho humtoka mwenye mwili,1.0
-"Aisha, funga mdomo wako","Aisha, endelea tu kuongea sana","Aisha, funga bakuli lako!",0.0
-"Aisha, funga mdomo wako","Aisha, endelea tu kuongea sana","Aisha, endelea tu kupiga mdomo",1.0
-Hakuna jambo lisilokua na mwisho,Kila jambo lina mwisho,Hakuna marefu yasiyokuwa na ncha,0.0
-Hakuna jambo lisilokua na mwisho,Hakuna jambo lenye mwisho,Zimwi likujualo halikuli likakwisha,1.0
-Hassani hufanya mambo yake taratibu,Hassani hufanya mambo yake kwa haraka,Hassani hufanya mambo yake kama kobe,0.0
-Hassani hufanya mambo yake taratibu,Hassani hufanya mambo yake kwa haraka,Hassani hufanya mambo yake kama anakimbizwa,1.0
-Tatizo lako unapenda sana kusaidiwa kufanya mambo yako,Tatizo lako haupendi kabisa kusaidiwa kufanya mambo yako,Tatizo lako unapenda sana kutafuniwa,0.0
-Tatizo lako unapenda sana kusaidiwa kufanya mambo yako,Tatizo lako haupendi kabisa kusaidiwa kufanya mambo yako,Tatizo lako unapenda kufa mwenyewe,1.0
-Mtihani ulikua mgumu hadi kichwa kikaanza kuniuma,Mtihani haukua mgumu,Mtihani ulikua mgumu hadi kichwa kikaanza kuchemka,0.0
-Mtihani ulikua mgumu hadi kichwa kikaanza kuniuma,Mtihani haukua mgumu,Hata kama ulikua umejaza matope kichwani ungeweza kufanya mtihani ule,1.0
-Harufu ya miguu yake ilikua kali mno,Harufu ya miguu yake haikua kali,Harufu ya miguu yake ilitosha kuua mbu,0.0
-Harufu ya miguu yake ilikua kali mno,Harufu ya miguu yake haikua kali,Harufu ya miguu yake ingefaa kutengenezea manukato,1.0
-Maneno yake yalikua mengi mno,Maneno yake hayakua mengi,Maneno yake yalitosha kujaza bahari,0.0
-Maneno yake yalikua mengi mno,Maneno yake hayakua mengi,Maneno yake hayakuchukua hata sekunde,1.0
-Babu yangu alikua ni mtu mwenye mwili mkubwa,Babu yangu hakua mtu mwenye mwili mkubwa,Babu yangu alikua ni mtu wa miraba minne,0.0
-Babu yangu alikua ni mtu mwenye mwili mkubwa,Babu yangu hakua mtu mwenye mwili mkubwa,Babu yangu alikua kama punje ya haradali,1.0
-Wao hupenda kuweka siri mambo yao,Wao hupenda kuweka wazi mambo,Wao hupenda kuweka mambo yao gizani,0.0
-Wao hupenda kuweka siri mambo yao,Wao hupenda kuweka wazi mambo,Wanapenda kumwaga mchele kwenye kuku wengi,1.0
-Atafutae kwa shida ataishi kwa starehe,Atafutae kwa shida hataishi kwa starehe,Mchumia juani hulia kivulini,0.0
-Atafutae kwa shida ataishi kwa starehe,Atafutae kwa shida hataishi kwa starehe,Mchumia juani hulia juani,1.0
-Maisha yake yote amekua akipata maumivu sana,Maisha yake yote hajawahi pata maumivu,Maisha yake yote ni kama miiba.,0.0
-Maisha yake yote amekua akipata maumivu sana,Maisha yake yote hajawahi pata maumivu,Maisha yake yote ni kama mkate na chai.,1.0
-Muda uliobaki sio mwingi/ Muda hautakusubiria,Muda uliobaki ni mwingi/ Muda utakusubiria,Muda sio rafiki.,0.0
-Muda uliobaki sio mwingi/ Muda hautakusubiria,Muda uliobaki ni mwingi/ Muda utakusubiria,Muda ni rafiki.,1.0
-Harusi yao ilikua ya kifani,Harusi yao ilipooza,Harusi yao ilipamba moto,0.0
-Harusi yao ilikua ya kifani,Harusi yao ilipooza,Harusi yao ilikua kama msiba,1.0
-Nilienda kumdai fedha zangu lakini bado aliendelea kunizungusha,Nilienda kumdai fedha zangu na akanilipa,Nilienda kumdai fedha zangu lakini bado aliendelea kuniletea siasa,0.0
-Nilienda kumdai fedha zangu lakini bado aliendelea kunizungusha,Nilienda kumdai fedha zangu na akanilipa,Nilienda kumdai fedha zangu na hakunilitea siasa,1.0
-Utapata kulingana na juhudi unazoweka,Hautapata kulingana na juhudi unazoweka,Utavuna ulichopanda,0.0
-Utapata kulingana na juhudi unazoweka,Hautapata kulingana na juhudi unazoweka,Unaweza panda nazi ukavuna koroma,1.0
-Neno la Mungu linatosha kukuongoza vyema,Neno la Mungu halitoshi kukuongoza,Neno la Mungu ni nuru tosha,0.0
-Neno la Mungu linatosha kukuongoza vyema,Neno la Mungu halitoshi kukuongoza,Neno la Mungu ni gari bila mafuta,1.0
-Mvua ilinyesha kwa wingi,Mvua haikunyesha kwa wingi,Mvua ilimiminika kwa fujo,0.0
-Mvua ilinyesha kwa wingi,Mvua haikunyesha kwa wingi,Mvua ilikonyeza tu,1.0
-Ujana una changamoto nyingi,Ujana hauna changamoto nyingi,Ujana maji ya moto,0.0
-Ujana una changamoto nyingi,Ujana hauna changamoto nyingi,Ujana ni kama maji,1.0
-Aliiumia sana baada ya kujulishwa kuhusu kifo cha mama yake,Hakuumia sana baada ya kujulishwa kuhusu kifo cha mama yake,Alitokwa na machozi ya damu baada ya kujulishwa kuhusu kifo cha mama yake,0.0
-Aliiumia sana baada ya kujulishwa kuhusu kifo cha mama yake,Hakuumia sana baada ya kujulishwa kuhusu kifo cha mama yake,Habari za kifo cha mama yake zilikua kama wimbo wa gitaa kwake,1.0
-Afanyayo msanii hutokana na jamii inayomzunguka,Afanyayo msanii hayatokani na jamii inayomzunguka,Msanii ni kioo cha jamii,0.0
-Afanyayo msanii hutokana na jamii inayomzunguka,Afanyayo msanii hayatokani na jamii inayomzunguka,Msanii ni kioo cha chumbani kwake,1.0
-George Foreman alikua na ngumi nzito mno,George Foreman hakua na ngumi nzito,George Foreman alikua na ngumi ya chuma,0.0
-George Foreman alikua na ngumi nzito mno,George Foreman hakua na ngumi nzito,George Foreman alikua na ngumi ya kike,1.0
-Alionekana yupo tofauti na wengine,Alionekana yupo sawa na wengine,Alionekana yupo tofauti na wengine kama kuku mgeni,0.0
-Alionekana yupo tofauti na wengine,Alionekana yupo sawa na wengine,Alionekana yupo sawa na wengine kama pundamilia.,1.0
-Upepo ulipita ukitoa sauti kubwa,Hakuusikia upepo wakati unapita,Upepo ulipita ukimnong’oneza,0.0
-Aliusikia upepo wakati unapita,Upepo ulipita ukitoa sauti kubwa,Upepo ulipita ukifoka,1.0
-Mama yao ana maneno mabaya,Mama yao ana maneno mazuri,Mama yao ana mdomo mchafu sana,0.0
-Mama yao ana maneno mabaya,Mama yao ana maneno mazuri,Mama yao ana maneno mazuri kama biblia,1.0
-Usipende kutokua na msimamo,Usipende kua na msimamo,Usipende kua vuguvugu,0.0
-Usipende kutokua na msimamo,Usipende kua na msimamo,Penda kua vuguvugu,1.0
-Aliahidi kuwa atachangia halafu hakuchanga,Aliahidi kuwa atachangia na akachanga,Aliahidi kuwa atachangia kisha akaingia mitini.,0.0
-Aliahidi kuwa atachangia halafu hakuchanga,Aliahidi kuwa atachangia na akachanga,Aliahidi kuwa atachangia na akawa mzungu,1.0
-Anajua kutunza siri,Yeye hawezi kutunza siri,Yule hana kifua.,0.0
-Anajua kutunza siri,Yeye hawezi kutunza siri,Yeye ana kifua.,1.0
-Hana nywele,Ana nywele nyingi,Ana upara kama jagwa la Sahara,0.0
-Hana nywele,Ana nywele nyingi,Nywele zake nyingi kama nyasi za uwanja wa mpira.,1.0
-Kukopa ni raha sana,Kulipa ni tabu sana,Kukopa ni harusi,0.0
-Kukopa ni raha sana,Kulipa ni tabu sana,Kulipa ni matanga,1.0
-Kijana ana roho mbaya,Kijana ana roho nzuri,Yule ana damu nyeusi,0.0
-Kijana ana roho mbaya,Kijana ana roho nzuri,Kijana ana roho nzuri kama mwalimu.,1.0
-Ali ni mjanja sana,Ali ni mpole sana.,Ali ni sungura,0.0
-Ali ni mjanja sana,Ali ni mpole sana.,Ali mpole kama kondoo.,1.0
-Binadamu hawatabiriki,Binadamu wanatabirika,Binadamu ni kama kinyonga,0.0
-Binadamu hawatabiriki,Binadamu wanatabirika,Binadamu wanatabirika kama macho ya mwizi.,1.0
-Yeye anafanya shughuli nyingi,Yeye anafanya shughuli chache,Anafanya kazi kama nyuki,0.0
-Yeye anafanya shughuli nyingi,Yeye anafanya shughuli chache,Anafanya kazi kama jongoo,1.0
-Taa ina mwanga mkali sana,Taa haitoi mwanga kabisa,Taa inatoa mwanga kama moto mkubwa  usiku wa manane,0.0
-Taa ina mwanga mkali sana,Taa haitoi mwanga kabisa,Taa inatoa mwanga kama tobo kubwa jeusi katikati ya vakyumu.,1.0
-Sauti ilikuwa kubwa,Sauti ilikuwa kimya,Suti ilikua kubwa kama bomu la Nyuklia,0.0
-Sauti ilikuwa kubwa,Sauti ilikuwa kimya,Sauti ilikua ndogo kama wimbo wa taratibu.,1.0
-Silaha ilikuwa ngumu,Silaha ilikuwa dhaifu,Silaha ilikua ngumu kama chuma,0.0
-Silaha ilikuwa ngumu,Silaha ilikuwa dhaifu,Silaha ilikua dhaifu kama plastiki.,1.0
-Anatunza vizuri mdoli wake,Hatunzi vizuri mdoli wake,Mdoli unatunzwa vizuri kama mtoto,0.0
-Anatunza vizuri mdoli wake,Hatunzi vizuri mdoli wake,Mdoli unatunzwa vibaya kama takataka,1.0
-Ilipasuka katika vipande vipande vingi,Ilipasuka katika vipande viwili tu,Kioo kilipasuka na kuonekena kama utandu wa buibui,0.0
-Ilipasuka katika vipande vipande vingi,Ilipasuka katika vipande viwili tu,Sahani ilipasuka na kuonekena kama nusu mwezi wa angani,1.0
-Yeye  anavutia,Yeye ni mbaya na havutii,Yeye anavutia kama mungu wa kigiriki,0.0
-Yeye  anavutia,Yeye ni mbaya na havutii,Yeye anaonekana kama jokeri,1.0
-Filamu imebeba maana kubwa sana,Filamu imebeba maudhui madogo sana.,Filamu hii ina kina cha ziwa Tanganyika,0.0
-Filamu imebeba maana kubwa sana,Filamu imebeba maudhui madogo sana.,Filamu hii ina kina cha dimbwi.,1.0
-Chumba kina nafasi kubwa iliyobaki,Chumba kina nafasi ndogo iliyobaki,Chumba kina nafasi kubwa kama shamba,0.0
-Chumba kina nafasi kubwa iliyobaki,Chumba kina nafasi ndogo iliyobaki,Chumba kina nafasi ndogo iliyobaki kama jiji.,1.0
-Pombe ilimfanya ajisikie vibaya,Pombe ilimfurahisha sana,Pombe ilimfanya ajisikie kama kifo,0.0
-Pombe ilimfanya ajisikie vibaya,Pombe ilimfurahisha sana,Pombe ilimfanya ajisikie kama amelamba asali,1.0
-Muziki ulisikika ulikua laini na mzuri.,Muziki uliosikika ulikua mbaya.,Muziki ulikua mzuri na laini kama Unyoya.,0.0
-Muziki ulisikika ulikua laini na mzuri.,Muziki uliosikika ulikua mbaya.,Muziki ulikua mbaya na mgumu kama mkate wa juzi.,1.0
-Kutengeneza pesa kulimfanya aishi,Kutengeneza pesa kulimuua taratibu,"Kwake, Kutengeneza pesa ilikuwa kama Oksijeni",0.0
-Kutengeneza pesa kulimfanya aishi,Kutengeneza pesa kulimuua taratibu,"Kwake, Kutengeneza pesa ilikua kama kujipiga kitanzi.",1.0
-Kijana alikua kimya sana,Kijana alikua na kelele sana,Kijana alikua kimya kama mtoto mdogo,0.0
-Kijana alikua kimya sana,Kijana alikua na kelele sana,Kijana alipiga kelele kama garimoshi,1.0
-Pesa ni nzuri,pesa ni mbaya,Pesa ni sabuni ya roho.,0.0
-Pesa ni nzuri,pesa ni mbaya,Pesa ni muuaji.,1.0
-Inanukia vizuri,Inanukia Vibaya,Inanukia vizuri kama juisi ya embe lililotoka mtini,0.0
-Inanukia vizuri,Inanukia Vibaya,Inanukia vibaya kama tairi linaloungua,1.0
-Alikuwa tajiri,Alikuwa masikini,Alikuwa na utajiri wa mfalme suleiman,0.0
-Alikuwa tajiri,Alikuwa masikini,Alikuwa na utajiri wa Kibarua,1.0
-Kuna baridi sana,Kuna joto sana,Kuna baridi kali kama vile tumetupwa Antaktika,0.0
-Kuna baridi sana,Kuna joto sana,Hali ya hewa ni kama vile tumemwagiwa Lava,1.0
-Kiuno chake ni chembamba,Kiuno chake ni kipana,Kiuno chake kina upana wa kijiti,0.0
-Kiuno chake ni chembamba,Kiuno chake ni kipana,Kiuno chake kina upana wa mbuyu.,1.0
-Mrukaji aliruka juu sana,Mrukaji hakuruka juu sana,Aliruka juu kama Panzi,0.0
-Mrukaji aliruka juu sana,Mrukaji hakuruka juu sana,Aliruka juu kama kobe,1.0
-Filamu ilikuwa inatisha,Filamu ilikuwa haitishi,Filamu ilikuwa inatisha kama kinyago.,0.0
-Filamu ilikuwa inatisha,Filamu ilikuwa haitishi,Filamu ilikuwa inatisha kama mdoli mzuri.,1.0
-Tatizo lilikuwa dogo,Tatizo lilikuwa kubwa,Tatizo lilikuwa dogo kama panya,0.0
-Tatizo lilikuwa dogo,Tatizo lilikuwa kubwa,Tatizo lilikuwa kubwa kama tembo,1.0
-Kazi ilikuwa rahisi sana,Kazi ilikuwa ngumu,kazi ilikuwa rahisi kama kumsukuma mlevi.,0.0
-Kazi ilikuwa rahisi sana,Kazi ilikuwa ngumu,Kazi ilikuwa ngumu kama kusukuma ukuta,1.0
-Haiwezekani kuwa na amani,Inawezekana kuwa na amani,Amani ni kama mwanadamu kupaa,0.0
-Haiwezekani kuwa na amani,Inawezekana kuwa na amani,Amani ni kama mwanadanu kutembea,1.0
-Aliibeba kwa uangalifu na kujivunia,Aliibeba kwa kinyaa na tahadhari,Aliibeba kama mama aliyembeba mtoto wake,0.0
-Aliibeba kwa uangalifu na kujivunia,Aliibeba kwa kinyaa na tahadhari,Aliibeba kama kinyesi,1.0
-Nina njaa kali,Sina njaa,Nina njaa kali kama Simba,0.0
-Nina njaa kali,Sina njaa,Sina njaa kama Chatu aliyemeza windo lake.,1.0
-Matarajio yao hayakutimia,Matarajio yao yalitimia,Matarajio yao yaliyeyuka kama barafu.,0.0
-Matarajio yao hayakutimia,Matarajio yao yalitimia,Matarajio yao yalipitiliza kama saa ya mshale.,1.0
-Alikuwa na uhakika na mawazo yake,Alikuwa hana uhakika na mawazo yake,Mawazo yake yalikuwa imara kama Zege,0.0
-Alikuwa na uhakika na mawazo yake,Alikuwa hana uhakika na mawazo yake,Mawazo yakeyalikuwa dhaifu kama glasi.,1.0
-Maisha yake hayana mwelekeo,Maisha yake yana mwelekeo,Maisha yake ni kama peni isiyo na wino,0.0
-Maisha yake hayana mwelekeo,Maisha yake yana mwelekeo,Maisha yake ni kama bajeti ya nchi,1.0
-Upendo ni muhimu,Upendo hauna umuhimu,Upendo ni dunia.,0.0
-Upendo ni muhimu,Upendo hauna umuhimu,Upendo ni kama kumwaga maji baharini,1.0
-Alikimbia spidi kubwa kwenye mashindano,Alikimbia polepole kwenye mashindano,Siku ya mashindano alikimbia kama chui,0.0
-Alikimbia spidi kubwa kwenye mashindano,Alikimbia polepole kwenye mashindano,Siku ya mashindano alikimbia kama kinyonga,1.0
-Furaha huponya maumivu,Furaha haiponyi maumivu,Furaha ni dawa,0.0
-Furaha huponya maumivu,Furaha haiponyi maumivu,Furaha si dawa,1.0
-Wfanyakazi wanafanya kazi kwa ushirikiano,Wafanyakazi wanafanya kazi bila ushirikiano,Wafanyakazi wanafanya kazi kama mchwa,0.0
-Wfanyakazi wanafanya kazi kwa ushirikiano,Wafanyakazi wanafanya kazi bila ushirikiano,Wafanyakazi wanafanya kazi kibinafsi kama duma,1.0
-Elimu haina mwisho,Elimu ina mwisho,Elimu ni bahari,0.0
-Elimu haina mwisho,Elimu ina mwisho,Elimu ni mto,1.0
-Rafiki yangu ni mzuri,Rafiki yangu ni mbaya,Rafiki angu ni ua jekundu,0.0
-Rafiki yangu ni mzuri,Rafiki yangu ni mbaya,Rafiki angu ni ua jeusi,1.0
-Maongezi yalikuwa mafupi,Maongezi yalikuwa marefu,Maongezi yalikua mafupi kama kipande cha sigara,0.0
-Maongezi yalikuwa mafupi,Maongezi yalikuwa marefu,Maongezi yalikuwa marefu kama kesi ya mbowe.,1.0
-Kijana anapenda dini,Kijana hapendi dini,Kijana anapenda dini kama mchungaji,0.0
-Kijana anapenda dini,Kijana hapendi dini,Kijana hapendi dini kama hetani,1.0
-Mchezaji yule ana pumzi sana,Mchezaji yule hana pumzi sana,Mchezaji yule ana mapafu ya mbwa,0.0
-Mchezaji yule ana pumzi sana,Mchezaji yule hana pumzi sana,Mchezaji yule hana mapafu ya mbwa,1.0
-Rafiki yangu ana kumbukumbu,Rafiki yangu hana kumbukumbu,Rafiki yangu ana kumbukumbu kama  maktaba.,0.0
-Rafiki yangu ana kumbukumbu,Rafiki yangu hana kumbukumbu,Rafiki yangu ana ubongo wa mende.,1.0
-Kijana ni mtulivu sana,Kijana han utulivu,Kijana ni maji kwenye mtungi,0.0
-Kijana ni mtulivu sana,Kijana han utulivu,Kijana ni kama amepakwa upupu,1.0
-Mwakimu alitufundisha hekima,Mwalimu hakutufundisha hekima,Mwalimu alipanda mbegu ya hekima,0.0
-Mwakimu alitufundisha hekima,Mwalimu hakutufundisha hekima,Mwalimu hakupanda mbegu ya hekima,1.0
-Maisha yangu ni mazuri,Maisha yangu ni mabaya,Maisha yamenipiga chenga,0.0
-Maisha yangu ni mazuri,Maisha yangu ni mabaya,Maisha nimeyapiga bao,1.0
-Gari hili lina spidi,Gari hili halina spidi,Gari hili ni roketi,0.0
-Gari hili lina spidi,Gari hili halina spidi,Gari hili ni konokono,1.0
-Watu wengi wamefika katika sherehe,Watu wachache sana wamefika katika sherehe,Watu wamefurika katika sherehe,0.0
-Watu wengi wamefika katika sherehe,Watu wachache sana wamefika katika sherehe,Watu wamepelea katika sherehe,1.0
-Alikuja na watoto wengi,Alikuja na watoto wachache,Alikuja na jeshi la watoto,0.0
-Alikuja na watoto wengi,Alikuja na watoto wachache,Alikuja na kikundi cha watoto,1.0
-Ahadi lazima itimizwe,Ahadi sio lazima upewe,Ahadi ni deni,0.0
-Ahadi lazima itimizwe,Ahadi sio lazima upewe,Ahadi ni zawadi,1.0
-Nimelipa deni langu,Sijalipa deni langu,Nimevunja minyororo ya deni,0.0
-Nimelipa deni langu,Sijalipa deni langu,Bado nipo katika kifungo cha deni,1.0
-Yeye ni mrefu,Yeye ni mfupi,Kichwa chake kipo mawinguni,0.0
-Yeye ni mrefu,Yeye ni mfupi,Yeye ni mkia wa mbuzi,1.0
-Nyumbani kwangu kuna joto,Nyumbani kwangu kuna baridi,Nyumbani kwangu ni kama oveni,0.0
-Nyumbani kwangu kuna joto,Nyumbani kwangu kuna baridi,Nyumbani kwangu ni kama friji,1.0
-Maneno yake yanaumiza hisia zangu,Maneno yake yanafariji hisia zangu,Maneno yake yanachoma moyo wangu,0.0
-Maneno yake yanaumiza hisia zangu,Maneno yake yanafariji hisia zangu,Maneno yake yanafariji moyo wangu,1.0
-Mimi na mdogo wangu hatupatani,Mimi na mdogo wangu tunapatana,Sisi hatupikiki chungu kimoja,0.0
-Mimi na mdogo wangu hatupatani,Mimi na mdogo wangu tunapatana,Mimi na mdogo wangu ni pete na kidole,1.0
-Yeye ni mzembe,Yeye sio mzembe,Yeye ni kiazi,0.0
-Yeye ni mzembe,Yeye sio mzembe,Yeye ni kichwa,1.0
-Rafiki yangu ananipa sifa nzuri,Rafiki yangu ananipa sifa mbaya,Rafiki yangu ananipaka wanja,0.0
-Rafiki yangu ananipa sifa nzuri,Rafiki yangu ananipa sifa mbaya,Rafiki yangu ananipaka pilipili,1.0
-Mama hachoki kunibeba,Mama anachoka kunibeba,Mama ni kitanda,0.0
-Mama hachoki kunibeba,Mama anachoka kunibeba,Mama si kitanda,1.0
-Alfred alienda kupima akakutwa na ukimwi,Alfred alienda kupima lakini hakukutwa na ukimwi,Alfred alienda kupima akakutwa na umeme,0.0
-Alfred alienda kupima akakutwa na ukimwi,Alfred alienda kupima lakini hakukutwa na ukimwi,Alfred alienda kupima lakini hakukutwa na umeme,1.0
-Jamaa alikimbia kwa kasi,Jamaa alizubaa alivyokutana na vibaka,Jamaa alitoka baruti,0.0
-Jamaa alikimbia kwa kasi,Jamaa alizubaa alivyokutana na vibaka,Jamaa alisimama kama mlingoti alivyokutana na vibaka,1.0
-Yule mbunge hana msimamo,Yule mbunge ana msimamo,Yule mbunge ni bendera hufuata upepo,0.0
-Yule mbunge hana msimamo,Yule mbunge ana msimamo,Yule mbunge ana msimamo wa shaba,1.0
-Maisha yamekuwa magumu,Maisha yamekua marahisi,Maisha yamekua pasua kichwa,0.0
-Maisha yamekuwa magumu,Maisha yamekua marahisi,Maisha yamekua malaini,1.0
-Kulipa uovu si sahihi,Kulipa uovu ni sahihi,Kulipa uovu ni kujipalia makaa ya moto,0.0
-Kulipa uovu si sahihi,Kulipa uovu ni sahihi,Kulipa uovu ni kujipalilia matunda,1.0
-Rafiki yake anapenda njia haramu,Rafiki yake hapendi njia haramu,Rafiki yake anapenda sana njia za panya,0.0
-Rafiki yake anapenda njia haramu,Rafiki yake hapendi njia haramu,Rafiki yake amekunywa maji ya bendera,1.0
-Wanachuo wanapenda kunywa pombe,Wanachuo hawapendi kunywa pombe,Wanachuo wanapenda kupiga maji,0.0
-Wanachuo wanapenda kunywa pombe,Wanachuo hawapendi kunywa pombe,Wanachuo hawapendi kupiga maji,1.0
-Wanafiki watakupa sifa za uongo,Wanafiki watakupa sifa za ukweli,Wanafiki watakupaka mafuta,0.0
-Wanafiki watakupa sifa za uongo,Wanafiki watakupa sifa za ukweli,Wanafiki hawatakupaka mafuta,1.0
-Hupenda kufanya mambo yake kufuata utaratibu,Hupenda kufanya mambo yake bila kufuata utaratibu,Hupenda kuweka mambo yake kwenye mstari,0.0
-Hupenda kufanya mambo yake kufuata utaratibu,Hupenda kufanya mambo yake bila kufuata utaratibu,Hupenda kupindisha mambo yake,1.0
-Alitokwa jasho jingi wakati wa mazoezi,Hakutokwa na jasho jingi wakati wa mazoezi,Mvua ilinyesha mgongoni mwake wakati wa mazoezi,0.0
-Alitokwa jasho jingi wakati wa mazoezi,Hakutokwa na jasho jingi wakati wa mazoezi,Ukame ulitanda mgongoni mwake wakati wa mazoezi,1.0
-Wanapenda kuwa pamoja,Hawapendi kuwa pamoja,Wanapenda kuambatana utadhani siafu,0.0
-Wanapenda kuwa pamoja,Hawapendi kuwa pamoja,Hawapendi kuambatana kama siafu,1.0
-Hii kesi tutaishughulikia kisawasawa,Hii kesi tumeishindwa,Hii kesi tumeivalia njuga,0.0
-Hii kesi tutaishughulikia kisawasawa,Hii kesi tumeishindwa,Hii kesi tumeivulia shati,1.0
-Hauna akili,Una akili sana,Akili zako nawe kama mbogo,0.0
-Hauna akili,Una akili sana,Akili zako kama mbweha,1.0
-Yeye ni mtoto mdogo,Yeye ni mtu mzima,"Hawezi kuolewa, bado ni kifaranga",0.0
-Yeye ni mtoto mdogo,Yeye ni mtu mzima,"Anaweza kuolewa, ameshakuwa msupu",1.0
-Mwanafunzi haelewi kirahisi,Mwanafunzi anaelewa kiurahisi,Mwanafunzi huyu ana kichwa kigumu,0.0
-Mwanafunzi haelewi kirahisi,Mwanafunzi anaelewa kiurahisi,Mwanafunzi huyu ana kichwa chepesi,1.0
-Haya mambo nimeyaacha,Haya mambo ninayafuatilia,Haya mambo nimeyanawia mikono,0.0
-Haya mambo nimeyaacha,Haya mambo ninayafuatilia,Haya mambo nimeyafungia mkanda,1.0
-Nguo zake kila siku ni nzuri,Nguo zake kila siku ni mbaya,Nguo zake kila siku ni pamba kali,0.0
-Nguo zake kila siku ni nzuri,Nguo zake kila siku ni mbaya,Nguo zake kila siku ni matambara,1.0
-Hali yangu ni mbaya,Hali yangu ni nzuri,Hali yangu ni kama natembea juu ya miiba,0.0
-Hali yangu ni mbaya,Hali yangu ni nzuri,Hali yangu ni mtelezo tu,1.0
-Abuu ni rafiki yangu wa karibu,Abuu sio rafiki yangu wa karibu,Abuu ni mwanangu,0.0
-Abuu ni rafiki yangu wa karibu,Abuu sio rafiki yangu wa karibu,Abuu sio mwanangu,1.0
-Alipata wasiwasi alipojua yupo mwenyewe barabarani,Hakupata wasiwasi alipojua yupo mwenyewe barabarani,Aliingiwa na ubaridi baada ya kushtuka kuwa yuko mwenyewe barabarani,0.0
-Alipata wasiwasi alipojua yupo mwenyewe barabarani,Hakupata wasiwasi alipojua yupo mwenyewe barabarani,Hakuingiwa na ubaridi hata aliposhtuka kuwa yuko mwenyewe barabarani,1.0
-Jamaa ni mlafi,Jamaa si mlafi,Jamaa ni fisi,0.0
-Jamaa ni mlafi,Jamaa si mlafi,Jamaa sio fisi,1.0
-Anakimbia kwa spidi kubwa sana,Anakimbia kwa spidi ndogo sana,"Ukimkuta kwenye uwanja wa mbio, kama farasi",0.0
-Anakimbia kwa spidi kubwa sana,Anakimbia kwa spidi ndogo sana,"Ukimkuta kwenye uwanja wa mbio, kama kobe",1.0
-Yeye ni mwepesi,Yeye ni mzito,Yeye ni unyoya,0.0
-Yeye ni mwepesi,Yeye ni mzito,Yeye ni jabali,1.0
-Alinivuta kwa nguvu,Alinisukuma kwa nguvu,Alinivuta kama sumaku,0.0
-Alinivuta kwa nguvu,Alinisukuma kwa nguvu,Alinisukuma kama kimbunga,1.0
-Yeye ni muoga,Yeye sio muoga,Yeye ni kuku,0.0
-Yeye ni muoga,Yeye sio muoga,Yeye ni chui,1.0
-Tuligawana mwali zote,Hatukugawana mali zote,Tulipiga shoka mali zote,0.0
-Tuligawana mwali zote,Hatukugawana mali zote,Hatukupiga shoka mali,1.0
-Mke wake ni mweusi,Mke wake ni mweupe,Mke wake ni mkaa,0.0
-Mke wake ni mweusi,Mke wake ni mweupe,Mke wake ni theluji,1.0
-Sauti yake ni nyororo,Sauti yake si nyororo,Sauti yake ni hariri,0.0
-Sauti yake ni nyororo,Sauti yake si nyororo,Sauti yake ni kama chura,1.0
-Kaka yangu ni mkaidi,Kaka yangu ni mtiifu,Kaka yangu ni nyumbu,0.0
-Kaka yangu ni mkaidi,Kaka yangu ni mtiifu,Kaka yangu si nyumbu,1.0
-Rafiki yangu anakesha usiku,Rafiki yangu hakeshi usiku,Rafiki yangu ni bundi,0.0
-Rafiki yangu anakesha usiku,Rafiki yangu hakeshi usiku,Rafiki yangu ni popo,1.0
-Ilikuwa taratibu,Ilikuwa fasta,Ilikuwa na spidi ya maji ya mtaro,0.0
-Ilikuwa taratibu,Ilikuwa fasta,Ilikuwa na spidi ya risasi,1.0
-Sisi tumetengena sana,Sisi tupo karibu sana,Sisi ni kama ardhi na mbingu,0.0
-Sisi tumetengena sana,Sisi tupo karibu sana,Sisi ni kama chupi na tako,1.0
-Alikuwa hasikii anachoambiwa,Alikuwa akisikia anachoambiwa,Juma ana sikio la mbuzi,0.0
-Alikuwa hasikii anachoambiwa,Alikuwa akisikia anachoambiwa,Juma ana sikio la tembo,1.0
-Maji ya bombani ni adimu,Maji ya bombani si adimu,Maji ya bombani ni kaburi la baniani,0.0
-Maji ya bombani ni adimu,Maji ya bombani si adimu,Maji ya bombani ni kaburi la baniani,1.0
-Mapenzi ni matamu,Mapenzi ni machungu,Mapenzi ni asali,0.0
-Mapenzi ni matamu,Mapenzi ni machungu,Mapenzi ni shubiri,1.0
-Yuko na roho mbaya,Yuko na roho ya utu,Yeye ni mnyama,0.0
-Yuko na roho mbaya,Yuko na roho ya utu,Yeye ni malaika,1.0
-Alikuwa mrembo sana,Alikuwa si mrembo sana,Msichana alikuwa kipepeo,0.0
-Alikuwa mrembo sana,Alikuwa si mrembo sana,Msichana alikuwa kienyeji,1.0
-Ni mahali pazuri sana,Ni mahali pabaya sana,Kenya ni paradiso,0.0
-Ni mahali pazuri sana,Ni mahali pabaya sana,Kenya ni jehanamu,1.0
-Ni mtu mwema,Ni mtu mbaya sana,Moyo wake ni mkubwa,0.0
-Ni mtu mwema,Ni mtu mbaya sana,Moyo wake ni mdogo,1.0
-Sipendi kazi yangu,Naipenda kazi yangu,Kazi yangu ni shida,0.0
-Sipendi kazi yangu,Naipenda kazi yangu,Kazi yangu ni raha,1.0
-Ninampenda sana,Simpendi kabisa,Nina wazimu juu yake,0.0
-Ninampenda sana,Simpendi kabisa,Nina kijicho juu yake,1.0
-Kitu kipya sana,Kitu kizee,Mradi huo ni mchanga,0.0
-Kitu kipya sana,Kitu kizee,Mradi huo ni mkongwe,1.0
-Ni jasiri sana,Ni mnyonge sana,Ana roho ya simba,0.0
-Ni jasiri sana,Ni mnyonge sana,Ni mpole kama kobe,1.0
-nakutegemea sana kwa maisha yangu,Sikutegemei kwa lolote,Wewe ni nyota yangu,0.0
-nakutegemea sana kwa maisha yangu,Sikutegemei kwa lolote,Wewe ni giza yangu,1.0
-Unapoazima kitu ni rahisi kufanaya hivyo,Unapoazimwa kufanyia mtu jambo ni vigumu,Kukopa arusi,0.0
-Unapoazima kitu ni rahisi kufanaya hivyo,Unapoazimwa kufanyia mtu jambo ni vigumu,kulipa matanga,1.0
-ana tabia njema,ana tabia mbaya,Mgeni ni kuku mweupe,0.0
-ana tabia njema,ana tabia mbaya,Mgeni ni kuku mweusi,1.0
-Ni mjanja sana,Yeye si mjanja,Rafiki yake ni sungura,0.0
-Ni mjanja sana,Yeye si mjanja,Rafiki yake ni kondoo,1.0
-ana kimo kirefu sana,ana kimo kifupi sana,Yeye ni mrefu kama twiga,0.0
-ana kimo kirefu sana,ana kimo kifupi sana,Yeye ni mfupi kama mbilikimo,1.0
-aliwachwa na upweke,alipatana naye,Aliwachwa mataani na yule ndugu,0.0
-aliwachwa na upweke,alipatana naye,Alipatana naye hadharani,1.0
-ana mbio sana,ana mwendo wa polepole,Yeye ni chui,0.0
-ana mbio sana,ana mwendo wa polepole,yeye ni kobe,1.0
-anatoa siri zetu nje,siri zetu zipo imara,Kuna panya kati yetu,0.0
-anatoa siri zetu nje,siri zetu zipo imara,kuna pamba kati yetu,1.0
-anahisi vizuri,anahisi vibaya,Kicheko ni dawa,0.0
-anahisi vizuri,anahisi vibaya,Kununa ni sumu,1.0
-ina maana kuwa chumba kina upweke,chumbani kuna furaha,Hiki chumba ni jela,0.0
-ina maana kuwa chumba kina upweke,chumbani kuna furaha,Hiki chumba ni paradiso,1.0
-ana roho njema,ana roho mbaya,Ali ana roho ya dhahabu,0.0
-ana roho njema,ana roho mbaya,Ali ana roho ya fisi,1.0
-maongezi yake ni mabaya,maongezi yake ni mema,maneno yako yanakata kama kisu,0.0
-maongezi yake ni mabaya,maongezi yake ni mema,maneno yako ni nyororo kama pamba,1.0
-mapenzi yetu ni mazito na yenye msingi,mapenzi yetu hayana msingi na ni mepesi,mapenzi yetu ni mazuri kama maua,0.0
-mapenzi yetu ni mazito na yenye msingi,mapenzi yetu hayana msingi na ni mepesi,mapenzi yetu ni mepesi kama kamasi,1.0
-Alitembea kwa mwendo wa maringo,alitembea kwa mwendo usiopendeza sana,Brenda alitembea kama tausi,0.0
-Alitembea kwa mwendo wa maringo,alitembea kwa mwendo usiopendeza sana,Brenda alitembea kama kuku,1.0
-ina maana kuwa ana njaa nyingi,hana nia ya kula sana,Naweza kula farasi,0.0
-ina maana kuwa ana njaa nyingi,hana nia ya kula sana,Ntakula kinyonga,1.0
-kuna baridi,kuna joto,kuna baridi kama maji ya jokofu,0.0
-kuna baridi,kuna joto,kuna joto kama kwa shetani,1.0
-hana wasiwasi wowote,amejawa na mambo mengi,ametulia kama maji mtungini,0.0
-hana wasiwasi wowote,amejawa na mambo mengi,ana mambo mengi kama sungura,1.0
-bwana ndiye mwokozi wangu,bwana si mwokozi wangu,bwana ni jabali langu,0.0
-bwana ndiye mwokozi wangu,bwana si mwokozi wangu,bwana si jabali langu,1.0
-amekuwa mkali sana,amekuwa mwepesi,mama wa kambo amekuwa mkali kama mamba,0.0
-amekuwa mkali sana,amekuwa mwepesi,mama wa kambo amekuwa mwepesi kama karatasi,1.0
-Ndiye nguzo katika familia yao,Ndiye anavuta mkia kwenye familia yao kwenye maendeleo,Anita ndiye nuru ya familia yao,0.0
-Ndiye nguzo katika familia yao,Ndiye anavuta mkia kwenye familia yao kwenye maendeleo,Anita ndiye giza ya familia yao,1.0
-yamekuwa magumu kuelewa,yamekuwa rahisi kuelewa,Masomo yamekuwa mawe,0.0
-yamekuwa magumu kuelewa,yamekuwa rahisi kuelewa,masomo yamekuwa karatasi,1.0
-kulikuwa na mawingu angani,hakukuwa na mawingu yoyote angani,anga ilikuwa na makaa meupe,0.0
-kulikuwa na mawingu angani,hakukuwa na mawingu yoyote angani,anga ilikuwa wazi,1.0
-Kulikuwa na sauti kali ya mto,Mto ulikuwa umetulia,Tuliskia manunguniko ya mto,0.0
-Kulikuwa na sauti kali ya mto,Mto ulikuwa umetulia,Tuliskia utulivu wa mto,1.0
-Aliaga dunia,yuko salama kabisa,aliota ndoto ya milele,0.0
-aliiaga dunia,yuko salama kabisa,Yuko buhari wa afya,1.0
-yuko katika ujana wake,yuko uzeeni,ana maua ya uzima,0.0
-yuko katika ujana wake,yuko uzeeni,hana maua ya uzima,1.0
-inaashiria rangi ya bahari,inaashiria rangi ya msitu,zaidi ya dunia ni bluu tu,0.0
-inaashiria rangi ya bahari,inaashiria rangi ya msitu,zaidi ya dunia ni kijani kibichi,1.0
-alimpiga busu mpenzi wake,hakumbusu mpenzi wake,alionja asali kwenye mdomo wake,0.0
-alimpiga busu mpenzi wake,hakumbusu mpenzi wake,hakuonja asali kwenye mdomo wake,1.0
-alibubujikwa na machozi mengi,alibubujikwa na machozi ya furaha,mito ya uchungu ilimtirirka,0.0
-alibubujikwa na machozi mengi,alibubujikwa na machozi ya furaha,mito ya furaha ilimtirika,1.0
-anapendeza kwa maumbile yake,hapendezi sana,ndovu za mwili wake zilimtongoza,0.0
-anapendeza kwa maumbile yake,hapendezi sana,ndovu za mwili wake hazikuvutia,1.0
-alihisi uzito wa mambo fulani,hakuhisi uzito wowote,alihisi ngoma kifuani,0.0
-alihisi uzito wa mambo fulani,hakuhisi uzito wowote,hakuhisi ngoma kifuani,1.0
-macho yake yanavutia,macho yake hayapendezi sana,zumaridi mbili zilingaa machoni pake,0.0
-macho yake yanavutia,macho yake hayapendezi sana,zumaridi mbili hazikungaa machoni mwake,1.0
-inaashiria rangi ya macho ilikuwa bluu,inaashiria macho yake hayakuwa ya rangi ya bluu,macho yake yalikuwa visima vya bluu,0.0
-inaashiria rangi ya macho ilikuwa bluu,inaashiria macho yake hayakuwa ya rangi ya bluu,macho yake hayakuwa visima vya bluu,1.0
-alikuwa mchochezi,alikuwa mtulivu,kinywa chake kilikuwa tunda jipya,0.0
-alikuwa mchochezi,alikuwa mtulivu,kinywa chake kilikuwa kinyamavu,1.0
-upendo hauna chaguo,upendo uko na chaguo,upendo ni jeuri,0.0
-upendo hauna chaguo,upendo uko na chaguo,upendo si jeuri,1.0
-sauti yake ilikuwa inapendeza,sauti yake haipendezi sana,sauti yako ni muziki maskioni mwangu,0.0
-sauti yake ilikuwa inapendeza,sauti yake haipendezi sana,sauti yako si muziki maskioni mwangu,1.0
-macho yake ni rangi ya bluu na angavu,macho yake si ya rangi ya bluu na angavu,macho yake ni yakuti samawi,0.0
-macho yake ni rangi ya bluu na angavu,macho yake si ya rangi ya bluu na angavu,macho yake si makuti samawi,1.0
-ni mtu mwenye kukaribishana vizuri,hapendi wageni,mikono yake ni bandari salama,0.0
-ni mtu mwenye kukaribishana vizuri,hapendi wageni,mikono yake si ya bandari salama,1.0
-nina mawazo chungu nzima,nimetulia vyema bila mawazo mengi,mawazo yangu ni kama mama mwenda wazimu,0.0
-nina mawazo chungu nzima,nimetulia vyema bila mawazo mengi,mawazo yangu si kama mama mwenda wazimu,1.0
-ni watundu na wasio wakakamavu,wako na bidii na wenye mitindo miema,wanafunzi wake ni shina la mizeituni,0.0
-ni watundu na wasio wakakamavu,wako na bidii na wenye mitindo miema,wanafunzi wake ni mchwa,1.0
-ngozi yake ina harufu nzuri,ngozi yake imechakaa,ngozi yako ni hariri,0.0
-ngozi yake ina harufu nzuri,ngozi yake imechakaa,ngozi yake si hariri,1.0
-sauti yake inapendeza,haipendezi,sauti yake ni zeri,0.0
-sauti yake inapendeza,haipendezi,sauti yake si zeri,1.0
-Yuko na nguvu sana,hana nguvu sana,alikuwa na mishipa ya chuma,0.0
-Yuko na nguvu sana,hana nguvu sana,alikuwa na mishipa miepesi,1.0
-alipata pesa nyingi,alikuwa hana pesa,mwezi wa fedha uliangaza angani,0.0
-alipata pesa nyingi,alikuwa hana pesa,mwezi wa fedha haukuangaza angani,1.0
-ili jiji lina matukio mabaya,ili jiji limetulia vyema,ili jiji ni kimbunga cha machafuko,0.0
-ili jiji lina matukio mabaya,ili jiji limetulia vyema,ili jiji si kimbunga cha machafuko,1.0
-inamaanisha kuwa ameanza kuzeeka,bado yu kijana,Taa yangu imechoka,0.0
-inamaanisha kuwa ameanza kuzeeka,bado yu kijana,taa yangu inangara,1.0
-yuko na mapenzi mengi,yuko na mapenzi machache,kwa kinu cha mapenzi,0.0
-yuko na mapenzi mengi,yuko na mapenzi machache,kwa mapenzi madogo,1.0
-Yeye ana umbo zuri,yeye hana umbo zuri,mwili wake una milima mieupe,0.0
-Yeye ana umbo zuri,yeye hana umbo zuri,mwili wake hauna milima mieupe,1.0
-macho yako yanapendeza,macho yako hayapendezi,macho yako ni nchi ya umeme na machozi,0.0
-macho yako yanapendeza,macho yako hayapendezi,macho yako ni nchi kavu,1.0
-mapigo hayo ni mengi,mapigo hayo ni machache,mapigo hayo ni makombo,0.0
-mapigo hayo ni mengi,mapigo hayo ni machache,mapigo hayo ni duni,1.0
-unanijali sana,haunijali kwa vyovyote,mikono yako ni kibembelezi changu,0.0
-unanijali sana,haunijali kwa vyovyote,mikono yako ni kisikitio changu,1.0
-ameadimika sana,anapatikana kwa urahisi,yeye ni maziwa ya kuku,0.0
-ameadimika sana,anapatikana kwa urahisi,yeye si maziwa ya kuku,1.0
-anampenda sana,hampendi kabisa,anampenda kama chanda na pete,0.0
-anampenda sana,hampendi kabisa,anamchukia kama mwizi,1.0
-yeye ni mwembamba sana,yeye ni mnene sana,Ali ni sindano,0.0
-yeye ni mwembamba sana,yeye ni mnene sana,Ali ni kifaru,1.0
-yuko na rangi nyeusi sana,yuko na rangi nyeupe,yeye ni makaa,0.0
-yuko na rangi nyeusi sana,yuko na rangi nyeupe,yeye ni theluji,1.0
-ni mkali sana,ni mpole sana,baba yake amekuwa jeshi,0.0
-ni mkali sana,ni mpole sana,baba yake amekuwa mtulivu,1.0
-yuko na nywele refu rembo,yuko na nywele fupi,dadake amekuwa singa,0.0
-yuko na nywele refu rembo,yuko na nywele fupi,dadake amekuwa kipara,1.0
-amekuwa mtundu,amekuwa mnyenyekevu,mtoto wako amekuwa tumbili,0.0
-amekuwa mtundu,amekuwa mnyenyekevu,mtoto wako amekuwa njiwa,1.0
-yeye ni mvumilivu,yuko na haraka sana,Mwelusi ni mtumwa,0.0
-yeye ni mvumilivu,yuko na haraka sana,Mwelusi si mtumwa,1.0
-ni mlafi,si mlafi,Yeye amekuwa fisi,0.0
-ni mlafi sana,si mlafi,yeye si fisi,1.0
-ni mwaminifu,ni mwongo,mpenzi wangu ni njiwa,0.0
-ni mwaminifu,ni mwongo,mpenzi wangu si njiwa,1.0
-yuko na bidii,yuko na uvivu,Fundi yule ni mchwa,0.0
-yuko na bidii,yuko na uvivu,fundi yule ni kinyonga,1.0
-ana nguvu nyingi,hana nguvu nyingi,mwaniki ni kifaru,0.0
-ana nguvu nyingi,hana nguvu nyingi,mwaniki si kifaru,1.0
-yuko na uzembe,yuko na bidii,yeye ni kupe,0.0
-yuko na uzembe,yuko na bidii,yeye si kupe,1.0
-ni mjanja na mwongo,si mjanja na mwongo,rafiki yake ni abunuasi,0.0
-ni mjanja na mwongo,si mjanja na mwongo,rafiki yake si abunuasi,1.0
-anaongea sana,ni mtulivu,yule mama ni chiriku,0.0
-anaongea sana,ni mtulivu,yule mama si chiriku,1.0
-kimenyamaza sana,kina kelele nyingi,chumba kile kimekuwa kaburi,0.0
-kimenyamaza sana,kina kelele nyingi,chumba kile kimekuwa klabu,1.0
-aliongea kwa uwazi,alificha mambo,jaji yule aliweka mambo wazi mchana,0.0
-aliongea kwa uwazi,alificha mambo,jaji yule amekuwa giza,1.0
-ana furaha nyingi,ana hasira tele,amekuwa tasa baada ya kupata mtoto,0.0
-ana furaha nyingi,ana hasira tele,amekuwa mkizi baada ya kufeli mtihani,1.0
-amepata kibahati,hajapata bahati,amekuwa mtende baada ya kupata hela,0.0
-amepata kibahati,hajapata bahati,hajakuwa mtende,1.0
-mapenzi yao yamenawiri,mapenzi yao hayajatulia,mapenzi yao yamekuwa gundi,0.0
-mapenzi yao yamenawiri,mapenzi yao hayajatulia,mapenzi yao yamelowa maji,1.0
-kinanukia vizuri,kinanukia vibaya,chakula kile ni ruhani,0.0
-kinanukia vizuri,kinanukia vibaya,chakula kile ni taka,1.0
-ni kitamu,si kitamu,chakula kinaonja asali,0.0
-ni kitamu,si kitamu,chakula kinaonja maganda,1.0
-ni chungu sana,ni tamu,dawa ile ya tumbo ni shubri,0.0
-ni chungu sana,ni tamu,dawa ile ya tumbo ni asali,1.0
-ni zito sana,ni nyepesi sana,gunia lile la makaa ni nanga,0.0
-ni zito sana,ni nyepesi sana,gunia lile ni unyoya,1.0
-ni kubwa sana,ni ndogo sana,meli ile ni uwanja wa ahera,0.0
-ni kubwa sana,ni ndogo sana,gari lile ni tundu la sindano,1.0
-mwenye majuto sana,ana furaha,baada ya kufeli mtihani amekuwa filauni,0.0
-mwenye majuto sana,ana furaha,baada ya kupita mtihani amekuwa mvuvi,1.0
-anaiga sauti fulani,hafuati sauti yoyote,msanii yule ni kasuku,0.0
-anaiga sauti fulani,hafuati sauti yoyote,msanii yule si kasuku,1.0
-wana matumaini ya kuvuna,hawana matumaini yoyote,wakulima wamekuwa tai baada ya kupalilia,0.0
-wana matumaini ya kuvuna,hawana matumaini yoyote,wakulima wamekuwa bundi,1.0
-alicheka kwa sauti ya juu,alicheka kwa sauti ya chini,aliangua kicheko kama radi,0.0
-alicheka kwa sauti ya juu,alicheka kwa sauti ya chini,hakuangua kicheko kama radi,1.0
-amekuwa kigeugeu,anaaminika,siku hizi rafiki yangu amekuwa kinyonga,0.0
-amekuwa kigeugeu,anaaminika,siku hizi rafiki yangu ni mtumwa,1.0
-ana wivu sana,ana upendo,mama wa kambo amekuwa joka la mdimu,0.0
-ana wivu sana,ana upendo,mama wa kambo amekuwa maua,1.0
-wanafuatana kila waendapo,hawafuatani kila mahali,watoto wake wamekuwa kumbikumbi,0.0
-wanafuatana kila waendapo,hawafuatani kila mahali,watoto wake hawajakuwa kumbikumbi,1.0
-yuko na sauti nyororo,yuko na sauti mbaya,bibi yake amekuwa malaika,0.0
-yuko na sauti nyororo,yuko na sauti mbaya,adui yake amekuwa tembo,1.0
-amekuwa mshaulifu,si mshaulifu,ndungu yake amekuwa nyati,0.0
-amekuwa mshaulifu,si mshaulifu,ndugu yake hajakuwa nyati,1.0
-anazurura ovyo,anatulia mahala pamoja,yule kijakazi amekuwa mbwa koko,0.0
-anazurura ovyo,anatulia mahala pamoja,yule kijakazi hajakuwa mbwa koko,1.0
-ana tumbo nene,ana tumbo la kawaida,askari yule amekuwa kiriba,0.0
-ana tumbo nene,ana tumbo la kawaida,askari yule hajakuwa kiriba,1.0
-amebobea kwenye usanii,hajabobea sana,msanii yule ni nyota,0.0
-amebobea kwenye usanii,hajabobea sana,msanii yule si nyota,1.0
-anaamka mapema kufanya kazi,haamki mapema,mkewe amekuwa ndege wa mapema,0.0
-anaamka mapema kufanya kazi,haamki mapema,mkewe hajakuwa ndege wa mapema,1.0
-maisha ni mapana,maisha ni mafupi,maisha ni barabara kuu,0.0
-maisha ni mapana,maisha ni mafupi,maisha si barabara kuu,1.0
-alikuwa na mapato mengi,alikuwa hana lolote,alikuwa mbwa mwenye mfupa,0.0
-alikuwa na mapato mengi,alikuwa hana lolote,hakuwa mbwa mwenye mfupa,1.0
-ni mwalimu mzuri,si mwalimu mwema,bwana yule ni mchungaji mwema,0.0
-ni mwalimu mzuri,si mwalimu mwema,bwana yule si mchungaji mwema,1.0
-walikuwa wakali sana,walikuwa ovyo,askari wetu walikuwa simba vitani,0.0
-walikuwa wakali sana,walikuwa ovyo,askari wetu walikuwa kunguru vitani,1.0
-Picha hii ni halisi.,Picha hii si halisi.,Picha hii ni nyota.,0.0
-Picha hii ni halisi.,Picha hii si halisi.,Picha hii ni ndoto.,1.0
-Filamu hii ina siri nyingi.,Filamu hii ina uwazi.,Filamu hii ni msitu mkubwa.,0.0
-Filamu hii ina siri nyingi.,Filamu hii ina uwazi.,Filamu hii ni kitabu wazi.,1.0
-Anaimba vizuri sana.,Anaimba vibaya sana.,Msichana huyo ni malaika anapoimba.,0.0
-Anaimba vizuri sana.,Anaimba vibaya sana.,Msichana huyo ni treni inayotoka kwenye reli anapoimba.,1.0
-Mradi huu ni baraka.,Mradi huu ni janga.,Mradi huu ni kama mvua iliyosubiriwa kwa muda mrefu.,0.0
-Mradi huu ni baraka.,Mradi huu ni janga.,Mradi huu ni kama jinamizi.,1.0
-Maneno yake yanaponya.,Maneno yake yanaangamiza.,Maneno yake ni dawa.,0.0
-Maneno yake yanaponya.,Maneno yake yanaangamiza.,Maneno yake ni sumu.,1.0
-Rafiki yangu anaongea sana.,Rafiki yangu yuko kimya sana.,Rafiki yangu ni chiruki.,0.0
-Rafiki yangu anaongea sana.,Rafiki yangu yuko kimya sana.,Rafiki yangu ni maji mtungini.,1.0
-Nduguye ni mkarimu sana.,Nduguye ni mbinafsi sana.,Nduguye ni msamaria mwema.,0.0
-Nduguye ni mkarimu sana.,Nduguye ni mbinafsi sana.,Nduguye ni mbweha.,1.0
-Mgeni alitarajiwa kuja.,Mgeni alikuja ghafla.,Mgeni huyo ni kama jua la kutua.,0.0
-Mgeni alitarajiwa kuja.,Mgeni alikuja ghafla.,Mgeni huyo ni kama ajali.,1.0
-Yeye ni mwenye fadhili.,Yeye ni mkatili.,Mwalimu wangu ana moyo wa dhahabu.,0.0
-Yeye ni mwenye fadhili.,Yeye ni mkatili.,Mwalimu wangu ana moyo wa jiwe.,1.0
-Nyumbani kuna uhuru.,Nyumbani hakuna uhuru.,Nyumbani kwetu ni ndege aliye huru.,0.0
-Nyumbani kuna uhuru.,Nyumbani hakuna uhuru.,Nyumbani kwetu ni jela.,1.0
-Maneno yake ni matamu.,Maneno yake ni machungu.,Maneno yake huwa asali kila anapozungumza.,0.0
-Maneno yake ni matamu.,Maneno yake ni machungu.,Maneno yake huwa shubiri kila anapozungumza.,1.0
-Sauti yake iko chini sana.,Sauti yake iko juu sana.,Sauti yake ni kama kunong'ona.,0.0
-Sauti yake iko chini sana.,Sauti yake iko juu sana.,Sauti yake ni kama dhoruba ya radi.,1.0
-Wimbo huu ni wa kawaida.,Wimbo huu ni nadra.,Wimbo huu ni kama umaskini.,0.0
-Wimbo huu ni wa kawaida.,Wimbo huu ni nadra.,Wimbo huu ni kama waradi ya samawati,1.0
-Mwanariadha yule ana mbio sana.,Mwanariadha yule anakimbia polepole sana.,Mwanariadha yule ni duma.,0.0
-Mwanariadha yule ana mbio sana.,Mwanariadha yule anakimbia polepole sana.,Mwanariadha yule ni kobe,1.0
-Chakula ni baridi sana.,Chakula ni moto sana.,Chakula kilikuwa barafu.,0.0
-Chakula ni baridi sana.,Chakula ni moto sana.,Chakula kilikuwa kuzimu.,1.0
-Mchezaji huyu ni mrefu.,Mchezajii huyu ni mfupi.,Mchezaji huyu ni twiga.,0.0
-Mchezaji huyu ni mrefu.,Mchezajii huyu ni mfupi.,Mchezaji huyo ni nyundo.,1.0
-Jana alikuwa na furaha.,Jana alikuwa na huzuni.,Jana alikuwa mfalme.,0.0
-Jana alikuwa na furaha.,Jana alikuwa na huzuni.,Jana alikuwa mboni ya macho ya huzuni nyuma ya sanda.,1.0
-Safari hiyo ilikuwa rahisi sana.,Safari hiyo ilikuwa ngumu sana.,Safari ilikuwa ni matembezi katika hifadhi.,0.0
-Safari hiyo ilikuwa rahisi sana.,Safari hiyo ilikuwa ngumu sana.,Safari ilikuwa ni uzito kwenye mabega yangu.,1.0
-Yule ni mkweli.,Yule ni mwongo.,Yule ni mkweli kama injili.,0.0
-Yule ni mkweli.,Yule ni mwongo.,Yule ni mkweli kama mwanasiasa wakati wa kampeni.,1.0
-Wimbo huu unanifanya nichangamke.,Wimbo huu unachosha.,Wimbo huu ni mwanga wa jua.,0.0
-Wimbo huu unanifanya nichangamke.,Wimbo huu unachosha.,Wimbo huu ni kama kuangalia rangi ikikauka.,1.0
-Mtoto wake ni mtiifu.,Mtoto wake ni mkaidi.,Mtoto wake ni Musa.,0.0
-Mtoto wake ni mtiifu.,Mtoto wake ni mkaidi.,Mtoto wake ni Adamu na Eva.,1.0
-Yeye ni jasiri.,Yeye ni mwoga.,Ana moyo wa simba.,0.0
-Yeye ni jasiri.,Yeye ni mwoga.,Ana moyo wa kuku.,1.0
-Kitabu hiki ni kizuri.,Kitabu hiki ni kibaya.,Kitabu hiki ni dhahabu.,0.0
-Kitabu hiki ni kizuri.,Kitabu hiki ni kibaya.,Kitabu hiki ni yai bovu.,1.0
-Yeye ni tajiri kupindukia.,Yeye ni maskini.,Rafiki yangu ni mfalme Solomoni.,0.0
-Yeye ni tajiri kupindukia.,Yeye ni maskini.,Rafiki yangu ni panya wa kanisa.,1.0
-Mtihani ilikuwa rahisi.,Mtihani ilikuwa ngumu.,Swali ya hesabu katika mtihani ilikuwa mboga.,0.0
-Mtihani ilikuwa rahisi.,Mtihani ilikuwa ngumu.,Swali ya hesabu katika mtihani ilikuwa mawe.,1.0
-Panga hii ni kali.,Panga hii ni butu.,Panga hii ni wembe.,0.0
-Panga hii ni kali.,Panga hii ni butu.,Panga hii ni sehemu ya nyuma ya kisu.,1.0
-Upendo wao una umoja na amani.,Upendo wao una utengano na vita.,Upendo wao ulikuwa divai nzuri.,0.0
-Upendo wao una umoja na amani.,Upendo wao una utengano na vita.,Upendo wao ulikuwa uwanja wa vita.,1.0
-Pesa hufurahisha.,Pesa huleta huzuni.,Pesa ni sabuni ya roho.,0.0
-Pesa hufurahisha.,Pesa huleta huzuni.,Pesa ni adui mkubwa.,1.0
-Yeye anajivunia.,Yeye aliona aibu.,Mtoto huyo ni tausi.,0.0
-Yeye anajivunia.,Yeye aliona aibu.,Mtoto huyo ni kama kijana aliyenaswa akitoroka nje ya nyumba.,1.0
-Ana akili kweli.,Ni mjinga kweli.,Mvulana huyo alikuwa sungura.,0.0
-Ana akili kweli.,Ni mjinga kweli.,Mvulana huyo alikuwa kondoo.,1.0
-Mama yake ni mkali.,Mama yake ni mpole.,Mama yake ni simba.,0.0
-Mama yake ni mkali.,Mama yake ni mpole.,Mama yake ni mwana-kondoo.,1.0
-Alikuwa mwenye huruma.,Hakuwa mwenye huruma.,Jirani yangu ni malaika.,0.0
-Alikuwa mwenye huruma.,Hakuwa mwenye huruma.,Jirani yangu ni shetani.,1.0
-Yeye ni mwenye bidii.,Yeye mvivu.,Mwenzake ni mchwa.,0.0
-Yeye ni mwenye bidii.,Yeye mvivu.,Mwenzake ni chura chini ya kisima.,1.0
-Somo hilo linaeleweka.,Somo hilo halieleweki.,Somo la hesabu ni mchana wa mwanga.,0.0
-Somo hilo linaeleweka.,Somo hilo halieleweki.,Somo la hesabu ni usiku wa giza.,1.0
-Yeye ni mvumilivi.,Yeye si mvumilivu.,Kijana yule ni mtumwa.,0.0
-Yeye ni mvumilivi.,Yeye si mvumilivu.,Kijana yule ni mtoto mchanga aliye na njaa.,1.0
-Nguo zake zinanuka vizuri.,Nguo zake zina uvundo.,Nguo zake ni kama marashi ya karafuu.,0.0
-Nguo zake zinanuka vizuri.,Nguo zake zina uvundo.,Nguo zake ni kama kidonda.,1.0
-Nampenda sana.,Namchukia sana.,Yule ni mboni ya jicho langu.,0.0
-Nampenda sana.,Namchukia sana.,Yule ni sumu.,1.0
-Yule amekamilika.,Yule sio kamili.,Mwanasoka yule ni nyota.,0.0
-Yule amekamilika.,Yule sio kamili.,Mwanasoka yule ni mwezi mpevu.,1.0
-Kitabu hiki ni kipya.,Kitabu hiki ni cha zamani.,Kitabu hiki ni kipya kama mwanzo wa siku.,0.0
-Kitabu hiki ni kipya.,Kitabu hiki ni cha zamani.,Kitabu hiki ni kipya kama milima.,1.0
-Urafiki wao ni wa amani na upendo.,Urafiki wao ni wa vita na vurugu.,Urafiki wao ni kama wa chanda na pete.,0.0
-Urafiki wao ni wa amani na upendo.,Urafiki wao ni wa vita na vurugu.,Urafiki wao ni kama wa mbwa na paka.,1.0
-Yeye ni safi.,Yeye ni chafu.,Yeye ni filimbi.,0.0
-Yeye ni safi.,Yeye ni chafu.,Yeye ni nguruwe.,1.0
-Mama wa kambo ni mzuri.,Mama wa kambo ni mbaya.,Mama wa kambo amekuwa njiwa.,0.0
-Mama wa kambo ni mzuri.,Mama wa kambo ni mbaya.,Mama wa kambo amekuwa mamba.,1.0
-Mambo yake ni wazi sana.,Mambo yake ni fiche sana.,Mambo yake ni kioo.,0.0
-Mambo yake ni wazi sana.,Mambo yake ni fiche sana.,Mambo yake ni giza.,1.0
-Yule ni mtulivu.,Yule ni mwenye hamaki.,Mtoto yule ni bahari.,0.0
-Yule ni mtulivu.,Yule ni mwenye hamaki.,Mtoto yule ni mkizi.,1.0
-Mvua inanyesha sana leo.,Jua linachoma sana leo.,Siku ya leo ni kama chemichemi.,0.0
-Mvua inanyesha sana leo.,Jua linachoma sana leo.,Siku ya leo ni kama Kalahari.,1.0
-Yule ni muaminifu.,Yule ni msaliti.,Mwajiriwa yule ni mtume.,0.0
-Yule ni muaminifu.,Yule ni msaliti.,Mwajiriwa yule ni Yuda Iskariote.,1.0
-Maumivu yangu ni chungu sana.,Maumivu yangu si chungu.,Maumivu ni shoka linalokata moyo wangu.,0.0
-Maumivu yangu ni chungu sana.,Maumivu yangu si chungu.,Maumivu ni muziki mzuri kwa roho yangu.,1.0
-Chai hii ni baridi sana.,Chai hii ni moto sana.,Chai hii ni baridi kama kifo.,0.0
-Chai hii ni baridi sana.,Chai hii ni moto sana.,Chai hii baridi kama volkano.,1.0
-Mjomba amefurahi sana.,Mjomba amekasirika sana.,Mjomba amefurahi kama ndege katika chemchemi.,0.0
-Mjomba amefurahi sana.,Mjomba amekasirika sana.,Mjomba amekasirika kama fahali mwenye kitambaa usoni.,1.0
-Uhusiano wao umejaa amani.,Uhusiano wao umejaa mzozo.,Uhusiano wao ni kama mapema ya majira ya joto.,0.0
-Uhusiano wao umejaa amani.,Uhusiano wao umejaa mzozo.,Uhusiano wao ni kama kimbunga.,1.0
-Kalamu hizi zinafanana.,Kalamu hizi ni tofauti.,Kalamu hizi ni kama mbaazi mbili kwenye ganda.,0.0
-Kalamu hizi zinafanana.,Kalamu hizi ni tofauti.,Kalamu hizi ni kama majira ya baridi na majira ya joto.,1.0
-Ilikuwa na furaha na kijamii.,Ilikuwa na huzuni na changamoto.,Maisha ni sherehe.,0.0
-Ilikuwa na furaha na kijamii.,Ilikuwa na huzuni na changamoto.,Maisha ni uwanja wa vita.,1.0
-Wao ni waaminifu.,Wao ni wasaliti.,Wao ni mbwa.,0.0
-Wao ni waaminifu.,Wao ni wasaliti.,Wao ni panya.,1.0
-Viatu vyake vina harufu nzuri.,Viatu vyake vina harufu mbaya.,Viatu vya baba ni manukato.,0.0
-Viatu vyake vina harufu nzuri.',Viatu vyake vina harufu mbaya.,Viatu vya baba ni takataka.,1.0
-Usiku wa leo anga ina nyota nyingi.,"Usiku wa leo anga ni tupu, haina nyota.",Usiku wa leo anga ni blanketi la nyota.,0.0
-Usiku wa leo anga ina nyota nyingi.,"Usiku wa leo anga ni tupu, haina nyota.",Usiku wa leo anga ni kanisa siku ya juma.,1.0
-Yeye ni mkarimu na mwenye upendo.,Yeye si mkarimu na mwenye upendo.,Msichani yule ni waridi kati ya miiba.,0.0
-Yeye ni mkarimu na mwenye upendo.,Yeye si mkarimu na mwenye upendo.,Msichana yule ni mwiba kati ya waridi.,1.0
-Kiti hiki kina nguvu.,Kiti hiki ni dhaifu.,Kiti hiki ni mwamba katika dhoruba.,0.0
-Kiti hiki kina nguvu.,Kiti hiki ni dhaifu.,Kiti hiki ni mtoto wa paka.,1.0
-Ilikuwa na watu wengi na kelele nyingi.,Ilikuwa kimya.,Sherehe hiyo ilikuwa mbuga ya wanyama.,0.0
-Ilikuwa na watu wengi na kelele nyingi.,Ilikuwa kimya.,Sherehe hiyo ilikuwa wimbo uliosahaulika.,1.0
-Mtihani ulikuwa rahisi.,Mtihani ulikuwa ngumu.,Mtihani ulikuwa upepo.,0.0
-Mtihani ulikuwa rahisi.,Mtihani ulikuwa ngumu.,Mtihani ulikuwa gunia tupu kusimama wima.,1.0
-Hadithi hiyo ni ya mwanzo.,Hadithi hiyo ni ya mwisho.,Hadithi hiyo ni kama kilio cha mtoto kuzaliwa.,0.0
-Hadithi hiyo ni ya mwanzo.,Hadithi hiyo ni ya mwisho.,Hadithi hiyo ni kama kifo.,1.0
-Miti hii inazaa matunda.,Miti hii haizalishi matunda.,Miti hii ni kama jua.,0.0
-Miti hii inazaa matunda.,Miti hii haizalishi matunda.,Miti hii ni kama mvua ya msimu wa baridi.,1.0
-Kijana yule alikula kwa pupa.,Kijana yule alikula bila haraka.,Kijana yule ni fisi.,0.0
-Kijana yule alikula kwa pupa.,Kijana yule alikula bila haraka.,Kijana yule ni panya.,1.0
-Mambo yake ni wazi sana.,Mambo yake si wazi.,Mtoto huyu ni sahani.,0.0
-Mambo yake ni wazi sana.,Mambo yake si wazi.,Mtoto huyu ni nyoka kwenye nyasi.,1.0
-Huwa haguswi na mambo kupita kiasi.,Huwa anaguswa na mambo kupita kiasi.,Yule msichana ni mtulivi kama mashamba ya Mbinguni.,0.0
-Huwa haguswi na mambo kupita kiasi.,Huwa anaguswa na mambo kupita kiasi.,Yule msichana ni malkia wa drama.,1.0
-Nyumba hii ni imara.,Nyumba hii si imara.,Nyumba hii ni kama dunia.,0.0
-Nyumba hii ni imara.,Nyumba hii si imara.,Nyumba hii ni kama mawimbi ya bahari.,1.0
-Simu hii ni muhimu.,Simu hii haina maana.,Simu hii ni kama ng’ombe.,0.0
-Simu hii ni muhimu.,Simu hii haina maana.,Simu hii ni kama bunduki bila kichochezi.,1.0
-Mtu huyu anajulikana.,Mtu huyu ni wa ajabu.,Mtu huyu ni kama jua na mwezi.,0.0
-Mtu huyu anajulikana.,Mtu huyu ni wa ajabu.,Mtu huyu ni kama kama harusi bila bwana harusi.,1.0
-Amejaa upendo.,Amejaa chuki.,Yeye ni sauti ya mama.,0.0
-Amejaa upendo.,Amejaa chuki.,Yeye ni kifo.,1.0
-Mwanafunzi huyu ni mwenye heshima,Mwanafunzi huyu ni mfidhuli.,Mwanafunzi huyu ni nta.,0.0
-Mwanafunzi huyu ni mwenye heshima,Mwanafunzi huyu ni mfidhuli.,Mwanafunzi huyu ni dubu.,1.0
-Kijiti hiki kimenyooka.,Kijiti hiki kimepinda.,Kijiti hiki ni kama nyota ya risasi.,0.0
-Kijiti hiki kimenyooka.,Kijiti hiki kimepinda.,Kijiti hiki ni kama mitaa ya Boston.,1.0
-Mtu huyo alikuwa na nywele nyingi.,Mtu huyo alikuwa na upara.,Mtu huyo alikuwa gorila.,0.0
-Mtu huyo alikuwa na nywele nyingi.,Mtu huyo alikuwa na upara.,Mtu huyo alikuwa yai.,1.0
-Mzigo hii ni nyepesi sana.,Mzigo hii ni nzito sana.,Mzigo hii ni kama manyoya.,0.0
-Mzigo hii ni nyepesi sana.,Mzigo hii ni nzito sana.,Mzigo hii ni kama nanga.,1.0
-Kitoto chake ni safi.,Kitoto chake ni kichafu.,Kitoto chake ni kama pini mpya.,0.0
-Kitoto chake ni safi.,Kitoto chake ni kichafu.,Kitoto chake ni kama nguruwe.,1.0
-Mayai haya ni matamu.,Mayai haya ni machungu.,Mayai haya ni asali.,0.0
-Mayai haya ni matamu.,Mayai haya ni machungu.,Mayai haya ni ndimu.,1.0
-Aliongea kwa adabu.,Aliongea kwa jeuri.,Alikuwa kama nta.,0.0
-Aliongea kwa adabu.,Aliongea kwa jeuri.,Alikuwa kama dubu.,1.0
-Alikuwa msichana mpweke.,Alikuwa msichana maarufu.,Alikuwa kama meli iliyoachwa.,0.0
-Alikuwa msichana mpweke.,Alikuwa msichana maarufu.,Alikuwa kama tamthilia ya filamu.,1.0
-Mlango ulikuwa na kufuli.,Mlango ulikuwa wazi.,Mlango ulikuwa kama mshipi wa chuma.,0.0
-Mlango ulikuwa na kufuli.,Mlango ulikuwa wazi.,Mlango ulikuwa kama ghuba.,1.0
-Meza iliyonunuliwa ilikuwa maridadi.,Meza iliyonunuliwa ilikuwa mbaya.,Meza ilikuwa kama yungiyungi.,0.0
-Meza iliyonunuliwa ilikuwa maridadi.,Meza iliyonunuliwa ilikuwa mbaya.,Meza ilikuwa kama gome la mwaloni.,1.0
-Walikuwa marafiki wazuri.,Walikuwa maadui.,Hao ni ulimi na meno.,0.0
-Walikuwa marafiki wazuri.,Walikuwa maadui.,Hao ni maji na mafuta.,1.0
-Mtoto yule amefurahi.,Mtoto yule amehuzunika.,Mtoto yule ni kibogoyo aliyeota Meno.,0.0
-Mtoto yule amefurahi.,Mtoto yule amehuzunika.,Mtoto yule ni mfiwa.,1.0
-Ngozi yake ni laini.,Ngozi yake ni ngumu.,Ngozi yake ni hariri.,0.0
-Ngozi yake ni laini.,Ngozi yake ni ngumu.,Ngozi yake ni mawe,1.0
-Wazazi wangu hawasahau kamwe.,Wazazi wangu ni wasahaulifu.,Wazazi wangu ni kama ndovu.,0.0
-Wazazi wangu hawasahau kamwe.,Wazazi wangu ni wasahaulifu.,Wazazi wangu ni kama bibi kizee.,1.0
-Mazao ya wakulima yalikuwa tele.,Mazao ya wakulima yalikuwa haba.,Mazao ya wakulima ni kama mwanga wa jua.,0.0
-Mazao ya wakulima yalikuwa tele.,Mazao ya wakulima yalikuwa haba.,Mazao ya wakulima ni kama manyoya kwenye samaki.,1.0
-Yeye alijivinjari.,Yeye alihangaika.,Yeye alikuwa mahali kama kasri la mfalme.,0.0
-Yeye alijivinjari.,Yeye alihangaika.,Yeye alikuwa mahali kama jela.,1.0
-Mahali aliwekwa palikuwa pazuri.,Mahali aliwekwa palikuwa pabaya.,Mahali aliwekwa palikuwa peponi.,0.0
-Mahali aliwekwa palikuwa pazuri.,Mahali aliwekwa palikuwa pabaya.,Mahali aliwekwa palikuwa kuzimu.,1.0
-Maneno yake yalikuwa yamenyooka.,Maneno yake hayakuwa yamenyooka.,Maneno yake yalikuwa kama rula.,0.0
-Maneno yake yalikuwa yamenyooka.,Maneno yake hayakuwa yamenyooka.,Maneno yake yalikuwa kama samaki aliyetolewa kwa maji.,1.0
-Walishuhudia uhuru nchini.,Walishuhudia utumwa nchini.,Walishuhudia uhuru kama ndege angani.,0.0
-Walishuhudia uhuru nchini.,Walishuhudia utumwa nchini.,Walishuhudia utumwa kama Waisraeli.,1.0
-Yeye ni mwaminifu.,Yeye ni mwongo.,Yeye ni njiwa,0.0
-Yeye ni mwaminifu.,Yeye ni mwongo.,Yeye ni jongoo.,1.0
-Yake yalikuwa ya faida.,Yake yalikuwa ya hasara.,Maneno yake yalikuwa mvua kwa mkulima.,0.0
-Yake yalikuwa ya faida.,Yake yalikuwa ya hasara.,Maneno yake yalikuwa mkizi.,1.0
-Filamu hiyo ilikuwa na manufaa.,Filamu hiyo ilikuwa na madhara.,Filamu hiyo ilikuwa kama dawa kwa mgonjwa.,0.0
-Filamu hiyo ilikuwa na manufaa.,Filamu hiyo ilikuwa na madhara.,Filamu hiyo ilikuwa kama dawa za kulevya.,1.0
-Binti huyu ni mcha Mungu.,Ni binti akanaye Mungu.,Binti huyu ni Musa.,0.0
-Binti huyu ni mcha Mungu.,Ni binti akanaye Mungu.,Binti huyu ni Firauni.,1.0
-Alikuwa kiongozi katika mkutano.,Alikuwa mfuasi katika mkutano.,Alikuwa kama kigogo.,0.0
-Alikuwa kiongozi katika mkutano.,Alikuwa mfuasi katika mkutano.,Alikuwa kama kumbikumbi.,1.0
-Yake yalikuwa ya thamana.,Yake yalikuwa yasiyo na maana.,Mazungumuzo yake yalikuwa kama bunda la noti.,0.0
-Yake yalikuwa ya thamana.,Yake yalikuwa yasiyo na maana.,Mazungumuzo yake yalikuwa kama senti.,1.0
-Alitoka hospitalini na furaha nyingi.,Alitoka hospitalini kama amenuna.,Alitoka hospitalini kama mfalme.,0.0
-Alitoka hospitalini na furaha nyingi.,Alitoka hospitalini kama amenuna.,Alitoka hospitalini kama Nyati aliyedungwa na miba.,1.0
-Busu lake lilikuwa la mapenzi ya kweli.,Busu lake lilikuwa la usaliti.,Busu lake lilikuwa kama la mama kwa mwanawe.,0.0
-Busu lake lilikuwa la mapenzi ya kweli.,Busu lake lilikuwa la usaliti.,Busu lake lilikuwa kama la Yuda Iskarioti kwa Yesu.,1.0
-Sehemu la kupalilia lilikuwa kubwa.,Sehemu la kupalilia lilikuwa ndogo.,Sehemu la kupalilia lilikuwa bahari.,0.0
-Sehemu la kupalilia lilikuwa kubwa.,Sehemu la kupalilia lilikuwa ndogo.,Sehemu la kupalilia lilkuwa tundu la sindano.,1.0
-Barabara hii ni pana sana.,Barabara hii ni nyembamba sana.,Barabara hii ni tembo.,0.0
-Barabara hii ni pana sana.,Barabara hii ni nyembamba sana.,Barabara hii ni uzi.,1.0
-Maneno yake yalikuwa fichu.,Maneno yake yalikuwa fiche.,Maneno yake yalikuwa kama tabasamu.,0.0
-Maneno yake yalikuwa fichu.,Maneno yake yalikuwa fiche.,Maneno yake yalikuwa kama fumbo.,1.0
-Mwanariadha huyu ana mbio sana.,Mwanariadha huyu anakimbia polepole sana.,Mwanariadha huyu ni duma.,0.0
-Mwanariadha huyu ana mbio sana.,Mwanariadha huyu anakimbia polepole sana.,Mwanariadha huyu ni kobe.,1.0
-Kasisi amevaa nguo nyeupe.,Kasisi amevaa nguo nyeusi.,Nguo ya kasisi ni theluji.,0.0
-Kasisi amevaa nguo nyeupe.,Kasisi amevaa nguo nyeusi.,Nguo ya kasisi ni makaa.,1.0
-Alikuwa na ufanisi kazini.,Hakuwa na ufanisi kazini.,Alikuwa kama mtego wa dubu.,0.0
-Alikuwa na ufanisi kazini.,Hakuwa na ufanisi kazini.,Alikuwa kama fedha ya haraka ya kusema uongo.,1.0
-Filamu hii ni nzuri.,Filamu hii ni mbaya.,Filamu hii ni kama waridi.,0.0
-Filamu hii ni nzuri.,Filamu hii ni mbaya.,Filamu hii ni kama kuwasha.,1.0
-Ardhi ilikuwa tija.,Ardhi ilikuwa tasa.,Ardhi ilikuwa kama jua.,0.0
-Ardhi ilikuwa tija.,Ardhi ilikuwa tasa.,Ardhi ilikuwa kama mvua ya msimu ya baridi.,1.0
-Miche ilikuwa inakua.,Miche ilikuwa inapungua.,Miche ilikuwa kama magugu kwenye kaburi lililopuuzwa.,0.0
-Miche ilikuwa inakua.,Miche ilikuwa inapungua.,Miche ilikuwa kama konokono akitoka kwenye ganda lake.,1.0
-Alikuwa jasiri.,Alikuwa na haya.,Alikuwa simba.,0.0
-Alikuwa jasiri.,Alikuwa na haya.,Alikuwa mjakazi.,1.0
-Chumba kilikuwa kikiangaza.,Chumba kilikuwa giza.,Chumba kilikuwa kama mwali.,0.0
-Chumba kilikuwa kikiangaza.,Chumba kilikuwa giza.,Chumba kilikuwa kama kaburi.,1.0
-Samani hii ni ya kweli.,Samani hii ni ya bandia.,Samani hii ni kama nyota.,0.0
-Samani hii ni ya kweli.,Samani hii ni ya bandia.,Samani hii ni kama saa.,1.0
-Mwanafunzi alikuwa akinong'ona.,Mwanafunzi alikuwa akipiga kelele.,Mwanafunzi alikuwa kama pumzi za upepo mdogo.,0.0
-Mwanafunzi alikuwa akinong'ona.,Mwanafunzi alikuwa akipiga kelele.,Mwanafunzi alikuwa kama kupasuka kwa volkano.,1.0
-Upepo ulikuwa thabiti.,Upepo haukuwa thabiti.,Upepo ulikuwa kama nguzo.,0.0
-Upepo ulikuwa thabiti.,Upepo haukuwa thabiti.,Upepo ulikuwa kama jicho likitazama jua.,1.0
-Alikuwa na mapenzi kubwa kwake.,Alikuwa na chuki kali kwake.,Alikuwa kama malaika mlezi.,0.0
-Alikuwa na mapenzi kubwa kwake.,Alikuwa na chuki kali kwake.,Alikuwa kama mbegu iliyoanguka kwenye mawe.,1.0
-Shati lake ni jeupe.,Shati lake ni jeusi.,Shati lake ni chumvi.,0.0
-Shati lake ni jeupe.,Shati lake ni jeusi.,Shati lake ni shimo la makaa ya mawe.,1.0
-Walikubaliana juu ya jambo hilo.,Walitofautiana juu ya jambo hilo.,Wao ni kama kengele na mlio wake.,0.0
-Walikubaliana juu ya jambo hilo.,Walitofautiana juu ya jambo hilo.,Wao ni kama moto na maji.,1.0
-Sakafu hii inateleza.,Sakafu hii ni kavu.,Sakafu hii ni kama nyoka.,0.0
-Sakafu hii inateleza.,Sakafu hii ni kavu.,Sakafu hii ni kama ukweli wa kisukuku.,1.0
-Uchaguzi huu ni wa haki.,Uchaguzi huu si wa haki.,Uchaguzi huu ni nadhiri za bikira.,0.0
-Uchaguzi huu ni wa haki.,Uchaguzi huu si wa haki.,Uchaguzi huu ni kumpa hakimu hekima kwa sababu tu amevalia tofauti na wanaume wengine.,1.0
-Mchezaji alikuwa fiti kwa mchezo.,Mchezaji alikuwa hafai kwa mchezo.,Mchezaji alikuwa kama viatu vya jumapili.,0.0
-Mchezaji alikuwa fiti kwa mchezo.,Mchezaji alikuwa hafai kwa mchezo.,Mchezaji alikuwa kama dhahabu safi kwa mzunguko.,1.0
-Polisi walikuwa waadilifu.,Polisi hawakuwa waadilifu.,Polisi walikuwa kama heshima sawa.,0.0
-Polisi walikuwa waadilifu.,Polisi hawakuwa waadilifu.,Polisi walikuwa kama waamuzi wa historia ya mipaka kwanza humunyonga mfungwa na kisha kumjaribu.,1.0
-Mbwa huyu ni shujaa.,Mbwa huyu ni mwoga.,Mbwa huyu ni simba.,0.0
-Mbwa huyu ni shujaa.,Mbwa huyu ni mwoga.,Mbwa huyu ni kunguru.,1.0
-Alikuwa na afya njema.,Alikuwa na afya mbovu.,Alikuwa kama asubuhi ya mei.,0.0
-Alikuwa na afya njema.,Alikuwa na afya mbovu.,Alikuwa kama ini la bukini linalokusudiwa kulwa.,1.0
-Yeye ni mwenye huruma.,Yeye si mwenye huruma.,Yeye ni mti mtukufu ambao umejeruhiwa wakati unatoa zeri.,0.0
-Yeye ni mwenye huruma.,Yeye si mwenye huruma.,Yeye ni kaisari.,1.0
-Eneo la benki limelindwa.,Eneo la benki ni dhahiri.,Eneo la benki ni kama mkuu katika ngome lake.,0.0
-Eneo la benki limelindwa.,Eneo la benki ni dhahiri.,Eneo la benki ni kama nyota kwenye usiku tupu.,1.0
-Majengo yale ni ya kisasa.,Majengo yale ni ya zamani.,Majengo yale ni safu ya mwanga.,0.0
-Majengo yale ni ya kisasa.,Majengo yale ni ya zamani.,Majengo yale ni umri wa jiwe.,1.0
-Dereva alikuwa kiasi.,Dereva alikuwa mlevi.,Dereva alikuwa kama hakimu.,0.0
-Dereva alikuwa kiasi.,Dereva alikuwa mlevi.,Dereva alikuwa kama Lutu wa bibilia.,1.0
-Ilikuwa zabuni.,Ilikuwa ngumu.,Ilikuwa kama ndoto ya mama ya mtoto wake.,0.0
-Ilikuwa zabuni.,Ilikuwa ngumu.,Ilikuwa kama ngozi.,1.0
-Msichana yule amebarikiwa.,Msichana yule amelaaniwa.,Msichana yule ni Daudi.,0.0
-Msichana yule amebarikiwa.,Msichana yule amelaaniwa.,Msichana yule ni hekalu takatifu lenye limeibiwa.,1.0
-Hali ya hewa ni shwari.,Hali ya hewa ni ya dhoruba.,Hali ya hewa ni kama mito ya kina kirefu.,0.0
-Hali ya hewa ni shwari.,Hali ya hewa ni ya dhoruba.,Hali ya hewa ni kama kimbunga kamili.,1.0
-Alipewa faraja baada ya tukio.,Alipewa majonzi baada ya tukio.,Alipewa faraja kama mtoto mchanga.,0.0
-Alipewa faraja baada ya tukio.,Alipewa majonzi baada ya tukio.,Alipewa majonzi kama mafuriko yalioinuliwa kwenye vijito vidogo na mvua ya ghafla.,1.0
-Alihama karibu na shangazi.,Alihama mbali na shangazi.,Alihama kama sekunde moja hadi nyingine.,0.0
-Alihama karibu na shangazi.,Alihama mbali na shangazi.,Alihama kama wema ulivyo juu ya ubaya.,1.0
-Nyumba hii ni safi.,Nyumba hii ni chafu.,Nyumba hii ni pamba.,0.0
-Nyumba hii ni safi.,Nyumba hii ni chafu.,Nyumba hii ni dampo.,1.0
-Barua yake ilikuwa ya hisia.,Barua yake haikuwa ya hisia.,Barua yake ilikuwa kama mama na mwanawe.,0.0
-Barua yake ilikuwa ya hisia.,Barua yake haikuwa ya hisia.,Barua ilikuwa kama pambano lililogandishwa.,1.0
-Safari ilikuwa na starehe.,Safari haikuwa na starehe.,Safari ilikuwa kama jua baada ya mvua.,0.0
-Safari ilikuwa na starehe.,Safari haikuwa na starehe.,Safari ilikuwa kama jogoo ndani ya bwawa.,1.0
-Kijana huyu ni mwenye kiburi.,Kijana huyu ni mwenye aibu.,Kijana huyu ni kama nyumbu wa serikali.,0.0
-Kijana huyu ni mwenye kiburi.,Kijana huyu ni mwenye aibu.,Kijana huyu ni kama kitu cha hatia.,1.0
-Alikuwa mkarimu kwake.,Alikuwa na wivu kwake.,Alikuwa kama jua katika chemchemi.,0.0
-Alikuwa mkarimu kwake.,Alikuwa na wivu kwake.,Alikuwa kama paka.,1.0
-Chumba kilikuwa tupu.,Chumba kilikuwa kimejaa.,Chumba kilikuwa kama upepo.,0.0
-Chumba kilikuwa tupu.,Chumba kilikuwa kimejaa.,Chumba kilikuwa kama kupe.,1.0
-Kijana alikuwa jasiri.,Kijana aliogopa.,Kijana alikuwa kama mpiga grenadi.,0.0
-Kijana alikuwa jasiri.,Kijana aliogopa.,Kijana alikuwa kama panzi.,1.0
-Sauti yake ilikuwa ya muziki.,Sauti yake haikuwa ya muziki.,Sauti yake ilikuwa kama mvua inavyoshuka kwenye paa.,0.0
-Sauti yake ilikuwa ya muziki.,Sauti yake haikuwa ya muziki.,Sauti yake ilikuwa kama ndoto ya usiku ya bubu aliyeshiba wimbo.,1.0
-Yeye ni muangalifu sana.,Yeye ni mzembe sana.,Yeye ni mlinzi mzuri wa nyumba.,0.0
-Yeye ni muangalifu sana.,Yeye ni mzembe sana.,Yeye ni upepo.,1.0
-Alikuwa mtu wa imani.,Alikuwa mtu wa hofu.,Alikuwa kama Abrahamu.,0.0
-Alikuwa mtu wa imani.,Alikuwa mtu wa hofu.,Alikuwa kama nzige.,1.0
-Walikusanyika njiani.,Walitawanyika njiani.,Wao walikuwa mchwa.,0.0
-Walikusanyika njiani.,Walitawanyika njiani.,Wao walikuwa makapi mbele ya upepo.,1.0
-Aliketi mbele.,Aliketi nyuma.,Aliketi kama kiongozi wa ngamia.,0.0
-Aliketi mbele.,Aliketi nyuma.,Aliketi kama kitabu cha kiebrania.,1.0
-Jamii ilikuwa changa.,Jamii ilikuwa ya zamani.,Jamii ilikuwa kama saa.,0.0
-Jamii ilikuwa changa.,Jamii ilikuwa ya zamani.,Jamii ilikuwa kama uumbaji.,1.0
-Mlinzi alikuwa macho.,Mlinzi alikuwa amelala.,Mlinzi alikuwa bahari inayotikiswa na tufani kuu.,0.0
-Mlinzi alikuwa macho.,Mlinzi alikuwa amelala.,Mlinzi alikuwa ndoto kaburini.,1.0
-Kaka yangu alicheka.,Kaka yangu alilia.,Kaka yangu alikuwa kama kasuku kwa mpiga filimbi.,0.0
-Kaka yangu alicheka.,Kaka yangu alilia.,Kaka yangu alikuwa kama mtoto anayechapwa.,1.0
-Yule ni mtu mwema.,Yule ni mtu mwovu.,Yule ni ukweli mtakatifu.,0.0
-Yule ni mtu mwema.,Yule ni mtu mwovu.,Yule ni bahari iliyochafuka.,1.0
-Walikimbia juu ya kilima.,Walikimbia chini ya kilima.,Walikimbia kama moshi ya tanuru.,0.0
-Walikimbia juu ya kilima.,Walikimbia chini ya kilima.,Walikimbia kama nyasi mbele ya komeo.,1.0
-Chumba hiki ni kimya.,Chumba hiki kina sauti kubwa.,Chumba hiki ni sanamu.,0.0
-Chumba hiki ni kimya.,Chumba hiki kina sauti kubwa.,Chumba hiki ni sauti ya dalali.,1.0
-Baba ana shughuli nyingi.,Baba yuko bila kazi.,Baba ni nyuki.,0.0
-Baba ana shughuli nyingi.,Baba yuko bila kazi.,Baba ni saa sita mchana.,1.0
-Mahali hapa ni kimya sana.,Mahali hapa pana kelele mingi.,Mahali hapa ni kama makaburi.,0.0
-Mahali hapa ni kimya sana.,Mahali hapa pana kelele mingi.,Mahali hapa ni kama sokoni.,1.0
-Nyumba hii ni imara.,Nyumba hii si imara.,Nyumba hii ni kama dunia.,0.0
-Nyumba hii ni imara.,Nyumba hii si imara.,Nyumba hii ni kama upepo.,1.0
-Mifugo wote wako hai.,Mifugo wote wamefariki.,Mifugo wote wako hai kama maono ya maisha kuwa.,0.0
-Mifugo wote wako hai.,Mifugo wote wamefariki.,Mifugo wote wako hai kama jana.,1.0
-Yeye ni mwenye nguvu.,Yeye ni dhaifu.,Yeye ni Samsoni.,0.0
-Yeye ni mwenye nguvu.,Yeye ni dhaifu.,Yeye ni mwanzi.,1.0
+Watoto daima hawana hatia,Yeye daima ni mwenye dhambi,Watoto ni malaika,0
+Watoto daima hawana hatia,Yeye daima ni mwenye dhambi,Yeye ni mnyama.,1
+Maneno yako yanaumiza,Maneno yake yanafariji,Maneno yake ni kama kisu,0
+Maneno yako yanaumiza,Maneno yake yanafariji,Maneno yake ni kama kinanda,1
+Ana tabasamu zuri,Tabasamu lake linatisha,Tabasamu lake huangaza chumba kizima,0
+Ana tabasamu zuri,Tabasamu lake linatisha,Tabasamu lake lilijaa  vitisho  kama shomoro mdogo aliyeshika shoka,1
+Nina furaha kubwa sana,Nina huzuni nyingi sana,Nipo katika dimbwi la furaha,0
+Nina furaha kubwa sana,Nina huzuni nyingi sana,Ninazama katika bahari ya huzuni,1
+Wale wanapendana sana,Wale hawapendani sana,"Penzi lao limepamba moto""",0
+Wale wanapendana sana,Wale hawapendani sana,"Penzi lao ni kama moto wa kibatari kwenye upepo""",1
+Chakula ni kitamu,Chakula ni kibaya,Wali huu una ladha kama umepikwa  hotelini,0
+Chakula ni kitamu,Chakula ni kibaya,Wali huu unaladha kama umepikwa bwenini,1
+Mtihani ulikuwa rahisi sana,Mtihani ulikua mgumu,Mtihani ulikuwa kama kipande cha keki,0
+Mtihani ulikuwa rahisi sana,Mtihani ulikua mgumu,Mtihani ulikuwa kama ugali wa jela,1
+Mchezaji alitoa pasi nzuri,Mchezaji alitoa pasi mbaya,Mzamiru alitoa pasi rula,0
+Mchezaji alitoa pasi nzuri,Mchezaji alitoa pasi mbaya,Feisal alitoa pasi mkaa,1
+Vijana ndio watakaoleta maendeleo huko mbeleni,Vijana hawahusiki na maendeleo ya taifa ya baadae,Vijana ndio taifa la kesho,0
+Vijana ndio watakaoleta maendeleo huko mbeleni,Vijana wataliharibu taifa.,Vijana wataozesha taifa,1
+Sauti yako ni inanipa faraja na raha niisikiapo,Sauti yako ni kero kwangu,Sauti yako ni muziki masikioni mwangu,0
+Sauti yako ni inanipa faraja na raha niisikiapo,Sauti yako ni kero kwangu,Sauti yako ni kama chiriku,1
+Mapenzi hayafichiki,Mapenzi yanafichika,Mapenzi ni kikohozi,0
+Mapenzi hayafichiki,Mapenzi yanafichika,Mapenzi ni kama punje ya unga kwenye mchele,1
+Ujana huja na kuondoka haraka,Ujana hukaa kwa mda mrefu,Ujana ni moshi,0
+Ujana huja na kuondoka haraka,Ujana hukaa kwa mda mrefu,Ujana ni safari ndefu,1
+Maisha si marahisi yanahitaji kupambana,Maisha ni marahisi,Maisha ni kama uji,0
+Maisha si marahisi yanahitaji kupambana,Maisha ni marahisi,"Maisha sio mchezo, ni vita",1
+Kauli yake ilinifanya nijiskie vibaya,Kauli yake ilinifurahisha,Kauli yake ilinikata maini,0
+Kauli yake ilinifanya nijiskie vibaya,Kauli yake ilinifurahisha,Kauli yake ilikua kama maji baridi kooni,1
+Awamu hii kutakua na michuano migumu,Awamu hii kutakua na michuano mirahisi,Awamu hii kutakua na michuano ya kukata na shoka,0
+Awamu hii kutakua na michuano migumu,Awamu hii kutakua na michuano mirahisi,Awamu hii kutakua na michuano lelemama,1
+"Sandra, wewe ndiye unayenipa furaha","Sandra, wewe siye unayenipa furaha","Sandra, wewe ndio nuru ya macho yangu",0
+"Sandra, wewe ndiye unayenipa furaha","Sandra, wewe siye unayenipa furaha","Sandra, wewe ni kama shubiri kinywani mwangu",1
+"Tofauti na dhana iliyokuwepo, mama ndiye mtu anayeishikilia familia kwa pamoja",Mama siye anayeishikilia familia kwa pamoja,"Tofauti na dhana iliyokuwepo, mama ndiye nguzo  ya familia",0
+"Tofauti na dhana iliyokuwepo, mama ndiye mtu anayeishikilia familia kwa pamoja",Mama siye anayeishikilia familia kwa pamoja,"Tofauti na dhana iliyokuwepo, mama ndiye kunguni wa familia",1
+Ndoa zitakua hadimu siku si nyingi,Ndoa hazitakua hadimu siku za hapa karibuni,Ndoa zitakua hadimu siku za usoni,0
+Ndoa zitakua hadimu siku si nyingi,Ndoa hazitakua hadimu siku za hapa karibuni,Kutakua na ndoa kama siafu siku za usoni,1
+Mapenzi ni kitu kigumu,Mapenzi ni kitu kirahisi,Mapenzi ni vita,0
+Mapenzi ni kitu kigumu,Mapenzi ni kitu kirahisi,Mapenzi ni keki,1
+Bahati ikimkuta mwenzio usisubiri ikufikie na wewe,Bahari ikimkuta mwenzio subiri ikufikie na wewe,Bahati ya mwenzio usiilalie mlango wazi,0
+Bahati ikimkuta mwenzio usisubiri ikufikie na wewe,Bahari ikimkuta mwenzio subiri ikufikie na wewe,Bahati ya mwenzio ilalie mlango wazi,1
+Kijana huyu ana roho nzuri sana,Kijana huyu ana roho mbaya sana,Kijana huyu ana roho ya dhahabu,0
+Kijana huyu ana roho nzuri sana,Kijana huyu ana roho mbaya sana,Kijana huyo ana roho ya kutu,1
+Maisha yake yana muelekeo,Maisha yake hayana muelekeo,Maisha yake ni kama dira,0
+Maisha yake yana muelekeo,Maisha yake hayana muelekeo,Maisha yake ni kama kuku akiyekatwa kichwa,1
+Mwendo wake ni wa maringo,Mwendo wake si wa maringo,Mwendo wake ni mithili ya twiga,0
+Mwendo wake ni wa maringo,Mwendo wake si wa maringo,Mwendo wake ni wa bata,1
+Ukitendea watu mema yatakurudia,Ukitendea watu mema hayatakurudia,Wema ni hazina,0
+Ukitendea watu mema yatakurudia,Ukitendea watu mema hayatakurudia,Wema sio kitenesi,1
+Alitokwa na machozi mengi ya uchungu,Hakutokwa na machozi mengi ya uchungu,Macho yake yalikua kama mto wkati wa masika.,0
+Alitokwa na machozi mengi ya uchungu,Hakutokwa na machozi mengi ya uchungu,Macho yake yalikua kama mto wkati wa kiangazi.,1
+Mapigo yake ya moyo yalienda kwa kasi mno,Mapingo yake ya moyo yalienda taratibu,Alihisi ngoma kifuani kwake,0
+Mapigo yake ya moyo yalienda kwa kasi mno,Mapingo yake ya moyo yalienda taratibu,Alihisi kifua chake kimeganda kama barafu,1
+Alipora mkoba wangu na kukimbia,Alipora mkoba wangu na kuanza kutembea taratibu,Alipora mkoba wangu na kutimua vumbi,0
+Alipora mkoba wangu na kukimbia,Alipora mkoba wangu na kuanza kutembea taratibu,Alipora mkoba wangu na kutembea kama konokono,1
+Walibishana hadi wakapigana,Walibishana lakini hawakupigana,Walibishana hadi wakashikana mashati,0
+Walibishana hadi wakapigana,Walibishana lakini hawakupigana,Walibishana kitakatifu,1
+Bahati  hukumkuta asiye na uwezo wa kuitumia,Bahati humkuta mwenye uwezo wa kuitumia,Upele humuota asiye na kucha,0
+Bahati  hukumkuta asiye na uwezo wa kuitumia,Bahati humkuta mwenye uwezo wa kuitumia,Jasho humtoka mwenye mwili,1
+"Aisha, funga mdomo wako","Aisha, endelea tu kuongea sana","Aisha, funga bakuli lako!",0
+"Aisha, funga mdomo wako","Aisha, endelea tu kuongea sana","Aisha, endelea tu kupiga mdomo",1
+Hakuna jambo lisilokua na mwisho,Kila jambo lina mwisho,Hakuna marefu yasiyokuwa na ncha,0
+Hakuna jambo lisilokua na mwisho,Hakuna jambo lenye mwisho,Zimwi likujualo halikuli likakwisha,1
+Hassani hufanya mambo yake taratibu,Hassani hufanya mambo yake kwa haraka,Hassani hufanya mambo yake kama kobe,0
+Hassani hufanya mambo yake taratibu,Hassani hufanya mambo yake kwa haraka,Hassani hufanya mambo yake kama anakimbizwa,1
+Tatizo lako unapenda sana kusaidiwa kufanya mambo yako,Tatizo lako haupendi kabisa kusaidiwa kufanya mambo yako,Tatizo lako unapenda sana kutafuniwa,0
+Tatizo lako unapenda sana kusaidiwa kufanya mambo yako,Tatizo lako haupendi kabisa kusaidiwa kufanya mambo yako,Tatizo lako unapenda kufa mwenyewe,1
+Mtihani ulikua mgumu hadi kichwa kikaanza kuniuma,Mtihani haukua mgumu,Mtihani ulikua mgumu hadi kichwa kikaanza kuchemka,0
+Mtihani ulikua mgumu hadi kichwa kikaanza kuniuma,Mtihani haukua mgumu,Hata kama ulikua umejaza matope kichwani ungeweza kufanya mtihani ule,1
+Harufu ya miguu yake ilikua kali mno,Harufu ya miguu yake haikua kali,Harufu ya miguu yake ilitosha kuua mbu,0
+Harufu ya miguu yake ilikua kali mno,Harufu ya miguu yake haikua kali,Harufu ya miguu yake ingefaa kutengenezea manukato,1
+Maneno yake yalikua mengi mno,Maneno yake hayakua mengi,Maneno yake yalitosha kujaza bahari,0
+Maneno yake yalikua mengi mno,Maneno yake hayakua mengi,Maneno yake hayakuchukua hata sekunde,1
+Babu yangu alikua ni mtu mwenye mwili mkubwa,Babu yangu hakua mtu mwenye mwili mkubwa,Babu yangu alikua ni mtu wa miraba minne,0
+Babu yangu alikua ni mtu mwenye mwili mkubwa,Babu yangu hakua mtu mwenye mwili mkubwa,Babu yangu alikua kama punje ya haradali,1
+Wao hupenda kuweka siri mambo yao,Wao hupenda kuweka wazi mambo,Wao hupenda kuweka mambo yao gizani,0
+Wao hupenda kuweka siri mambo yao,Wao hupenda kuweka wazi mambo,Wanapenda kumwaga mchele kwenye kuku wengi,1
+Atafutae kwa shida ataishi kwa starehe,Atafutae kwa shida hataishi kwa starehe,Mchumia juani hulia kivulini,0
+Atafutae kwa shida ataishi kwa starehe,Atafutae kwa shida hataishi kwa starehe,Mchumia juani hulia juani,1
+Maisha yake yote amekua akipata maumivu sana,Maisha yake yote hajawahi pata maumivu,Maisha yake yote ni kama miiba.,0
+Maisha yake yote amekua akipata maumivu sana,Maisha yake yote hajawahi pata maumivu,Maisha yake yote ni kama mkate na chai.,1
+Muda uliobaki sio mwingi/ Muda hautakusubiria,Muda uliobaki ni mwingi/ Muda utakusubiria,Muda sio rafiki.,0
+Muda uliobaki sio mwingi/ Muda hautakusubiria,Muda uliobaki ni mwingi/ Muda utakusubiria,Muda ni rafiki.,1
+Harusi yao ilikua ya kifani,Harusi yao ilipooza,Harusi yao ilipamba moto,0
+Harusi yao ilikua ya kifani,Harusi yao ilipooza,Harusi yao ilikua kama msiba,1
+Alijutia maneno yake,Hakujutia maneno yake,Maneno yake yalimtokea puani,0
+Alijutia maneno yake,Hakujutia maneno yake,,1
+Nilienda kumdai fedha zangu lakini bado aliendelea kunizungusha,Nilienda kumdai fedha zangu na akanilipa,Nilienda kumdai fedha zangu lakini bado aliendelea kuniletea siasa,0
+Nilienda kumdai fedha zangu lakini bado aliendelea kunizungusha,Nilienda kumdai fedha zangu na akanilipa,Nilienda kumdai fedha zangu na hakunilitea siasa,1
+Utapata kulingana na juhudi unazoweka,Hautapata kulingana na juhudi unazoweka,Utavuna ulichopanda,0
+Utapata kulingana na juhudi unazoweka,Hautapata kulingana na juhudi unazoweka,Unaweza panda nazi ukavuna koroma,1
+Neno la Mungu linatosha kukuongoza vyema,Neno la Mungu halitoshi kukuongoza,Neno la Mungu ni nuru tosha,0
+Neno la Mungu linatosha kukuongoza vyema,Neno la Mungu halitoshi kukuongoza,Neno la Mungu ni gari bila mafuta,1
+Mvua ilinyesha kwa wingi,Mvua haikunyesha kwa wingi,Mvua ilimiminika kwa fujo,0
+Mvua ilinyesha kwa wingi,Mvua haikunyesha kwa wingi,Mvua ilikonyeza tu,1
+Ujana una changamoto nyingi,Ujana hauna changamoto nyingi,Ujana maji ya moto,0
+Ujana una changamoto nyingi,Ujana hauna changamoto nyingi,Ujana ni kama maji,1
+Aliiumia sana baada ya kujulishwa kuhusu kifo cha mama yake,Hakuumia sana baada ya kujulishwa kuhusu kifo cha mama yake,Alitokwa na machozi ya damu baada ya kujulishwa kuhusu kifo cha mama yake,0
+Aliiumia sana baada ya kujulishwa kuhusu kifo cha mama yake,Hakuumia sana baada ya kujulishwa kuhusu kifo cha mama yake,Habari za kifo cha mama yake zilikua kama wimbo wa gitaa kwake,1
+Afanyayo msanii hutokana na jamii inayomzunguka,Afanyayo msanii hayatokani na jamii inayomzunguka,Msanii ni kioo cha jamii,0
+Afanyayo msanii hutokana na jamii inayomzunguka,Afanyayo msanii hayatokani na jamii inayomzunguka,Msanii ni kioo cha chumbani kwake,1
+George Foreman alikua na ngumi nzito mno,George Foreman hakua na ngumi nzito,George Foreman alikua na ngumi ya chuma,0
+George Foreman alikua na ngumi nzito mno,George Foreman hakua na ngumi nzito,George Foreman alikua na ngumi ya kike,1
+Alionekana yupo tofauti na wengine,Alionekana yupo sawa na wengine,Alionekana yupo tofauti na wengine kama kuku mgeni,0
+Alionekana yupo tofauti na wengine,Alionekana yupo sawa na wengine,Alionekana yupo sawa na wengine kama pundamilia.,1
+Upepo ulipita ukitoa sauti kubwa,Hakuusikia upepo wakati unapita,Upepo ulipita ukimnong’oneza,0
+Aliusikia upepo wakati unapita,Upepo ulipita ukitoa sauti kubwa,Upepo ulipita ukifoka,1
+Mama yao ana maneno mabaya,Mama yao ana maneno mazuri,Mama yao ana mdomo mchafu sana,0
+Mama yao ana maneno mabaya,Mama yao ana maneno mazuri,Mama yao ana maneno mazuri kama biblia,1
+Usipende kutokua na msimamo,Usipende kua na msimamo,Usipende kua vuguvugu,0
+Usipende kutokua na msimamo,Usipende kua na msimamo,Penda kua vuguvugu,1
+Aliahidi kuwa atachangia halafu hakuchanga,Aliahidi kuwa atachangia na akachanga,Aliahidi kuwa atachangia kisha akaingia mitini.,0
+Aliahidi kuwa atachangia halafu hakuchanga,Aliahidi kuwa atachangia na akachanga,Aliahidi kuwa atachangia na akawa mzungu,1
+Anajua kutunza siri,Yeye hawezi kutunza siri,Yule hana kifua.,0
+Anajua kutunza siri,Yeye hawezi kutunza siri,Yeye ana kifua.,1
+Hana nywele,Ana nywele nyingi,Ana upara kama jagwa la Sahara,0
+Hana nywele,Ana nywele nyingi,Nywele zake nyingi kama nyasi za uwanja wa mpira.,1
+Kukopa ni raha sana,Kulipa ni tabu sana,Kukopa ni harusi,0
+Kukopa ni raha sana,Kulipa ni tabu sana,Kulipa ni matanga,1
+Kijana ana roho mbaya,Kijana ana roho nzuri,Yule ana damu nyeusi,0
+Kijana ana roho mbaya,Kijana ana roho nzuri,Kijana ana roho nzuri kama mwalimu.,1
+Ali ni mjanja sana,Ali ni mpole sana.,Ali ni sungura,0
+Ali ni mjanja sana,Ali ni mpole sana.,Ali mpole kama kondoo.,1
+Binadamu hawatabiriki,Binadamu wanatabirika,Binadamu ni kama kinyonga,0
+Binadamu hawatabiriki,Binadamu wanatabirika,Binadamu wanatabirika kama macho ya mwizi.,1
+Yeye anafanya shughuli nyingi,Yeye anafanya shughuli chache,Anafanya kazi kama nyuki,0
+Yeye anafanya shughuli nyingi,Yeye anafanya shughuli chache,Anafanya kazi kama jongoo,1
+Taa ina mwanga mkali sana,Taa haitoi mwanga kabisa,Taa inatoa mwanga kama moto mkubwa  usiku wa manane,0
+Taa ina mwanga mkali sana,Taa haitoi mwanga kabisa,Taa inatoa mwanga kama tobo kubwa jeusi katikati ya vakyumu.,1
+Sauti ilikuwa kubwa,Sauti ilikuwa kimya,Suti ilikua kubwa kama bomu la Nyuklia,0
+Sauti ilikuwa kubwa,Sauti ilikuwa kimya,Sauti ilikua ndogo kama wimbo wa taratibu.,1
+Silaha ilikuwa ngumu,Silaha ilikuwa dhaifu,Silaha ilikua ngumu kama chuma,0
+Silaha ilikuwa ngumu,Silaha ilikuwa dhaifu,Silaha ilikua dhaifu kama plastiki.,1
+Anatunza vizuri mdoli wake,Hatunzi vizuri mdoli wake,Mdoli unatunzwa vizuri kama mtoto,0
+Anatunza vizuri mdoli wake,Hatunzi vizuri mdoli wake,Mdoli unatunzwa vibaya kama takataka,1
+Ilipasuka katika vipande vipande vingi,Ilipasuka katika vipande viwili tu,Kioo kilipasuka na kuonekena kama utandu wa buibui,0
+Ilipasuka katika vipande vipande vingi,Ilipasuka katika vipande viwili tu,Sahani ilipasuka na kuonekena kama nusu mwezi wa angani,1
+Yeye  anavutia,Yeye ni mbaya na havutii,Yeye anavutia kama mungu wa kigiriki,0
+Yeye  anavutia,Yeye ni mbaya na havutii,Yeye anaonekana kama jokeri,1
+Filamu imebeba maana kubwa sana,Filamu imebeba maudhui madogo sana.,Filamu hii ina kina cha ziwa Tanganyika,0
+Filamu imebeba maana kubwa sana,Filamu imebeba maudhui madogo sana.,Filamu hii ina kina cha dimbwi.,1
+Chumba kina nafasi kubwa iliyobaki,Chumba kina nafasi ndogo iliyobaki,Chumba kina nafasi kubwa kama shamba,0
+Chumba kina nafasi kubwa iliyobaki,Chumba kina nafasi ndogo iliyobaki,Chumba kina nafasi ndogo iliyobaki kama jiji.,1
+Pombe ilimfanya ajisikie vibaya,Pombe ilimfurahisha sana,Pombe ilimfanya ajisikie kama kifo,0
+Pombe ilimfanya ajisikie vibaya,Pombe ilimfurahisha sana,Pombe ilimfanya ajisikie kama amelamba asali,1
+Muziki ulisikika ulikua laini na mzuri.,Muziki uliosikika ulikua mbaya.,Muziki ulikua mzuri na laini kama Unyoya.,0
+Muziki ulisikika ulikua laini na mzuri.,Muziki uliosikika ulikua mbaya.,Muziki ulikua mbaya na mgumu kama mkate wa juzi.,1
+Kutengeneza pesa kulimfanya aishi,Kutengeneza pesa kulimuua taratibu,"Kwake, Kutengeneza pesa ilikuwa kama Oksijeni",0
+Kutengeneza pesa kulimfanya aishi,Kutengeneza pesa kulimuua taratibu,"Kwake, Kutengeneza pesa ilikua kama kujipiga kitanzi.",1
+Kijana alikua kimya sana,Kijana alikua na kelele sana,Kijana alikua kimya kama mtoto mdogo,0
+Kijana alikua kimya sana,Kijana alikua na kelele sana,Kijana alipiga kelele kama garimoshi,1
+Pesa ni nzuri,pesa ni mbaya,Pesa ni sabuni ya roho.,0
+Pesa ni nzuri,pesa ni mbaya,Pesa ni muuaji.,1
+Inanukia vizuri,Inanukia Vibaya,Inanukia vizuri kama juisi ya embe lililotoka mtini,0
+Inanukia vizuri,Inanukia Vibaya,Inanukia vibaya kama tairi linaloungua,1
+Alikuwa tajiri,Alikuwa masikini,Alikuwa na utajiri wa mfalme suleiman,0
+Alikuwa tajiri,Alikuwa masikini,Alikuwa na utajiri wa Kibarua,1
+Kuna baridi sana,Kuna joto sana,Kuna baridi kali kama vile tumetupwa Antaktika,0
+Kuna baridi sana,Kuna joto sana,Hali ya hewa ni kama vile tumemwagiwa Lava,1
+Kiuno chake ni chembamba,Kiuno chake ni kipana,Kiuno chake kina upana wa kijiti,0
+Kiuno chake ni chembamba,Kiuno chake ni kipana,Kiuno chake kina upana wa mbuyu.,1
+Mrukaji aliruka juu sana,Mrukaji hakuruka juu sana,Aliruka juu kama Panzi,0
+Mrukaji aliruka juu sana,Mrukaji hakuruka juu sana,Aliruka juu kama kobe,1
+Filamu ilikuwa inatisha,Filamu ilikuwa haitishi,Filamu ilikuwa inatisha kama kinyago.,0
+Filamu ilikuwa inatisha,Filamu ilikuwa haitishi,Filamu ilikuwa inatisha kama mdoli mzuri.,1
+Tatizo lilikuwa dogo,Tatizo lilikuwa kubwa,Tatizo lilikuwa dogo kama panya,0
+Tatizo lilikuwa dogo,Tatizo lilikuwa kubwa,Tatizo lilikuwa kubwa kama tembo,1
+Kazi ilikuwa rahisi sana,Kazi ilikuwa ngumu,kazi ilikuwa rahisi kama kumsukuma mlevi.,0
+Kazi ilikuwa rahisi sana,Kazi ilikuwa ngumu,Kazi ilikuwa ngumu kama kusukuma ukuta,1
+Haiwezekani kuwa na amani,Inawezekana kuwa na amani,Amani ni kama mwanadamu kupaa,0
+Haiwezekani kuwa na amani,Inawezekana kuwa na amani,Amani ni kama mwanadanu kutembea,1
+Aliibeba kwa uangalifu na kujivunia,Aliibeba kwa kinyaa na tahadhari,Aliibeba kama mama aliyembeba mtoto wake,0
+Aliibeba kwa uangalifu na kujivunia,Aliibeba kwa kinyaa na tahadhari,Aliibeba kama kinyesi,1
+Nina njaa kali,Sina njaa,Nina njaa kali kama Simba,0
+Nina njaa kali,Sina njaa,Sina njaa kama Chatu aliyemeza windo lake.,1
+Matarajio yao hayakutimia,Matarajio yao yalitimia,Matarajio yao yaliyeyuka kama barafu.,0
+Matarajio yao hayakutimia,Matarajio yao yalitimia,Matarajio yao yalipitiliza kama saa ya mshale.,1
+Alikuwa na uhakika na mawazo yake,Alikuwa hana uhakika na mawazo yake,Mawazo yake yalikuwa imara kama Zege,0
+Alikuwa na uhakika na mawazo yake,Alikuwa hana uhakika na mawazo yake,Mawazo yakeyalikuwa dhaifu kama glasi.,1
+Maisha yake hayana mwelekeo,Maisha yake yana mwelekeo,Maisha yake ni kama peni isiyo na wino,0
+Maisha yake hayana mwelekeo,Maisha yake yana mwelekeo,Maisha yake ni kama bajeti ya nchi,1
+Upendo ni muhimu,Upendo hauna umuhimu,Upendo ni dunia.,0
+Upendo ni muhimu,Upendo hauna umuhimu,Upendo ni kama kumwaga maji baharini,1
+Alikimbia spidi kubwa kwenye mashindano,Alikimbia polepole kwenye mashindano,Siku ya mashindano alikimbia kama chui,0
+Alikimbia spidi kubwa kwenye mashindano,Alikimbia polepole kwenye mashindano,Siku ya mashindano alikimbia kama kinyonga,1
+Furaha huponya maumivu,Furaha haiponyi maumivu,Furaha ni dawa,0
+Furaha huponya maumivu,Furaha haiponyi maumivu,Furaha si dawa,1
+Wfanyakazi wanafanya kazi kwa ushirikiano,Wafanyakazi wanafanya kazi bila ushirikiano,Wafanyakazi wanafanya kazi kama mchwa,0
+Wfanyakazi wanafanya kazi kwa ushirikiano,Wafanyakazi wanafanya kazi bila ushirikiano,Wafanyakazi wanafanya kazi kibinafsi kama duma,1
+Elimu haina mwisho,Elimu ina mwisho,Elimu ni bahari,0
+Elimu haina mwisho,Elimu ina mwisho,Elimu ni mto,1
+Rafiki yangu ni mzuri,Rafiki yangu ni mbaya,Rafiki angu ni ua jekundu,0
+Rafiki yangu ni mzuri,Rafiki yangu ni mbaya,Rafiki angu ni ua jeusi,1
+Maongezi yalikuwa mafupi,Maongezi yalikuwa marefu,Maongezi yalikua mafupi kama kipande cha sigara,0
+Maongezi yalikuwa mafupi,Maongezi yalikuwa marefu,Maongezi yalikuwa marefu kama kesi ya mbowe.,1
+Kijana anapenda dini,Kijana hapendi dini,Kijana anapenda dini kama mchungaji,0
+Kijana anapenda dini,Kijana hapendi dini,Kijana hapendi dini kama hetani,1
+Mchezaji yule ana pumzi sana,Mchezaji yule hana pumzi sana,Mchezaji yule ana mapafu ya mbwa,0
+Mchezaji yule ana pumzi sana,Mchezaji yule hana pumzi sana,Mchezaji yule hana mapafu ya mbwa,1
+Rafiki yangu ana kumbukumbu,Rafiki yangu hana kumbukumbu,Rafiki yangu ana kumbukumbu kama  maktaba.,0
+Rafiki yangu ana kumbukumbu,Rafiki yangu hana kumbukumbu,Rafiki yangu ana ubongo wa mende.,1
+Kijana ni mtulivu sana,Kijana han utulivu,Kijana ni maji kwenye mtungi,0
+Kijana ni mtulivu sana,Kijana han utulivu,Kijana ni kama amepakwa upupu,1
+Mwakimu alitufundisha hekima,Mwalimu hakutufundisha hekima,Mwalimu alipanda mbegu ya hekima,0
+Mwakimu alitufundisha hekima,Mwalimu hakutufundisha hekima,Mwalimu hakupanda mbegu ya hekima,1
+Maisha yangu ni mazuri,Maisha yangu ni mabaya,Maisha yamenipiga chenga,0
+Maisha yangu ni mazuri,Maisha yangu ni mabaya,Maisha nimeyapiga bao,1
+Gari hili lina spidi,Gari hili halina spidi,Gari hili ni roketi,0
+Gari hili lina spidi,Gari hili halina spidi,Gari hili ni konokono,1
+Watu wengi wamefika katika sherehe,Watu wachache sana wamefika katika sherehe,Watu wamefurika katika sherehe,0
+Watu wengi wamefika katika sherehe,Watu wachache sana wamefika katika sherehe,Watu wamepelea katika sherehe,1
+Alikuja na watoto wengi,Alikuja na watoto wachache,Alikuja na jeshi la watoto,0
+Alikuja na watoto wengi,Alikuja na watoto wachache,Alikuja na kikundi cha watoto,1
+Ahadi lazima itimizwe,Ahadi sio lazima upewe,Ahadi ni deni,0
+Ahadi lazima itimizwe,Ahadi sio lazima upewe,Ahadi ni zawadi,1
+Nimelipa deni langu,Sijalipa deni langu,Nimevunja minyororo ya deni,0
+Nimelipa deni langu,Sijalipa deni langu,Bado nipo katika kifungo cha deni,1
+Yeye ni mrefu,Yeye ni mfupi,Kichwa chake kipo mawinguni,0
+Yeye ni mrefu,Yeye ni mfupi,Yeye ni mkia wa mbuzi,1
+Nyumbani kwangu kuna joto,Nyumbani kwangu kuna baridi,Nyumbani kwangu ni kama oveni,0
+Nyumbani kwangu kuna joto,Nyumbani kwangu kuna baridi,Nyumbani kwangu ni kama friji,1
+Maneno yake yanaumiza hisia zangu,Maneno yake yanafariji hisia zangu,Maneno yake yanachoma moyo wangu,0
+Maneno yake yanaumiza hisia zangu,Maneno yake yanafariji hisia zangu,Maneno yake yanafariji moyo wangu,1
+Mimi na mdogo wangu hatupatani,Mimi na mdogo wangu tunapatana,Sisi hatupikiki chungu kimoja,0
+Mimi na mdogo wangu hatupatani,Mimi na mdogo wangu tunapatana,Mimi na mdogo wangu ni pete na kidole,1
+Yeye ni mzembe,Yeye sio mzembe,Yeye ni kiazi,0
+Yeye ni mzembe,Yeye sio mzembe,Yeye ni kichwa,1
+Rafiki yangu ananipa sifa nzuri,Rafiki yangu ananipa sifa mbaya,Rafiki yangu ananipaka wanja,0
+Rafiki yangu ananipa sifa nzuri,Rafiki yangu ananipa sifa mbaya,Rafiki yangu ananipaka pilipili,1
+Mama hachoki kunibeba,Mama anachoka kunibeba,Mama ni kitanda,0
+Mama hachoki kunibeba,Mama anachoka kunibeba,Mama si kitanda,1
+Alfred alienda kupima akakutwa na ukimwi,Alfred alienda kupima lakini hakukutwa na ukimwi,Alfred alienda kupima akakutwa na umeme,0
+Alfred alienda kupima akakutwa na ukimwi,Alfred alienda kupima lakini hakukutwa na ukimwi,Alfred alienda kupima lakini hakukutwa na umeme,1
+Jamaa alikimbia kwa kasi,Jamaa alizubaa alivyokutana na vibaka,Jamaa alitoka baruti,0
+Jamaa alikimbia kwa kasi,Jamaa alizubaa alivyokutana na vibaka,Jamaa alisimama kama mlingoti alivyokutana na vibaka,1
+Yule mbunge hana msimamo,Yule mbunge ana msimamo,Yule mbunge ni bendera hufuata upepo,0
+Yule mbunge hana msimamo,Yule mbunge ana msimamo,Yule mbunge ana msimamo wa shaba,1
+Maisha yamekuwa magumu,Maisha yamekua marahisi,Maisha yamekua pasua kichwa,0
+Maisha yamekuwa magumu,Maisha yamekua marahisi,Maisha yamekua malaini,1
+Kulipa uovu si sahihi,Kulipa uovu ni sahihi,Kulipa uovu ni kujipalia makaa ya moto,0
+Kulipa uovu si sahihi,Kulipa uovu ni sahihi,Kulipa uovu ni kujipalilia matunda,1
+Rafiki yake anapenda njia haramu,Rafiki yake hapendi njia haramu,Rafiki yake anapenda sana njia za panya,0
+Rafiki yake anapenda njia haramu,Rafiki yake hapendi njia haramu,Rafiki yake amekunywa maji ya bendera,1
+Wanachuo wanapenda kunywa pombe,Wanachuo hawapendi kunywa pombe,Wanachuo wanapenda kupiga maji,0
+Wanachuo wanapenda kunywa pombe,Wanachuo hawapendi kunywa pombe,Wanachuo hawapendi kupiga maji,1
+Wanafiki watakupa sifa za uongo,Wanafiki watakupa sifa za ukweli,Wanafiki watakupaka mafuta,0
+Wanafiki watakupa sifa za uongo,Wanafiki watakupa sifa za ukweli,Wanafiki hawatakupaka mafuta,1
+Hupenda kufanya mambo yake kufuata utaratibu,Hupenda kufanya mambo yake bila kufuata utaratibu,Hupenda kuweka mambo yake kwenye mstari,0
+Hupenda kufanya mambo yake kufuata utaratibu,Hupenda kufanya mambo yake bila kufuata utaratibu,Hupenda kupindisha mambo yake,1
+Alitokwa jasho jingi wakati wa mazoezi,Hakutokwa na jasho jingi wakati wa mazoezi,Mvua ilinyesha mgongoni mwake wakati wa mazoezi,0
+Alitokwa jasho jingi wakati wa mazoezi,Hakutokwa na jasho jingi wakati wa mazoezi,Ukame ulitanda mgongoni mwake wakati wa mazoezi,1
+Wanapenda kuwa pamoja,Hawapendi kuwa pamoja,Wanapenda kuambatana utadhani siafu,0
+Wanapenda kuwa pamoja,Hawapendi kuwa pamoja,Hawapendi kuambatana kama siafu,1
+Hii kesi tutaishughulikia kisawasawa,Hii kesi tumeishindwa,Hii kesi tumeivalia njuga,0
+Hii kesi tutaishughulikia kisawasawa,Hii kesi tumeishindwa,Hii kesi tumeivulia shati,1
+Hauna akili,Una akili sana,Akili zako nawe kama mbogo,0
+Hauna akili,Una akili sana,Akili zako kama mbweha,1
+Yeye ni mtoto mdogo,Yeye ni mtu mzima,"Hawezi kuolewa, bado ni kifaranga",0
+Yeye ni mtoto mdogo,Yeye ni mtu mzima,"Anaweza kuolewa, ameshakuwa msupu",1
+Mwanafunzi haelewi kirahisi,Mwanafunzi anaelewa kiurahisi,Mwanafunzi huyu ana kichwa kigumu,0
+Mwanafunzi haelewi kirahisi,Mwanafunzi anaelewa kiurahisi,Mwanafunzi huyu ana kichwa chepesi,1
+Haya mambo nimeyaacha,Haya mambo ninayafuatilia,Haya mambo nimeyanawia mikono,0
+Haya mambo nimeyaacha,Haya mambo ninayafuatilia,Haya mambo nimeyafungia mkanda,1
+Nguo zake kila siku ni nzuri,Nguo zake kila siku ni mbaya,Nguo zake kila siku ni pamba kali,0
+Nguo zake kila siku ni nzuri,Nguo zake kila siku ni mbaya,Nguo zake kila siku ni matambara,1
+Hali yangu ni mbaya,Hali yangu ni nzuri,Hali yangu ni kama natembea juu ya miiba,0
+Hali yangu ni mbaya,Hali yangu ni nzuri,Hali yangu ni mtelezo tu,1
+Abuu ni rafiki yangu wa karibu,Abuu sio rafiki yangu wa karibu,Abuu ni mwanangu,0
+Abuu ni rafiki yangu wa karibu,Abuu sio rafiki yangu wa karibu,Abuu sio mwanangu,1
+Alipata wasiwasi alipojua yupo mwenyewe barabarani,Hakupata wasiwasi alipojua yupo mwenyewe barabarani,Aliingiwa na ubaridi baada ya kushtuka kuwa yuko mwenyewe barabarani,0
+Alipata wasiwasi alipojua yupo mwenyewe barabarani,Hakupata wasiwasi alipojua yupo mwenyewe barabarani,Hakuingiwa na ubaridi hata aliposhtuka kuwa yuko mwenyewe barabarani,1
+Jamaa ni mlafi,Jamaa si mlafi,Jamaa ni fisi,0
+Jamaa ni mlafi,Jamaa si mlafi,Jamaa sio fisi,1
+Anakimbia kwa spidi kubwa sana,Anakimbia kwa spidi ndogo sana,"Ukimkuta kwenye uwanja wa mbio, kama farasi",0
+Anakimbia kwa spidi kubwa sana,Anakimbia kwa spidi ndogo sana,"Ukimkuta kwenye uwanja wa mbio, kama kobe",1
+Yeye ni mwepesi,Yeye ni mzito,Yeye ni unyoya,0
+Yeye ni mwepesi,Yeye ni mzito,Yeye ni jabali,1
+Alinivuta kwa nguvu,Alinisukuma kwa nguvu,Alinivuta kama sumaku,0
+Alinivuta kwa nguvu,Alinisukuma kwa nguvu,Alinisukuma kama kimbunga,1
+Yeye ni muoga,Yeye sio muoga,Yeye ni kuku,0
+Yeye ni muoga,Yeye sio muoga,Yeye ni chui,1
+Tuligawana mwali zote,Hatukugawana mali zote,Tulipiga shoka mali zote,0
+Tuligawana mwali zote,Hatukugawana mali zote,Hatukupiga shoka mali,1
+Mke wake ni mweusi,Mke wake ni mweupe,Mke wake ni mkaa,0
+Mke wake ni mweusi,Mke wake ni mweupe,Mke wake ni theluji,1
+Sauti yake ni nyororo,Sauti yake si nyororo,Sauti yake ni hariri,0
+Sauti yake ni nyororo,Sauti yake si nyororo,Sauti yake ni kama chura,1
+Kaka yangu ni mkaidi,Kaka yangu ni mtiifu,Kaka yangu ni nyumbu,0
+Kaka yangu ni mkaidi,Kaka yangu ni mtiifu,Kaka yangu si nyumbu,1
+Rafiki yangu anakesha usiku,Rafiki yangu hakeshi usiku,Rafiki yangu ni bundi,0
+Rafiki yangu anakesha usiku,Rafiki yangu hakeshi usiku,Rafiki yangu ni popo,1
+Ilikuwa taratibu,Ilikuwa fasta,Ilikuwa na spidi ya maji ya mtaro,0
+Ilikuwa taratibu,Ilikuwa fasta,Ilikuwa na spidi ya risasi,1
+Sisi tumetengena sana,Sisi tupo karibu sana,Sisi ni kama ardhi na mbingu,0
+Sisi tumetengena sana,Sisi tupo karibu sana,Sisi ni kama chupi na tako,1
+Alikuwa hasikii anachoambiwa,Alikuwa akisikia anachoambiwa,Juma ana sikio la mbuzi,0
+Alikuwa hasikii anachoambiwa,Alikuwa akisikia anachoambiwa,Juma ana sikio la tembo,1
+Maji ya bombani ni adimu,Maji ya bombani si adimu,Maji ya bombani ni kaburi la baniani,0
+Maji ya bombani ni adimu,Maji ya bombani si adimu,Maji ya bombani ni kaburi la baniani,1
+Mapenzi ni matamu,Mapenzi ni machungu,Mapenzi ni asali,0
+Mapenzi ni matamu,Mapenzi ni machungu,Mapenzi ni shubiri,1
+Yuko na roho mbaya,Yuko na roho ya utu,Yeye ni mnyama,0
+Yuko na roho mbaya,Yuko na roho ya utu,Yeye ni malaika,1
+Alikuwa mrembo sana,Alikuwa si mrembo sana,Msichana alikuwa kipepeo,0
+Alikuwa mrembo sana,Alikuwa si mrembo sana,Msichana alikuwa kienyeji,1
+Ni mahali pazuri sana,Ni mahali pabaya sana,Kenya ni paradiso,0
+Ni mahali pazuri sana,Ni mahali pabaya sana,Kenya ni jehanamu,1
+Ni mtu mwema,Ni mtu mbaya sana,Moyo wake ni mkubwa,0
+Ni mtu mwema,Ni mtu mbaya sana,Moyo wake ni mdogo,1
+Sipendi kazi yangu,Naipenda kazi yangu,Kazi yangu ni shida,0
+Sipendi kazi yangu,Naipenda kazi yangu,Kazi yangu ni raha,1
+Ninampenda sana,Simpendi kabisa,Nina wazimu juu yake,0
+Ninampenda sana,Simpendi kabisa,Nina kijicho juu yake,1
+Kitu kipya sana,Kitu kizee,Mradi huo ni mchanga,0
+Kitu kipya sana,Kitu kizee,Mradi huo ni mkongwe,1
+Ni jasiri sana,Ni mnyonge sana,Ana roho ya simba,0
+Ni jasiri sana,Ni mnyonge sana,Ni mpole kama kobe,1
+nakutegemea sana kwa maisha yangu,Sikutegemei kwa lolote,Wewe ni nyota yangu,0
+nakutegemea sana kwa maisha yangu,Sikutegemei kwa lolote,Wewe ni giza yangu,1
+Unapoazima kitu ni rahisi kufanaya hivyo,Unapoazimwa kufanyia mtu jambo ni vigumu,Kukopa arusi,0
+Unapoazima kitu ni rahisi kufanaya hivyo,Unapoazimwa kufanyia mtu jambo ni vigumu,kulipa matanga,1
+ana tabia njema,ana tabia mbaya,Mgeni ni kuku mweupe,0
+ana tabia njema,ana tabia mbaya,Mgeni ni kuku mweusi,1
+Ni mjanja sana,Yeye si mjanja,Rafiki yake ni sungura,0
+Ni mjanja sana,Yeye si mjanja,Rafiki yake ni kondoo,1
+ana kimo kirefu sana,ana kimo kifupi sana,Yeye ni mrefu kama twiga,0
+ana kimo kirefu sana,ana kimo kifupi sana,Yeye ni mfupi kama mbilikimo,1
+aliwachwa na upweke,alipatana naye,Aliwachwa mataani na yule ndugu,0
+aliwachwa na upweke,alipatana naye,Alipatana naye hadharani,1
+ana mbio sana,ana mwendo wa polepole,Yeye ni chui,0
+ana mbio sana,ana mwendo wa polepole,yeye ni kobe,1
+anatoa siri zetu nje,siri zetu zipo imara,Kuna panya kati yetu,0
+anatoa siri zetu nje,siri zetu zipo imara,kuna pamba kati yetu,1
+anahisi vizuri,anahisi vibaya,Kicheko ni dawa,0
+anahisi vizuri,anahisi vibaya,Kununa ni sumu,1
+ina maana kuwa chumba kina upweke,chumbani kuna furaha,Hiki chumba ni jela,0
+ina maana kuwa chumba kina upweke,chumbani kuna furaha,Hiki chumba ni paradiso,1
+ana roho njema,ana roho mbaya,Ali ana roho ya dhahabu,0
+ana roho njema,ana roho mbaya,Ali ana roho ya fisi,1
+maongezi yake ni mabaya,maongezi yake ni mema,maneno yako yanakata kama kisu,0
+maongezi yake ni mabaya,maongezi yake ni mema,maneno yako ni nyororo kama pamba,1
+mapenzi yetu ni mazito na yenye msingi,mapenzi yetu hayana msingi na ni mepesi,mapenzi yetu ni mazuri kama maua,0
+mapenzi yetu ni mazito na yenye msingi,mapenzi yetu hayana msingi na ni mepesi,mapenzi yetu ni mepesi kama kamasi,1
+Alitembea kwa mwendo wa maringo,alitembea kwa mwendo usiopendeza sana,Brenda alitembea kama tausi,0
+Alitembea kwa mwendo wa maringo,alitembea kwa mwendo usiopendeza sana,Brenda alitembea kama kuku,1
+ina maana kuwa ana njaa nyingi,hana nia ya kula sana,Naweza kula farasi,0
+ina maana kuwa ana njaa nyingi,hana nia ya kula sana,Ntakula kinyonga,1
+kuna baridi,kuna joto,kuna baridi kama maji ya jokofu,0
+kuna baridi,kuna joto,kuna joto kama kwa shetani,1
+hana wasiwasi wowote,amejawa na mambo mengi,ametulia kama maji mtungini,0
+hana wasiwasi wowote,amejawa na mambo mengi,ana mambo mengi kama sungura,1
+bwana ndiye mwokozi wangu,bwana si mwokozi wangu,bwana ni jabali langu,0
+bwana ndiye mwokozi wangu,bwana si mwokozi wangu,bwana si jabali langu,1
+amekuwa mkali sana,amekuwa mwepesi,mama wa kambo amekuwa mkali kama mamba,0
+amekuwa mkali sana,amekuwa mwepesi,mama wa kambo amekuwa mwepesi kama karatasi,1
+Ndiye nguzo katika familia yao,Ndiye anavuta mkia kwenye familia yao kwenye maendeleo,Anita ndiye nuru ya familia yao,0
+Ndiye nguzo katika familia yao,Ndiye anavuta mkia kwenye familia yao kwenye maendeleo,Anita ndiye giza ya familia yao,1
+yamekuwa magumu kuelewa,yamekuwa rahisi kuelewa,Masomo yamekuwa mawe,0
+yamekuwa magumu kuelewa,yamekuwa rahisi kuelewa,masomo yamekuwa karatasi,1
+kulikuwa na mawingu angani,hakukuwa na mawingu yoyote angani,anga ilikuwa na makaa meupe,0
+kulikuwa na mawingu angani,hakukuwa na mawingu yoyote angani,anga ilikuwa wazi,1
+Kulikuwa na sauti kali ya mto,Mto ulikuwa umetulia,Tuliskia manunguniko ya mto,0
+Kulikuwa na sauti kali ya mto,Mto ulikuwa umetulia,Tuliskia utulivu wa mto,1
+Aliaga dunia,yuko salama kabisa,aliota ndoto ya milele,0
+aliiaga dunia,yuko salama kabisa,Yuko buhari wa afya,1
+yuko katika ujana wake,yuko uzeeni,ana maua ya uzima,0
+yuko katika ujana wake,yuko uzeeni,hana maua ya uzima,1
+inaashiria rangi ya bahari,inaashiria rangi ya msitu,zaidi ya dunia ni bluu tu,0
+inaashiria rangi ya bahari,inaashiria rangi ya msitu,zaidi ya dunia ni kijani kibichi,1
+alimpiga busu mpenzi wake,hakumbusu mpenzi wake,alionja asali kwenye mdomo wake,0
+alimpiga busu mpenzi wake,hakumbusu mpenzi wake,hakuonja asali kwenye mdomo wake,1
+alibubujikwa na machozi mengi,alibubujikwa na machozi ya furaha,mito ya uchungu ilimtirirka,0
+alibubujikwa na machozi mengi,alibubujikwa na machozi ya furaha,mito ya furaha ilimtirika,1
+anapendeza kwa maumbile yake,hapendezi sana,ndovu za mwili wake zilimtongoza,0
+anapendeza kwa maumbile yake,hapendezi sana,ndovu za mwili wake hazikuvutia,1
+alihisi uzito wa mambo fulani,hakuhisi uzito wowote,alihisi ngoma kifuani,0
+alihisi uzito wa mambo fulani,hakuhisi uzito wowote,hakuhisi ngoma kifuani,1
+macho yake yanavutia,macho yake hayapendezi sana,zumaridi mbili zilingaa machoni pake,0
+macho yake yanavutia,macho yake hayapendezi sana,zumaridi mbili hazikungaa machoni mwake,1
+inaashiria rangi ya macho ilikuwa bluu,inaashiria macho yake hayakuwa ya rangi ya bluu,macho yake yalikuwa visima vya bluu,0
+inaashiria rangi ya macho ilikuwa bluu,inaashiria macho yake hayakuwa ya rangi ya bluu,macho yake hayakuwa visima vya bluu,1
+alikuwa mchochezi,alikuwa mtulivu,kinywa chake kilikuwa tunda jipya,0
+alikuwa mchochezi,alikuwa mtulivu,kinywa chake kilikuwa kinyamavu,1
+upendo hauna chaguo,upendo uko na chaguo,upendo ni jeuri,0
+upendo hauna chaguo,upendo uko na chaguo,upendo si jeuri,1
+sauti yake ilikuwa inapendeza,sauti yake haipendezi sana,sauti yako ni muziki maskioni mwangu,0
+sauti yake ilikuwa inapendeza,sauti yake haipendezi sana,sauti yako si muziki maskioni mwangu,1
+macho yake ni rangi ya bluu na angavu,macho yake si ya rangi ya bluu na angavu,macho yake ni yakuti samawi,0
+macho yake ni rangi ya bluu na angavu,macho yake si ya rangi ya bluu na angavu,macho yake si makuti samawi,1
+ni mtu mwenye kukaribishana vizuri,hapendi wageni,mikono yake ni bandari salama,0
+ni mtu mwenye kukaribishana vizuri,hapendi wageni,mikono yake si ya bandari salama,1
+nina mawazo chungu nzima,nimetulia vyema bila mawazo mengi,mawazo yangu ni kama mama mwenda wazimu,0
+nina mawazo chungu nzima,nimetulia vyema bila mawazo mengi,mawazo yangu si kama mama mwenda wazimu,1
+ni watundu na wasio wakakamavu,wako na bidii na wenye mitindo miema,wanafunzi wake ni shina la mizeituni,0
+ni watundu na wasio wakakamavu,wako na bidii na wenye mitindo miema,wanafunzi wake ni mchwa,1
+ngozi yake ina harufu nzuri,ngozi yake imechakaa,ngozi yako ni hariri,0
+ngozi yake ina harufu nzuri,ngozi yake imechakaa,ngozi yake si hariri,1
+sauti yake inapendeza,haipendezi,sauti yake ni zeri,0
+sauti yake inapendeza,haipendezi,sauti yake si zeri,1
+Yuko na nguvu sana,hana nguvu sana,alikuwa na mishipa ya chuma,0
+Yuko na nguvu sana,hana nguvu sana,alikuwa na mishipa miepesi,1
+alipata pesa nyingi,alikuwa hana pesa,mwezi wa fedha uliangaza angani,0
+alipata pesa nyingi,alikuwa hana pesa,mwezi wa fedha haukuangaza angani,1
+ili jiji lina matukio mabaya,ili jiji limetulia vyema,ili jiji ni kimbunga cha machafuko,0
+ili jiji lina matukio mabaya,ili jiji limetulia vyema,ili jiji si kimbunga cha machafuko,1
+inamaanisha kuwa ameanza kuzeeka,bado yu kijana,Taa yangu imechoka,0
+inamaanisha kuwa ameanza kuzeeka,bado yu kijana,taa yangu inangara,1
+yuko na mapenzi mengi,yuko na mapenzi machache,kwa kinu cha mapenzi,0
+yuko na mapenzi mengi,yuko na mapenzi machache,kwa mapenzi madogo,1
+Yeye ana umbo zuri,yeye hana umbo zuri,mwili wake una milima mieupe,0
+Yeye ana umbo zuri,yeye hana umbo zuri,mwili wake hauna milima mieupe,1
+macho yako yanapendeza,macho yako hayapendezi,macho yako ni nchi ya umeme na machozi,0
+macho yako yanapendeza,macho yako hayapendezi,macho yako ni nchi kavu,1
+mapigo hayo ni mengi,mapigo hayo ni machache,mapigo hayo ni makombo,0
+mapigo hayo ni mengi,mapigo hayo ni machache,mapigo hayo ni duni,1
+unanijali sana,haunijali kwa vyovyote,mikono yako ni kibembelezi changu,0
+unanijali sana,haunijali kwa vyovyote,mikono yako ni kisikitio changu,1
+ameadimika sana,anapatikana kwa urahisi,yeye ni maziwa ya kuku,0
+ameadimika sana,anapatikana kwa urahisi,yeye si maziwa ya kuku,1
+anampenda sana,hampendi kabisa,anampenda kama chanda na pete,0
+anampenda sana,hampendi kabisa,anamchukia kama mwizi,1
+yeye ni mwembamba sana,yeye ni mnene sana,Ali ni sindano,0
+yeye ni mwembamba sana,yeye ni mnene sana,Ali ni kifaru,1
+yuko na rangi nyeusi sana,yuko na rangi nyeupe,yeye ni makaa,0
+yuko na rangi nyeusi sana,yuko na rangi nyeupe,yeye ni theluji,1
+ni mkali sana,ni mpole sana,baba yake amekuwa jeshi,0
+ni mkali sana,ni mpole sana,baba yake amekuwa mtulivu,1
+yuko na nywele refu rembo,yuko na nywele fupi,dadake amekuwa singa,0
+yuko na nywele refu rembo,yuko na nywele fupi,dadake amekuwa kipara,1
+amekuwa mtundu,amekuwa mnyenyekevu,mtoto wako amekuwa tumbili,0
+amekuwa mtundu,amekuwa mnyenyekevu,mtoto wako amekuwa njiwa,1
+yeye ni mvumilivu,yuko na haraka sana,Mwelusi ni mtumwa,0
+yeye ni mvumilivu,yuko na haraka sana,Mwelusi si mtumwa,1
+ni mlafi,si mlafi,Yeye amekuwa fisi,0
+ni mlafi sana,si mlafi,yeye si fisi,1
+ni mwaminifu,ni mwongo,mpenzi wangu ni njiwa,0
+ni mwaminifu,ni mwongo,mpenzi wangu si njiwa,1
+yuko na bidii,yuko na uvivu,Fundi yule ni mchwa,0
+yuko na bidii,yuko na uvivu,fundi yule ni kinyonga,1
+ana nguvu nyingi,hana nguvu nyingi,mwaniki ni kifaru,0
+ana nguvu nyingi,hana nguvu nyingi,mwaniki si kifaru,1
+yuko na uzembe,yuko na bidii,yeye ni kupe,0
+yuko na uzembe,yuko na bidii,yeye si kupe,1
+ni mjanja na mwongo,si mjanja na mwongo,rafiki yake ni abunuasi,0
+ni mjanja na mwongo,si mjanja na mwongo,rafiki yake si abunuasi,1
+anaongea sana,ni mtulivu,yule mama ni chiriku,0
+anaongea sana,ni mtulivu,yule mama si chiriku,1
+kimenyamaza sana,kina kelele nyingi,chumba kile kimekuwa kaburi,0
+kimenyamaza sana,kina kelele nyingi,chumba kile kimekuwa klabu,1
+aliongea kwa uwazi,alificha mambo,jaji yule aliweka mambo wazi mchana,0
+aliongea kwa uwazi,alificha mambo,jaji yule amekuwa giza,1
+ana furaha nyingi,ana hasira tele,amekuwa tasa baada ya kupata mtoto,0
+ana furaha nyingi,ana hasira tele,amekuwa mkizi baada ya kufeli mtihani,1
+amepata kibahati,hajapata bahati,amekuwa mtende baada ya kupata hela,0
+amepata kibahati,hajapata bahati,hajakuwa mtende,1
+mapenzi yao yamenawiri,mapenzi yao hayajatulia,mapenzi yao yamekuwa gundi,0
+mapenzi yao yamenawiri,mapenzi yao hayajatulia,mapenzi yao yamelowa maji,1
+kinanukia vizuri,kinanukia vibaya,chakula kile ni ruhani,0
+kinanukia vizuri,kinanukia vibaya,chakula kile ni taka,1
+ni kitamu,si kitamu,chakula kinaonja asali,0
+ni kitamu,si kitamu,chakula kinaonja maganda,1
+ni chungu sana,ni tamu,dawa ile ya tumbo ni shubri,0
+ni chungu sana,ni tamu,dawa ile ya tumbo ni asali,1
+ni zito sana,ni nyepesi sana,gunia lile la makaa ni nanga,0
+ni zito sana,ni nyepesi sana,gunia lile ni unyoya,1
+ni kubwa sana,ni ndogo sana,meli ile ni uwanja wa ahera,0
+ni kubwa sana,ni ndogo sana,gari lile ni tundu la sindano,1
+mwenye majuto sana,ana furaha,baada ya kufeli mtihani amekuwa filauni,0
+mwenye majuto sana,ana furaha,baada ya kupita mtihani amekuwa mvuvi,1
+anaiga sauti fulani,hafuati sauti yoyote,msanii yule ni kasuku,0
+anaiga sauti fulani,hafuati sauti yoyote,msanii yule si kasuku,1
+wana matumaini ya kuvuna,hawana matumaini yoyote,wakulima wamekuwa tai baada ya kupalilia,0
+wana matumaini ya kuvuna,hawana matumaini yoyote,wakulima wamekuwa bundi,1
+alicheka kwa sauti ya juu,alicheka kwa sauti ya chini,aliangua kicheko kama radi,0
+alicheka kwa sauti ya juu,alicheka kwa sauti ya chini,hakuangua kicheko kama radi,1
+amekuwa kigeugeu,anaaminika,siku hizi rafiki yangu amekuwa kinyonga,0
+amekuwa kigeugeu,anaaminika,siku hizi rafiki yangu ni mtumwa,1
+ana wivu sana,ana upendo,mama wa kambo amekuwa joka la mdimu,0
+ana wivu sana,ana upendo,mama wa kambo amekuwa maua,1
+wanafuatana kila waendapo,hawafuatani kila mahali,watoto wake wamekuwa kumbikumbi,0
+wanafuatana kila waendapo,hawafuatani kila mahali,watoto wake hawajakuwa kumbikumbi,1
+yuko na sauti nyororo,yuko na sauti mbaya,bibi yake amekuwa malaika,0
+yuko na sauti nyororo,yuko na sauti mbaya,adui yake amekuwa tembo,1
+amekuwa mshaulifu,si mshaulifu,ndungu yake amekuwa nyati,0
+amekuwa mshaulifu,si mshaulifu,ndugu yake hajakuwa nyati,1
+anazurura ovyo,anatulia mahala pamoja,yule kijakazi amekuwa mbwa koko,0
+anazurura ovyo,anatulia mahala pamoja,yule kijakazi hajakuwa mbwa koko,1
+ana tumbo nene,ana tumbo la kawaida,askari yule amekuwa kiriba,0
+ana tumbo nene,ana tumbo la kawaida,askari yule hajakuwa kiriba,1
+amebobea kwenye usanii,hajabobea sana,msanii yule ni nyota,0
+amebobea kwenye usanii,hajabobea sana,msanii yule si nyota,1
+anaamka mapema kufanya kazi,haamki mapema,mkewe amekuwa ndege wa mapema,0
+anaamka mapema kufanya kazi,haamki mapema,mkewe hajakuwa ndege wa mapema,1
+maisha ni mapana,maisha ni mafupi,maisha ni barabara kuu,0
+maisha ni mapana,maisha ni mafupi,maisha si barabara kuu,1
+alikuwa na mapato mengi,alikuwa hana lolote,alikuwa mbwa mwenye mfupa,0
+alikuwa na mapato mengi,alikuwa hana lolote,hakuwa mbwa mwenye mfupa,1
+ni mwalimu mzuri,si mwalimu mwema,bwana yule ni mchungaji mwema,0
+ni mwalimu mzuri,si mwalimu mwema,bwana yule si mchungaji mwema,1
+walikuwa wakali sana,walikuwa ovyo,askari wetu walikuwa simba vitani,0
+walikuwa wakali sana,walikuwa ovyo,askari wetu walikuwa kunguru vitani,1
+Picha hii ni halisi.,Picha hii si halisi.,Picha hii ni nyota.,0
+Picha hii ni halisi.,Picha hii si halisi.,Picha hii ni ndoto.,1
+Filamu hii ina siri nyingi.,Filamu hii ina uwazi.,Filamu hii ni msitu mkubwa.,0
+Filamu hii ina siri nyingi.,Filamu hii ina uwazi.,Filamu hii ni kitabu wazi.,1
+Anaimba vizuri sana.,Anaimba vibaya sana.,Msichana huyo ni malaika anapoimba.,0
+Anaimba vizuri sana.,Anaimba vibaya sana.,Msichana huyo ni treni inayotoka kwenye reli anapoimba.,1
+Mradi huu ni baraka.,Mradi huu ni janga.,Mradi huu ni kama mvua iliyosubiriwa kwa muda mrefu.,0
+Mradi huu ni baraka.,Mradi huu ni janga.,Mradi huu ni kama jinamizi.,1
+Maneno yake yanaponya.,Maneno yake yanaangamiza.,Maneno yake ni dawa.,0
+Maneno yake yanaponya.,Maneno yake yanaangamiza.,Maneno yake ni sumu.,1
+Rafiki yangu anaongea sana.,Rafiki yangu yuko kimya sana.,Rafiki yangu ni chiruki.,0
+Rafiki yangu anaongea sana.,Rafiki yangu yuko kimya sana.,Rafiki yangu ni maji mtungini.,1
+Nduguye ni mkarimu sana.,Nduguye ni mbinafsi sana.,Nduguye ni msamaria mwema.,0
+Nduguye ni mkarimu sana.,Nduguye ni mbinafsi sana.,Nduguye ni mbweha.,1
+Mgeni alitarajiwa kuja.,Mgeni alikuja ghafla.,Mgeni huyo ni kama jua la kutua.,0
+Mgeni alitarajiwa kuja.,Mgeni alikuja ghafla.,Mgeni huyo ni kama ajali.,1
+Yeye ni mwenye fadhili.,Yeye ni mkatili.,Mwalimu wangu ana moyo wa dhahabu.,0
+Yeye ni mwenye fadhili.,Yeye ni mkatili.,Mwalimu wangu ana moyo wa jiwe.,1
+Nyumbani kuna uhuru.,Nyumbani hakuna uhuru.,Nyumbani kwetu ni ndege aliye huru.,0
+Nyumbani kuna uhuru.,Nyumbani hakuna uhuru.,Nyumbani kwetu ni jela.,1
+Maneno yake ni matamu.,Maneno yake ni machungu.,Maneno yake huwa asali kila anapozungumza.,0
+Maneno yake ni matamu.,Maneno yake ni machungu.,Maneno yake huwa shubiri kila anapozungumza.,1
+Sauti yake iko chini sana.,Sauti yake iko juu sana.,Sauti yake ni kama kunong'ona.,0
+Sauti yake iko chini sana.,Sauti yake iko juu sana.,Sauti yake ni kama dhoruba ya radi.,1
+Wimbo huu ni wa kawaida.,Wimbo huu ni nadra.,Wimbo huu ni kama umaskini.,0
+Wimbo huu ni wa kawaida.,Wimbo huu ni nadra.,Wimbo huu ni kama waradi ya samawati,1
+Mwanariadha yule ana mbio sana.,Mwanariadha yule anakimbia polepole sana.,Mwanariadha yule ni duma.,0
+Mwanariadha yule ana mbio sana.,Mwanariadha yule anakimbia polepole sana.,Mwanariadha yule ni kobe,1
+Chakula ni baridi sana.,Chakula ni moto sana.,Chakula kilikuwa barafu.,0
+Chakula ni baridi sana.,Chakula ni moto sana.,Chakula kilikuwa kuzimu.,1
+Mchezaji huyu ni mrefu.,Mchezajii huyu ni mfupi.,Mchezaji huyu ni twiga.,0
+Mchezaji huyu ni mrefu.,Mchezajii huyu ni mfupi.,Mchezaji huyo ni nyundo.,1
+Jana alikuwa na furaha.,Jana alikuwa na huzuni.,Jana alikuwa mfalme.,0
+Jana alikuwa na furaha.,Jana alikuwa na huzuni.,Jana alikuwa mboni ya macho ya huzuni nyuma ya sanda.,1
+Safari hiyo ilikuwa rahisi sana.,Safari hiyo ilikuwa ngumu sana.,Safari ilikuwa ni matembezi katika hifadhi.,0
+Safari hiyo ilikuwa rahisi sana.,Safari hiyo ilikuwa ngumu sana.,Safari ilikuwa ni uzito kwenye mabega yangu.,1
+Yule ni mkweli.,Yule ni mwongo.,Yule ni mkweli kama injili.,0
+Yule ni mkweli.,Yule ni mwongo.,Yule ni mkweli kama mwanasiasa wakati wa kampeni.,1
+Wimbo huu unanifanya nichangamke.,Wimbo huu unachosha.,Wimbo huu ni mwanga wa jua.,0
+Wimbo huu unanifanya nichangamke.,Wimbo huu unachosha.,Wimbo huu ni kama kuangalia rangi ikikauka.,1
+Mtoto wake ni mtiifu.,Mtoto wake ni mkaidi.,Mtoto wake ni Musa.,0
+Mtoto wake ni mtiifu.,Mtoto wake ni mkaidi.,Mtoto wake ni Adamu na Eva.,1
+Yeye ni jasiri.,Yeye ni mwoga.,Ana moyo wa simba.,0
+Yeye ni jasiri.,Yeye ni mwoga.,Ana moyo wa kuku.,1
+Kitabu hiki ni kizuri.,Kitabu hiki ni kibaya.,Kitabu hiki ni dhahabu.,0
+Kitabu hiki ni kizuri.,Kitabu hiki ni kibaya.,Kitabu hiki ni yai bovu.,1
+Yeye ni tajiri kupindukia.,Yeye ni maskini.,Rafiki yangu ni mfalme Solomoni.,0
+Yeye ni tajiri kupindukia.,Yeye ni maskini.,Rafiki yangu ni panya wa kanisa.,1
+Mtihani ilikuwa rahisi.,Mtihani ilikuwa ngumu.,Swali ya hesabu katika mtihani ilikuwa mboga.,0
+Mtihani ilikuwa rahisi.,Mtihani ilikuwa ngumu.,Swali ya hesabu katika mtihani ilikuwa mawe.,1
+Panga hii ni kali.,Panga hii ni butu.,Panga hii ni wembe.,0
+Panga hii ni kali.,Panga hii ni butu.,Panga hii ni sehemu ya nyuma ya kisu.,1
+Upendo wao una umoja na amani.,Upendo wao una utengano na vita.,Upendo wao ulikuwa divai nzuri.,0
+Upendo wao una umoja na amani.,Upendo wao una utengano na vita.,Upendo wao ulikuwa uwanja wa vita.,1
+Pesa hufurahisha.,Pesa huleta huzuni.,Pesa ni sabuni ya roho.,0
+Pesa hufurahisha.,Pesa huleta huzuni.,Pesa ni adui mkubwa.,1
+Yeye anajivunia.,Yeye aliona aibu.,Mtoto huyo ni tausi.,0
+Yeye anajivunia.,Yeye aliona aibu.,Mtoto huyo ni kama kijana aliyenaswa akitoroka nje ya nyumba.,1
+Ana akili kweli.,Ni mjinga kweli.,Mvulana huyo alikuwa sungura.,0
+Ana akili kweli.,Ni mjinga kweli.,Mvulana huyo alikuwa kondoo.,1
+Mama yake ni mkali.,Mama yake ni mpole.,Mama yake ni simba.,0
+Mama yake ni mkali.,Mama yake ni mpole.,Mama yake ni mwana-kondoo.,1
+Alikuwa mwenye huruma.,Hakuwa mwenye huruma.,Jirani yangu ni malaika.,0
+Alikuwa mwenye huruma.,Hakuwa mwenye huruma.,Jirani yangu ni shetani.,1
+Yeye ni mwenye bidii.,Yeye mvivu.,Mwenzake ni mchwa.,0
+Yeye ni mwenye bidii.,Yeye mvivu.,Mwenzake ni chura chini ya kisima.,1
+Somo hilo linaeleweka.,Somo hilo halieleweki.,Somo la hesabu ni mchana wa mwanga.,0
+Somo hilo linaeleweka.,Somo hilo halieleweki.,Somo la hesabu ni usiku wa giza.,1
+Yeye ni mvumilivi.,Yeye si mvumilivu.,Kijana yule ni mtumwa.,0
+Yeye ni mvumilivi.,Yeye si mvumilivu.,Kijana yule ni mtoto mchanga aliye na njaa.,1
+Nguo zake zinanuka vizuri.,Nguo zake zina uvundo.,Nguo zake ni kama marashi ya karafuu.,0
+Nguo zake zinanuka vizuri.,Nguo zake zina uvundo.,Nguo zake ni kama kidonda.,1
+Nampenda sana.,Namchukia sana.,Yule ni mboni ya jicho langu.,0
+Nampenda sana.,Namchukia sana.,Yule ni sumu.,1
+Yule amekamilika.,Yule sio kamili.,Mwanasoka yule ni nyota.,0
+Yule amekamilika.,Yule sio kamili.,Mwanasoka yule ni mwezi mpevu.,1
+Kitabu hiki ni kipya.,Kitabu hiki ni cha zamani.,Kitabu hiki ni kipya kama mwanzo wa siku.,0
+Kitabu hiki ni kipya.,Kitabu hiki ni cha zamani.,Kitabu hiki ni kipya kama milima.,1
+Urafiki wao ni wa amani na upendo.,Urafiki wao ni wa vita na vurugu.,Urafiki wao ni kama wa chanda na pete.,0
+Urafiki wao ni wa amani na upendo.,Urafiki wao ni wa vita na vurugu.,Urafiki wao ni kama wa mbwa na paka.,1
+Yeye ni safi.,Yeye ni chafu.,Yeye ni filimbi.,0
+Yeye ni safi.,Yeye ni chafu.,Yeye ni nguruwe.,1
+Mama wa kambo ni mzuri.,Mama wa kambo ni mbaya.,Mama wa kambo amekuwa njiwa.,0
+Mama wa kambo ni mzuri.,Mama wa kambo ni mbaya.,Mama wa kambo amekuwa mamba.,1
+Mambo yake ni wazi sana.,Mambo yake ni fiche sana.,Mambo yake ni kioo.,0
+Mambo yake ni wazi sana.,Mambo yake ni fiche sana.,Mambo yake ni giza.,1
+Yule ni mtulivu.,Yule ni mwenye hamaki.,Mtoto yule ni bahari.,0
+Yule ni mtulivu.,Yule ni mwenye hamaki.,Mtoto yule ni mkizi.,1
+Mvua inanyesha sana leo.,Jua linachoma sana leo.,Siku ya leo ni kama chemichemi.,0
+Mvua inanyesha sana leo.,Jua linachoma sana leo.,Siku ya leo ni kama Kalahari.,1
+Yule ni muaminifu.,Yule ni msaliti.,Mwajiriwa yule ni mtume.,0
+Yule ni muaminifu.,Yule ni msaliti.,Mwajiriwa yule ni Yuda Iskariote.,1
+Maumivu yangu ni chungu sana.,Maumivu yangu si chungu.,Maumivu ni shoka linalokata moyo wangu.,0
+Maumivu yangu ni chungu sana.,Maumivu yangu si chungu.,Maumivu ni muziki mzuri kwa roho yangu.,1
+Chai hii ni baridi sana.,Chai hii ni moto sana.,Chai hii ni baridi kama kifo.,0
+Chai hii ni baridi sana.,Chai hii ni moto sana.,Chai hii baridi kama volkano.,1
+Mjomba amefurahi sana.,Mjomba amekasirika sana.,Mjomba amefurahi kama ndege katika chemchemi.,0
+Mjomba amefurahi sana.,Mjomba amekasirika sana.,Mjomba amekasirika kama fahali mwenye kitambaa usoni.,1
+Uhusiano wao umejaa amani.,Uhusiano wao umejaa mzozo.,Uhusiano wao ni kama mapema ya majira ya joto.,0
+Uhusiano wao umejaa amani.,Uhusiano wao umejaa mzozo.,Uhusiano wao ni kama kimbunga.,1
+Kalamu hizi zinafanana.,Kalamu hizi ni tofauti.,Kalamu hizi ni kama mbaazi mbili kwenye ganda.,0
+Kalamu hizi zinafanana.,Kalamu hizi ni tofauti.,Kalamu hizi ni kama majira ya baridi na majira ya joto.,1
+Ilikuwa na furaha na kijamii.,Ilikuwa na huzuni na changamoto.,Maisha ni sherehe.,0
+Ilikuwa na furaha na kijamii.,Ilikuwa na huzuni na changamoto.,Maisha ni uwanja wa vita.,1
+Wao ni waaminifu.,Wao ni wasaliti.,Wao ni mbwa.,0
+Wao ni waaminifu.,Wao ni wasaliti.,Wao ni panya.,1
+Viatu vyake vina harufu nzuri.,Viatu vyake vina harufu mbaya.,Viatu vya baba ni manukato.,0
+Viatu vyake vina harufu nzuri.',Viatu vyake vina harufu mbaya.,Viatu vya baba ni takataka.,1
+Usiku wa leo anga ina nyota nyingi.,"Usiku wa leo anga ni tupu, haina nyota.",Usiku wa leo anga ni blanketi la nyota.,0
+Usiku wa leo anga ina nyota nyingi.,"Usiku wa leo anga ni tupu, haina nyota.",Usiku wa leo anga ni kanisa siku ya juma.,1
+Yeye ni mkarimu na mwenye upendo.,Yeye si mkarimu na mwenye upendo.,Msichani yule ni waridi kati ya miiba.,0
+Yeye ni mkarimu na mwenye upendo.,Yeye si mkarimu na mwenye upendo.,Msichana yule ni mwiba kati ya waridi.,1
+Kiti hiki kina nguvu.,Kiti hiki ni dhaifu.,Kiti hiki ni mwamba katika dhoruba.,0
+Kiti hiki kina nguvu.,Kiti hiki ni dhaifu.,Kiti hiki ni mtoto wa paka.,1
+Ilikuwa na watu wengi na kelele nyingi.,Ilikuwa kimya.,Sherehe hiyo ilikuwa mbuga ya wanyama.,0
+Ilikuwa na watu wengi na kelele nyingi.,Ilikuwa kimya.,Sherehe hiyo ilikuwa wimbo uliosahaulika.,1
+Mtihani ulikuwa rahisi.,Mtihani ulikuwa ngumu.,Mtihani ulikuwa upepo.,0
+Mtihani ulikuwa rahisi.,Mtihani ulikuwa ngumu.,Mtihani ulikuwa gunia tupu kusimama wima.,1
+Hadithi hiyo ni ya mwanzo.,Hadithi hiyo ni ya mwisho.,Hadithi hiyo ni kama kilio cha mtoto kuzaliwa.,0
+Hadithi hiyo ni ya mwanzo.,Hadithi hiyo ni ya mwisho.,Hadithi hiyo ni kama kifo.,1
+Miti hii inazaa matunda.,Miti hii haizalishi matunda.,Miti hii ni kama jua.,0
+Miti hii inazaa matunda.,Miti hii haizalishi matunda.,Miti hii ni kama mvua ya msimu wa baridi.,1
+Kijana yule alikula kwa pupa.,Kijana yule alikula bila haraka.,Kijana yule ni fisi.,0
+Kijana yule alikula kwa pupa.,Kijana yule alikula bila haraka.,Kijana yule ni panya.,1
+Mambo yake ni wazi sana.,Mambo yake si wazi.,Mtoto huyu ni sahani.,0
+Mambo yake ni wazi sana.,Mambo yake si wazi.,Mtoto huyu ni nyoka kwenye nyasi.,1
+Huwa haguswi na mambo kupita kiasi.,Huwa anaguswa na mambo kupita kiasi.,Yule msichana ni mtulivi kama mashamba ya Mbinguni.,0
+Huwa haguswi na mambo kupita kiasi.,Huwa anaguswa na mambo kupita kiasi.,Yule msichana ni malkia wa drama.,1
+Nyumba hii ni imara.,Nyumba hii si imara.,Nyumba hii ni kama dunia.,0
+Nyumba hii ni imara.,Nyumba hii si imara.,Nyumba hii ni kama mawimbi ya bahari.,1
+Simu hii ni muhimu.,Simu hii haina maana.,Simu hii ni kama ng’ombe.,0
+Simu hii ni muhimu.,Simu hii haina maana.,Simu hii ni kama bunduki bila kichochezi.,1
+Mtu huyu anajulikana.,Mtu huyu ni wa ajabu.,Mtu huyu ni kama jua na mwezi.,0
+Mtu huyu anajulikana.,Mtu huyu ni wa ajabu.,Mtu huyu ni kama kama harusi bila bwana harusi.,1
+Amejaa upendo.,Amejaa chuki.,Yeye ni sauti ya mama.,0
+Amejaa upendo.,Amejaa chuki.,Yeye ni kifo.,1
+Mwanafunzi huyu ni mwenye heshima,Mwanafunzi huyu ni mfidhuli.,Mwanafunzi huyu ni nta.,0
+Mwanafunzi huyu ni mwenye heshima,Mwanafunzi huyu ni mfidhuli.,Mwanafunzi huyu ni dubu.,1
+Kijiti hiki kimenyooka.,Kijiti hiki kimepinda.,Kijiti hiki ni kama nyota ya risasi.,0
+Kijiti hiki kimenyooka.,Kijiti hiki kimepinda.,Kijiti hiki ni kama mitaa ya Boston.,1
+Mtu huyo alikuwa na nywele nyingi.,Mtu huyo alikuwa na upara.,Mtu huyo alikuwa gorila.,0
+Mtu huyo alikuwa na nywele nyingi.,Mtu huyo alikuwa na upara.,Mtu huyo alikuwa yai.,1
+Mzigo hii ni nyepesi sana.,Mzigo hii ni nzito sana.,Mzigo hii ni kama manyoya.,0
+Mzigo hii ni nyepesi sana.,Mzigo hii ni nzito sana.,Mzigo hii ni kama nanga.,1
+Kitoto chake ni safi.,Kitoto chake ni kichafu.,Kitoto chake ni kama pini mpya.,0
+Kitoto chake ni safi.,Kitoto chake ni kichafu.,Kitoto chake ni kama nguruwe.,1
+Mayai haya ni matamu.,Mayai haya ni machungu.,Mayai haya ni asali.,0
+Mayai haya ni matamu.,Mayai haya ni machungu.,Mayai haya ni ndimu.,1
+Aliongea kwa adabu.,Aliongea kwa jeuri.,Alikuwa kama nta.,0
+Aliongea kwa adabu.,Aliongea kwa jeuri.,Alikuwa kama dubu.,1
+Alikuwa msichana mpweke.,Alikuwa msichana maarufu.,Alikuwa kama meli iliyoachwa.,0
+Alikuwa msichana mpweke.,Alikuwa msichana maarufu.,Alikuwa kama tamthilia ya filamu.,1
+Mlango ulikuwa na kufuli.,Mlango ulikuwa wazi.,Mlango ulikuwa kama mshipi wa chuma.,0
+Mlango ulikuwa na kufuli.,Mlango ulikuwa wazi.,Mlango ulikuwa kama ghuba.,1
+Meza iliyonunuliwa ilikuwa maridadi.,Meza iliyonunuliwa ilikuwa mbaya.,Meza ilikuwa kama yungiyungi.,0
+Meza iliyonunuliwa ilikuwa maridadi.,Meza iliyonunuliwa ilikuwa mbaya.,Meza ilikuwa kama gome la mwaloni.,1
+Walikuwa marafiki wazuri.,Walikuwa maadui.,Hao ni ulimi na meno.,0
+Walikuwa marafiki wazuri.,Walikuwa maadui.,Hao ni maji na mafuta.,1
+Mtoto yule amefurahi.,Mtoto yule amehuzunika.,Mtoto yule ni kibogoyo aliyeota Meno.,0
+Mtoto yule amefurahi.,Mtoto yule amehuzunika.,Mtoto yule ni mfiwa.,1
+Ngozi yake ni laini.,Ngozi yake ni ngumu.,Ngozi yake ni hariri.,0
+Ngozi yake ni laini.,Ngozi yake ni ngumu.,Ngozi yake ni mawe,1
+Wazazi wangu hawasahau kamwe.,Wazazi wangu ni wasahaulifu.,Wazazi wangu ni kama ndovu.,0
+Wazazi wangu hawasahau kamwe.,Wazazi wangu ni wasahaulifu.,Wazazi wangu ni kama bibi kizee.,1
+Mazao ya wakulima yalikuwa tele.,Mazao ya wakulima yalikuwa haba.,Mazao ya wakulima ni kama mwanga wa jua.,0
+Mazao ya wakulima yalikuwa tele.,Mazao ya wakulima yalikuwa haba.,Mazao ya wakulima ni kama manyoya kwenye samaki.,1
+Yeye alijivinjari.,Yeye alihangaika.,Yeye alikuwa mahali kama kasri la mfalme.,0
+Yeye alijivinjari.,Yeye alihangaika.,Yeye alikuwa mahali kama jela.,1
+Mahali aliwekwa palikuwa pazuri.,Mahali aliwekwa palikuwa pabaya.,Mahali aliwekwa palikuwa peponi.,0
+Mahali aliwekwa palikuwa pazuri.,Mahali aliwekwa palikuwa pabaya.,Mahali aliwekwa palikuwa kuzimu.,1
+Maneno yake yalikuwa yamenyooka.,Maneno yake hayakuwa yamenyooka.,Maneno yake yalikuwa kama rula.,0
+Maneno yake yalikuwa yamenyooka.,Maneno yake hayakuwa yamenyooka.,Maneno yake yalikuwa kama samaki aliyetolewa kwa maji.,1
+Walishuhudia uhuru nchini.,Walishuhudia utumwa nchini.,Walishuhudia uhuru kama ndege angani.,0
+Walishuhudia uhuru nchini.,Walishuhudia utumwa nchini.,Walishuhudia utumwa kama Waisraeli.,1
+Yeye ni mwaminifu.,Yeye ni mwongo.,Yeye ni njiwa,0
+Yeye ni mwaminifu.,Yeye ni mwongo.,Yeye ni jongoo.,1
+Yake yalikuwa ya faida.,Yake yalikuwa ya hasara.,Maneno yake yalikuwa mvua kwa mkulima.,0
+Yake yalikuwa ya faida.,Yake yalikuwa ya hasara.,Maneno yake yalikuwa mkizi.,1
+Filamu hiyo ilikuwa na manufaa.,Filamu hiyo ilikuwa na madhara.,Filamu hiyo ilikuwa kama dawa kwa mgonjwa.,0
+Filamu hiyo ilikuwa na manufaa.,Filamu hiyo ilikuwa na madhara.,Filamu hiyo ilikuwa kama dawa za kulevya.,1
+Binti huyu ni mcha Mungu.,Ni binti akanaye Mungu.,Binti huyu ni Musa.,0
+Binti huyu ni mcha Mungu.,Ni binti akanaye Mungu.,Binti huyu ni Firauni.,1
+Alikuwa kiongozi katika mkutano.,Alikuwa mfuasi katika mkutano.,Alikuwa kama kigogo.,0
+Alikuwa kiongozi katika mkutano.,Alikuwa mfuasi katika mkutano.,Alikuwa kama kumbikumbi.,1
+Yake yalikuwa ya thamana.,Yake yalikuwa yasiyo na maana.,Mazungumuzo yake yalikuwa kama bunda la noti.,0
+Yake yalikuwa ya thamana.,Yake yalikuwa yasiyo na maana.,Mazungumuzo yake yalikuwa kama senti.,1
+Alitoka hospitalini na furaha nyingi.,Alitoka hospitalini kama amenuna.,Alitoka hospitalini kama mfalme.,0
+Alitoka hospitalini na furaha nyingi.,Alitoka hospitalini kama amenuna.,Alitoka hospitalini kama Nyati aliyedungwa na miba.,1
+Busu lake lilikuwa la mapenzi ya kweli.,Busu lake lilikuwa la usaliti.,Busu lake lilikuwa kama la mama kwa mwanawe.,0
+Busu lake lilikuwa la mapenzi ya kweli.,Busu lake lilikuwa la usaliti.,Busu lake lilikuwa kama la Yuda Iskarioti kwa Yesu.,1
+Sehemu la kupalilia lilikuwa kubwa.,Sehemu la kupalilia lilikuwa ndogo.,Sehemu la kupalilia lilikuwa bahari.,0
+Sehemu la kupalilia lilikuwa kubwa.,Sehemu la kupalilia lilikuwa ndogo.,Sehemu la kupalilia lilkuwa tundu la sindano.,1
+Barabara hii ni pana sana.,Barabara hii ni nyembamba sana.,Barabara hii ni tembo.,0
+Barabara hii ni pana sana.,Barabara hii ni nyembamba sana.,Barabara hii ni uzi.,1
+Maneno yake yalikuwa fichu.,Maneno yake yalikuwa fiche.,Maneno yake yalikuwa kama tabasamu.,0
+Maneno yake yalikuwa fichu.,Maneno yake yalikuwa fiche.,Maneno yake yalikuwa kama fumbo.,1
+Mwanariadha huyu ana mbio sana.,Mwanariadha huyu anakimbia polepole sana.,Mwanariadha huyu ni duma.,0
+Mwanariadha huyu ana mbio sana.,Mwanariadha huyu anakimbia polepole sana.,Mwanariadha huyu ni kobe.,1
+Kasisi amevaa nguo nyeupe.,Kasisi amevaa nguo nyeusi.,Nguo ya kasisi ni theluji.,0
+Kasisi amevaa nguo nyeupe.,Kasisi amevaa nguo nyeusi.,Nguo ya kasisi ni makaa.,1
+Alikuwa na ufanisi kazini.,Hakuwa na ufanisi kazini.,Alikuwa kama mtego wa dubu.,0
+Alikuwa na ufanisi kazini.,Hakuwa na ufanisi kazini.,Alikuwa kama fedha ya haraka ya kusema uongo.,1
+Filamu hii ni nzuri.,Filamu hii ni mbaya.,Filamu hii ni kama waridi.,0
+Filamu hii ni nzuri.,Filamu hii ni mbaya.,Filamu hii ni kama kuwasha.,1
+Ardhi ilikuwa tija.,Ardhi ilikuwa tasa.,Ardhi ilikuwa kama jua.,0
+Ardhi ilikuwa tija.,Ardhi ilikuwa tasa.,Ardhi ilikuwa kama mvua ya msimu ya baridi.,1
+Miche ilikuwa inakua.,Miche ilikuwa inapungua.,Miche ilikuwa kama magugu kwenye kaburi lililopuuzwa.,0
+Miche ilikuwa inakua.,Miche ilikuwa inapungua.,Miche ilikuwa kama konokono akitoka kwenye ganda lake.,1
+Alikuwa jasiri.,Alikuwa na haya.,Alikuwa simba.,0
+Alikuwa jasiri.,Alikuwa na haya.,Alikuwa mjakazi.,1
+Chumba kilikuwa kikiangaza.,Chumba kilikuwa giza.,Chumba kilikuwa kama mwali.,0
+Chumba kilikuwa kikiangaza.,Chumba kilikuwa giza.,Chumba kilikuwa kama kaburi.,1
+Samani hii ni ya kweli.,Samani hii ni ya bandia.,Samani hii ni kama nyota.,0
+Samani hii ni ya kweli.,Samani hii ni ya bandia.,Samani hii ni kama saa.,1
+Mwanafunzi alikuwa akinong'ona.,Mwanafunzi alikuwa akipiga kelele.,Mwanafunzi alikuwa kama pumzi za upepo mdogo.,0
+Mwanafunzi alikuwa akinong'ona.,Mwanafunzi alikuwa akipiga kelele.,Mwanafunzi alikuwa kama kupasuka kwa volkano.,1
+Upepo ulikuwa thabiti.,Upepo haukuwa thabiti.,Upepo ulikuwa kama nguzo.,0
+Upepo ulikuwa thabiti.,Upepo haukuwa thabiti.,Upepo ulikuwa kama jicho likitazama jua.,1
+Alikuwa na mapenzi kubwa kwake.,Alikuwa na chuki kali kwake.,Alikuwa kama malaika mlezi.,0
+Alikuwa na mapenzi kubwa kwake.,Alikuwa na chuki kali kwake.,Alikuwa kama mbegu iliyoanguka kwenye mawe.,1
+Shati lake ni jeupe.,Shati lake ni jeusi.,Shati lake ni chumvi.,0
+Shati lake ni jeupe.,Shati lake ni jeusi.,Shati lake ni shimo la makaa ya mawe.,1
+Walikubaliana juu ya jambo hilo.,Walitofautiana juu ya jambo hilo.,Wao ni kama kengele na mlio wake.,0
+Walikubaliana juu ya jambo hilo.,Walitofautiana juu ya jambo hilo.,Wao ni kama moto na maji.,1
+Sakafu hii inateleza.,Sakafu hii ni kavu.,Sakafu hii ni kama nyoka.,0
+Sakafu hii inateleza.,Sakafu hii ni kavu.,Sakafu hii ni kama ukweli wa kisukuku.,1
+Uchaguzi huu ni wa haki.,Uchaguzi huu si wa haki.,Uchaguzi huu ni nadhiri za bikira.,0
+Uchaguzi huu ni wa haki.,Uchaguzi huu si wa haki.,Uchaguzi huu ni kumpa hakimu hekima kwa sababu tu amevalia tofauti na wanaume wengine.,1
+Mchezaji alikuwa fiti kwa mchezo.,Mchezaji alikuwa hafai kwa mchezo.,Mchezaji alikuwa kama viatu vya jumapili.,0
+Mchezaji alikuwa fiti kwa mchezo.,Mchezaji alikuwa hafai kwa mchezo.,Mchezaji alikuwa kama dhahabu safi kwa mzunguko.,1
+Polisi walikuwa waadilifu.,Polisi hawakuwa waadilifu.,Polisi walikuwa kama heshima sawa.,0
+Polisi walikuwa waadilifu.,Polisi hawakuwa waadilifu.,Polisi walikuwa kama waamuzi wa historia ya mipaka kwanza humunyonga mfungwa na kisha kumjaribu.,1
+Mbwa huyu ni shujaa.,Mbwa huyu ni mwoga.,Mbwa huyu ni simba.,0
+Mbwa huyu ni shujaa.,Mbwa huyu ni mwoga.,Mbwa huyu ni kunguru.,1
+Alikuwa na afya njema.,Alikuwa na afya mbovu.,Alikuwa kama asubuhi ya mei.,0
+Alikuwa na afya njema.,Alikuwa na afya mbovu.,Alikuwa kama ini la bukini linalokusudiwa kulwa.,1
+Yeye ni mwenye huruma.,Yeye si mwenye huruma.,Yeye ni mti mtukufu ambao umejeruhiwa wakati unatoa zeri.,0
+Yeye ni mwenye huruma.,Yeye si mwenye huruma.,Yeye ni kaisari.,1
+Eneo la benki limelindwa.,Eneo la benki ni dhahiri.,Eneo la benki ni kama mkuu katika ngome lake.,0
+Eneo la benki limelindwa.,Eneo la benki ni dhahiri.,Eneo la benki ni kama nyota kwenye usiku tupu.,1
+Majengo yale ni ya kisasa.,Majengo yale ni ya zamani.,Majengo yale ni safu ya mwanga.,0
+Majengo yale ni ya kisasa.,Majengo yale ni ya zamani.,Majengo yale ni umri wa jiwe.,1
+Dereva alikuwa kiasi.,Dereva alikuwa mlevi.,Dereva alikuwa kama hakimu.,0
+Dereva alikuwa kiasi.,Dereva alikuwa mlevi.,Dereva alikuwa kama Lutu wa bibilia.,1
+Ilikuwa zabuni.,Ilikuwa ngumu.,Ilikuwa kama ndoto ya mama ya mtoto wake.,0
+Ilikuwa zabuni.,Ilikuwa ngumu.,Ilikuwa kama ngozi.,1
+Msichana yule amebarikiwa.,Msichana yule amelaaniwa.,Msichana yule ni Daudi.,0
+Msichana yule amebarikiwa.,Msichana yule amelaaniwa.,Msichana yule ni hekalu takatifu lenye limeibiwa.,1
+Hali ya hewa ni shwari.,Hali ya hewa ni ya dhoruba.,Hali ya hewa ni kama mito ya kina kirefu.,0
+Hali ya hewa ni shwari.,Hali ya hewa ni ya dhoruba.,Hali ya hewa ni kama kimbunga kamili.,1
+Alipewa faraja baada ya tukio.,Alipewa majonzi baada ya tukio.,Alipewa faraja kama mtoto mchanga.,0
+Alipewa faraja baada ya tukio.,Alipewa majonzi baada ya tukio.,Alipewa majonzi kama mafuriko yalioinuliwa kwenye vijito vidogo na mvua ya ghafla.,1
+Alihama karibu na shangazi.,Alihama mbali na shangazi.,Alihama kama sekunde moja hadi nyingine.,0
+Alihama karibu na shangazi.,Alihama mbali na shangazi.,Alihama kama wema ulivyo juu ya ubaya.,1
+Nyumba hii ni safi.,Nyumba hii ni chafu.,Nyumba hii ni pamba.,0
+Nyumba hii ni safi.,Nyumba hii ni chafu.,Nyumba hii ni dampo.,1
+Barua yake ilikuwa ya hisia.,Barua yake haikuwa ya hisia.,Barua yake ilikuwa kama mama na mwanawe.,0
+Barua yake ilikuwa ya hisia.,Barua yake haikuwa ya hisia.,Barua ilikuwa kama pambano lililogandishwa.,1
+Safari ilikuwa na starehe.,Safari haikuwa na starehe.,Safari ilikuwa kama jua baada ya mvua.,0
+Safari ilikuwa na starehe.,Safari haikuwa na starehe.,Safari ilikuwa kama jogoo ndani ya bwawa.,1
+Kijana huyu ni mwenye kiburi.,Kijana huyu ni mwenye aibu.,Kijana huyu ni kama nyumbu wa serikali.,0
+Kijana huyu ni mwenye kiburi.,Kijana huyu ni mwenye aibu.,Kijana huyu ni kama kitu cha hatia.,1
+Alikuwa mkarimu kwake.,Alikuwa na wivu kwake.,Alikuwa kama jua katika chemchemi.,0
+Alikuwa mkarimu kwake.,Alikuwa na wivu kwake.,Alikuwa kama paka.,1
+Chumba kilikuwa tupu.,Chumba kilikuwa kimejaa.,Chumba kilikuwa kama upepo.,0
+Chumba kilikuwa tupu.,Chumba kilikuwa kimejaa.,Chumba kilikuwa kama kupe.,1
+Kijana alikuwa jasiri.,Kijana aliogopa.,Kijana alikuwa kama mpiga grenadi.,0
+Kijana alikuwa jasiri.,Kijana aliogopa.,Kijana alikuwa kama panzi.,1
+Sauti yake ilikuwa ya muziki.,Sauti yake haikuwa ya muziki.,Sauti yake ilikuwa kama mvua inavyoshuka kwenye paa.,0
+Sauti yake ilikuwa ya muziki.,Sauti yake haikuwa ya muziki.,Sauti yake ilikuwa kama ndoto ya usiku ya bubu aliyeshiba wimbo.,1
+Yeye ni muangalifu sana.,Yeye ni mzembe sana.,Yeye ni mlinzi mzuri wa nyumba.,0
+Yeye ni muangalifu sana.,Yeye ni mzembe sana.,Yeye ni upepo.,1
+Alikuwa mtu wa imani.,Alikuwa mtu wa hofu.,Alikuwa kama Abrahamu.,0
+Alikuwa mtu wa imani.,Alikuwa mtu wa hofu.,Alikuwa kama nzige.,1
+Walikusanyika njiani.,Walitawanyika njiani.,Wao walikuwa mchwa.,0
+Walikusanyika njiani.,Walitawanyika njiani.,Wao walikuwa makapi mbele ya upepo.,1
+Aliketi mbele.,Aliketi nyuma.,Aliketi kama kiongozi wa ngamia.,0
+Aliketi mbele.,Aliketi nyuma.,Aliketi kama kitabu cha kiebrania.,1
+Jamii ilikuwa changa.,Jamii ilikuwa ya zamani.,Jamii ilikuwa kama saa.,0
+Jamii ilikuwa changa.,Jamii ilikuwa ya zamani.,Jamii ilikuwa kama uumbaji.,1
+Mlinzi alikuwa macho.,Mlinzi alikuwa amelala.,Mlinzi alikuwa bahari inayotikiswa na tufani kuu.,0
+Mlinzi alikuwa macho.,Mlinzi alikuwa amelala.,Mlinzi alikuwa ndoto kaburini.,1
+Kaka yangu alicheka.,Kaka yangu alilia.,Kaka yangu alikuwa kama kasuku kwa mpiga filimbi.,0
+Kaka yangu alicheka.,Kaka yangu alilia.,Kaka yangu alikuwa kama mtoto anayechapwa.,1
+Yule ni mtu mwema.,Yule ni mtu mwovu.,Yule ni ukweli mtakatifu.,0
+Yule ni mtu mwema.,Yule ni mtu mwovu.,Yule ni bahari iliyochafuka.,1
+Walikimbia juu ya kilima.,Walikimbia chini ya kilima.,Walikimbia kama moshi ya tanuru.,0
+Walikimbia juu ya kilima.,Walikimbia chini ya kilima.,Walikimbia kama nyasi mbele ya komeo.,1
+Chumba hiki ni kimya.,Chumba hiki kina sauti kubwa.,Chumba hiki ni sanamu.,0
+Chumba hiki ni kimya.,Chumba hiki kina sauti kubwa.,Chumba hiki ni sauti ya dalali.,1
+Baba ana shughuli nyingi.,Baba yuko bila kazi.,Baba ni nyuki.,0
+Baba ana shughuli nyingi.,Baba yuko bila kazi.,Baba ni saa sita mchana.,1
+Mahali hapa ni kimya sana.,Mahali hapa pana kelele mingi.,Mahali hapa ni kama makaburi.,0
+Mahali hapa ni kimya sana.,Mahali hapa pana kelele mingi.,Mahali hapa ni kama sokoni.,1
+Nyumba hii ni imara.,Nyumba hii si imara.,Nyumba hii ni kama dunia.,0
+Nyumba hii ni imara.,Nyumba hii si imara.,Nyumba hii ni kama upepo.,1
+Mifugo wote wako hai.,Mifugo wote wamefariki.,Mifugo wote wako hai kama maono ya maisha kuwa.,0
+Mifugo wote wako hai.,Mifugo wote wamefariki.,Mifugo wote wako hai kama jana.,1
+Yeye ni mwenye nguvu.,Yeye ni dhaifu.,Yeye ni Samsoni.,0
+Yeye ni mwenye nguvu.,Yeye ni dhaifu.,Yeye ni mwanzi.,1
+Kimani ni mvulana jasiri,Kimani ni mvulana mwoga,Kimani ana roho ya chuma,0
+Kimani ni mvulana jasiri,Kimani ni mvulana mwoga,Kimani ana roho kama ya Kuku,1
+Ninampenda Maria kwa moyo wangu wote,Simpendi Maria kamwe,Ninampenda Maria kama mboni ya jicho langu,0
+Ninampenda Maria kwa moyo wangu wote,Simpendi Maria kamwe,Ninampenda Maria kama paka apendavyo maji,1
+Mtoto wa jiran ni mlafi,Mtoto wa jirani hapendi kula,Mtoto wa Jirani ni Tumbo Karai,0
+Mtoto wa jiran ni mlafi,Mtoto wa jirani hapendi kula,Mtoto wa Jirani anapenda chakula kama mgonjwa aliyepoteza hamu,1
+Makena alikua amependenza sana,Makena alikuwa amevalia vibaya,Makena alikuwa ameng'aa kama malaika,0
+Makena alikua amependenza sana,Makena alikuwa amevalia vibaya,Makena alikuwa ameng'aa kama mbuzi wa kuzurura,1
+Jane ni Mchoyo sana kwa pesa,Jane ni mkarimu sana kwa pesa,Jane ni mkono mgumu kwa pesa,0
+Jane ni Mchoyo sana kwa pesa,Jane ni mkarimu sana kwa pesa,Jane ni Yesu kwa pesa,1
+Mtoto wa Maria haelewi kitu darasani,Mtoto wa Maria ni Mwerevu darasani,Mtoto wa Maria ni Kichwa Maji darasani,0
+Mtoto wa Maria haelewi kitu darasani,Mtoto wa Maria ni Mwerevu darasani,Mtoto wa Maria anang'aa kama jua darasani,1
+Tulikula chakula kitamu kwa Otieno,Tulikula chakula so kitamu,Tulikula chakula kitamu kama asali kwa Otieno,0
+Tulikula chakula kitamu kwa Otieno,Tulikula chakula so kitamu,Tulikula chakula kitamu kama ndimu kwa  Otieno,1
+Alikua mrefu kupindukia,Alikuwa mfupi,Alikua mrefu kama mlingoti,0
+Alikua mrefu kupindukia,Alikuwa mfupi,Alikua mfupi kama nyundo,1
+Gari lake ni la thamani sana,Gari lake ni la bei ya chini,Gari lake ni dhahabu,0
+Gari lake ni la thamani sana,Gari lake ni la bei ya chini,Gari lake li la thamani kama nguo za mitumba,1
+Siku hizi Onyango hapatikani kabisa,Onyango anaonekana kila mahali,Onyango amekua maziwa ya kuku,0
+Siku hizi Onyango hapatikani kabisa,Onyango anaonekana kila mahali,Onyango amekuwa kama mawingu angani,1
+Kipchoge ni Mwanariadha wa Kasi sana,Kipchoge ni mwanariadha asiye na kasi,Kipchoge ni risasi,0
+Kipchoge ni Mwanariadha wa Kasi sana,Kipchoge ni mwanariadha asiye na kasi,Kipchoge ni konokono,1
+Ailkula sana kwa hivyo alinenepa,Hakukula kwa hivyo ni mwembaba,Alikua akanenepa kama nguruwe,0
+Ailkula sana kwa hivyo alinenepa,Hakukula kwa hivyo ni mwembaba,"Hakukula, ni mwembamba kama sindano",1
+Alibahatika kupata udhamini wa kusomea Ulaya,"Hakuwa na bahati, akakosa nafasi ya kusomea ulaya",Alikua na bahati kama ya mtende kupata udhamini wa kusomea ulaya,0
+Alibahatika kupata udhamini wa kusomea Ulaya,"Hakuwa na bahati, akakosa nafasi ya kusomea ulaya",Alikuwa na bahati kama ya mwizi ambaye arobaini zake zimewadia,1
+Maria aliruka juu kwa furaha,Maria alikua na huzuni,Maria aliruka juu kama Masai,0
+Maria aliruka juu kwa furaha,Maria alikua na huzuni,Maria aliruka juu kama kobe,1
+Alikuwa mrembo mwenye meno safi,Alikuwa mrembo mwenye meno chafu,Alikuwa na meno yenye weupe wa maziwa,0
+Alikuwa mrembo mwenye meno safi,Alikuwa mrembo mwenye meno chafu,Alikuwa na meno meupe kama giza,1
+Nyumba yake ilikuwa baridi mno tulipoingia,Nyumba yake ilikuwa na joto mno tulipoingia,Nyumba yake ilikuwa baridi kama barafu tulipoingia,0
+Nyumba yake ilikuwa baridi mno tulipoingia,Nyumba yake ilikuwa na joto mno tulipoingia,Nyumba yake ilikuwa na joto kama pasi tulipoingia,1
+Angelina alituangalia kwa macho ya kuvutia,Angelina alituangalia kwa macho ya  kutuchukia,Angelina alituangalia kwa macho ya vikombe,0
+Angelina alituangalia kwa macho ya kuvutia,Angelina alituangalia kwa macho ya  kutuchukia,Angelina alitangalia kwa macho ya chura,1
+Dawa za hospitali ya Nairobi ni kali mno,Dawa za hospitali ya Nairobi ni tamu,Dawa za hospitali ya Nairobi ni chungu kama shubiri,0
+Dawa za hospitali ya Nairobi ni kali mno,Dawa za hospitali ya Nairobi ni tamu,Dawa za hospitali ya Nairobi ni chungu kama sukari,1
+Sinema za Nairobi zina bei ghali sana,Sinema za Nairobi si za be ghali,Sinema za Nairobi zina bei ghali kama dhahabu,0
+Sinema za Nairobi zina bei ghali sana,Sinema za Nairobi si za be ghali,Sinema za Nairobi zina bei ghali kama nguo za mitumba,1
+Milango ya benki jijini ni ndogo mno,Milango ya benki jijini si ndogo hata,Milango ya benki jijini ni ndogo kama tundu la sindano,0
+Milango ya benki jijini ni ndogo mno,Milango ya benki jijini si ndogo hata,Milango ya benki jijini ni Pana kama uwanja wa kandanda,1
+"Ukiwa Nakuru, Kitengela ni mbali sana ukisafiri kwa baiskeli","Ukiwa Nakuru, Kitengela si mbali ukisafiri kwa baiskeli","Ukiwa Nakuru, Kitengela ni mbali kama Ng'ambo kwa baiskeli",0
+"Ukiwa Nakuru, Kitengela ni mbali sana ukisafiri kwa baiskeli","Ukiwa Nakuru, Kitengela si mbali ukisafiri kwa baiskeli","Ukiwa Nakuru, Kitengela ni mbali kama nafasi kati ya macho",1
+Vijana wa soka huwa pumbavu kwa masomo,Vijana wa soka huwa ni werevu kwa masomo,Vijana wa soka huwa pumbavu kama kondoo kwa masomo,0
+Vijana wa soka huwa pumbavu kwa masomo,Vijana wa soka huwa ni werevu kwa masomo,Vijana wa soka huwa pumbavu kama nyani kwa masomo,1
+"Sofia alipopatana na Fred, walipendana mno","Sofia alipopatana na Fred, walichukiana mno",Sofia na Fred walikuwa chanda na pete,0
+"Sofia alipopatana na Fred, walipendana mno","Sofia alipopatana na Fred, walichukiana mno",Sofia na Fred walikuwa mafuta na maji,1
+Bahari ya Hindi inameremeta msimu huu wa Krismasi,Bahari ya Hindi haina mvuto msimu huu wa Krismasi,Bahari ya Hindi inameremeta kama Tausi msimu huu wa Krismasi,0
+Bahari ya Hindi inameremeta msimu huu wa Krismasi,Bahari ya Hindi haina mvuto msimu huu wa Krismasi,Bahari ya hindi inameremeta kama shimo la taka msimu huu wa Krismasi,1
+Qatar imeng'aa kwa ajili ya kombe la dunia,Qatar haijang'aa sana kwa kombe la dunia,Qatar imeng'aa kama anga kwa kombe la dunia,0
+Qatar imeng'aa kwa ajili ya kombe la dunia,Qatar haijang'aa sana kwa kombe la dunia,Qatar imeng'aa kama soko la Gikomba kwa ajili ya kombe la dunia,1
+Nilikasirika wazazi waliponilazimishwa kwenda Naivasha,Nilifurahia wazazi waliponishauri kwenda Naivasha,Nilifura kama andazi nilipolazimishwa kuenda kwenda Naivasha,0
+Nilikasirika wazazi waliponilazimishwa kwenda Naivasha,Nilifurahia wazazi waliponishauri kwenda Naivasha,Nilihuzunika kama kibogoyo aliyepata meno nilipoenda Naivasha,1
+Usiyakaidi maelekezo ya wazazi wako,Unafaa kuyasikiliza maelekezo ya wazazi wako,Usikue mkia wa mbuzi kwa maelekezo ya wazazi wako,0
+Usiyakaidi maelekezo ya wazazi wako,Unafaa kuyasikiliza maelekezo ya wazazi wako,Unafaa kuwa bendera kwa malekezo ya wazazi wako,1
+Wakaazi wa Dandora hawapendi kufanya kazi,Wakaazi wa dandora huamka kila siku na kufanya kazi,Wakaazi wa dandora ni wazembe kama kupe,0
+Wakaazi wa Dandora hawapendi kufanya kazi,Wakaazi wa dandora huamka kila siku na kufanya kazi,Wakaazi wa dandora wana bidii kama ya mchwa,1
+Somo la Kemia huwa tulivu katika shule hiyo,Wanafunzi huwa na kelele wakati wa somo la Kemia,Somo la Kemia huwa tulivu kama mtungi wa maji,0
+Somo la Kemia huwa tulivu katika shule hiyo,Wanafunzi huwa na kelele wakati wa somo la Kemia,Wanafunzi huwa na Kelele kama Chiriku wakati wa somo la Kemia,1
+Hell's Gate ni sehemu iliyofichika katika bonde la ufa,Hell's Gate ni sehemu inayojulikana katika bonde la ufa,Hell's Gate imefichika kama siri katika bonde la ufa,0
+Hell's Gate ni sehemu iliyofichika katika bonde la ufa,Hell's Gate ni sehemu inayojulikana katika bonde la ufa,Hell's Gate ni sehemu iliyo wazi Kama mchana katika bonde la ufa,1
+Kipchoge aling'aa katika mbio za dunia,Kipchoge alishindwa kung'aa katika mbio za dunia,Kipchoge aling'aa kama anga katika mbio za dunia,0
+Kipchoge aling'aa katika mbio za dunia,Kipchoge alishindwa kung'aa katika mbio za dunia,Kipchoge aling'aa kama mawe katika mbio za dunia,1
+Ikulu ya rais inanukia usiku na mchana,Ikulu ya rais inanuka usiku na mchana,Ikulu ya rais ni manukato usiku na mchana,0
+Ikulu ya rais inanukia usiku na mchana,Ikulu ya rais inanuka usiku na mchana,Ikulu ya rais inanuka kama kidonda usiku na mchana,1
+Wanakwaya wale wana sauti nyororo na ya kupendeza,Wanakwaya wale hawana sauti za kuimba,Wanakwaya wale wana sauti kama kinanda,0
+Wanakwaya wale wana sauti nyororo na ya kupendeza,Wanakwaya wale hawana sauti za kuimba,Wanawkwaya wale wana sauti mbaya kama chura,1
+Ninamdhamini mke wangu kuliko chochote duniani,Simdhamini mke wangu vile,Ninamdhamini mke wangu kama moyo,0
+Ninamdhamini mke wangu kuliko chochote duniani,Simdhamini mke wangu vile,Ninamdhamini mke wangu kama taka,1
+Bernard alishindwa kuona maovu ya Maria,Bernard aliyaona maovu yote ya Maria,"Ifikapo kwa maria, bernard alikuwa mwenye macho kama jongoo",0
+Bernard alishindwa kuona maovu ya Maria,Bernard aliyaona maovu yote ya Maria,Bernard alikuwa na macho ya Tai kwa maovu ya Maria,1
+Jirani yangu ni mkatili na mouvu,Jirani yangu ni mkarimu na mwenye upendo,Jirani yangu ni shetani,0
+Jirani yangu ni mkatili na mouvu,Jirani yangu ni mkarimu na mwenye upendo,Jirani yangu ana roho nzuri kama malaika,1
+Mjomba wa  Lois hawachi kula,Mjomba wa Lois aliwacha kula,Mjomba wa Lois anakula kama fisi,0
+Mjomba wa  Lois hawachi kula,Mjomba wa Lois aliwacha kula,Mjomba wa Lois anakula kama mgonjwa mahututi,1
+Jirani yetu ana watoto wengi,Jirani yetu ana watoto wachache sana,Jirani yetu ana watoto wengi kama siafu,0
+Jirani yetu ana watoto wengi,Jirani yetu ana watoto wachache sana,Jirani yetu ana watoto adimu kama maziwa ya kuku,1
+Visima vya maji kule Marsabit na Moyale vimekauka,Visima vya maji kule Marsabit na Moyale vimetiliwa maji,Visima vya maji kule Marsabit na Moyale vimekauka kama janga,0
+Visima vya maji kule Marsabit na Moyale vimekauka,Visima vya maji kule Marsabit na Moyale vimetiliwa maji,Visima vya maji kule Marsabit na Moyale vina maji kama ziwa Victoria,1
+Wanafunzi husimama Imara bendera inapopandishwa,Wamafunzi huyumbayumba bendera inapopandishwa,Wanafunzi husimama imara kama uti wa mgondo bendera inapopandishwa,0
+Wanafunzi husimama Imara bendera inapopandishwa,Wamafunzi huyumbayumba bendera inapopandishwa,Wanafunzi huyumba kama mawimbi bendera inapopandishwa,1
+Mkutano wa walimu ulichukua muda mrefu,Mkutano wa walimu ulikuwa mfupi leo,Mkutano wa walimu ulikuwa miaka na mikaka,0
+Mkutano wa walimu ulichukua muda mrefu,Mkutano wa walimu ulikuwa mfupi leo,Mkutano wa walimu ulikawia kama mngurumo wa radi,1
+Watoto wake hufuatana kila wanakoenda,Watoto wake hawapatani kamwe,Watoto wake hufuatana kama siafu,0
+Watoto wake hufuatana kila wanakoenda,Watoto wake hawapatani kamwe,Watoto wake ni kama jua na mwezi,1
+Maria hunituliza moyo anapowasili,Maria huniudhi kila anapowasili,Maria ni tabibu wa moyo wangu,0
+Maria hunituliza moyo anapowasili,Maria huniudhi kila anapowasili,Maria ni chuma cha moto kwa moyo wangu,1
+Wangari alikataa kufuata maelezo yetu,Wangari aliyafuata na kuyaiga maelezo yetu,Wangari alikataa kuyafuata maelezo yetu kama sikio la kufa,0
+Wangari alikataa kufuata maelezo yetu,Wangari aliyafuata na kuyaiga maelezo yetu,Wangari aliyatii maelezo yetu kama kijakazi wa mfalme,1
+"Nilimpenda Jeptoo, kila aendapo ningemfuata",Nilimpenda Jeptoo lakini Sikuenda popote angeenda,"Nilimpenda Jeptoo, nikawa kivuli chake",0
+"Nilimpenda Jeptoo, kila aendapo ningemfuata",Nilimpenda Jeptoo lakini Sikuenda popote angeenda,Nilimpenda Jeptoo lakini tulitorokana kama jua na mwezi,1
+Uwepo wake hunipendeza,Uwepo wake huniudhi,Uwepo wake ni mtulivu  kama manukato kwangu,0
+Uwepo wake hunipendeza,Uwepo wake huniudhi,Uwepo wake ni mtulivu kama tawi kwenye dhoruba,1
+Baba ya Alice ni mkali mno,Baba ya Alice ni mzuri na  mkarimu,Baba ya Alice ni pilipili,0
+Baba ya Alice ni mkali mno,Baba ya Alice ni mzuri na  mkarimu,Baba ya Alice ni mkali kama nzi,1
+Chokoraa wa Nairobi wameshinda wakizurura,Chokoraa wa Nairobi ni wametulia leo,Chokoraa wa Nairobi wamezurura kama Mbwakoko,0
+Chokoraa wa Nairobi wameshinda wakizurura,Chokoraa wa Nairobi ni wametulia leo,Chokoraa wa Nairobi wametulia leo kama mtoto aliyelala,1
+Muziki wa Kenya huwa wa huruma,Muziki wake ulikuwa wa furaha,Muziki wa Kenya ulikuwa wa huruma kama aliyefiwa,0
+Muziki wa Kenya huwa wa huruma,Muziki wake ulikuwa wa furaha,Muziki wa Kenya ulikuwa wa huruma kama aliyeshinda Lotto,1
+Dennis hutembea haraka akienda shuleni,Dennis hutembea polepole akienda shuleni,Dennis hutembea haraka kama anayefwatwa gizani akienda shuleni,0
+Dennis hutembea haraka akienda shuleni,Dennis hutembea polepole akienda shuleni,Dennis hutembea taratibu kama Bi harusi akienda shuleni,1
+Nyumba yake ilikuwa na joto mno,Nyumba yake haikuwa na joto mno,Nyumba yake ilikuwa na joto kama jiko,0
+Nyumba yake ilikuwa na joto mno,Nyumba yake haikuwa na joto mno,Nyumba yake ilikuwa na joto kama jokofu,1
+Dada yake ni mkubwa,Dada yake si mkubwa,Dada yake ni mkubwa kama tembo,0
+Dada yake ni mkubwa,Dada yake si mkubwa,Dada yake ni mkubwa kama tundu la sindano,1
+Imani yake ilikuwa dhabiti mno,Imani yake ilikuwa hafifu,Imani yake ilikuwa na nguvu kama chuma,0
+Imani yake ilikuwa dhabiti mno,Imani yake ilikuwa hafifu,Imani yake ilikuwa na nguvu kama kijiti kilichoshikilia ndovu,1
+Maswali hayo yalikuwa rahisi,Maswali hayo yalikuwa magumu mno,Maswali hayo yalikuwa mboga,0
+Maswali hayo yalikuwa rahisi,Maswali hayo yalikuwa magumu mno,Maswali hayo yalikuwa mawe,1
+Macho ya kijana huyo yalikuwa mekundu,Macho ya kijana huyo hayakuwa mekundu,Macho ya kijana huyo yalikuwa mekundu kama damu,0
+Macho ya kijana huyo yalikuwa mekundu,Macho ya kijana huyo hayakuwa mekundu,Macho ya kijana huyo yalikuwa mekundu kama maziwa,1
+Eneo hilo lilikuwa na kelele mno,Eneo hilo lilikuwa tulivu mno,Eneo hilo lilikuwa na kelele kama mtoto aliyeachwa,0
+Eneo hilo lilikuwa na kelele mno,Eneo hilo lilikuwa tulivu mno,Eneo hilo lilikuwa na kelele kama mtungi wa maji,1
+Alipenda kula chakula na pilipili,Hakupenda kula chakula na pilipili,Alipenda kula chakula na pilipili kama mhindi,0
+Alipenda kula chakula na pilipili,Hakupenda kula chakula na pilipili,Alipenda kula chakula na pilipili kama mtoto,1
+Walikuwa pamoja kila siku,Waliachana kwa umbali sana,Walikuwa pamoja kama nywele kwa nyingine,0
+Walikuwa pamoja kila siku,Waliachana kwa umbali sana,Walikuwa pamoja kama Marekani na Kenya,1
+Alikuwa mwereve darasani,Hakuwa mwerevu darasani,Alikuwa mwerevu kama sungura,0
+Alikuwa mwereve darasani,Hakuwa mwerevu darasani,Alikuwa mwerevu kama samaki,1
+Kwake kulikuwa na joto mno,Kwake hakukuwa na joto kamwe,Kwake kulikuwa na joto kama jehanamu,0
+Kwake kulikuwa na joto mno,Kwake hakukuwa na joto kamwe,Kwake kulikuwa na joto kama chini ya bahari,1
+Mtoto aliyejifungua alikuwa mzito mno,Mtoto aliyejifungua alikuwa mwepesi,Mtoto aliyejifungua alikuwa nanga,0
+Mtoto aliyejifungua alikuwa mzito mno,Mtoto aliyejifungua alikuwa mwepesi,Mtoto aliyejifungua alikuwa mabawa,1
+Sebuleni yake ilikuwa telezi mno,Sebule yake ilikuwa imekauka mno,Sebule yake ilikuwa telezi kama siagi,0
+Sebuleni yake ilikuwa telezi mno,Sebule yake ilikuwa imekauka mno,Sebule yake ilikuwa telezi kama kokoto,1
+Alinipendeza sana siku nzima,Aliniudhi siku nzima,Alinipendeza kama sharubati,0
+Alinipendeza sana siku nzima,Aliniudhi siku nzima,Alinipendeza kama mtoto asieacha kulia,1
+Alituchelewesha kwa kutembea polepole,Hakutuchelewesha kwa kutembea haraka,Alituchelewesha kwa kuwa na miguu ya kobe,0
+Alituchelewesha kwa kutembea polepole,Hakutuchelewesha kwa kutembea haraka,Hakutuchelewesha kwa kuwa na  miguu kama ya swara,1
+Alichomwa na jua sana siku nzima,Hakuchomwa na jua kamwe,Alichomwa na jua kama mpasua-mawe siku nzima,0
+Alichomwa na jua sana siku nzima,Hakuchomwa na jua kamwe,Alichomwa na jua kama mgonjwa aliye kwenye wodi,1
+"Mtihani ulipokaribia, Otieno alianza kutia bidii","Mtihani ulipokaribia, Otieno alisalia kuwa mzembe","Mtihani ulipokaribia, Otieno alibadilika mchwa",0
+"Mtihani ulipokaribia, Otieno alianza kutia bidii","Mtihani ulipokaribia, Otieno alisalia kuwa mzembe","Mtihani ulipokaribia, Otieno alisalia kuwa mchwa",1
+Matumaini yake yalipanda alipopata habari,Matumaini yake yalishuka alipopata habari,Matumaini yake yalipanda kama ndege alipopata habari,0
+Matumaini yake yalipanda alipopata habari,Matumaini yake yalishuka alipopata habari,Matumaini yake yalipanda kama changarawe alipopata habari,1
+Mama Aziza na dada yake walifanana sana,Mama Aziza na dada yake walikuwa tofauti sana,Mama Aziza na dada yake walikuwa shilingi kwa nyingine,0
+Mama Aziza na dada yake walifanana sana,Mama Aziza na dada yake walikuwa tofauti sana,Mama Aziza na dada yake walikuwa usiku na mchana,1
+Mama Otis alipenda busu la mumewe,Mama Otis hakupenda busu la mumewe,Mama Otis alipenda busu la mumewe kama asali,0
+Mama Otis alipenda busu la mumewe,Mama Otis hakupenda busu la mumewe,Mama Otis alipenda busu la mumewe kama Mungu apendavyo dhambi,1
+Sandra alituandalia chakula kitamu sana,Sandra hakutuandalia chakula kitamu,Sandra alituandalia chakula kitamu kama asali,0
+Sandra alituandalia chakula kitamu sana,Sandra hakutuandalia chakula kitamu,Sandra alituandalia chakula kitamu kama ndimu,1
+Beatrice alikuwa na matumaini kwa mumewe,Beatrice hakumtumaini mumewe kamwe,Beatrice alimtumainin mumewe kama tasa anayetafuta mtoto,0
+Beatrice alikuwa na matumaini kwa mumewe,Beatrice hakumtumaini mumewe kamwe,Beatrice alimtumainini mumewe kama mja aliyehukumiwa kifo,1
+Wafula alitembea gizani kwa ushupavu bila kuogopa,Wafula alitembea gizani akiwa na woga,Wafula alikuwa shupavu kama mwanajeshi akitembea gizani,0
+Wafula alitembea gizani kwa ushupavu bila kuogopa,Wafula alitembea gizani akiwa na woga,Wafula alitembea gizani akuwa shupavu kama kondoo anayeingizwa kichinjioni,1
+Maria aliingia kwangu akinukia manukato,Maria aliingia kwangu akinuka vibaya,Maria aliingia kwangu akinukia manukato kama binti ya malkia,0
+Maria aliingia kwangu akinukia manukato,Maria aliingia kwangu akinuka vibaya,Maria aliingia kwangu akinuka kama kondoo aliyenyeshewa,1
+Dennis alikuwa na haraka kuelekea nyumbani,Dennis hakuwa na haraka kamwe,Dennis alikuwa na haraka kama risasi,0
+Dennis alikuwa na haraka kuelekea nyumbani,Dennis hakuwa na haraka kamwe,Dennis alikuwa na haraka kama ndumakuwili,1
+Polisi hukushuku ukiwa na wasiwasi,Polisi hawawezi kukushuku ukiwa mtulivu,Polisi hukushuku ukiwa na wasiwasi kama mwizi,0
+Polisi hukushuku ukiwa na wasiwasi,Polisi hawawezi kukushuku ukiwa mtulivu,Polisi hawawezi kukushuku ukiwa mtulivu kama bahari,1
+Garissa kumekauka lakini kuna upepo kama ufuo wa bahari,Garissa kumekauka na hakuna upepo,Garissa kumejaa upepo kama ufuo wa bahari,0
+Garissa kumekauka lakini kuna upepo kama ufuo wa bahari,Garissa kumekauka na hakuna upepo,Garissa kumejaa upepo kama ndani ya kisima,1
+Wananchi walijitokeza kwa wingi kumskiza rais,Wananchi hawakujitokeza kumskiza rais,Wananchi walijaa kama mchanga kumskiza rais,0
+Wananchi walijitokeza kwa wingi kumskiza rais,Wananchi hawakujitokeza kumskiza rais,Wananchi walijitokeza kwa wingi kama mayai ya Ng'ombe kumskiza rais,1
+Wabunge wanajulikana kuwa wafisadi sana,Wabunge wengi si wafisadi siku hizi,Wabunge ni fisadi kama polisi,0
+Wabunge wanajulikana kuwa wafisadi sana,Wabunge wengi si wafisadi siku hizi,Wabunge ni fisadi kama kasisi,1
+Hakuna anayemwamini Lesly ni mwongo wa ahadi,"Lesly ni mwaminifu, ahadi zake atatimiza",Lesly ni kigeugeu kama Kinyonga,0
+Hakuna anayemwamini Lesly ni mwongo wa ahadi,"Lesly ni mwaminifu, ahadi zake atatimiza",Lesly ni kigeugeu kama mwanasiasa,1
+Beatrice alikataa kufuata Masharti ya mwalimu,Beatrice alifuata masharti yote ya mwalimu,Beatrice alikaidi masharti kama mbuzi anayechezewa kinanda,0
+Beatrice alikataa kufuata Masharti ya mwalimu,Beatrice alifuata masharti yote ya mwalimu,Beatrice alikaidi masharti kama mlinzi wa malkia,1
+Umemaliza shule na ukakuwa maarufu hivi punde,Umemaliza shule na hakuna anayekutambua,Umemaliza shule ukakuwa maarufu kama rais wa nchi,0
+Umemaliza shule na ukakuwa maarufu hivi punde,Umemaliza shule na hakuna anayekutambua,Umemaliza shule ukakuwa maarufu kama mtoto wa kati,1
+Hakupenda kuelezea alichohisi rohoni,Alipenda kupayuka kila alichohisi,Roho yake ilikuwa kufuli lililofungwa,0
+Hakupenda kuelezea alichohisi rohoni,Alipenda kupayuka kila alichohisi,Roho yake ilikuwa mchana wa jua,1
+Anette huwa na mikono laini mno,Anette huwa na mikono migumu sana,Anette ana Mikono laini kama mto,0
+Anette huwa na mikono laini mno,Anette huwa na mikono migumu sana,Anette ana mikono laini kama changarawe,1
+Ala! Benjamin uko na haraka leo,Ala! Benjamin huna haraka hata?,Ala! Benjamin una haraka kama ambulensi iliyo na mgonjwa mahututi,0
+Ala! Benjamin uko na haraka leo,Ala! Benjamin huna haraka hata?,"Ala! Benjamin, Una haraka kama siafu aliyebeba kitoweo",1
+Muangalie anavyong'aa nyusoni na kupendeza,Muangalie alivyochafuka nyusoni leo,Muangalie anavyong'aa nyusoni kama nyota,0
+Muangalie anavyong'aa nyusoni na kupendeza,Muangalie alivyochafuka nyusoni leo,Muangalie anavyong'aa nyusoni kama chokoraa,1
+Olentuku alipoibiwa mshale alijihurumia mno,Olentuku alipoibiwa mshale alikasirika mno,Olentuku alipoibiwa mshale alijihurumia kama mtoto yatima,0
+Olentuku alipoibiwa mshale alijihurumia mno,Olentuku alipoibiwa mshale alikasirika mno,Olentuku alipoibiwa mshale alijihurumia kama mtoto wa mfalme,1
+Khalid hawezi kuficha tabasamu anapomuona Michelle,Khalid hufichua meno yake meusi anapomuona Michelle,Khalid hutoa tabasamu ya dhahabu anapomuona Michelle,0
+Khalid hawezi kuficha tabasamu anapomuona Michelle,Khalid hufichua meno yake meusi anapomuona Michelle,Khalid hutoa tabasamu ya kibogoyo anapomuona Michelle,1
+Mkora alituchangaya alipotuibia Nairobi,Mkora alijichanganya mwenyewe alipojaribu kutuibia Nairobi,Mkora alikuwa na werevu kama nyani alipotuibia,0
+Mkora alituchangaya alipotuibia Nairobi,Mkora alijichanganya mwenyewe alipojaribu kutuibia Nairobi,Mkora alikuwa na werevu kama kondoo alipojaribu kutuibia,1
+Tony ana miguu kubwa sana,Tony ana miguu ndogo sana,Tony ana Miguu mikubwa kama Nyani,0
+Tony ana miguu kubwa sana,Tony ana miguu ndogo sana,Tony ana Miguu ndogo kama siafu,1
+Maria alikuwa na wasiwasi alipoitwa ofisini mwa mwalimu mkuu,Maria hakuwa na wasiwasi wowote alipoitwa ofisini mwa mwalimu mkuu,Maria alikuwa na wasiwasi kama mtoto aliyepoteza pesa za mamaye,0
+Maria alikuwa na wasiwasi alipoitwa ofisini mwa mwalimu mkuu,Maria hakuwa na wasiwasi wowote alipoitwa ofisini mwa mwalimu mkuu,Maria alikuwa na wasiwasi kama Ng'ombe aliyeshiba alipoitwa ofisini mwa mwalimu mkuu,1
+Tunashauriwa tuwe waangalifu tulivuka barabara,Huwa wanakaidi ushauri wa kuwa waangalifu wanapovuka barabara,Tunashauriwa kuwa waangalifu kama daktari tunapovuka barabara,0
+Tunashauriwa tuwe waangalifu tulivuka barabara,Huwa wanakaidi ushauri wa kuwa waangalifu wanapovuka barabara,Wao huwa waangalifu kama walevi wanapovuka barabara,1
+Hakutaka kuskia tena kutoka kwao,Alitaka kusikia kila walichosema,Alikuwa jiwe alipojaribu kuongea naye,0
+Hakutaka kuskia tena kutoka kwao,Alitaka kusikia kila walichosema,Alitega sikio kama mama wa mboga sokoni,1
+Bibi harusi alitembea kwa Maringo,Bibi Arusi hakutembe kwa Maringo,Bibi Arusi alitembea kama tausi,0
+Bibi harusi alitembea kwa Maringo,Bibi Arusi hakutembe kwa Maringo,Bi Arusi alitembea kama mlevi,1
+Safari yake ilikuwa ndefu mno,Safari yake haikuwa ndefu,Safari yake ilikuwa mlima Kilimanjaro,0
+Safari yake ilikuwa ndefu mno,Safari yake haikuwa ndefu,Safari yake ilikuwa ndefu kama unywele,1
+Mwizi aliposhikwa aligongwa na kila mtu,Mwizi aliposhikwa hakugongwa sana,Mwizi aliposhikwa aligongwa kama kandanda,0
+Mwizi aliposhikwa aligongwa na kila mtu,Mwizi aliposhikwa hakugongwa sana,Mwizi aliposhikwa aligongwa kama mtoto agongwavyo alale,1
+Polisi ni watu waovu sana,Polisi si watu waovu sana,Polisi wana roho ya shetani,0
+Polisi ni watu waovu sana,Polisi si watu waovu sana,Polisi wana roho ya mtoto,1
+Jane ana sura nyororo,Jane ana sura ngumu,Jane ana sura nyororo kama ngano,0
+Jane ana sura nyororo,Jane ana sura ngumu,Jane ana sura ngumu kama chura,1
+Kaka ya Tom ana uwezo wa kunusia kwa mbali,Kaka ya Tom hana uwezo wa kunusia kwa mbali,Kaka ya Tom ana uwezo wa kunusia kama mbwa,0
+Kaka ya Tom ana uwezo wa kunusia kwa mbali,Kaka ya Tom hana uwezo wa kunusia kwa mbali,Kaka ya Tom ana uwezo wa kunusia kama samaki,1
+Mutuku amesimama wima,Mutuku hajasimama wima,Mutuku amesimama kama bendera ya chifu,0
+Mutuku amesimama wima,Mutuku hajasimama wima,Mutuku amesimama wima kama sukuma wiki siku ya upepo,1
+Antony wako na Boma kubwa sana,Antony hawa na boma kubwa,Boma la kina Antony ni uwanja wa ndege,0
+Antony wako na Boma kubwa sana,Antony hawa na boma kubwa,Boma la kina Antony ni kibanda,1
+"Maria huwa hana msimamo, anapelekwa tu hivi hivi","Maria huwa na msimamo, hatingiziki","Maria hana msimamo, ni bendera",0
+"Maria huwa hana msimamo, anapelekwa tu hivi hivi","Maria huwa na msimamo, hatingiziki","Maria huwa na msimamo, ni uti wa mgongo",1
+Mchuuzi hupiga kelele anapowasili,Mchuuzi huwa hapigi kelele anapowasili,Mchuuzi huwa kasuku anapowasili,0
+Mchuuzi hupiga kelele anapowasili,Mchuuzi huwa hapigi kelele anapowasili,Mchuuzi huwa usiku wa manane anapowasili,1
+Antony alilelewa awategemee wengine,Antony alilelewa asiwategemee wengine,Antony alilelewa akuwe kupe kwa wengine,0
+Antony alilelewa awategemee wengine,Antony alilelewa asiwategemee wengine,Antony alilelewa akuwe imara kama simba,1
+Jana nilikuwa nimeshikamana na vitu vingi,Jana sikuwa nimeshikamana na vitu vingi,Jana nilikuwa nimeshikamaa kama guluu,0
+Jana nilikuwa nimeshikamana na vitu vingi,Jana sikuwa nimeshikamana na vitu vingi,Jana nilikuwa nimeshikamana kama changarawe,1
+Janice alifika nyumbani akiwa na njaa sana,Janice alifika nyumbani akiwa na shibe,"Janice alipofika nyumbani, alikula kama nguruwe",0
+Janice alifika nyumbani akiwa na njaa sana,Janice alifika nyumbani akiwa na shibe,"Janice alipofika nyumbani, alikula kama mgonjwa aliyepoteza hamu",1
+Wafungwa wengi hufanyishwa kazi ngumu kama adhabu,Wafungwa wengi huwa hawana kazi ya kufanya,Wafungwa wengi hufanyishwa kazi kama punda kama adhabu,0
+Wafungwa wengi hufanyishwa kazi ngumu kama adhabu,Wafungwa wengi huwa hawana kazi ya kufanya,Wafungwa wengi hufanyishwa kazi kama paka wa nyumbani,1
+Wafisadi serekalini wataharakishwa na polisi,Wafisadi serekalini hawanyiwi kitu kamwe,Wafisadi serekalini watabebeshwa mbio kama gari la miraa,0
+Wafisadi serekalini wataharakishwa na polisi,Wafisadi serekalini hawanyiwi kitu kamwe,Wafisadi serekalini wanabebeshwa mbio kama kreti la mayai,1
+"Usifanye kazi nyingi, utachoka alafu ulale sana","Usipofanya kazi nyingi, hutachoka ulale",Usifanye kazi nyingi kisha ulale kama paka,0
+"Usifanye kazi nyingi, utachoka alafu ulale sana","Usipofanya kazi nyingi, hutachoka ulale",Alikuwa amechoka akalala kama Mamba,1
+Henry alizaliwa na miguu refu,Henry alizaliwa na miguu ndogo,Henry ana miguu mirefu kama mbuni,0
+Henry alizaliwa na miguu refu,Henry alizaliwa na miguu ndogo,henry ana miguu mirefu kama jongoo,1
+Alitushuku tukiingia na kutuangalia kwa macho kali,Hakutushuku kamwe tulipoingia na vifaa,ALipotushuku alituangalia kwa macho kali kama tai,0
+Alitushuku tukiingia na kutuangalia kwa macho kali,Hakutushuku kamwe tulipoingia na vifaa,Alikuwa na macho kali jama jongoo tulipoingia,1
+Omar alioa binti mnene na mwenye umbo zuri,Omar alioa binti mnene na mwenye hana umbo zuri,Omar alioa binti mwenye umbo zuri kama chupa,0
+Omar alioa binti mnene na mwenye umbo zuri,Omar alioa binti mnene na mwenye hana umbo zuri,Omar alioa binti mwenye umbo zuri kama nambari nane,1
+Gerad alimaliza shule akijua mengi mno,Gerad alimaliza shule na hakujua chochote,Gerad alisoma akajua mengi kama mtandao,0
+Gerad alimaliza shule akijua mengi mno,Gerad alimaliza shule na hakujua chochote,Gerad alisoma na akajua mengi kama mtoto mchanga,1
+Imani ana siri nyingi,Imani hapendi kuficha chochote,Roho ya imani ni msitu,0
+Imani ana siri nyingi,Imani hapendi kuficha chochote,Roho ya imani ni jua la mchana,1
+Onyango anapenda kupayuka maneno yasiyomhusu,Onyango huweka siri za wengine kwa moyo,Onyango ni kipaza sauti,0
+Onyango anapenda kupayuka maneno yasiyomhusu,Onyango huweka siri za wengine kwa moyo,Onyango ni mtungi wa maji,1
+Kimani alimpenda na kumbembeleza mke wake,Kimani hakumpenda mke wake,Kimani alimdekeza mpenzi wake kama yai,0
+Kimani alimpenda na kumbembeleza mke wake,Kimani hakumpenda mke wake,Kimani alimdekeza mpenzi wake kama punda,1
+Alichelewa akapata ukumbi umejaa,ALifika mapema akakosa mtu ukumbini,Alipata ukumbi umejaa kama laini ya kupiga kura,0
+Alichelewa akapata ukumbi umejaa,ALifika mapema akakosa mtu ukumbini,Alipata ukumbi umejaa kama jangwa,1
+Rossie alikuwa mjeuri kwa ushauri,Rossie alikuwa mtiifu kwa ushauri,Rossie alikuwa mjeuri kama mtoto aliyekataa kula,0
+Rossie alikuwa mjeuri kwa ushauri,Rossie alikuwa mtiifu kwa ushauri,Rossie alikuwa mjeuri kama mtundu aliyeitiwa chakula,1
+"Siku yake ya kubatizwa, alivalia rinda jeupe",Hakuvalia rinda jeusi siku yake ya kubatizwa,Alivalia rinda jeupe kama mawingu siku yake ya kubatizwa,0
+"Siku yake ya kubatizwa, alivalia rinda jeupe",Hakuvalia rinda jeusi siku yake ya kubatizwa,Alivalia rinda jeupe kama makaa siku yake ya kubatizwa,1
+Bibi ya John aliraukia kazini,Bibi ya John alichelewa kazini,Bibi ya John alirauka mapema kama jimbi kuenda kazini,0
+Bibi ya John aliraukia kazini,Bibi ya John alichelewa kazini,Bibi ya John alirauka mapema kama kuku mgonjwa kuenda kazini,1
+Viatu vya Leah vinapendeza mno,Viatu vya Leah havipendezi kabisa,Leah ana viatu maridadi kama almasi,0
+Viatu vya Leah vinapendeza mno,Viatu vya Leah havipendezi kabisa,Leah ana viatu maridadi kama makaa,1
+"Mke wake hapendi kelele, anapenda kubembelezwa",Mke wake anapenda kelele na kuvurugwa,"Mke wake hapendi kelele, anapenda kubembelezwa kama mtoto",0
+"Mke wake hapendi kelele, anapenda kubembelezwa",Mke wake anapenda kelele na kuvurugwa,"Mke wake hapendi kelele, anapenda kubembelezwa kama mfungwa",1
+Ombi lake la kazi lilikawia mno,Ombi lake la kazi halikukawia kamwe,Ombi lake la kazi lilichukuwa muda kama ahadi za serikali,0
+Ombi lake la kazi lilikawia mno,Ombi lake la kazi halikukawia kamwe,Ombi lake la kazi lilichukuwa muda kama mngurumo wa radi,1
+Walimvamia mwizi Gikomba alipojulikana,Hawakumfanyia mziwi chochote walipomshika,Walimvamia mwizi kama mvua Gikomba alipokamatwa,0
+Walimvamia mwizi Gikomba alipojulikana,Hawakumfanyia mziwi chochote walipomshika,Walimvamia mwizi kama vipepeo walipomshika,1
+Alianguka akaumia vibaya,Alianguka lakini hakuumia,Aliumia kama mwizi aliyepigwa na umati,0
+Alianguka akaumia vibaya,Alianguka lakini hakuumia,Aliumia kama mja aliyeumwa na mbu,1
+Muwe wa sofia ni katili,Mume wa Sofia ni mkarimu,Mume wa Sofia ni Katili kama muasi,0
+Muwe wa sofia ni katili,Mume wa Sofia ni mkarimu,Mume wa sofia ni Katili kama jongoo,1
+Alituletea mtoto aliyetusumbua usiku kucha,Alituletea mtoto mtulivu mno,Alituletea mtoto msumbufu kama nyani,0
+Alituletea mtoto aliyetusumbua usiku kucha,Alituletea mtoto mtulivu mno,Alituletea mtoto msumbufu kama maiti,1
+Nilipenda kuzurura sana ututoni mwangu,Sikupenda kuzurura utotoni mwangu,Nikiwa mtoto nilipenda kuzurura kama mbwakoko,0
+Nilipenda kuzurura sana ututoni mwangu,Sikupenda kuzurura utotoni mwangu,Nikiwa mtoto nilipenda kuzurura kama milima,1
+Ilimbidi awajibike alipopata mtoto,Alishindwa kuwajibika hata alipopata mtoto,"Alipojifungua, alianza kuwajibika kama mwanafunzi anayekalia mtihani wa kitaifa",0
+Ilimbidi awajibike alipopata mtoto,Alishindwa kuwajibika hata alipopata mtoto,"Alipojifungua, alianza kuwajibika kama chokoraa mapipani",1
+Ungonjwa ulimdhaifisha,"Ingawa alikuwa mgonjwa, alijitahidi kazini","Alipogonjeka, alianza kuwa mdhaifu kama barafu iliyowekwa kwa jua",0
+Ungonjwa ulimdhaifisha,"Ingawa alikuwa mgonjwa, alijitahidi kazini","Alipongojeka, alianza kuwa mdhaifu kama almasi",1
+Alitarajia kuishi maisha marefu,Alitarajia kuaga dunia mapema,Alitarajia kuishi maisha marefu kama  mabonde na mito,0
+Alitarajia kuishi maisha marefu,Alitarajia kuaga dunia mapema,Alitarajia kuishi maifa marefu kama nzi,1
+Janet hunipendeza usiku na mchana,Janet hunichukiza usiku na mchana,Janet ni ua la waridi,0
+Janet hunipendeza usiku na mchana,Janet hunichukiza usiku na mchana,Janet ni kiganja cha moto,1
+Ujumbe wa kifochake ulienea kwa muda mfupi,Ujumbe wa kifo chake haukufika mbali,Ujumbe wa kifo chake ulienea kama upepo,0
+Ujumbe wa kifochake ulienea kwa muda mfupi,Ujumbe wa kifo chake haukufika mbali,Ujumbe wa kifo chake ulienea kama upepo,1
+Nyumbani kwa seneta ni kuzuri mno,Nyumbani kwa seneta si kuzuri hata,Nyumbani kwa seneta ni kuzuri kama binguni,0
+Nyumbani kwa seneta ni kuzuri mno,Nyumbani kwa seneta si kuzuri hata,Nyumbani kwa seneta ni kubaya kama jehanamu,1
+Jamal ni mgumu kushawishi,Jamal ni mwepesi wa kushawishi,Jamal ni jiwe ukijaribu kumshawishi,0
+Jamal ni mgumu kushawishi,Jamal ni mwepesi wa kushawishi,Jamal ni mwepesi wa kushawishi kama upepo,1
+Ivan alikua na akarefuka sana,Ivan alikua lakini hakurefuka,Ivan ni mrefu kama twiga,0
+Ivan alikua na akarefuka sana,Ivan alikua lakini hakurefuka,Ivan ni mrefu kama kucha,1
+Maskini wa Kenya huvaa matambara,Maskini wa Kenya huvaa mavazi safi,Maskini wa Kenya huvaa matambara kama chokoraa,0
+Maskini wa Kenya huvaa matambara,Maskini wa Kenya huvaa mavazi safi,Maskini wa Kenya huvaa matambara kama mfalme,1
+Leo nje kuna kelele sana,Leo nje kuna utulivu mno,Leo nje kuna kelele kama tingtinga,0
+Leo nje kuna kelele sana,Leo nje kuna utulivu mno,Leo nje kuna kelele kama bubu,1
+Mtoto wa Jane hana uzanii,Mtoto wa Jane ana uzani mno,Mtoto wa Jane ni Mwepesi kama karatasi,0
+Mtoto wa Jane hana uzanii,Mtoto wa Jane ana uzani mno,Mtoto wa Jane ni mwepesi kama nanga,1
+Shule za Nairobi huwa na wanafunzi werevu sana,Shule za Nairobi huwa na wanafunzi wapumbavu,Watoto wa shule za Nairobi ni wembe,0
+Shule za Nairobi huwa na wanafunzi werevu sana,Shule za Nairobi huwa na wanafunzi wapumbavu,Watoto wa shule za Nairobi ni Kondoo,1
+"Maria alipopata ujauzito, tumbo lake lilinenepa","Maria alipopata ujauzito, tumbo lake halikunenepa",Tumbo la Maria lilinenepa kama sayari alipopata ujauzito,0
+"Maria alipopata ujauzito, tumbo lake lilinenepa","Maria alipopata ujauzito, tumbo lake halikunenepa",Tumbo la Maria lilinenepa kama mbegu ya pera alipopata ujauzito,1
+Mshindi wa Lotto ni tajiri hadi wa leo,Mshindi wa Lotto ashakuwa maskini,Mshindi wa Lotto ni tajiri kama rais,0
+Mshindi wa Lotto ni tajiri hadi wa leo,Mshindi wa Lotto ashakuwa maskini,Mshindi wa Lotto ashakuwa tajiri kama fundi wa viatu,1
+Mlango wa uwanja wa Kasarani ni pana mno,Mlango wa uwanja wa Kasarani si pana,Mlango wa uwanja wa Kasarani ni pana kama bahari,0
+Mlango wa uwanja wa Kasarani ni pana mno,Mlango wa uwanja wa Kasarani si pana,Mlango wa uwanja wa Kasarani ni pana kama tundu la sindano,1
+Akikasirika anakuwa na mioto sana,Akikasirika hana maneno kamwe,Akikasirika anakuwa na mioto kama mvuke,0
+Akikasirika anakuwa na mioto sana,Akikasirika hana maneno kamwe,Akikasirika anakuwa na mioto kama barafu,1
+James amepiaka sebule yake rangi nyekundu,James ameipaka sebule yake rangi nyeupe,Sebule ya James ni nyekundu kama damu,0
+James amepiaka sebule yake rangi nyekundu,James ameipaka sebule yake rangi nyeupe,Sebule ya James ni nyekundu kama maziwa,1
+Unafaa kuwa macho ndio usiibiwe Nairobi,"Si lazima uwe macho Nairobi, hakuna wezi",Unafaa uwe macho kama mlinzi wa usiku usiibiwe Nairobi,0
+Unafaa kuwa macho ndio usiibiwe Nairobi,"Si lazima uwe macho Nairobi, hakuna wezi",Unafaa uwe macho kama jongoo usiibiwe Nairobi,1
+Sherehe za wazungu huwa na vinywaji kali,Sherehe za wazungu huwa na vinywaji tamu,Sherehe za wazungu huwa na vinywaji kali kama ndimu,0
+Sherehe za wazungu huwa na vinywaji kali,Sherehe za wazungu huwa na vinywaji tamu,Sherehe za wazungu huwa na vinywaji kali kama asali,1
+Jirani yetu ni pumbavu,Jirani yetu ni mwerevu,Jirani yatu ana akili tupu kama pipa,0
+Jirani yetu ni pumbavu,Jirani yetu ni mwerevu,Jirani yetu ana akili tupu kama bahari,1
+Mapenzi yanafaa kuwa na amani kila siku,Mapenzi hayafai kuwa na amani kila siku,Mapenzi yanafaa kuwa na amani kama jua la jioni,0
+Mapenzi yanafaa kuwa na amani kila siku,Mapenzi hayafai kuwa na amani kila siku,Mapenzi yanafaa kuwa na amani kama kilabu,1
+Mbwa wa polisi ni hatari,Mbwa wa polisi si hatari,Mbwa wa polisi ni hatari kama umeme,0
+Mbwa wa polisi ni hatari,Mbwa wa polisi si hatari,Mbwa wa polisi ni hatari kama sungura,1
+Siku za krismasi zimekaribia,Siku za krismasi bado zi mbali,Siku za Krismasi zimekaribia kama jino kwa lingine,0
+Siku za krismasi zimekaribia,Siku za krismasi bado zi mbali,Siku za Krismasi zimekaribia kama jua na mwezi,1
