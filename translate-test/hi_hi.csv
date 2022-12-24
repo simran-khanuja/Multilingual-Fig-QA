@@ -1,0 +1,999 @@
+startphrase,ending1,ending2,labels
+Friendship is a fruitful tree.,Friendship is helpful.,Friendship is harmful.,0
+Friendship is a poisonous tree.,Friendship is helpful.,Friendship is harmful.,1
+Kalidas is Shekhchili of India.,Kalidas is a fool.,Kalidas is intelligent.,0
+Kalidas is the Shakespeare of India.,Kalidas is a fool.,Kalidas is intelligent.,1
+This news brought the fragrance of flowers in his heart.,Brought the news of happiness.,Brought sad news.,0
+This news pierced his heart like an arrow.,Happy news.,Brought sad news.,1
+Uday Singh is the stigma of the family.,Uday Singh degrades the family in the society.,Uday Singh takes the family to a higher status in the society.,0
+Uday Singh is the star of the family.,Uday Singh degrades the family in the society.,Uday Singh takes the family to a higher status in the society.,1
+Life is a fact.,Life is reality.,Life is a lie.,0
+life is a Dream.,Life is reality.,Life is a lie.,1
+Life is not a hedge of thorns.,There are also happiness in life.,Sorrows also come in life.,0
+life is not a bed of roses.,There are also happiness in life.,Sorrows also come in life.,1
+Revenge is a kind of civilized justice.,Revenge is good.,Revenge is not good.,0
+Revenge is a kind of wild justice.,Revenge is good.,Revenge is not good.,1
+Childhood is the darkness of life.,Childhood is a difficult time in life.,Childhood is the best of life.,0
+Childhood is the dawn of life.,Childhood is a difficult time in life.,Childhood is the best of life.,1
+He is busy in inspiration these days.,He's doing a great job.,He is stealing work.,0
+He is busy in idleness these days.,He's doing a great job.,He is stealing work.,1
+It is an open book.,Everyone knows that he is a good person.,No one knows whether he is good or not.,0
+It is a hidden secret.,Everyone knows that he is a good person.,No one knows whether he is good or not.,1
+Life is a sweet bitter gourd.,Life is good.,life is bad,0
+Life is sweet Gulkand.,Life is good.,life is bad,1
+His anger is like a block of ice.,his temper quickly subsides.,He gets angry a lot.,0
+His anger is like the edge of a knife.,his temper quickly subsides.,He gets angry a lot.,1
+The boy is thin as a stick.,The boy is very thin.,The boy is very fat.,0
+The boy is as round as a football.,The boy is very thin.,The boy is very fat.,1
+Rohan's love is like sweet berries.,Rohan's love is true.,Rohan's love is false.,0
+Rohan's love is like a bitter brinjal.,Rohan's love is true.,Rohan's love is false.,1
+He is the rat of his group.,He is the most timid of the group.,He is the most fearless of the group.,0
+He is the elephant of his group.,He is the most timid of the group.,He is the most fearless of the group.,1
+It is as straight as a scale.,He is innocent.,He is the driver.,0
+He is as straight as a jalebi.,He is innocent.,He is the driver.,1
+Life is a village street.,Life is very short.,Life is very long.,0
+Life is a national highway.,Life is very short.,Life is very long.,1
+His eyes were of stone.,He could not understand his ability.,He could understand his capability.,0
+His eyes were of diamonds.,He could not understand his ability.,He could understand his capability.,1
+He is a falling star.,His luck was not good.,He had very good luck.,0
+He is a shining star.,His luck was not good.,He had very good luck.,1
+His skirt is like a black blanket.,He is characterless.,He is innocent.,0
+His skirt is like a white sheet.,He is characterless.,He is innocent.,1
+His eyes are like those of a bird.,His thinking is small.,He thinks far away.,0
+His eyes are like eagles.,His thinking is small.,He thinks far away.,1
+He is as docile as a goat.,he is weak.,he is brave.,0
+He roars like a lion.,he is weak.,he is brave.,1
+His physique is like a field.,His body is small.,His body is huge.,0
+His physique is like a mountain.,His body is small.,His body is huge.,1
+Strong like a cow.,He is gentle.,He is strict.,0
+Strong like a bull.,He is gentle.,He is strict.,1
+The man was behaving like ice cold.,That man was very cool.,The man was very angry.,0
+The man was behaving like boiled water.,That man was very cool.,The man was very angry.,1
+Precious as an angel.,Very beautiful,Very ugly.,0
+Precious as a witch.,Very beautiful,Very ugly.,1
+Ramdin's face is like coal.,Ramdin is a lot of art.,Ramdin is very fair.,0
+Ramdin's face is like a pearl.,Ramdin is a lot of art.,Ramdin is very fair.,1
+His mind was as cold as ice.,He was very calm.,He was quiet for a while.,0
+His mind was as cold as sand.,He was very calm.,He was quiet for a while.,1
+Virat is agile like a tortoise.,Virat is lethargic.,Virat is fast.,0
+Virat is agile like a leopard.,Virat is lethargic.,Virat is fast.,1
+Mahesh runs the shop like a goat.,Mahesh runs the shop decently.,Mahesh runs the shop fraudulently.,0
+Mahesh runs the shop like a fox.,Mahesh runs the shop decently.,Mahesh runs the shop fraudulently.,1
+The expression on his face was like the sun.,Anger was clearly visible on his face.,Patience was clearly visible on his face.,0
+The expression on his face was like that of the moon.,Anger was clearly visible on his face.,Patience was clearly visible on his face.,1
+My wife is busy as a snail in the mornings.,My wife is very lazy at work.,My wife is very fast at work.,0
+My wife is as busy as a bee in the mornings.,My wife is very lazy at work.,My wife is very fast at work.,1
+The maid has cleaned the hall with white sheets.,The maid cleaned everything well.,The maid didn't clean everything properly.,0
+The maid has cleaned the hall like a black sheet.,The maid cleaned everything well.,The maid didn't clean everything properly.,1
+Your coat is like grass.,Your coat is not very nice.,Your coat is very nice.,0
+Your coat is like velvet.,Your coat is not very nice.,Your coat is very nice.,1
+Rakesh's mind is as sharp as a stone.,Rakesh's mind is very slow.,Rakesh's mind is very sharp.,0
+Rakesh's mind is as sharp as a razor.,Rakesh's mind is very slow.,Rakesh's mind is very sharp.,1
+His voice is like a torn bamboo.,His voice is very bad.,His voice is very sweet.,0
+His voice is like that of a cuckoo.,His voice is very bad.,His voice is very sweet.,1
+"As soon as he got the job, his face became as white as light.",He is happy to work.,He is reluctant to work.,0
+His face turned ghostly white as soon as he got the job.,He is happy to work.,He is reluctant to work.,1
+Hearty is as fresh as the rising moon.,He is very agile.,he is very tired.,0
+Hearty is as fresh as the rising sun.,He is very agile.,he is very tired.,1
+He stood like a rubber while taking lectures.,He was full of faith.,He was very nervous.,0
+He stood like a board while taking lectures.,He was full of faith.,He was very nervous.,1
+"Hearing the news of posting, he started dancing like a mad bull.",He was deeply saddened by the news of posting.,He was very happy with the news of posting.,0
+"Hearing the news of posting, he started dancing like a peacock.",He was deeply saddened by the news of posting.,He was very happy with the news of posting.,1
+The encouragement he gave was like a bulldozer.,The encouragement given by him was very effective.,The encouragement given by him was not effective.,0
+The encouragement he gave was like a gust of wind.,The encouragement given by him was very effective.,The encouragement given by him was not effective.,1
+A teenager is like a lamb.,Kishore is very innocent.,Kishore is very clever.,0
+Kishore is like a wolf.,Kishore is very innocent.,Kishore is very clever.,1
+She looks bright like a fire!,She seems very hard hearted.,She seems very soft hearted.,0
+She shines bright like a diamond!,She seems very hard hearted.,She seems very soft hearted.,1
+He's as strong as a boxer kid.,That boxer is weak.,That boxer is very strong.,0
+He is as strong as the boxer Bhima.,That boxer is weak.,That boxer is very strong.,1
+My life is like heaven.,My life is full of happiness.,My life is full of sorrows.,0
+My life is like hell.,My life is full of happiness.,My life is full of sorrows.,1
+The moneylender's heart is like the skin of a crocodile.,The moneylender is very cruel.,The moneylender is very kind.,0
+The moneylender's heart is like the skin of a rabbit.,The moneylender is very cruel.,The moneylender is very kind.,1
+Getting Radha is as easy as plucking a guava.,It is very easy to get Radha.,It is very difficult to get Radha.,0
+Getting Radha is as easy as breaking the moon.,It is very easy to get Radha.,It is very difficult to get Radha.,1
+She is as happy as a woman who has just become a bride.,He is really very happy.,He is really sad.,0
+She is as happy as a woman who has just become a widow.,He is really very happy.,He is really sad.,1
+Raj is as straight as a snake.,Raj is a very crooked person.,Raj is a very straight man.,0
+Raj is as straight as a pencil.,Raj is a very crooked person.,Raj is a very straight man.,1
+The play is as deep as a well.,A very deep meaning has been shown in the play.,"In the drama, only the superficial show is shown.",0
+There is an abyss in the play.,A very deep meaning has been shown in the play.,"In the drama, only the superficial show is shown.",1
+Gentle as an eagle is wise.,Komal is very intelligent.,Komal is very stupid.,0
+As wise as the gentle owl.,Komal is very intelligent.,Komal is very stupid.,1
+The water of the river is as clear as mud.,The water of the river is very dirty.,The water of the river is very clean.,0
+The water of the river is as clear as crystal.,The water of the river is very dirty.,The water of the river is very clean.,1
+His voice is as soft as a sackcloth.,His voice is very hoarse.,His voice is very sweet.,0
+His voice is as soft as silk.,His voice is very hoarse.,His voice is very sweet.,1
+There is strength like titanium in his words.,His promises can be believed.,His promises cannot be trusted.,0
+His words have the power of glass.,His promises can be believed.,His promises cannot be trusted.,1
+Their kiss is as passionate as the marriage of lovers.,Their kisses are demonstrative and intense.,Their kiss is soulless.,0
+Their kiss is as passionate as a loveless marriage.,Their kisses are demonstrative and intense.,Their kiss is soulless.,1
+This winter is as cold as my mother-in-law is towards me.,it's too cold.,It's very hot.,0
+This winter is as cold as my afternoon bunk.,it's too cold.,It's very hot.,1
+The dog was as angry as an old man.,He was very angry.,That was great.,0
+The dog was as angry as a nursery teacher.,He was very angry.,That was great.,1
+The journey was as long as a lifetime.,the trip was too long,The journey was very short.,0
+The journey was as long as the blink of an eye.,the trip was too long,The journey was very short.,1
+He has the property of a king.,she is rich.,He is poor.,0
+He has the property of a beggar.,she is rich.,He is poor.,1
+The cool smell of the river bank is coming from it.,It is very aromatic.,It's very stinky.,0
+"Due to this, there is a foul smell coming from the drain.",It is very aromatic.,It's very stinky.,1
+Conversation is like a bank vault.,Conversation is worthwhile.,Conversation is futile.,0
+Conversation is like a freebie coupon.,Conversation is worthwhile.,Conversation is futile.,1
+Rohan made Sanjay's face look like a watermelon.,Rohan flattened Sanjay's face by hitting him.,Rohan beat Sanjay's face and made it swollen.,0
+Rohan turned Sanjay's face like a griddle.,Rohan flattened Sanjay's face by hitting him.,Rohan beat Sanjay's face and made it swollen.,1
+More money is like a friend.,More money is better.,Too much money is bad.,0
+Too much money is like an enemy.,More money is better.,Too much money is bad.,1
+Conversation with him was like Ramayana.,The conversation was good.,The conversation was bad.,0
+Conversation with him was like Mahabharata.,The conversation was good.,The conversation was good.,1
+The last sea voyage turned out like butter.,The previous sea voyage was very easy.,The previous sea voyage was very difficult.,0
+The last sea voyage turned out to be a hilly road.,The previous sea voyage was very easy.,The previous sea voyage was very difficult.,1
+The schoolboy helped like medicine.,The student brought a long relief.,The student just brought a moment's relief.,0
+School student helped like wine.,The student brought a long relief.,The student just brought a moment's relief.,1
+The relationship between these two is like the cold ice of Kashmir.,There is no love in their relationship.,There is warmth of love in their relationship.,0
+The relationship between these two is like the hot sand of the desert.,There is no love in their relationship.,There is warmth of love in their relationship.,1
+Traveling in the journey will be like walking in fire.,The journey will be very difficult.,The journey will be very pleasant.,0
+Traveling in the journey will be like walking in flowers.,The journey will be very difficult.,The journey will be very pleasant.,1
+For him making money was oxygen.,Earning money kept him alive.,Making money was killing him.,0
+For him earning money was a noose around his neck.,Earning money kept him alive.,Making money was killing him.,1
+That speaker was speaking like running water.,The speaker was very quiet.,The speaker was very enthusiastic.,0
+The speaker was speaking like a storm.,The speaker was very quiet.,The speaker was very enthusiastic.,1
+Komal's cheeks lit up like fire.,Komal got very angry.,Komal blushed.,0
+Komal's cheeks blossomed like roses.,Komal got very angry.,Komal blushed.,1
+That trip planner was a fraud.,Trip planner ruined the whole trip.,The trip planner made the whole trip great.,0
+He was a trip planner wizard.,Trip planner ruined the whole trip.,The trip planner made the whole trip great.,1
+The dancer danced like a butterfly.,The dance of the dancer was very beautiful.,The dance of the dancer was very rubbish.,0
+The dancer danced like an elephant.,The dance of the dancer was very beautiful.,The dance of the dancer was very rubbish.,1
+The burger tastes like mother's hands.,Burger is very tasty.,Burger is very tasteless.,0
+The burger tastes like the hands of a washerman.,Burger is very tasty.,Burger is very tasteless.,1
+There was a desire for life in the picture.,Happiness was visible in the picture.,There was a glimpse of sorrows in the picture.,0
+There was a death wish in the picture.,Happiness was visible in the picture.,There was a glimpse of sorrows in the picture.,1
+The child was religious like a priest.,The child was very religious.,The child was not religious at all.,0
+The child was religious like a demon.,The child was very religious.,The child was not religious at all.,1
+The lady was as kind as a teacher.,The lady was kind.,The woman was cruel.,0
+The woman was as kind as a prisoner.,The lady was kind.,The woman was cruel.,1
+The test was as easy as making tea.,The exam was easy.,The exam was tough.,0
+The test was as easy as building a rocket.,The exam was easy.,The exam was tough.,1
+Players should be like gold.,Players should not need practice.,Players need rigorous practice.,0
+Players should be like diamonds.,Players should not need practice.,Players need rigorous practice.,1
+Masterji teaches like sweet water.,Masterji teaches with love.,Masterji teaches with anger.,0
+Masterji teaches like bitter water.,Masterji teaches with love.,Masterji teaches with anger.,1
+The hotel bed was like cotton.,The hotel bed was soft.,The hotel bed was hard.,0
+The hotel bed was like a rag.,The hotel bed was soft.,The hotel bed was hard.,1
+Life flows like the waters of a calm lake.,Life passes easily.,Life is full of difficulties.,0
+Life flows like ocean waves.,Life passes easily.,Life is full of difficulties.,1
+The actors of the drama were like mice playing cat.,The performance of the actors in the play was very poor.,The performance of the cast of the play was very good.,0
+It was as if the actors of the drama were weaving a dream.,The performance of the actors in the play was very poor.,The performance of the cast of the play was very good.,1
+The girl's personality was as sweet as grapes.,The personality of the girl was very rude.,The personality of the girl was lovely.,0
+The girl's personality was as sweet as Gulab Jamun,The personality of the girl was very rude.,The personality of the girl was lovely.,1
+The film had the teachings of the Guru.,The film was full of goodness.,The film was full of evil.,0
+The film had the teachings of the devil.,The film was full of goodness.,The film was full of evil.,1
+The sound of the flute was as smooth as silk.,The sound of the flute was very sweet.,The sound of the flute is very dissonant.,0
+The sound of the flute was as smooth as the road.,The sound of the flute was very sweet.,The sound of the flute is very dissonant.,1
+The intoxication made him feel death.,Drunk made him feel sad.,He felt happy because of the intoxication.,0
+The intoxication made him feel alive.,Drunk made him feel sad.,He felt happy because of the intoxication.,1
+His heart was as big as a football field.,The heart was huge.,The heart was too small.,0
+His heart was as big as the houses in the cities.,The heart was huge.,The heart was too small.,1
+Was sent from the horse at his feet.,He used to run very fast.,He didn't run very fast.,0
+He was as quick as a donkey.,He used to run very fast.,He didn't run very fast.,1
+The street light was brighter than the sun.,The street light was too bright.,There was very little light from the street lights.,0
+The street light was brighter than a candle.,The street light was too bright.,There was very little light from the street lights.,1
+There was a place like a man's purse in the hotel.,There was very little space in the hotel.,There was a lot of space in the hotel.,0
+There was a place like a woman's purse in the hotel.,There was very little space in the hotel.,There was a lot of space in the hotel.,1
+The doctor looks at his patient like Ram.,The doctor treats the patient well.,The doctor does not behave well with the patient.,0
+The doctor looks at his patient like Ravana.,The doctor treats the patient well.,The doctor does not behave well with the patient.,1
+The sound of breaking glass bottles in the room was like an atomic bomb.,The sound of breaking the bottle was loud.,The sound of breaking the bottle was very useful.,0
+The sound of a glass bottle breaking in the room was like a twine bomb.,The sound of breaking the bottle was loud.,The sound of breaking the bottle was very useful.,1
+The doctor has asked to eat dinner like a rat.,The doctor has asked to eat a lot of work at night.,The doctor has told me to eat too much at night.,0
+The doctor has asked to eat dinner like an elephant.,The doctor has asked to eat a lot of work at night.,The doctor has told me to eat too much at night.,1
+The armor was as hard as iron.,The armor was very strong.,The armor was very weak.,0
+The armor was as hard as glass.,The armor was very strong.,The armor was very weak.,1
+He takes care of his toys like a wild lion.,He doesn't take care of his toys at all.,He takes great care of his toys.,0
+He takes care of his toy like a pet dog.,He doesn't take care of his toys at all.,He takes great care of his toys.,1
+The lawyer talked about the settlement like a man bargaining with a shopkeeper.,The lawyer talked about the settlement in detail and better.,The lawyer made small and bad talk of settlement.,0
+The lawyer talked about the settlement like bargaining with a woman's shopkeeper.,The lawyer talked about the settlement in detail and better.,The lawyer made small and bad talk of settlement.,1
+The glass jug broke and scattered like a spider's web.,The glass jug broke into many pieces.,The glass jug broke into two pieces.,0
+The glass jug broke and shattered like a half moon.,The glass jug broke into many pieces.,The glass jug broke into two pieces.,1
+The new building of the city was like the peak of Everest.,The new building of the city was huge.,The new building of the city was very small.,0
+The new building of the city was like a bird's nest.,The new building of the city was huge.,The new building of the city was very small.,1
+Roshan had the qualities of a deity.,Roshan was a very nice person.,Roshan was a very dirty person.,0
+Roshan had the characteristics of a demon.,Roshan was a very nice person.,Roshan was a very dirty person.,1
+Rishabh was clever like a fox.,Rishabh was very clever.,Rishabh was very naive.,0
+Rishabh was clever like a goat.,Rishabh was very clever.,Rishabh was very naive.,1
+There is humor like a cremation ground in that film.,Negative thinking has been shown in the film.,Positive thinking has been shown in the film.,0
+There is humor like a zoo in that movie.,Negative thinking has been shown in the film.,Positive thinking has been shown in the film.,1
+That man is as stubborn as a mule.,It is difficult to change his decision.,It is not so difficult to change his decision.,0
+That man is stubborn like wax.,It is difficult to change his decision.,It is not so difficult to change his decision.,1
+"Seeing his friends silent like a silent movie, he understood that something was wrong.",His friends were making some diabolical plans.,His friends were deep in thought.,0
+"Seeing his friends as silent as graves, he understood that something was wrong.",His friends were making some diabolical plans.,His friends were deep in thought.,1
+This shawl is as light as a sack.,This year is made of very thin thread.,This year is made of very thick thread.,0
+This shawl is light as a feather.,This year is made of very thin thread.,This year is made of very thick thread.,1
+His grandmother's love story was as old as the mobile.,His grandmother's love stories were very old.,His grandmother's love stories were not very old.,0
+Her grandmother's love story was as old as the hills.,His grandmother's love stories were very old.,His grandmother's love stories were not very old.,1
+"You can count on him, he's straight as an arrow.",He is trustworthy.,He is not trustworthy at all.,0
+"You can trust him, he's as straight as a wheel.",He is trustworthy.,He is not trustworthy at all.,1
+She eats like a bird.,She eats very little food.,She eats a lot of food.,0
+She eats like a pig.,She eats very little food.,She eats a lot of food.,1
+She ran like a tortoise in the race.,She ran very slowly in the race.,She ran very fast in the race.,0
+She ran like lightning in the race.,She ran very slowly in the race.,She ran very fast in the race.,1
+He looks like a lion in the jungle.,He remains very confident.,He is very scared.,0
+He looks like a fish out of water.,He remains very confident.,He is very scared.,1
+Radha fell asleep like a bubbly baby.,Radha was very tired.,Radha was in a lot of fun.,0
+Radha fell asleep like a log.,Radha was very tired.,Radha was in a lot of fun.,1
+This carpet was as soft as the skin of a crocodile.,The carpet was very hard.,The carpet was very soft.,0
+The carpet was as soft as the skin of a rabbit.,The carpet was very hard.,The carpet was very soft.,1
+Swimming can be learned like a wild trail.,Swimming is very difficult.,Swimming is very easy.,0
+Swimming can be learned like a village trail.,Swimming is very difficult.,Swimming is very easy.,1
+The filth of his mind was removed from the sieve like soil.,The evil that was in his mind came out.,There was no evil in his mind.,0
+The dirt of his mind came out like sugar through a sieve.,The evil that was in his mind came out.,There was no evil in his mind.,1
+It cuts like leather.,It is very strict.,It's very soft.,0
+It cuts like butter.,It is very strict.,It's very soft.,1
+The airplane flew like a bird.,The plane flew very high.,The airplane could not fly very high.,0
+The airplane flew like an eagle.,The plane flew very high.,The airplane could not fly very high.,1
+The shark's teeth were like spoons.,Shark teeth were not sharp.,The shark's teeth were sharp.,0
+Shark teeth were like razors.,Shark teeth were not sharp.,The shark's teeth were sharp.,1
+The police inspector was as gentle as a wolf.,The police inspector was a bribe taker.,The police inspector was not a bribe taker.,0
+The police inspector was as gentle as a cow.,The police inspector was a bribe taker.,The police inspector was not a bribe taker.,1
+The questions of the news reporter were as fast as a rickshaw.,The news reporter was very lax.,The news reporter was very quick.,0
+The questions of the news reporter were as sharp as a whip.,The news reporter was very lax.,The news reporter was very quick.,1
+The bank manager is sleeping like a snake.,The bank manager has handled the bank very well.,The bank manager does not know how to run a bank.,0
+The bank manager is sleeping like a dog.,The bank manager has handled the bank very well.,The bank manager does not know how to run a bank.,1
+Rahul's TV was as big as a mouse.,Rahul's TV was very big.,Rahul's TV was very small.,0
+Rahul's TV was as big as an elephant.,Rahul's TV was very big.,Rahul's TV was very small.,1
+The moneylender's heart is like an ant in spending money.,The moneylender is very stingy.,The moneylender is very open hearted.,0
+The moneylender's heart is like a tree in spending money.,The moneylender is very stingy.,The moneylender is very open hearted.,1
+The teacher is hard as a coconut.,The teachers are strict on the outside but good at heart.,The teachers are very nice from outside as well as from heart.,0
+The teacher is strict as usual.,The teachers are strict on the outside but good at heart.,The teachers are very nice from outside as well as from heart.,1
+His wife stings Rahim like an old sheet.,Rahim has no problem with his wife.,Rahim is very fed up with his wife.,0
+His wife now stings Rahim like an old boot.,Rahim has no problem with his wife.,Rahim is very fed up with his wife.,1
+Raju is as good as iron.,Raju is not very good.,Raju is very nice.,0
+Raju is good as gold.,Raju is not very good.,Raju is very nice.,1
+His thinking is like that of a young boy.,His mind can be changed.,His mind cannot be changed.,0
+Her thinking is like that of an old woman.,His mind can be changed.,His mind cannot be changed.,1
+The car is as clear as tap water.,The car is very well cleaned.,The car is not very well cleaned.,0
+The car is as clear as spring water.,The car is very well cleaned.,The car is not very well cleaned.,1
+Painting is like watching a romantic movie.,It feels great to paint.,Painting is very boring.,0
+Painting is like watching an art film.,It feels great to paint.,Painting is very boring.,1
+Looks like Sharma ji is as busy as the gatekeeper of a museum.,Sharma ji does not have much work.,Sharma ji there is a lot of work.,0
+Looks like Sharma ji is as busy as the Prime Minister.,Sharma ji does not have much work.,Sharma ji there is a lot of work.,1
+Shankar is driving the car like Rajdhani.,Shankar is driving the car very fast.,Shankar is driving the car very slowly.,0
+Shankar is driving the car like a goods train.,Shankar is driving the car very fast.,Shankar is driving the car very slowly.,1
+Savita is looking like a ball of fire in this movie.,Savita is looking very attractive in this movie.,Savita is not looking attractive at all in this movie.,0
+Savita is looking like a snow ball in this movie.,Savita is looking very attractive in this movie.,Savita is not looking attractive at all in this movie.,1
+Sheela comes to school with green chillies in her mouth.,Sheela talks a lot in school.,Sheela hardly speaks in school.,0
+Sheela comes to school with curd in her mouth.,Sheela talks a lot in school.,Sheela hardly speaks in school.,1
+"Seeing the officer, Shamlal hides in the hole like a rat.",Shamlal is very scared of the officer.,Shamlal keeps trying to please the officer.,0
+They buzz like a bee on seeing a female officer.,Shamlal is very scared of the officer.,Shamlal keeps trying to please the officer.,1
+Radha became like a cat in debate.,Radha spoke very well in the debate.,Radha could not speak anything in the debate.,0
+Radha became like a pillar in the debate.,Radha spoke very well in the debate.,Radha could not speak anything in the debate.,1
+Studying is like eating cake.,Studying is very easy.,Studying is very difficult.,0
+Studying is like climbing a mountain.,Studying is very easy.,Studying is very difficult.,1
+The box is as light as a large tree.,The box is too heavy.,The box is very light.,0
+The box is as light as a dry leaf.,The box is too heavy.,The box is very light.,1
+His speech is like a pearl.,His speech is very clear and sweet.,His speech is very dirty and incoherent.,0
+His speech is like a snake.,His speech is very clear and sweet.,His speech is very dirty and incoherent.,1
+Riding a bicycle is as easy as fighting an elephant.,Cycling is very difficult.,Cycling is very easy.,0
+Cycling is as simple as ABC's.,Cycling is very difficult.,Cycling is very easy.,1
+He keeps his room as clean as a bird.,He keeps his room very clean.,He keeps his room very dirty.,0
+He keeps his room as clean as a pig.,He keeps his room very clean.,He keeps his room very dirty.,1
+"Seeing the result of the examination, he became a singer like Himesh.",He was very happy to see the result of the examination.,He was very sad to see the result of the examination.,0
+"Seeing the result of the examination, he became silent like a grave.",He was very happy to see the result of the examination.,He was very sad to see the result of the examination.,1
+The floor was like a bear skin.,The floor was not clean at all.,The floor was spotlessly clean.,0
+The floor was like a fish skin.,The floor was not clean at all.,The floor was spotlessly clean.,1
+There was a delicious dish like brinjal.,The food was not good at all.,The cuisine was very good.,0
+The dish was as delicious as jaggery.,The food was not good at all.,The cuisine was very good.,1
+The fabric was soft to the old man's hands.,The fabric was not soft.,The fabric was very soft.,0
+The fabric was soft to the baby's hands.,The fabric was not soft.,The fabric was very soft.,1
+The atmosphere of the school was as calm as a forest.,The atmosphere of the school was not peaceful at all.,The atmosphere of the school was very calm.,0
+The atmosphere of the school was as calm as a garden.,The atmosphere of the school was not peaceful at all.,The atmosphere of the school was very calm.,1
+We are standing on a solid ground like an earthen pot.,We stand on shaky ground.,We are standing on firm ground.,0
+We stand on ground as solid as diamonds.,We stand on shaky ground.,We are standing on firm ground.,1
+The juice is sour like mango.,The juice is great.,Juice is not very good.,0
+The juice is sour like vinegar.,The juice is great.,Juice is not very good.,1
+The teacher's cane is as hard as a mattress.,The teacher's cane is not very strict.,The teacher's cane is more severe.,0
+Teacher's cane is as hard as a board.,The teacher's cane is not very strict.,The teacher's cane is more severe.,1
+His shot goes as far as a gun.,He thinks far away.,He doesn't think far.,0
+His shot goes as far as a slingshot.,He thinks far away.,He doesn't think far.,1
+The wind was as soft as a frog.,The wind was strong.,The wind was gentle.,0
+The wind was as soft as a butterfly.,The wind was strong.,The wind was gentle.,1
+She started dancing like a lion.,She got angry.,She became very happy.,0
+She started dancing like a peacock.,She got angry.,She became very happy.,1
+His colored sheet got stained.,He was accused of taint.,His decency was accused.,0
+His white sheet got stained.,He was accused of taint.,His decency was accused.,1
+Your hands are as cold as Rajasthan.,Your hands are not cold.,Your hands are very cold.,0
+Your hands are as cold as the arctic.,Your hands are not cold.,Your hands are very cold.,1
+His mind is like a rural bank.,Your mind is very weak.,Your mind is very sharp.,0
+His mind is like a world bank.,Your mind is very weak.,Your mind is very sharp.,1
+Asha ji's singing is worth crores of rupees.,People like Asha ji's singing very much.,People like Asha ji's singing very much.,0
+Asha ji's singing is worth a penny.,People like Asha ji's singing very much.,People do not like Asha ji's singing very much.,1
+His eyes are as sharp as those of a bird.,His eyes are not very sharp.,His eyes are very sharp.,0
+His eyes are sharp like an eagle.,His eyes are not very sharp.,His eyes are very sharp.,1
+It was moist like the morning sun.,She was not happy.,She was happy.,0
+It was moist like the morning dew.,She was not happy.,She was happy.,1
+He was lost like a panther.,He was separated from his loved ones but was not scared.,He was scared of being separated from his loved ones.,0
+He was lost like a sheep.,He was separated from his loved ones but was not scared.,He was scared of being separated from his loved ones.,1
+He has worked hard like a thief to build his house.,He has looted others to build his house.,He has built his house with great effort.,0
+He has worked hard like an ant to build his house.,He has looted others to build his house.,He has built his house with great effort.,1
+Rashi used to treat her friend like a rose.,Rashi used to live very lovingly with her friend.,Rashi used to live very bitterly with her friend.,0
+Rashi used to behave like a cactus with her friend.,Rashi used to live very lovingly with her friend.,Rashi used to live very bitterly with her friend.,1
+"Seeing the lollipop, Rohan wags his tail like a lion.",Rohan decides to splash out for the lollipop.,Rohan decides to ask lovingly for the lollipop.,0
+Rohan wagged his tail like a puppy seeing the lollipop.,Rohan decides to splash out for the lollipop.,Rohan decides to ask lovingly for the lollipop.,1
+The children were as happy as a mouse to get fresh soil in the playground.,The children's playground was bad but they could not do anything.,"The children's playground had become nice, so they were happy.",0
+The children were as happy as pigs to get fresh soil in the playground.,The children's playground was bad but they could not do anything.,"The children's playground had become nice, so they were happy.",1
+The thief was looking like a phantom in his dress.,The thief looked very smart.,The thief was looking very stupid.,0
+The thief was looking like a clown in his dress.,The thief looked very smart.,The thief was looking very stupid.,1
+She was looking like Sambhar.,She was looking very bubbly.,She was looking very cool.,0
+She was looking like Rasmalai.,She was looking very bubbly.,She was looking very cool.,1
+She was looking like the moon.,She was looking very fair.,She was looking very dark.,0
+She was looking like a griddle.,She was looking very fair.,She was looking very dark.,1
+His teeth were as white as gold.,His teeth were not clean.,His teeth were clean.,0
+His teeth were as white as pearls.,His teeth were not clean.,His teeth were clean.,1
+She moved forward with the gait of a lion.,She stepped forward with confidence.,She moved ahead with confidence.,0
+She moved ahead with the gait of a peacock.,She stepped forward with confidence.,She moved ahead with confidence.,1
+She broke like a huge branch from a tree in a windstorm.,She fought with difficulties for a long time.,She was quickly defeated by the difficulties.,0
+She broke like leaves from a tree in a windstorm.,She fought with difficulties for a long time.,She was quickly defeated by the difficulties.,1
+Rakesh is innocent like a vulture.,Rakesh is very clever.,Rakesh is very polite.,0
+Rakesh is innocent like a lamb.,Rakesh is very clever.,Rakesh is very polite.,1
+Mother's heart is as tough as fingers.,Mother's heart is very soft.,Mother's heart is very hard.,0
+Mother's heart is as hard as nails.,Mother's heart is very soft.,Mother's heart is very hard.,1
+His shop was shining like new iron.,His shop was very well decorated.,His shop was decorated very dirty.,0
+His shop was shining like new gold.,His shop was very well decorated.,His shop was decorated very dirty.,1
+Kishore's voice is as sweet as an orange.,There is no fun in Kishore's voice.,There is sweetness in Kishore's voice.,0
+Kishore's voice is as sweet as sugar.,There is no fun in Kishore's voice.,There is sweetness in Kishore's voice.,1
+Looks like a pond,You are looking very beautiful.,You look very ugly.,0
+Looks like mud,You are looking very beautiful.,You look very ugly.,1
+His neck is long like a pigeon.,His neck is too short.,His neck is very long.,0
+His neck is as long as a giraffe.,His neck is too short.,His neck is very long.,1
+Homework is as light as the bus.,Homework is too much.,Homework is very less.,0
+Homework is as light as paper.,Homework is too much.,Homework is very less.,1
+Shankar is as cute as a baby bat.,Shankar is very ugly.,Shankar is very beautiful.,0
+Shankar is as cute as a kitten.,Shankar is very ugly.,Shankar is very beautiful.,1
+Doctor is as precious as sandalwood.,Doctor is very important.,Only good doctors are necessary.,0
+Doctor is as precious as brass.,Doctor is very important.,Only good doctors are necessary.,1
+Rahul wants to be Natwarlal.,Rahul wants to be a thief.,Rahul wants to become a scientist.,0
+Rahul wants to be Abdul Kalam.,Rahul wants to be a thief.,Rahul wants to become a scientist.,1
+His tongue is as black as a pearl.,She is good with her tongue.,She is foul-mouthed.,0
+His tongue is as black as coal.,She is good with her tongue.,She is foul-mouthed.,1
+A doctor is a form of the devil.,Doctors are life savers.,Doctors are killers.,0
+Doctor is the form of God.,Doctors are life savers.,Doctors are killers.,1
+Rohan is as helpless as an old man.,Rohan is physically weak.,Rohan is mentally weak.,0
+Rohan is as helpless as a youth.,Rohan is physically weak.,Rohan is mentally weak.,1
+"For business, the shorter the day, the better.",He wants to do less work.,He wants to do more work.,0
+"The longer the day, the better it is for business.",He wants to do less work.,He wants to do more work.,1
+Angry Ramu turned red like a tomato.,Ramu fell in love a lot.,Ramu got very angry.,0
+Ramu became red like coals in anger.,Ramu fell in love a lot.,Ramu got very angry.,1
+The beggar was hungry like a bird.,The beggar had no greed to eat.,The beggar was greedy to eat.,0
+The beggar was hungry like a bear.,The beggar had no greed to eat.,The beggar was greedy to eat.,1
+His soul was as cheap as pearls.,He is not corrupt at all.,He is very corrupt.,0
+His soul was as cheap as dirt.,He is not corrupt at all.,He is very corrupt.,1
+His mind is as clear as the water of a river.,He is very good at heart.,He is very bad at heart.,0
+His mind is as clear as the water of a drain.,He is very good at heart.,He is very bad at heart.,1
+He sleeps like a thief.,He gets very little sleep.,He sleeps a lot.,0
+He sleeps like Kumbkaran.,He gets very little sleep.,He sleeps a lot.,1
+The engineer was like an apple.,The engineer was a wonderful person.,The engineer was a very strict person.,0
+The engineer was like a nut.,The engineer was a wonderful person.,The engineer was a very strict person.,1
+He goes everywhere like garbage.,He cannot mix with anyone.,He mingles with everyone.,0
+It merges everywhere like flowing water.,He cannot mix with anyone.,He mingles with everyone.,1
+Cool as a cucumber.,He is very polite.,That is very rude.,0
+He is cool as pepper.,He is very polite.,That is very rude.,1
+He is as blind as Dhritrashta.,He doesn't really understand.,He really got it.,0
+He is as blind as a bat.,He doesn't really understand.,He really got it.,1
+The nurse kept burning like an iron rod.,The nurse continued to act angrily.,The nurse continued to serve everyone from the heart.,0
+The nurse kept burning like the iron of a lamp.,The nurse continued to act angrily.,The nurse continued to serve everyone from the heart.,1
+His scolding works like a charm.,She gets her work done by scolding.,She smiles and gets her work done.,0
+His smile works like a charm.,She gets her work done by scolding.,She smiles and gets her work done.,1
+This house is as old as a diamond.,This house has become more beautiful with time.,Over time this house has now become ruins.,0
+This house is as old as palaces.,This house has become more beautiful with time.,Over time this house has now become ruins.,1
+Its image is as beautiful as an old mansion.,It's not pretty at all.,It is very beautiful.,0
+Its image is beautiful like a picture.,It's not pretty at all.,It is very beautiful.,1
+He is in pain like his mother's beating.,He is not feeling pain at all.,He is in a lot of pain.,0
+He is in pain like being hit by the devil.,He is not feeling pain at all.,He is in a lot of pain.,1
+Its vision is as sharp as that of Ravana.,He gets misled by others.,He does not get influenced by others.,0
+Its vision is as sharp as that of Arjuna.,He gets misled by others.,He does not get influenced by others.,1
+He is fighting like a child.,"They are fighting now, they will become friends now.",This fight will never end now.,0
+They are fighting like women.,"They are fighting now, they will become friends now.",This fight will never end now.,1
+The army fought like jackals in the battle.,"In the battle, the army fought with the mind.",The army fought with courage in the battle.,0
+The army fought like lions in the battle.,"In the battle, the army fought with the mind.",The army fought with courage in the battle.,1
+Sneha was looking just like a cabbage leaf.,Sneha was not looking beautiful at all.,Sneha was looking very beautiful.,0
+Sneha was looking just like a rose petal.,Sneha was not looking beautiful at all.,Sneha was looking very beautiful.,1
+Mahesh is as slothful as a tortoise in his work.,Mahesh works slowly but well.,Mahesh works slow and dirty.,0
+Mahesh is as dull as a doorknob in his work.,Mahesh works slowly but well.,Mahesh works slow and dirty.,1
+Rahul is the watchdog of his house.,Rahul is of no use.,Rahul is the pride of his house.,0
+Rahul is the lamp of his house.,Rahul is of no use.,Rahul is the pride of his house.,1
+Vidya shines like the moon in studies.,"When you don't teach Vidya, she doesn't learn.",Vidya is very clever in teaching.,0
+Vidya shines like the sun in studies.,"When you don't teach Vidya, she doesn't learn.",Vidya is very clever in teaching.,1
+Scientists are as smart as trees.,Scientists share their knowledge.,Scientists are very clever.,0
+Scientists are as smart as a whip.,Scientists share their knowledge.,Scientists are very clever.,1
+The football coach is as mad as a river.,Football coach enters anywhere to teach.,The football coach gets angry all the time.,0
+The football coach is crazy like a bomb.,Football coach enters anywhere to teach.,The football coach gets angry all the time.,1
+Grandpa talks like an old fort.,Grandpa remembers only a few things.,Grandpa has a lot of information.,0
+Grandpa talks like an old museum.,Grandpa remembers only a few things.,Grandpa has a lot of information.,1
+The workers work at the speed of a rocket.,Workers work very fast.,The laborers work slowly.,0
+The laborers work like clock ticking.,Workers work very fast.,The laborers work slowly.,1
+The truth was like wine on his tongue.,He didn't speak the truth.,He always spoke the truth.,0
+Truth was sweet on his tongue.,He didn't speak the truth.,He always spoke the truth.,1
+"After the attack, all the people of the village became like foxes.",Everyone has been in shock since the attack.,Everyone has become alert since the attack.,0
+"After the attack, all the people of the village became like wax statues.",Everyone has been in shock since the attack.,Everyone has become alert since the attack.,1
+Shankar talks to his customers like they are his boss.,Shankar talks openly with the customers.,Shankar does not talk openly with the customers.,0
+Shankar talks to his clients as if they are tax officials.,Shankar talks openly with the customers.,Shankar does not talk openly with the customers.,1
+The magician's magic was like an atom bomb.,The magician was showing very good magic.,The magician was showing very bad magic.,0
+The magician's spell was like a balloon without gas.,The magician was showing very good magic.,The magician was showing very bad magic.,1
+My mother's kitchen is like a battlefield.,My mother does not keep the kitchen neat and clean.,My mother keeps the kitchen very clean.,0
+My mother's kitchen is like a worship house.,My mother does not keep the kitchen neat and clean.,My mother keeps the kitchen very clean.,1
+The bottle rolled off the table like an earthquake.,There was a lot of sound as the bottle fell.,The bottle fell softly from the table.,0
+The bottle rolled off the table like a drop of tears.,There was a lot of sound as the bottle fell.,The bottle fell softly from the table.,1
+Shaking hands with that stranger felt like a warm blanket.,The stranger felt like a friend.,The stranger felt like an enemy.,0
+Shaking hands with that stranger felt like hot sand.,The stranger felt like a friend.,The stranger felt like an enemy.,1
+He spoke like the rising sun.,There was enthusiasm in his voice.,There was sadness in his voice.,0
+He spoke like a withered flower.,There was enthusiasm in his voice.,There was sadness in his voice.,1
+Arguing with him is like playing football.,It is very easy to argue with him.,It is very difficult to argue with him.,0
+Arguing with him is like throwing off a hand grenade.,It is very easy to argue with him.,It is very difficult to argue with him.,1
+The classroom was as quiet as a boxing ring.,There was a fight going on in the class.,Study was going on in the class.,0
+The classroom was as quiet as a library.,There was a fight going on in the class.,Study was going on in the class.,1
+Sukumar praises his wife like a master of history praises the Kauravas of Mahabharata.,Sukumar insulted his wife.,Sukumar praised his wife a lot.,0
+Sukumar praises his wife like a master of history praises the Taj Mahal.,Sukumar insulted his wife.,Sukumar praised his wife a lot.,1
+The clouds were like ghost castles in the sky.,The changes were black and dense.,The changes were clean and beautiful.,0
+The clouds were like ice cream castles in the sky.,The changes were black and dense.,The changes were clean and beautiful.,1
+"With the gusts of the storm, the roof of the hut stood firm like a player full of confidence.",The hut was very strong.,The hut was very flimsy.,0
+The roof of the hut started trembling like scared children due to the gusts of the wind.,The hut was very strong.,The hut was very flimsy.,1
+"When he reached the top of the hill, he felt as strong as a water balloon.",He was very tired when he reached Chhoti.,Arriving at Choti he was brimming with confidence.,0
+"When he reached the top of the hill, he felt as strong as an iron gate.",He was very tired when he reached Chhoti.,Arriving at Choti he was brimming with confidence.,1
+"When the branch of the tree broke, Amit fell like a peacock's feather.","Being light, Amit came down easily.",Amit fell down due to being heavy.,0
+"When the branch of the tree broke, Amit fell like a sack of wet sand.","Being light, Amit came down easily.",Amit fell down due to being heavy.,1
+She swims in the water like a lion.,She swims very easily.,It takes a lot of effort to swim.,0
+She swims like a fish in water.,She swims very easily.,It takes a lot of effort to swim.,1
+Those children ran like a farmer's plough.,Those children ran with great difficulty.,Those children ran very comfortably.,0
+Those children ran like waves in the water.,Those children ran with great difficulty.,Those children ran very comfortably.,1
+Shikha talked like a player for promotion.,Shikha talked to Haq for promotion.,Shikha spoke nervously about the promotion.,0
+Shikha talked like a beggar for promotion.,Shikha talked to Haq for promotion.,Shikha spoke nervously about the promotion.,1
+His hair was like a dense forest.,His hair was very tangled.,His hair was very well done.,0
+His hair was like a spider's web.,His hair was very tangled.,His hair was very well done.,1
+Every single person was like a magic wand in this project.,This project was completed because of money.,This project was completed with a lot of hard work and dedication.,0
+Every penny was like a magic wand in this project.,This project was completed because of money.,This project was completed with a lot of hard work and dedication.,1
+He held my hand like a warm blanket.,He held my hand lovingly.,He held my hand with great hatred.,0
+He held my hand like a winter blanket.,He held my hand lovingly.,He held my hand with great hatred.,1
+The sculptor's hands were flailing like a drowning man.,The sculptor was very nervous.,The sculptor was doing his job like a master.,0
+The hands of the sculptor were fluttering like the wings of birds.,The sculptor was very nervous.,The sculptor was doing his job like a master.,1
+I am as wonderful as a flying ship.,I live in reality,I live in dreams,0
+I am as awesome as a flying giraffe.,I live in reality,I live in dreams,1
+My house is like the palaces of the Mughals.,I live on other's earnings.,I live by my hard earned money.,0
+My house is like a bird's nest.,I live on other's earnings.,I live by my hard earned money.,1
+His words had the force of a blacksmith's hammer.,There was a lot of weight in his words.,He talked very carefully.,0
+His words had the force of a goldsmith's hammer.,There was a lot of weight in his words.,There was a lot of weight in his words.,1
+Getting a job was like climbing a flight of stairs.,Got a job easily.,It was very difficult to get a job.,0
+Getting a job was like touching the stars.,Got a job easily.,It was very difficult to get a job.,1
+There is a policeman's magic in his voice.,Love oozes from his voice.,Anger oozes from his voice.,0
+There is magic of Lata Mangeshkar in her voice.,Love oozes from his voice.,Anger oozes from his voice.,1
+He acts like pond water.,He only works on his own terms.,He works with everyone.,0
+He acts like a stream of a river.,He only works on his own terms.,He works with everyone.,1
+Blood started coming out of the wound like money from a moneylender's safe.,Very little blood came out of the wound.,A lot of blood came out of the wound.,0
+Blood started coming out of the wound like a fountain.,Very little blood came out of the wound.,A lot of blood came out of the wound.,1
+Rohan walks to school like it's a picnic spot.,Rohan enjoys school a lot.,Rohan does not enjoy school.,0
+Rohan walks into school like it's a minefield.,Rohan enjoys school a lot.,Rohan does not enjoy school.,1
+He looked at me like I was singing the national anthem.,He looked at me lovingly.,He looked at me angrily.,0
+He looked at me as if I was giving orders for battle.,He looked at me lovingly.,He looked at me angrily.,1
+The city square was buzzing like a rose garden.,The city square was very well decorated.,The town square was full of people.,0
+The town square was buzzing like a beehive.,The city square was very well decorated.,The town square was full of people.,1
+Sham took care of her work like a stepmother taking care of her child.,Sham did not do his work well.,Sham did his job very well.,0
+Sham took care of her work like a mother takes care of her child.,Sham did not do his work well.,Sham did his job very well.,1
+Sohan wrote in the exam as if someone had scattered pearls.,Sohan wrote in very beautiful handwriting in the examination.,Sohan wrote in very poor handwriting in the examination.,0
+Sohan wrote in the exam as if someone had made ants go away.,Sohan wrote in very beautiful handwriting in the examination.,Sohan wrote in very poor handwriting in the examination.,1
+Today Rajesh is as fat as baby mice.,Rajesh has not become fat at all.,Rajesh has become very fat.,0
+Today Rajesh is as fat as a baby elephant.,Rajesh has not become fat at all.,Rajesh has become very fat.,1
+There is a lesson of a leader in his thinking.,His thinking is full of greed.,There is equality for all in his thinking.,0
+His thinking has the teachings of the saints.,His thinking is full of greed.,There is equality for all in his thinking.,1
+The music looks like a dangal fight.,I don't like music at all.,Music saves me from my sorrows.,0
+Music seems to have the effect of a doctor's medicine.,I don't like music at all.,Music saves me from my sorrows.,1
+Your fashion is like the smile of a new bride.,Your fashion is very alive.,Your fashion has become very old.,0
+Your fashion is as sad as an old building.,Your fashion is very alive.,Your fashion has become very old.,1
+I'm flying like smoke,I am burning with sorrow.,I am dancing with joy.,0
+I am flying like a kite.,I am burning with sorrow.,I am dancing with joy.,1
+The flowers were as tender as a divorced couple.,The flowers were withered and old.,The flowers were in bloom and fresh.,0
+The flowers were as tender as a newly married couple.,The flowers were withered and old.,The flowers were in bloom and fresh.,1
+Your smile looks like the stars.,The smile on your face is always visible.,Sometimes the smile on your face is visible.,0
+Your smile looks like the full moon.,The smile on your face is always visible.,Sometimes the smile on your face is visible.,1
+"Seeing him, my heart becomes like an executioner.","Seeing him, I do not feel anything in my heart.","Seeing him, my heart overflows with love.",0
+"Seeing him, my heart becomes like a child.","Seeing him, I do not feel anything in my heart.","Seeing him, my heart overflows with love.",1
+Radheshyam mixed like salt in tea in our family.,Radheshyam could not connect with our family.,Radheshyam bonded well with our family.,0
+Radheshyam mixed like sugar in tea in our family.,Radheshyam could not connect with our family.,Radheshyam bonded well with our family.,1
+His words were as cold as pieces of colored glass.,His words are not fully understood.,His words make complete sense.,0
+His words were as cool as dew drops.,His words are not fully understood.,His words make complete sense.,1
+This child is the apple of my eye.,I love this child.,This child is not dear to me.,0
+This child is a thorn in my eye.,I love this child.,This child is not dear to me.,1
+His child's cry was as sweet as butterflies.,The cry of his child seemed sweet.,His child's cry did not sound sweet at all.,0
+His child's cry was as sweet as black flies.,The cry of his child seemed sweet.,His child's cry did not sound sweet at all.,1
+walls have ears .,Someone can hear from behind the wall.,One can see the wall from behind.,0
+Even walls have eyes.,Someone can hear from behind the wall.,One can see the wall from behind.,1
+I am exhausted from walking four kilometers in the May sun.,I am very tired from walking so much.,"After walking so much, I have become very enthusiastic.",0
+I am full of enthusiasm because of walking four kilometers in the May sun.,I am very tired from walking so much.,"After walking so much, I have become very enthusiastic.",1
+It seems that my point will be understood only when the shoes will be worn.,You will understand when you are scolded.,"When there is praise, then it will be understood.",0
+"It seems that when the flowers fall, then only my point will be understood.",You will understand when you are scolded.,"When there is praise, then it will be understood.",1
+Embers of fire seem to be raining in the afternoon of June.,It is very hot in the afternoon of the month of June.,It is not so hot in the afternoon of June.,0
+Fountains of water seem to rain in the afternoon of June.,It is very hot in the afternoon of the month of June.,It is not so hot in the afternoon of June.,1
+"On the battlefield, our soldiers won by stepping on hot coals.",Our soldiers won the battle with difficulties.,Our soldiers easily won the war.,0
+"On the battlefield, our soldiers won by stepping on flowers.",Our soldiers won the battle with difficulties.,Our soldiers easily won the war.,1
+Don't put a stone on his head in vain after quarreling with him.,Don't get unnecessarily upset by quarreling with him.,Don't waste your time by quarreling with him.,0
+Don't put paper on your head in vain by quarreling with him.,Don't get unnecessarily upset by quarreling with him.,Don't waste your time by quarreling with him.,1
+Stop thumb sucking at work sometime?,At least stop taking other's women in work.,At least sometimes take other's women in work.,0
+At least once in work open the closed door?,At least stop taking other's women in work.,At least sometimes take other's women in work.,1
+"When asked to return the loan, he cheated.","When asked to return the loan, he refused.","When asked to return the loan, he accepted.",0
+"When asked to return the loan, he folded hands.","When asked to return the loan, he refused.","When asked to return the loan, he accepted.",1
+Kausalya's every part did not swell after listening to Ram's consecration.,Kaushalya was very happy to hear about Ram's consecration.,Kaushalya was very sad to hear about Ram's consecration.,0
+Kausalya's every limb started drying up after listening to Ram's consecration.,Kaushalya was very happy to hear about Ram's consecration.,Kaushalya was very sad to hear about Ram's consecration.,1
+"Among the Navratnas of Akbar, Birbal was like a jewel in a ring.",Birbal was a highly respected person among the Navratnas of Akbar.,Birbal was a very ordinary person among the Navratnas of Akbar.,0
+"Among the Navratnas of Akbar, Birbal was like a pebble on the way.",Birbal was a highly respected person among the Navratnas of Akbar.,Birbal was a very ordinary person among the Navratnas of Akbar.,1
+"This hill is not the foot of Angad, which cannot be removed and the railway track can be laid.",Cutting this hill and laying the railway track is a very difficult task.,Cutting this hill and laying the railway track is a very easy task.,0
+"This hill is not a coriander plant, by removing which the railway track cannot be laid.",Cutting this hill and laying the railway track is a very difficult task.,Cutting this hill and laying the railway track is a very easy task.,1
+"How did Lokendra get the job of a clerk, as if a quail got caught in the hands of a blind man.",Lokendra luckily got what he wanted.,"Fortunately, Lokendra could not get what he wanted.",0
+"Why did Lokendra get the job of a clerk, as if the hands of the blind got electrocuted.",Lokendra luckily got what he wanted.,"Fortunately, Lokendra could not get what he wanted.",1
+Duryodhana used to go to graze in the school.,Duryodhana's intelligence had become corrupt.,Duryodhana was very intelligent.,0
+Duryodhana used to go to school.,Duryodhana's intelligence had become corrupt.,Duryodhana was very intelligent.,1
+"You yourself go after your intellect with a stick, how can we help you?","You yourself do foolish things, how can we help you.","You yourself are intelligent, how can we help you.",0
+"You yourself go around with a rosary behind your intellect, how can we help you?","You yourself do foolish things, how can we help you.","You yourself are intelligent, how can we help you.",1
+The government is watching black marketing with closed eyes.,The government is promoting black marketing.,The government is engaged in ending black marketing.,0
+The government is watching black marketing with open eyes.,The government is promoting black marketing.,The government is engaged in ending black marketing.,1
+There is no one here who will keep an eye on you.,No one will welcome you respectfully.,Everyone will welcome you with respect.,0
+There is no one here who will sit with thorns for you.,No one will welcome you respectfully.,Everyone will welcome you with respect.,1
+Ramesh is the son of his parents.,Ramesh was a good child of his parents.,Ramesh was the spoiled child of his parents.,0
+Ramesh is the son of his parents.,Ramesh was a good child of his parents.,Ramesh was the spoiled child of his parents.,1
+"By throwing dust in Ram's eyes, someone gave him a fake note.",Somebody cheated Ram by giving him a fake note.,Somebody gave Ram a fake note out of love.,0
+"By instilling dreams in Ram's eyes, someone gave him a fake note.",Somebody cheated Ram by giving him a fake note.,Somebody gave Ram a fake note out of love.,1
+Your language is as clear as pearls.,Your language is very good.,Your language is very foul.,0
+Your language is as clear as a drain.,Your language is very good.,Your language is very foul.,1
+Mohan was talking like a parrot.,Mohan was saying everything wrong.,Everything was rote to Mohan.,0
+Mohan was being spoken like Khote.,Mohan was saying everything wrong.,Everything was rote to Mohan.,1
+Roshan broke down after seeing the result of his examination.,Roshan got embarrassed after seeing the result of his exam.,Roshan was overjoyed to see the result of his examination.,0
+Roshan was overjoyed to see the result of his examination.,Roshan got embarrassed after seeing the result of his exam.,Roshan was overjoyed to see the result of his examination.,1
+Pradeep sat like a snake on Ramlal's house.,Pradeep is a treacherous friend.,Pradeep is a good friend.,0
+Pradeep sat like a snake on Ramlal's house.,Pradeep is a treacherous friend.,Pradeep is a good friend.,1
+Some people talk like owls.,Some people do very stupid things.,Some people talk very well.,0
+Some people talk like a cuckoo.,Some people do very stupid things.,Some people talk very well.,1
+"Since becoming a teacher, you have become the moon of Eid.","Ever since you became a teacher, you rarely meet.","Ever since you became a teacher, you meet everyday.",0
+"Since becoming a teacher, you have become the sun of the day.","Ever since you became a teacher, you rarely meet.","Ever since you became a teacher, you meet everyday.",1
+Ramesh keeps his wife on his fingers.,Ramesh doesn't take care of himself at all.,Ramesh takes great care of himself.,0
+Ramesh keeps his wife on his eyes.,Ramesh doesn't take care of himself at all.,Ramesh takes great care of himself.,1
+"So that even God turns away, how can anyone help him?",No one can help the one whom God starts neglecting.,He who is with God does not need anyone else.,0
+How can anyone help someone with whom even God can have heart.,No one can help the one whom God starts neglecting.,He who is with God does not need anyone else.,1
+Giving two rotis to Mohan is like giving cumin in the mouth of a camel.,Two rotis cannot fill Mohan's stomach at all.,Mohan's stomach is comfortably filled with two rotis.,0
+Giving two rotis to Mohan is like giving a watermelon in the mouth of a camel.,Two rotis cannot fill Mohan's stomach at all.,Mohan's stomach is comfortably filled with two rotis.,1
+People garlanded the minister on his victory.,People were very happy with the victory of the minister.,People were very sad because of the victory of the minister.,0
+People garlanded the minister on his victory.,People were very happy with the victory of the minister.,People were very sad because of the victory of the minister.,1
+The true ruler is the one who sees everyone as gold.,A true ruler treats everyone well.,A true ruler treats everyone badly.,0
+The true ruler is the one who sees everyone as a stone.,A true ruler treats everyone well.,A true ruler treats everyone badly.,1
+Books are like temples for me.,I love reading.,I don't like to read.,0
+Books are like a tavern to me.,I love reading.,I don't like reading very much.,1
+Mithali is as agile as the morning.,Mitali is very agile.,Mitali is tired.,0
+Mitali is as agile as the evening.,Mitali is very agile.,Mitali is tired.,1
+Chauri in Gupta ji's car is like getting wet flour in a pauper.,Gupta ji is very poor.,Gupta ji is very rich.,0
+Chauri in Gupta ji's car is like getting wet in the sea in a pauper.,Gupta ji is very poor.,Gupta ji is very rich.,1
+The shop is running horse.,The shop is earning well.,There is no earning from the shop.,0
+The shop is running at a snail's pace.,The shop is earning well.,There is no earning from the shop.,1
+The lamp shone like the rising sun.,Deepak's luck is in full swing.,Deepak's luck is bad.,0
+The lamp shone like the rising moon.,Deepak's luck is in full swing.,Deepak's luck is bad.,1
+Mohan and Ramesh have a dog-cat love.,Mohan and Ramesh fight a lot.,There is a lot of love between Mohan and Ramesh.,0
+Mohan and Ramesh's love is like Ram-Sham.,Mohan and Ramesh fight a lot.,There is a lot of love between Mohan and Ramesh.,1
+"Meeting Rachna, my heart has become lighter like a storm.",My heart started beating fast after meeting Rachna.,My heart was at peace after meeting Rachna.,0
+"Meeting Rachna, my heart has become light like air.",My heart started beating fast after meeting Rachna.,My heart was at peace after meeting Rachna.,1
+Radha's tears started flowing from the leaves of the flowers.,Radha started crying slowly.,Radha started crying bitterly.,0
+Radha's tears started flowing from the mountains.,Radha started crying slowly.,Radha started crying bitterly.,1
+The evening hat is the symbol of his being the king.,The evening is very rich.,The evening is very poor.,0
+The evening cap is symbolic of his being a beggar.,The evening is very rich.,The evening is very poor.,1
+You are famous for the shady leaves of that tree.,You are known for your goodness.,You are known for your evil.,0
+You are famous for the rotten fruits of that tree.,You are known for your goodness.,You are known for your evil.,1
+They had settled in the cities like wild grass.,Those people were making the city dirty.,Those people used to live together.,0
+They had settled in the cities like running water.,Those people were making the city dirty.,Those people used to live together.,1
+Like father had sent snakes in the letter.,Father had sent his anger in the letter.,Father had sent his love in the letter.,0
+"As in the letter, father had sent laddoos.",Father had sent his anger in the letter.,Father had sent his love in the letter.,1
+I want to fly like a bird,I want to do whatever is possible.,I want to do the impossible.,0
+I want to fly like a tree,I want to do whatever is possible.,I want to do the impossible.,1
+Your tongue is not like poison.,You always talk bad.,You always talk well.,0
+Your tongue is not like honey.,You always talk bad.,You always talk well.,1
+The hearts of your people are as vast as the ocean.,Your people help others.,Your people do not help others.,0
+The heart of your people is as big as a pot.,Your people help others.,Your people do not help others.,1
+Bullets are being fired everywhere in the world.,Fighting is going on everywhere in the world.,Everyone in the world lives with love.,0
+Songs are playing like everywhere in the world.,Fighting is going on everywhere in the world.,Everyone in the world lives with love.,1
+Kali danced as if possessed by a demon.,Kali danced very badly.,Kali danced very well.,0
+Kali danced as if Govinda had come inside her.,Kali danced very badly.,Kali danced very well.,1
+She was thirsty like a fish in water.,He had nothing even after having everything.,She had nothing so she was unable to do anything.,0
+She was as thirsty as a fish in the desert.,He had nothing even after having everything.,She had nothing so she was unable to do anything.,1
+The ornaments around her neck seemed to have been brought from a museum.,Her jewelry looked very old.,Her ornaments were looking very beautiful.,0
+The ornaments around her neck seemed to have been brought from a princely state.,Her jewelry looked very old.,Her ornaments were looking very beautiful.,1
+I knew this city like the rooms in my house.,I was aware of every nook and cranny of this city.,I knew very little about this city.,0
+I knew this city like my geography book.,I was aware of every nook and cranny of this city.,I knew very little about this city.,1
+He was a trader of nights.,He used to do bad things.,He used to do good work.,0
+He was a day trader.,He used to do bad things.,He used to do good work.,1
+He is as bitter as Safi.,He is only bad of tongue.,That's really bad.,0
+It is bitter like poison.,He is only bad of tongue.,That's really bad.,1
+This answer is as clear as mud.,This is wrong answer.,That is the correct answer.,0
+This answer is as clear as a lake.,This is wrong answer.,That is the correct answer.,1
+Grandfather's memory has become like a sieve.,Everyone forgets Grandpa.,Dadaji remembers everything.,0
+Grandfather's memory has become like a wallet.,Everyone forgets Grandpa.,Dadaji remembers everything.,1
+The rat is stuck like glue.,It is very difficult to drive away the rat.,It is very easy to drive away the rat.,0
+The rat is stuck like scum.,It is very difficult to drive away the rat.,It is very easy to drive away the rat.,1
+Education is like a fruitful tree.,Education is always beneficial.,Education is harmful.,0
+Education is like a cactus plant.,Education is always beneficial.,Education is harmful.,1
+The light was as playful as a deer.,The light was soft.,The light was harsh.,0
+Roshni was as fickle as an elephant.,The light was soft.,The light was harsh.,1
+Sharma ji talks like thorns.,Sharma ji talks about heart touching things.,Sharma ji talks heart touching things.,0
+Sharma ji talks like a flower.,Sharma ji talks about heart touching things.,Sharma ji talks heart touching things.,1
+My house is like a bird's egg.,My house is very small.,my house is very big.,0
+My house is like a dinosaur egg.,My house is very small.,my house is very big.,1
+The journey of life is like a ball.,Life's journey is very short.,The journey of life is very long.,0
+The journey of life is like the universe.,Life's journey is very short.,The journey of life is very long.,1
+Your mind is as clear as glass.,Your thinking is very good.,Your thinking is very vulgar.,0
+Your thoughts are as clear as ashes.,Your thinking is very good.,Your thinking is very vulgar.,1
+Rise high like the clouds,Make a lot of progress,At least make some progress.,0
+Rise high like a kite,Make a lot of progress,At least make some progress.,1
+Motilal's childhood is like a rain of flowers.,Motilal's childhood is full of happiness.,Motilal's childhood is full of sorrows.,0
+Motilal's childhood was like a raging storm.,Motilal's childhood is full of happiness.,Motilal's childhood is full of sorrows.,1
+It is as strong as a paper boat.,Very weak.,Very powerful.,0
+It is as strong as a huge ship.,Very weak.,Very powerful.,1
+Knowledgeable like books.,His knowledge is immense.,He only knows his work.,0
+He is knowledgeable like a cook.,His knowledge is immense.,He only knows his work.,1
+Calm mind like a monk.,There is peace in the mind.,The mind is restless.,0
+Calm mind like a robber.,There is peace in the mind.,The mind is restless.,1
+It is as fast as a bicycle.,His pace was slow.,His pace was fast.,0
+It is as fast as a car.,His pace was slow.,His pace was fast.,1
+Shamlal's cow used to give milk like brass.,Shamlal's cow used to give yellow milk.,Ramlal's cow used to give white milk.,0
+Shamlal's cow used to give milk like the moon.,Shamlal's cow used to give yellow milk.,Shamlal's cow used to give white milk.,1
+His reading is like the eyes of Sardas.,He used to read a lot.,He used to read a lot.,0
+How to read that couplets of Kalidas.,He used to read a lot.,He used to read a lot.,1
+In that group is the sweetness of Rasgulla.,There's a lot of love in that group.,There is a lot of hatred in that group.,0
+In that group is the sweetness of chilies.,There's a lot of love in that group.,There is a lot of hatred in that group.,1
+They fight like animals.,They fight a lot.,They fight with a lot of love.,0
+They fight like waves.,They fight a lot.,They fight with a lot of love.,1
+His account is like a line on a stone.,He is very firm in his calculations.,He is very poor in calculation.,0
+His calculations are like arrows in the air.,He is very firm in his calculations.,He is very poor in calculation.,1
+He is staring at that girl like a hunter.,He was looking at the girl with evil eyes.,He was calling the girl for help.,0
+He is staring at that girl like a beggar.,He was looking at the girl with evil eyes.,He was calling the girl for help.,1
+Irrigated the fields with his blood.,He grew crops with great effort.,He grew crops with little effort.,0
+Irrigated the fields with his water.,He grew crops with great effort.,He grew crops with little effort.,1
+"In the examination, he forgot as if sand had slipped from his hand.",He forgot all because he didn't study well.,He studied everything well but forgot everything.,0
+"In the examination, he forgot like a fruit has fallen from a tree.",He forgot all because he didn't study well.,He studied everything well but forgot everything.,1
+His anger is like a volcano.,He gets very angry.,He doesn't get angry at all.,0
+His anger is like a cold drink.,He gets very angry.,He doesn't get angry at all.,1
+He has become a clown due to head injury.,He has lost consciousness due to head injury.,He has become sensible after getting hurt on the head.,0
+He has become a doctor because of a head injury.,He has lost consciousness due to head injury.,He has become sensible after getting hurt on the head.,1
+His friends toss him like a ball in the air.,His friends make fun of him.,His friends welcome him.,0
+His friends make him sit on the chair.,His friends make fun of him.,His friends welcome him.,1
+I want to be a driver.,I want to live on the ground,i want to live in the sky,0
+I want to become a pilot.,I want to live on the ground,i want to live in the sky,1
+It was as hot as a samosa.,He was very angry.,He was angry but loving.,0
+It was hot as hell.,He was very angry.,He was angry but loving.,1
+That house is as expensive as gold and silver.,That house is very expensive.,That house is very cheap.,0
+That house is as expensive as lentils and bread.,That house is very expensive.,That house is very cheap.,1
+Shambhu's stomach is like a godown.,Shambhu eats a lot.,Shambhu eats very little.,0
+Shambhu's stomach is like a rat donation.,Shambhu eats a lot.,Shambhu eats very little.,1
+It fell like dusk.,He got tired without working hard.,He got tired of working hard.,0
+He went down like the sun.,He got tired without working hard.,He got tired of working hard.,1
+His TV was like a cricket ball in a football ground.,His TV was too small.,His TV was huge.,0
+His TV was like a football in a cricket ground.,His TV was too small.,His TV was huge.,1
+Rohit is like Mogambo.,Rohit was a goon.,Rohit is a decent man.,0
+Rohit is like Shaktimaan.,Rohit was a goon.,Rohit is a decent man.,1
+There was sadness on his face.,He was in great sorrow.,It was not sadness.,0
+There was selfish sadness on his face.,He was in great sorrow.,It was not sadness.,1
+My wife looked like a tomato.,My wife was looking very fat.,My wife was looking very thin.,0
+My wife looked like a radish.,My wife was looking very fat.,My wife was looking very thin.,1
+The servant had brought salt in the tea.,The servant had made absolutely rubbish tea.,The servant had made very nice tea.,0
+It was as if the servant had put honey in the tea.,The servant had made absolutely rubbish tea.,The servant had made very nice tea.,1
+The buttons of the coat looked like grains of rice.,The buttons on the coat were too small.,The buttons on the coat were too big.,0
+The buttons on the coat looked like grapes.,The buttons on the coat were too small.,The buttons on the coat were too big.,1
+Mahender's mind was as sharp as Chacha Chaudhary's.,Mahendra was very sharp of mind.,Mahendra was not sharp of mind.,0
+Mahender's mind was as sharp as Sabu's.,Mahendra was very sharp of mind.,Mahendra was not sharp of mind.,1
+Raju's voice is like a magic wand.,Raju's voice pulls everyone towards him.,Everyone runs away after hearing Raju's voice.,0
+Raju's voice is like straw of a broom.,Raju's voice pulls everyone towards him.,Everyone runs away after hearing Raju's voice.,1
+His job was like catching a firefly.,His job was very simple.,His work was very difficult.,0
+His work was like catching a bee.,His job was very simple.,His work was very difficult.,1
+Neha showed speed like an eagle.,Neha was very quick.,Neha was not very sharp.,0
+Neha showed speed like a bird.,Neha was very quick.,Neha was not very sharp.,1
+He stood like a statue on the stage.,He could not speak anything.,He spoke very well.,0
+He stood on the stage like a radio.,He could not speak anything.,He spoke very well.,1
+Ram hit his hand like a hammer in the evening.,Ram hit Sham very hard.,Ram hit Sham very gently.,0
+Ram hit his hand like a pakora in the evening.,Ram hit Sham very hard.,Ram hit Sham very gently.,1
+He gave Ram's arrow to Disha.,"With his encouragement, Disha won.",His discouragement wins Disha over.,0
+He gave Disha an arrow like Ravana.,"With his encouragement, Disha won.",His discouragement wins Disha over.,1
+Ramlal's laddoos are like sugar candy balls.,Ramlal's laddoos are very sweet.,Ramlal's laddoos are very bitter.,0
+Ramlal's laddoos are like chili balls.,Ramlal's laddoos are very sweet.,Ramlal's laddoos are very bitter.,1
+He has become like a washerman's donkey.,He has to work a lot.,He doesn't have to work at all.,0
+He has become like a race horse.,He has to work a lot.,He doesn't have to work at all.,1
+The gardener planted potato flowers.,The gardener did nothing.,The gardener did a good job.,0
+The gardener planted lotus flowers.,The gardener did nothing.,The gardener did a good job.,1
+Ramesh's mind is as fast as a computer.,Ramesh's mind is very sharp.,Ramesh's mind is very weak.,0
+Raj's mind is as sharp as garbage.,Ramesh's mind is very sharp.,Ramesh's mind is very weak.,1
+The bankers demanded tax like a mountain.,The bankers demanded a lot of tax.,The bankers asked for very little tax.,0
+The bankers demanded tax like a dry tree.,The bankers demanded a lot of tax.,The bankers demanded a lot of tax.,1
+Don't talk like Delhi's cold.,Don't talk boring,Don't talk angrily.,0
+Don't talk like the heat of Jaipur.,Don't talk boring,Don't talk angrily.,1
+It's as hard as a banana chip.,She is tough but good.,She is very tough and bad.,0
+He is as hard as an iron rod.,She is tough but good.,She is very tough and bad.,1
+They have love like a laughing couple.,There is a lot of love in them.,He keeps on fighting.,0
+They have love like a pair of crocodiles.,There is a lot of love in them.,He keeps on fighting.,1
+Hero in the film looked like Superman.,The hero of the film was very smart.,The hero of the film was a prankster.,0
+Hero in the film looked like Charlie Chaplin.,The hero of the film was very smart.,The hero of the film was a prankster.,1
+His actions are like monkeys.,He is very fickle.,He is very calm.,0
+His actions are like those of saints.,He is very fickle.,He is very calm.,1
+Tina and Ravi's love is like the first rain.,Tina and Ravi's love is new.,Tina and Ravi's love blossoms sometimes.,0
+Tina and Ravi's love is like seasonal rain.,Tina and Ravi's love is new.,Tina and Ravi's love blossoms sometimes.,1
+Sangeeta's heart has become like a desert.,Sangeeta has become very lonely.,Sangeeta is very happy.,0
+Sangeeta's heart has become like Manali.,Sangeeta has become very lonely.,Sangeeta is very happy.,1
+Dark clouds are hovering over his family.,There is so much sorrow for his family.,His family is very happy.,0
+White clouds are hovering over his family.,There is so much sorrow for his family.,His family is very happy.,1
+She blossomed like a bud as soon as she went to college.,She became young as soon as she went to college.,She was young even before she went to college.,0
+She blossomed like a flower as soon as she went to college.,She became young as soon as she went to college.,She was young even before she went to college.,1
+Your face looks like the moon of fourteenth.,Your face looks flushed.,Your face looks withered.,0
+Your face looks like the new moon.,Your face looks flushed.,Your face looks withered.,1
+The lion was howling like a bilji.,The lion was very angry.,The lion was very happy.,0
+The lion was flowing like water.,The lion was very angry.,The lion was very happy.,1
+This journey looks like drops of dew.,This journey is looking very pleasant.,This journey seems to be very wasted.,0
+This journey looks like drops of decoction.,This journey is looking very pleasant.,This journey seems to be very wasted.,1
+His dreams became of autumn leaves.,His dreams were shattered.,His dreams are coming true.,0
+His dreams became like sawan leaves.,His dreams were shattered.,His dreams are coming true.,1
+The smell of spring is coming from this shop.,This shopkeeper is smelling great.,This shopkeeper is very stinky.,0
+The smell of burning corpse is coming from this shopkeeper.,This shopkeeper is smelling great.,This shopkeeper is very stinky.,1
+That scoundrel is biting everyone like a cucumber.,That scoundrel is killing everyone with ease.,That scoundrel is not able to kill everyone easily.,0
+That scoundrel is cutting everyone like diamonds and gold.,That scoundrel is killing everyone with ease.,That scoundrel is not able to kill everyone easily.,1
+There is blood on him.,he is very angry.,He is sharing a lot of love.,0
+Amrit is riding on it.,he is very angry.,He is sharing a lot of love.,1
+Dheeraj is making imaginary bridges with his work.,"Dheeraj is lazy, he didn't do anything.","Patience is hardworking, he did a lot.",0
+"With patience, he is building a beautiful house.","Dheeraj is lazy, he didn't do anything.","Patience is hardworking, he did a lot.",1
+Shankar talks as if he is God.,Shankar talks a lot of knowledge.,Shankar talks very bad things.,0
+Shankar talks as if he is a devil.,Shankar talks a lot of knowledge.,Shankar talks very bad things.,1
+"Don't eat my skull, get out of here.",Do not tease me.,Don't take my stuff,0
+"Don't eat my vegetable, go from here.",Do not tease me.,Don't take my stuff,1
+Shaukat was the necklace around Harish's neck.,Shaukat was a true friend of Harish.,Shaukat was Harish's enemy.,0
+Shaukat was a noose around Harish's neck.,Shaukat was a true friend of Harish.,Shaukat was Harish's enemy.,1
+"What happened happened, now what is the use of digging up the dead?",Discussing it after the loss will only waste time.,Don't ruin your home any more after the damage.,0
+"What happened happened, now what is the use of uprooting trees?",Discussing it after the loss will only waste time.,Don't ruin your home any more after the damage.,1
+Munshi made all the accounts of Seth a football-like mess.,Munshi spoiled all the accounts of Seth.,Munshi corrected all the accounts of Seth.,0
+The scribe straightened the scale of all Seth's accounts.,Munshi spoiled all the accounts of Seth.,Munshi corrected all the accounts of Seth.,1
+Money is dirt on the hands.,Money keeps coming and going.,"Once money comes, it does not go away.",0
+Money is the line of the hand.,Money keeps coming and going.,"Once money comes, it does not go away.",1
+He explained like a teacher.,Got his point.,Didn't understand his point.,0
+He explained like a confectioner.,Got his point.,Didn't understand his point.,1
+Shantiprasad acts like a soap.,Shanti Prasad does so much work that one day it will end.,"The more Shantiprasad works, the more it shines.",0
+Shantiprasad works like a diamond.,Shanti Prasad does so much work that one day it will end.,"The more Shantiprasad works, the more it shines.",1
+"At his wedding, the baraati came from a swarm of bees.",Many baraatis had come for his marriage.,Very few Baratis came to his wedding.,0
+"At his wedding, the baraati came from a herd of elephants.",Many baraatis had come for his marriage.,Very few Baratis came to his wedding.,1
+There was halwa-like joy in the fair.,The fair was a lot of fun.,The fair was fun but very elaborate.,0
+There was joy like noodles in the fair.,The fair was a lot of fun.,The fair was fun but very elaborate.,1
+Parantha is like a pizza.,Paratha is very tasty.,Paratha is very similar.,0
+Parantha is like dal.,Paratha is very tasty.,Paratha is very similar.,1
+There was honey-like joy in his picture.,There was a feeling of happiness in his picture.,There was a feeling of fear in his picture.,0
+His pictures were as blissful as a jungle.,There was a feeling of happiness in his picture.,There was a feeling of fear in his picture.,1
+The children performed like a waterfall.,The children performed very well.,The children performed very badly.,0
+The children acted like animals.,The children performed very well.,The children performed very badly.,1
+Radhika is the school angel.,Radhika is loved by everyone in the school.,Radhika is hated by everyone in the school.,0
+Radhika is the witch of the school.,Radhika is loved by everyone in the school.,Radhika is hated by everyone in the school.,1
+That question was like climbing the Himalayas.,That question was very difficult.,That question was very easy.,0
+That question was like climbing the steps of a temple.,That question was very difficult.,That question was very easy.,1
+That man sheds money like water.,He spends money thoughtlessly.,He spends money very thoughtfully.,0
+That man flows money like Ganges water.,He spends money thoughtlessly.,He spends money very thoughtfully.,1
+Aditi lights ghee lamps after winning the race.,Aditi was very happy after winning the race.,Aditi was not very happy even after winning the race.,0
+"After winning the race, Aditi lit the lamps of Ghaslet.",Aditi was very happy after winning the race.,Aditi was not very happy even after winning the race.,1
+Hotel food was like chocolate.,The hotel food was sweet.,The hotel food was sour.,0
+Hotel food was like tamarind.,The hotel food was sweet.,The hotel food was sour.,1
+He did the work of fishing in the sea.,He did a very difficult job.,He did a very easy job.,0
+He acted like catching a bird in a pond.,He did a very difficult job.,He did a very easy job.,1
+Rajesh stole the name of the country.,Rajesh spread the name of the country by doing bad work.,Rajesh has brought laurels to the country by doing good work.,0
+Rajesh made the country famous by winning.,Rajesh spread the name of the country by doing bad work.,Rajesh has brought laurels to the country by doing good work.,1
+The girl's legs were like wood.,The girl's legs were very thin.,The girl's legs were very thick.,0
+The legs of the girl were like elephants.,The girl's legs were very thin.,The girl's legs were very thick.,1
+Life has the taste of kalakand.,Life is going very well.,There is little happiness and little sorrow in life.,0
+Life has the taste of mangoes.,Life is going very well.,There is little happiness and little sorrow in life.,1
+It has more power than bamboo.,He doesn't have that much power.,There is a lot of power in that.,0
+He has more power than Rod.,He doesn't have that much power.,There is a lot of power in that.,1
+"In the era of Shri Krishna, rivers of ghee and milk used to flow in our country.",Everyone was happy in the era of Shri Krishna.,Everyone was unhappy in the era of Shri Krishna.,0
+"In the era of Shri Krishna, rivers of liquor used to flow in our country.",Everyone was happy in the era of Shri Krishna.,Everyone was unhappy in the era of Shri Krishna.,1
+Panditji's son is like darkness under a lamp.,Panditji's son is an idiot.,Panditji's son is intelligent.,0
+Panditji's son is like morning under a lamp.,Panditji's son is an idiot.,Panditji's son is intelligent.,1
+His ears are very raw.,He listens to everything around him.,He cannot do much work with his hands.,0
+His hands are very rough.,He listens to everything around him.,He cannot do much work with his hands.,1
+Sanju succumbed to wrestling so quickly.,Sanju accepted wrestling so quickly.,Sanju started hitting in wrestling so early.,0
+Sanju gave up punches so quickly in wrestling.,Sanju accepted wrestling so quickly.,Sanju started hitting in wrestling so early.,1
+You are from an earthen pot.,you are very weak,you are so strong.,0
+You are from the steel pot.,you are very weak,you are so strong.,1
+The patient gave sweets to the doctor.,The patient was very pleased with the doctor.,The patient was very unhappy with the doctor.,0
+The patient beat up the doctor.,The patient was very pleased with the doctor.,The patient was very unhappy with the doctor.,1
+There was stadium-like silence in the room.,There is a lot of noise in the room.,There is no noise in the room.,0
+There was a library-like silence in the room.,There is a lot of noise in the room.,There is no noise in the room.,1
+She is as beautiful as a squirrel.,She is very beautiful.,She is not beautiful.,0
+She is as cute as a pig.,She is very beautiful.,She is not beautiful.,1
+Radha is the dust of Sham's feet.,Radha is much younger than Sham.,Radha is equal to evening.,0
+Radha is the dust on the forehead of the evening.,Radha is much younger than Sham.,Radha is equal to evening.,1
+Find his toys with the lamp.,His toys will be easily found.,His toys are not easy to find.,0
+Find his toys with Suraj.,His toys will be easily found.,His toys are not easy to find.,1
+The judge sentenced the thief to a glass of water.,The judge sentenced the thief to a lot of work.,The judge sentenced the thief heavily.,0
+The judge sentenced the thief to the water of the river.,The judge sentenced the thief to a lot of work.,The judge sentenced the thief heavily.,1
+Clear mind like water.,There is no fault in his heart.,Sin is in his heart.,0
+Clear mind from mud.,There is no fault in his heart.,Sin is in his heart.,1
+He is as generous as Lakshmi.,He is very generous.,He is not a donor.,0
+He is as generous as a beggar.,He is very generous.,He is not a donor.,1
+Mohit made the enemy chew pulses.,Mohit put the enemy in more trouble.,Mohit put the enemy in great difficulty.,0
+Mohit made the enemy chew iron gram.,Mohit put the enemy in more trouble.,Mohit put the enemy in great difficulty.,1
+Kashi was as big as Bhima.,Kashi had physical strength.,There was mental strength in Kashi.,0
+Kashi was as big as Nakula.,Kashi had physical strength.,There was mental strength in Kashi.,1
+His smile is like a devil.,His smile is dangerous.,His smile is lovely.,0
+His smile is like a joker.,His smile is dangerous.,His smile is lovely.,1
+Great players like Kapil Dev.,He is a very good player.,He is not a player.,0
+Great player like Bengali.,He is a very good player.,He is not a player.,1
+His sister is as dear to him as his country.,He loves his sister very much.,He hates his sister very much.,0
+His sister is dear to him like his enemy.,He loves his sister very much.,He hates his sister very much.,1
+His bag is as heavy as his eyelids.,There are no books in his bag.,His bag is full of books.,0
+His bag is as heavy as a stone.,There are no books in his bag.,His bag is full of books.,1
+He took a Surdas-like catch.,He didn't take the catch.,He took a great catch.,0
+He caught the catch like an eagle.,He didn't take the catch.,He took a great catch.,1
+His artwork was like a temple idol.,His artwork was amazing.,His artwork was ruined.,0
+His artwork was as if the roads were broken.,His artwork was amazing.,His artwork was ruined.,1
+She sings like Saraswati.,She sings very melodiously.,She sings very bad.,0
+She sings like a torn drum.,She sings very melodiously.,She sings very bad.,1
+His salary is like a silver spoon.,His salary is very good.,His salary is very less.,0
+His salary is like a brass spoon.,His salary is very good.,His salary is very less.,1
+His shop is as long as a knicker.,His shop is very small.,His shop is very big.,0
+His shop is as long as his pants.,His shop is very small.,His shop is very big.,1
+"For Ashwini, the competition is like sour grapes.",As tough as it is for Ashwani in the competition.,As easy as the competition for Ashwani.,0
+"For Ashwini, competition is as sweet as guava.",As tough as it is for Ashwani in the competition.,As easy as it gets in the competition for Ashwani.,1
+"In business, the combination of these two is like a marriage.",Both of them will run the business.,Both of these will not be able to run the business.,0
+The combination of these two in business is like a divorce.,Both of them will run the business.,Both of these will not be able to run the business.,1
+Life is like powder.,There are both happiness and sorrow in life.,There is only happiness in life.,0
+Life is like chocolate.,There are both happiness and sorrow in life.,There is only happiness in life.,1
+Shivaji's daggers were of iron.,Shivaji's daggers were very strong.,Shivaji's daggers were not very strong.,0
+Shivaji's daggers were made of wood.,Shivaji's daggers were very strong.,Shivaji's daggers were not very strong.,1
+This office is as clean as the courtyard of the house.,This office is clean and tidy.,This office is not clean.,0
+This office is as clean as the terrace of the house.,This office is clean and tidy.,This office is not clean.,1
+Raman is a devotee like Hanuman.,Raman plays along in every situation.,Raman leaves as soon as he gets a chance.,0
+Raman is a devotee like Jaichand.,Raman plays along in every situation.,Raman leaves as soon as he gets a chance.,1
+He is as big as a whale.,She was very big.,She had left a lot.,0
+He is as big as Pipiphos.,She was very big.,She had left a lot.,1
+The police inspector was as gentle as a wolf.,The police inspector was a bribe taker.,The police inspector was not a bribe taker.,0
+The police inspector was as gentle as a cow.,The police inspector was a bribe taker.,The police inspector was not a bribe taker.,1
+Small children are gentler than rose petals.,Small children are very innocent.,Small children are very evil.,0
+Small children are softer than the thorns of a rose.,Small children are very innocent.,Small children are very evil.,1
+I don't have a handful of money in the bank.,There is absolutely no money in the bank.,There is very little money in the bank.,0
+There is not even that much money in the bank.,There is absolutely no money in the bank.,There is very little money in the bank.,1
+"In Rajneesh's house, the music plays like a discotheque.",Music is loud in Rajneesh's house.,Music plays very slowly in Rajneesh's house.,0
+"In Rajneesh's house, music plays like Shantistupa.",Music is loud in Rajneesh's house.,Music plays very slowly in Rajneesh's house.,1
+The government taxed like Ambani's house.,The government has imposed too many taxes.,The government has imposed very little tax.,0
+The government imposed tax as if it was a poor man's house.,The government has imposed too many taxes.,The government has imposed very little tax.,1
+The painter made the whole house shine like a palace.,The painter did a great job.,The painter did a very bad job.,0
+The painter made the whole house shine like a hut.,The painter did a great job.,The painter did a very bad job.,1
+Rehan went around the whole city in a taxi.,Rehan proudly roamed the whole city.,Rehan with great difficulty went around the whole city.,0
+Rehan roamed the whole city on foot.,Rehan proudly roamed the whole city.,Rehan with great difficulty went around the whole city.,1
+Mother's anger is like cold buttermilk.,Mother doesn't get angry.,Mother's anger cools down very quickly.,0
+Mother's anger is like hot milk.,Mother doesn't get angry.,Mother's anger cools down very quickly.,1
+He plays like a child.,He is very quick in the game.,He is very slow in the game.,0
+He plays like an old man.,He is very quick in the game.,He is very slow in the game.,1
+The horn of the truck is ringing like a torn bamboo.,The horn of the truck is making a very bad sound.,The truck horn is blaring very loudly.,0
+Truck horn blaring like a radio.,The horn of the truck is making a very bad sound.,The truck horn is blaring very loudly.,1
+My friend is as sweet as a father's love.,Lots of love my friend,Tough but dear to heart my friend.,0
+My friend is as sweet as brother's love.,Lots of love my friend,Tough but dear to heart my friend.,1
+Today turned out to be a Sunday.,Today passed without any work.,Today turned out to be very busy.,0
+Today turned out to be a Monday.,Today passed without any work.,Today turned out to be very busy.,1
+You are talking about train journey.,You are speaking very slowly.,You are speaking very fast.,0
+You are talking like you are on an aeroplane.,You are speaking very slowly.,You are speaking very fast.,1
+The sound of drums was ringing in his ears.,His head was bursting with pain.,He could hear melodious music.,0
+The sound of the veena was ringing in his ear.,His head was bursting with pain.,He could hear melodious music.,1
+Kamla slept like a horse seller in the office.,Kamla fell asleep after getting tired.,Kamla was sitting alert.,0
+Kamla slept like a snake while sleeping in the office.,Kamla fell asleep after getting tired.,Kamla was sitting alert.,1
+Horns grew on Kashi's head.,Kashi's mind stopped working.,Kashi's mind began to wander.,0
+Apples grew on Kashi's head.,Kashi's mind stopped working.,Kashi's mind began to wander.,1
+Ajay spread like a sofa in the house.,Ajay did not do any work in the house.,Ajay used to do his own work at home.,0
+Ajay spread like a chair in the house.,Ajay did not do any work in the house.,Ajay used to do his own work at home.,1
+"To learn music, he chewed iron gram.",He has worked very hard to learn music.,He hasn't worked so hard to learn music.,0
+"To learn music, he chewed horse gram.",He has worked very hard to learn music.,He hasn't worked so hard to learn music.,1
+The bridge fell like a house of cards.,The bridge broke easily.,The bridge was barely broken.,0
+The bridge fell like Qutub Minar.,The bridge broke easily.,The bridge was barely broken.,1
+The servant's daughter came first.,He took first place with great difficulty.,He easily took first place.,0
+The principal's daughter came first.,He took first place with great difficulty.,He easily took first place.,1
+He is as thin as a novel.,He is not very young.,He is too young.,0
+It is as thin as a pocket book.,He is not very young.,He is too young.,1
+His arms are as strong as those of a rhinoceros.,He has great strength in his arms.,His arms are weak.,0
+His arms are as strong as those of a dove.,He has great strength in his arms.,His arms are weak.,1
+His voice is like Ambitabh Bachchan.,There is a lot of power in his voice.,His voice is very thin.,0
+His voice is like Sachin Tendulkar.,There is a lot of power in his voice.,His voice is very thin.,1
+He was talking like a suspense thriller.,He was talking very slowly.,He was talking very loudly.,0
+He was talking like some comic poetry convention.,He was talking very slowly.,He was talking very loudly.,1
+He was as famous as the potato.,Everyone liked him.,Some people liked him very much.,0
+He was famous like capsicum.,Everyone liked him.,Some people liked him very much.,1
+Sharmila was feeding the dogs like a circus clown.,Sharmila was lovingly feeding the dogs.,Sharmila was angrily feeding the dogs.,0
+Sharmila was feeding the dogs like a jailer.,Sharmila was lovingly feeding the dogs.,Sharmila was angrily feeding the dogs.,1
+The singer was singing like a ring master.,The singer was singing very loudly.,The singer was singing very melodiously.,0
+The singer was singing like an angel from heaven.,The singer was singing very loudly.,The singer was singing very melodiously.,1
+His heart broke like a glass bottle.,His heart broke badly.,His heart was very weak.,0
+His heart broke like a paper boat.,His heart broke badly.,His heart was very weak.,1
+It smelled like a garden.,He was happy inside.,He was only superficially happy.,0
+He smelled like perfume.,He was happy inside.,He was only superficially happy.,1
+He guided his friend like Sanjay.,He told everything to his friend.,He set his friend up for victory.,0
+He guided his friend like Krishna.,He told everything to his friend.,He set his friend up for victory.,1
+His dreams were to live in the sky.,His dreams were big.,His dreams were not very big.,0
+His dreams were to live on earth.,His dreams were big.,His dreams were not very big.,1
+Kusum had to force the bird to open the door.,Kusum had to make very little effort to open the door.,Kusum had to make a lot of effort to open the door.,0
+Kusum had to exert a lot of effort to open the door.,Kusum had to make very little effort to open the door.,Kusum had to make a lot of effort to open the door.,1
+He came out like a lion.,He came out very excited.,He came out very scared.,0
+He came out like a giddar.,He came out very excited.,He came out very scared.,1
+His hair didn't turn white just like that.,His knowledge has increased with experience.,His knowledge has not increased.,0
+His hair didn't turn red for no reason.,His knowledge has increased with experience.,His knowledge has not increased.,1
+His kinship is as strong as iron.,His kinship is very strong.,His kinship is very weak.,0
+His kinship is as strong as glass.,His kinship is very strong.,His kinship is very weak.,1
+He has the mind of a monkey.,He always thinks of jumping.,He always thinks of deceit.,0
+He has the mind of a chameleon.,He always thinks of jumping.,He always thinks of deceit.,1
+Lata Mangeshkar's pain in her voice.,His voice touches the heart.,No one remembers his voice.,0
+Mungeri Lal's pain is in his voice.,His voice touches the heart.,No one remembers his voice.,1
+Ritesh's plan is like building an air fort.,Ritesh's plan was never going to be completed.,Ritesh's plan was about to be completed.,0
+Ritesh's plan is like building a house.,Ritesh's plan was never going to be completed.,Ritesh's plan was about to be completed.,1
+Shamsher's house was always open like Guru's langar.,Shamsher's heart was very big.,Shamsher had a very small heart.,0
+Shamsher's house was always open like a bank vault.,Shamsher's heart was very big.,Shamsher had a very small heart.,1
+His sister is the headmaster of the school.,His sister is on a very high post in the school.,His sister is on a very minor post in the school.,0
+His sister is a school peon.,His sister is on a very high post in the school.,His sister is on a very minor post in the school.,1
+He also sucks the fly that has fallen in the tea.,He is very stingy.,He is not very stingy.,0
+He also sucks the cardamom that fell in the tea.,He is very stingy.,He is not very stingy.,1
+Mehak took the form of Chandi.,Mehak got very angry.,Mehak was looking very beautiful.,0
+Mehak took the form of Radha.,Mehak got very angry.,Mehak was looking very beautiful.,1
+Gangu fights for the ice cream.,Gangu fought over a small matter.,Gangu fought to earn big money.,0
+Gangu fought for the ring.,Gangu fought over a small matter.,Gangu fought to earn big money.,1
+Sanjeev had the enthusiasm of a wrestler.,Sanjeev was very enthusiastic.,Sanjeev had very little enthusiasm.,0
+What enthusiasm was there in Sanjeev.,Sanjeev was very enthusiastic.,Sanjeev had very little enthusiasm.,1
+He entered his house like a thief.,He was trembling while entering the house.,He entered the house gracefully.,0
+He entered his house like an emperor.,He was trembling while entering the house.,He entered the house gracefully.,1
+He gave everyone clothes like idli.,He gave everyone nice clothes.,He had a hole in his clothes.,0
+He gave clothes like vada to everyone.,He gave everyone nice clothes.,He had a hole in his clothes.,1
+She is crying in loneliness.,She is alone that's why she is crying.,"She is with everyone, yet she is crying.",0
+She is crying in the group.,She is alone that's why she is crying.,"She is with everyone, yet she is crying.",1
+His mind is working like a toilet.,His mind is not working at all.,His mind is running very fast.,0
+His mind is working like Ambani.,His mind is not working at all.,His mind is running very fast.,1
+Raunak supports Sach.,Raunak is a genuine person.,Raunak is a liar.,0
+Raunak supports the lie.,Raunak is a genuine person.,Raunak is a liar.,1
+His art is like a rainbow.,His art is very rubbish.,His art is very good.,0
+His art is like that of insects.,His art is very rubbish.,His art is very good.,1
+Everyone understands it like a bell.,Everyone teases him.,Everyone is afraid of him.,0
+Everyone thinks of him as an inspector.,Everyone teases him.,Everyone is afraid of him.,1
+Father's scolding is like ice.,Father's scolding is only for a few moments.,Father's scolding is full of anger.,0
+Father's scolding is like fire.,Father's scolding is only for a few moments.,Father's scolding is full of anger.,1
+The landlord was as fat as a bear.,The landlord was very fat.,The landlord was fat but short.,0
+The landlord was as fat as a rat.,The landlord was very fat.,The landlord was fat but short.,1
+His arrival was like a sip of tea.,It was very nice of him to come.,His arrival was very bad.,0
+His arrival was like a sip of wine.,It was very nice of him to come.,His arrival was very bad.,1
+It feels like syrup.,Its feel is very sweet.,Its feel is very dirty.,0
+Its feel like cow dung.,Its feel is very sweet.,Its feel is very dirty.,1
+That palace is as big as the capital of India.,That palace is very big and beautiful.,That palace is very small and tight.,0
+That palace is as big as the streets of India.,That palace is very big and beautiful.,That palace is very small and tight.,1
+Your company makes fake medicines.,Your company is a fraud.,Your company is great.,0
+Your company makes real medicines.,Your company is a fraud.,Your company is great.,1
+His head is shining like eggs.,There is no hair on his head.,His head is full of hair.,0
+His head is shining like cabbage.,There is no hair on his head.,His head is full of hair.,1
+His words are like electric shocks.,His words are bitter.,His words are sweet.,0
+His words are like the swings of a swing.,His words are bitter.,His words are sweet.,1
+His vegetables are sold with the speed of an engine.,His vegetables are sold very quickly.,His vegetables do not sell easily.,0
+His vegetables are sold at the speed of a bullock cart.,His vegetables are sold very quickly.,His vegetables do not sell easily.,1
+His earnings evaporated like gas.,His money ran out very quickly.,His money was used up very slowly.,0
+His earnings flew away like a lamp.,His money ran out very quickly.,His money was used up very slowly.,1
+His work spread like grass.,Everyone liked his work.,His work was very common.,0
+His work spread like dust.,Everyone liked his work.,His work was very common.,1
+Rohan's article will be remembered like history.,Rohan's article will be forgotten after some time.,People will always remember Rohan's article.,0
+Rohan's article will be remembered like space.,Rohan's article will be forgotten after some time.,People will always remember Rohan's article.,1
+Panag became a victim of Manoj's enmity.,Panag developed enmity with Manoj.,Panag became friends with Manoj.,0
+Panag became a victim of Manoj's friendship.,Panag developed enmity with Manoj.,Panag became friends with Manoj.,1
+That ground became smooth like oil.,Everyone started slipping on that ground.,Feet started getting cut off from that ground.,0
+That land became smooth like sandpaper.,Everyone started slipping on that ground.,Feet started getting cut off from that ground.,1
+He shouted as if he had won the match.,she shouted happily.,He screamed in fear.,0
+He shouted as if a burglar had entered the house.,she shouted happily.,He screamed in fear.,1
+Your house is worth lakhs.,Your house is very expensive.,Your house is worth nothing.,0
+Your house is worth pennies.,Your house is very expensive.,Your house is worth nothing.,1
+The machine he made is a symbol of the modern era.,His machine is wonderful.,His machine is not good.,0
+The machine made by him is the symbol of the mythological era.,His machine is wonderful.,His machine is not good.,1
+Your poverty is driving me to pieces.,You are poor because of me.,You are rich because of me,0
+Your richness is running on my crumbs.,You are poor because of me.,You are rich because of me,1
+There are cracks in this pitch.,This pitch is still playable.,This pitch was not playable.,0
+There are potholes in this pitch.,This pitch is still playable.,This pitch was not playable.,1
+He wears plain clothes.,He is a very decent person.,He is a very badass person.,0
+He wears colorful clothes.,He is a very decent person.,He is a very badass person.,1
+Kamlesh is currently living.,Kamlesh only thinks about today.,Kamlesh keeps thinking about the past.,0
+Kamlesh lives in the past.,Kamlesh only thinks about today.,Kamlesh keeps thinking about the past.,1
+He was our saviour.,He was going to save us.,He was about to trap us.,0
+He was our eater.,He was going to save us.,He was about to trap us.,1
+That man is the shoe of my feet again and again.,That man has no standing in front of me.,That man is equal to me.,0
+That man keeps ringing my hands.,That man has no standing in front of me.,That man is equal to me.,1
+He speaks in my favor.,He supports me.,He is against me.,0
+He speaks against me.,He supports me.,He is against me.,1
+His hard work is like a stream.,He tries to do a better job everyday.,He just does the same thing every day.,0
+His hard work is like a pond.,He tries to do a better job everyday.,He just does the same thing every day.,1
