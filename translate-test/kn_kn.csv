@@ -1,0 +1,1199 @@
+startphrase,ending1,ending2,labels
+The place is clean like a hospital.,The place is clean,The place is not clean,0
+The place is clean like a fish market.,The place is clean,The place is not clean,1
+The area is as violent as a war land.,The area is full of violence,The area is not full of violence,0
+The area is as violent as the temple itself.,The area is full of violence,The area is not full of violence,1
+Their bond is as strong as friends.,Their relationship is strong,Their relationship is not strong,0
+Their bond is as strong as enemies.,Their relationship is strong,Their relationship is not strong,1
+The place is as quiet as a temple.,The place is quiet,The place is not quiet,0
+The place is as quiet as a traffic jam.,The place is quiet,The place is not quiet,1
+He is as weak as an old man,He is weak,He is not weak,0
+He is as weak as a youth,He is weak,He is not weak,1
+He is as strong as a young man.,He is strong,He is not strong,0
+He is as strong as an old man.,He is strong,He is not strong,1
+It is red in color like blood.,It is red in color,It is not red,0
+It is red in color like water.,It is red in color,It is not red,1
+Its speed is as slow as a tortoise.,Its speed is very slow,Its speed is not slow,0
+Its speed is as slow as that of a rabbit.,Its speed is very slow,Its speed is not slow,1
+That thing is as old as the telephone.,That thing is old,That thing is new,0
+That thing is as old as mobile.,That thing is old,That thing is new,1
+Food is as nutritious as millet.,This food is full of nutrition,This food is not nutritious,0
+Food is as nutritious as Maggi.,This food is full of nutrition,This food is not nutritious,1
+The area is as wide as a playground.,That area is very vast,The area is not very wide,0
+The area is as wide as a classroom.,That area is very vast,That area is not very wide,1
+The performance of the players was like that of a champion.,The performance of the players was good,The performance of the players was not good,0
+The performance of the players was like a loser.,The performance of the players was good,The performance of the players was not good,1
+It is the size of a football.,The size of that thing is big,The size of the object is small,0
+It is about the size of a golf ball.,The size of that thing is big,The size of the object is small,1
+He is as influential as a king.,He is impressive,He is not impressive,0
+He is as impressive as a servant.,He is impressive,He is not impressive,1
+He is rich like a merchant.,He is rich,He is not rich,0
+He is rich like a farmer.,He is rich,He is not rich,1
+That thing is as small as a worm,The size of the object is small,The size of that thing is big,0
+That thing is as small as a bird,The size of the object is small,The size of that thing is big,1
+That habit is as bad as smoking.,That hobby is bad,That hobby is good,0
+That hobby is as bad as meditation.,That hobby is bad,That hobby is good,1
+That animal is as old as a dinosaur.,That animal is old,That animal is not old,0
+That animal is as old as an elephant.,That animal is old,That animal is not old,1
+It is as necessary as oxygen to breathe.,Oxygen is very necessary for breathing,Oxygen is not very necessary for breathing,0
+It is needed as carbon dioxide for respiration.,Oxygen is very necessary for breathing,Oxygen is not very necessary for breathing,1
+It takes as much time as a car to reach that place.,It takes less time to reach that place,It takes more time to reach that place,0
+It takes about a cycle to reach that place.,It takes less time to reach that place,It takes more time to reach that place,1
+The food was as special as the festive meal.,The food was very special,Food was normal,0
+The food was as special as the breakfast.,The food was very special,Food was normal,1
+Its price is as expensive as a plane ticket.,Its price is expensive,Its price is cheap,0
+Its price is as expensive as a movie ticket.,Its price is expensive,Its price is cheap,1
+His beliefs are as strong as a rock.,His faith is strong,His faith is not strong,0
+His beliefs are as strong as glass.,His faith is strong,His faith is not strong,1
+It's as easy as reading.,It's very easy,That's hard,0
+It's as easy as coding.,It's very easy,That's hard,1
+He is wearing a traditional dress Panche.,He is wearing a traditional dress,He is not wearing traditional dress,0
+He is wearing a traditional dress suit.,He is wearing traditional dress,He is not wearing traditional dress,1
+That thing has as much logic as science.,That thing has logic,That thing has no logic,0
+That thing has as much logic as magic.,That thing has logic,That thing has no logic,1
+She was wearing a saree that represents our culture.,She represented our culture,She did not reflect our culture,0
+She was wearing a skirt that reflects our culture.,She represented our culture,She did not reflect our culture,1
+He is as influential as politicians.,He is impressive,He is normal,0
+He is influential as a citizen.,He is impressive,He is normal,1
+As scarce as water in the desert.,Water is very scarce in the desert,Water is plentiful in the desert,0
+As scarce as sand in the desert.,Water is very scarce in the desert,Water is plentiful in the desert,1
+Abundant as snowfall on the summit.,Snowfall is heavy on the summit,Snowfall on the peak is less,0
+As abundant as the soil on the summit.,Snowfall is heavy on the summit,Snowfall is less on the summit,1
+The place is green like a forest.,The place is green,That place is not green,0
+The place is as green as the city.,The place is green,That place is not green,1
+Arab countries are rich from petroleum.,Arab countries are rich from petroleum,Arab countries are not rich from petroleum,0
+Arab countries are rich in water.,Arab countries are rich from petroleum,Arab countries are not rich from petroleum,1
+As healthy as fiber in food.,Dietary fibers are healthy,Dietary fibers are not healthy,0
+As healthy as carbs in food.,Dietary fibers are healthy,Dietary fibers are not healthy,1
+The sky is cloudy like the rainy season.,The sky is more cloudy,The sky is partly cloudy,0
+The sky is cloudy like summer.,The sky is more cloudy,The sky is partly cloudy,1
+The place is as beautiful as the Taj Mahal.,That place is beautiful,That place is not beautiful,0
+The place is beautiful like a government office.,That place is beautiful,That place is not beautiful,1
+It is more bitter than neem,It was bittersweet,It was sweet,0
+It is bitterer than jaggery,It was bittersweet,It was sweet,1
+That space is also as far away as the moon,That place is far away,That place is near,0
+That place is also far from the cinema,That place is far away,That place is near,1
+That thing was as boring as a World Cup defeat,That thing was boring,That was a pleasure,0
+That thing was as boring as winning the World Cup,That thing was boring,That was a pleasure,1
+That fact is as important as education,That fact is important,That fact is not important,0
+That fact is as important as the journey itself,That fact is important,That fact is not important,1
+That app has as many users as Gmail,That app has more users,That app has less users,0
+That app has as many users as Orkut,That app has more users,That app has less users,1
+This food contains as much protein as eggs,Food is high in protein,The diet is low in protein,0
+This food has as much protein content as rice,Food is high in protein,The diet is low in protein,1
+It is as good as a vegetable,It is as good as a vegetable,It is not as good as vegetables,0
+It is as good as junk food,It is as good as a vegetable,It is not as good as vegetables,1
+It is expensive like dry fruits,Dry fruits are expensive,Not as expensive as dried fruits,0
+It is as expensive as vegetables,Dry fruits are expensive,Not as expensive as dried fruits,1
+The subject was as scientific as a solar eclipse,That thing was scientific,That thing is not scientific,0
+That stuff was as scientific as it was magical,That thing was scientific,That thing is not scientific,1
+He is rich like Ambani,They are rich,They are not rich,0
+They are rich like common people,They are rich,They are not rich,1
+The scene was also as wonderful as the waterfall,That scene was amazing,The scene was not spectacular,0
+That scene was also amazing like a traffic jam,That scene was amazing,The scene was not spectacular,1
+The place is as quiet as a library.,The place is quiet,The place is not quiet,0
+The place is quiet like a bus station.,The place is quiet,The place is not quiet,1
+It is very rare like a comet,That is very rare,It is not very rare,0
+It is very rare like stars,That is very rare,It is not very rare,1
+That exam is difficult like UPSC,That test is more difficult,That test is not too difficult,0
+That exam is difficult like IBPIS,That test is more difficult,That test is not too difficult,1
+Understanding it is as complicated as the formula itself,It is difficult to understand,It is easy to understand,0
+Understanding it is as complicated as verse,It is difficult to understand,It is easy to understand,1
+It has an oval shape like an egg,It has an oval shape,It is not oval in shape,0
+It has an oval shape like a ring,It has an oval shape,It is not oval in shape,1
+He is popular as an artist,They are popular,They are not popular,0
+He is popular as a lawyer,They are popular,They are not popular,1
+That game is as famous as football,That game is famous,That game is not famous,0
+That game is as famous as hockey,That game is famous,That game is not famous,1
+The celebration was as fun as the victory,The celebration was fun,The celebration was not fun,0
+The celebration was as fun as the defeat,The celebration was fun,The celebration was not fun,1
+The incident was as terrifying as war,That incident was terrible,The incident was not terrible,0
+The incident was as terrifying as Shanti,That incident was terrible,The incident was not terrible,1
+The building was furnished like a palace,The building was well equipped,The building was not furnished,0
+The building was furnished like a government office,The building was well equipped,The building was not furnished,1
+The object was a reflection like a mirror,That object was a reflection,That object was not a reflection,0
+The object was a reflection like a wall,That object was a reflection,That object was not a reflection,1
+The statue was as tall as the Statue of Unity,That statue was tall,The statue was not tall,0
+The statue was as tall as two pillars,That statue was tall,The statue was not tall,1
+That's as good as saving money,That's as good as saving money,That's not as good as saving money,0
+That's as good as spending money,That's as good as saving money,That's not as good as saving money,1
+That sound is like music,That sound is nice,That sound is not pleasant,0
+The sound is like fireworks,That sound is nice,That sound is not pleasant,1
+That movie was as scary as a horror movie,That movie was scary,That movie did not scare,0
+That movie was as scary as a comedy,That movie was scary,That movie did not scare,1
+That thing too is as easy as making Maggi,That thing is easy,That thing is hard,0
+That too is as easy as making biryani,That thing is easy,That thing is hard,1
+That's as fast as a 100-meter dash,That's too fast,It's slow,0
+That's about as fast as running a marathon,That's too fast,It's slow,1
+He rises as early as the sunrise,He wakes up early,He doesn't get up early,0
+He wakes up as early as noon,He wakes up early,He doesn't get up early,1
+That fact is as exciting as a job offer,That makes me happy,That's not fun,0
+That fact is as exciting as a job layoff,That makes me happy,That's not fun,1
+It was as interesting as a magic show,That was interesting,It wasn't interesting,0
+It was as interesting as the online class,That was interesting,It wasn't interesting,1
+He is as knowledgeable as a scholar,He has more knowledge,They don't have much knowledge,0
+He is as knowledgeable as a graduate,He has more knowledge,They don't have much knowledge,1
+That river does not run as long as the Nile,The river flows very far,The river flows a short distance,0
+That river does not flow as long as Kaveri,The river flows very far,The river flows a short distance,1
+That's big as a damn,That's big as a damn,It's not that big of a damn,0
+It is as big as mud,That's big as a damn,It's not that big of a damn,1
+That thing is hot as fire,That thing is hot,That thing is cold,0
+That thing is as hot as water,That thing is hot,That thing is cold,1
+It's as fun as a party,That's fun,That's not fun,0
+That's as much fun as testing,That's fun,It's not fun,1
+The creature is as small as an ant,The size of the creature is small,The size of the creature is huge,0
+The creature is as small as a cat,The size of the creature is small,The size of the creature is huge,1
+That thing is as sharp as a knife,That thing is sharp,That object is not realized,0
+That thing is as sharp as a pencil,That thing is sharp,That object is not realized,1
+It is illegal to cheat,That is illegal,It is not illegal,0
+It is illegal to show love,That is illegal,It is not illegal,1
+That material is as delicate as glass,That stuff is subtle,That thing is not subtle,0
+That thing is as delicate as stone,That stuff is subtle,That thing is not subtle,1
+That incident was as horrible as the accident,That incident was terrible,The incident was not terrible,0
+The event was as scary as a dance show,That incident was terrible,The incident was not terrible,1
+The building is as historic as the palace itself,That building is historic,That building is not historic,0
+The building is as historic as the shopping mall,That building is historic,That building is not historic,1
+He is invincible like Arjuna,He is invincible,He is not invincible,0
+He is invincible like Ravana,He is invincible,He is not invincible,1
+It is as common as gold.,That's normal,That's not normal,0
+It is as common as the Kohinoor diamond.,That's normal,That's not normal,1
+He was as curious as a scientist,He was curious,He was not curious,0
+He was as curious as the driver,He was curious,He was not curious,1
+He was brutal like a criminal,They are cruel,They are not cruel,0
+He was as cruel as a monk,They are cruel,They are not cruel,1
+Its sound was as loud as thunder,Its sound was loud,Its sound was not loud,0
+Its sound was loud like music,Its sound was loud,Its sound was not loud,1
+It is a historical city like Dwarka,It is a historical city,It is not a historical city,0
+It is a historical city like Bangalore,It is a historical city,It is not a historical city,1
+That material is as inert as cotton,That thing is not heavy,That thing is heavy,0
+That thing is as weightless as stone,That thing is not heavy,That thing is heavy,1
+It was as dark as night,It was dark that day,It was not dark that day,0
+It was as dark as that morning,It was dark that day,It was not dark that day,1
+His knowledge is as deep as the ocean,His knowledge is profound,His knowledge is not deep,0
+Their swimming pool is so deep,His knowledge is profound,His knowledge is not deep,1
+The fare was as economical as a cab ride,The fare was the rope,The fare was expensive,0
+The fare was as economical as a flight ticket,The fare was the rope,The fare was expensive,1
+A rubber band is elastic like a spring.,Rubber band is more elastic,A rubber band is not very elastic,0
+A rubber band is as elastic as a thread.,Rubber band is more elastic,A rubber band is not very elastic,1
+This work is as confusing as coding,This work is confusing,This work is not confusing,0
+This work is as confusing as typing,This work is confusing,This work is not confusing,1
+The darkness of the night was as dark as the new moon,It was dark,The darkness was not dark,0
+The darkness of the night was as dark as the full moon,It was dark,The darkness was not dark,1
+Bangalore is less polluted like an island,Bengaluru has less pollution,Bangalore is not less polluted,0
+Bangalore has less pollution as a city,Bengaluru has less pollution,Bangalore is not less polluted,1
+That planet is habitable like Earth,That planet is habitable,That planet is not habitable,0
+That planet is habitable like Venus,That planet is habitable,That planet is not habitable,1
+Our farm soil is fertile like black soil,Our farm soil is fertile,Our field soil is not fertile,0
+Our farm soil is as fertile as the desert,Our farm soil is fertile,Our field soil is not fertile,1
+Food prepared by you is as healthy as food made at home,Food prepared by you is healthy,The food you prepared is not healthy,0
+Food prepared by you is as healthy as hotel food,Food prepared by you is healthy,The food you prepared is not healthy,1
+The shape of a watermelon is rounded like a lemon,Watermelon is round in shape,Watermelon shape is not round,0
+The shape of watermelon is round like a banana,Watermelon is round in shape,Watermelon shape is not round,1
+This task is as difficult as climbing a mountain,That work is hard,That job is easy,0
+This work is as difficult as it is on the road,That work is hard,That job is easy,1
+This material also has flexible properties like rubber,That material is flexible,That material is not flexible,0
+This material also has flexible properties like stone,That material is flexible,That material is not flexible,1
+This area is as crowded as the market,There are more people in this area,There are few people in this area,0
+This area is as crowded as the library,There are more people in this area,There are few people in this area,1
+The duration of the game is long like cricket,The duration of that game is long,The duration of the game is short,0
+The duration of the game is long like football,The duration of that game is long,The duration of the game is short,1
+My new clothes are as soft as woolen,The new fabric is soft,New clothes are not soft,0
+My new clothes are soft as a rock,The new fabric is soft,New clothes are not soft,1
+Lemon is sour like tamarind,Lemons are left over,No lemon left,0
+Lemons are sour like apples,Lemons are left over,No lemon left,1
+My own Michael Jackson dances,My own dance,I don't do their dance,0
+Mine dances like Mr. Bean,My own dance,I don't do their dance,1
+He has keen vision like an eagle,His vision is sharp,His vision is not sharp,0
+He has sharp vision like a crow,His vision is sharp,His vision is not sharp,1
+That animal has cunning like a fox,That animal has the quality of cunning,That animal does not have the cunning quality,0
+The animal has cunning like a dog,That animal has the quality of cunning,That animal does not have the cunning quality,1
+My pet cat is as honest as a dog,My pet cat is honest,My pet cat is not honest,0
+My pet cat is as honest as a fox,My pet cat is honest,My pet cat is not honest,1
+He is as bold as a lion,He is brave,He is brave,0
+He is as brave as a fox,He is brave,He is brave,1
+That animal is as strong as an ox,That animal is powerful,That animal is powerful,0
+That animal is as strong as a deer,That animal is powerful,That animal is powerful,1
+He stays awake all night like an owl,He stays up all night,He stays up all night,0
+He stays awake all night like a parrot,He stays up all night,He stays up all night,1
+He was burning like a volcano in anger,He was burning with anger,He was at peace,0
+He was burning like ice in anger,He was burning with anger,He was at peace,1
+She flies very high like a bird,She flies high,She does not fly high,0
+She flies very high like an animal,She flies high,She does not fly high,1
+This animal roars like a lion,: The beast roars,That animal does not roar,0
+This animal roars like a dog,: The beast roars,That animal does not roar,1
+Dosa is as famous breakfast as idli,Dosa is a famous breakfast,Dosa is not a famous breakfast,0
+Dosa is as popular a breakfast as sandwich,Dosa is a famous breakfast,Dosa is not a famous breakfast,1
+This area can hold more water like a dam,That area can hold more water,"The area cannot hold much water,",0
+This area can hold as much water as a tank,That area can hold more water,"The area cannot hold much water,",1
+Organisms live mostly in the sea.,Many creatures live in the sea,Fewer creatures live in the sea,0
+Organisms live more in the well.,Many creatures live in the sea,Fewer creatures live in the sea,1
+That water is as salty as the sea,That water is salty,That water is not salty,0
+That water is as salty as water,That water is salty,That water is not salty,1
+That boy flies like a monkey,That boy flies,That boy doesn't fly,0
+That boy flies like an elephant,That boy flies,That boy doesn't fly,1
+As large as an elephant in size,Large in size,Small in size,0
+As big as a monkey in size,Large in size,Small in size,1
+He is very fast like a computer,He is very fast,He is slow,0
+He is unbelievably fast,He is very fast,He is slow,1
+The place was as high as a flyover,That place is high,That place is not high,0
+The place was as high as a tunnel,That place is high,That place is not high,1
+This dish was as hard as a doughnut,This food is solid,This feed is not solid,0
+This dish was hard as cake,This food is solid,This feed is not solid,1
+It was smooth as soap,It was as smooth as soap,Not as smooth as soap,0
+It was as smooth as a squash,It was as smooth as soap,Not as smooth as soap,1
+"When I saw him, I was as proud as a soldier",I feel proud when I see him,"When you see him, you will not feel proud",0
+"When he saw him, he was as proud as a militant",I feel proud when I see him,"When you see him, you will not feel proud",1
+The material was as delicate as glass,That stuff is very delicate,That thing is very hard,0
+The material was as delicate as copper,That stuff is very delicate,That thing is very hard,1
+The dish was as clean as a home made snack,The dish was clean,The dish is not clean,0
+The dish was as clean as a roadside snack,The dish was clean,The dish is not clean,1
+That cooking was as healthy as an apple,Cooking was healthy,The cooking was unhealthy,0
+That cooking was as healthy as pasta,Cooking was healthy,The cooking was unhealthy,1
+This dish is sweet like bitter gourd,This dish is sweet,This dish is not sweet,0
+This dish is sweet like mango,This dish is sweet,This dish is not sweet,1
+This space is as deep as a bore well,That space is deep,That space is not deep,0
+This space is as deep as a house tank,That space is deep,That space is not deep,1
+This fish is massive like a starfish,The shape of that fish is huge,That fish is small,0
+This fish is huge like a whale,The shape of that fish is huge,That fish is small,1
+His victory was like a jaggery,His victory was sweet,His victory was not sweet,0
+His victory was like neem,His victory was sweet,His victory was not sweet,1
+His courage was like that of a son,Uttar Kumar's courage is admirable,Uttara Kumara's courage is not admirable,0
+His courage was like that of Rani Chennamma,Uttar Kumar's courage is admirable,Uttara Kumara's courage is not admirable,1
+The snack was flat like bread,That snack was flat,That snack was not flat,0
+The snack was flat like a puff,That snack was flat,That snack was not flat,1
+The water they gave was as salty as sea water,The water they gave tasted salty,The water they gave did not taste salty,0
+The water they gave was as salty as well water,The water they gave tasted salty,The water they gave did not taste salty,1
+She shone like the full moon,She was glowing,She wasn't glowing,0
+She glowed like the darkness of the new moon,She was glowing,She wasn't glowing,1
+It was as hot as a cold breeze,It was very hot,It was cold,0
+It was hot as a storm,It was very hot,It was cold,1
+She was dressed like a model,She was highly decorated,She was less decorated,0
+She was dressed like a village lady,She was highly decorated,She was less decorated,1
+That meal was as healthy as ragimudde,The meal was healthy,The meal was not healthy,0
+That meal was as healthy as a burger,The meal was healthy,The meal was not healthy,1
+The animal was sleeping excessively like a koala,The animal was sleeping less,The animal was sleeping less,0
+The animal was oversleeping like a frog,The animal was sleeping less,The animal was sleeping less,1
+The lady was as beautiful as Rambe,That lady was beautiful,That woman was ugly,0
+The lady was as beautiful as Shurpanaki,That lady was beautiful,That woman was ugly,1
+The sheet was as soft as a bed,That sheet was soft,That sheet was not soft,0
+That sheet was as soft as hard ground,That sheet was soft,That sheet was not soft,1
+It was as wide as a lake,That space was wide,That space was not wide,0
+It was as wide as a river,That space was wide,That space was not wide,1
+That game was as exciting as Sky Drive,The game was exciting,The game was not exciting,0
+That game was exciting as a walk,The game was exciting,The game was not exciting,1
+The man was as funny as the writer,The man was joking,The man wasn't kidding,0
+The man was as funny as a comedian,The man was joking,The man wasn't kidding,1
+It was cold like ice cream,That thing was cold,That thing was not cold,0
+It was cold like soup,That thing was cold,That thing was not cold,1
+It was crispy like an idli,It was crisp,It was not crisp,0
+It was crispy like a dosa,It was crisp,It was not crisp,1
+The armor she wore was as hard as gold,Her body was very hard,Her body was very thick,0
+The armor she wore was as hard as a diamond,Her body was very hard,Her body was very thick,1
+Her dress was full of attractive colors like the bow of lust,Her dress was colorful,Her clothes were not attractive colors,0
+Her dress was colorful like a white board,Her dress was colorful,Her clothes did not have attractive colors,1
+This house is as old as a new building,That house is old,That house is new,0
+This house is as old as an old monument,That house is old,That house is new,1
+His speech is hoarse like a whisper,His speech is hoarse,He likes to talk,0
+His speech is hoarse like a loud voice,His speech is hoarse,He likes to talk,1
+He is cute like grandma,"He's cute, he's not cute",He is not cute,0
+He is as cute as a newborn baby,"He's cute, he's not cute",He is not cute,1
+It was dark like a full moon day,It was very dark that day,Kagkattalu was not born that day,0
+It was dark like a new moon day,It was very dark that day,Kagkattalu was not born that day,1
+He is as young as a baby,He is the youngest,He is not young,0
+He is as young as grandfather,He is the youngest,He is not young,1
+His dress was clean like an officer,His clothes were clean,His clothes are not clean,0
+His clothes were clean like a beggar,His clothes were clean,His clothes are not clean,1
+The snack was as thin as bread,That snack was bland,That snack is not thin,0
+The snack was as thin as bread,That snack was bland,That snack is not thin,1
+That space was as high as the sky,The place was high,That space is not high,0
+The place was as high as the earth,The place was high,That space is not high,1
+Its shape is curved like a square,Its shape is curved,Its shape is not curved,0
+Its shape is curved like a circle,Its shape is curved,Its shape is not curved,1
+It is as big as a ship,That's huge,It's not that big,0
+It is as big as a boat,That's huge,It's not that big,1
+Her tune is as lovely as the singer,Her tune is lovely,Her tune is not good,0
+Her raga is as beautiful as a dancer,Her tune is lovely,Her tune is not good,1
+This vehicle is as fast as a bullock cart,This vehicle is fast,This vehicle is not fast,0
+This vehicle is as fast as a jet,This vehicle is fast,This vehicle is not fast,1
+He is as happy as a child,He is happy,He is not happy,0
+He is as happy as an adult,He is happy,He is not happy,1
+He is as big as an elephant,He is big,He is not big,0
+He is as big as an ant,He is big,He is not big,1
+She is revered as a goddess,She is venerable,She is not respectable,0
+She is revered as a devil,She is venerable,She is not respectable,1
+The building is luxurious like a bungalow,That building is luxurious,That building is not luxurious,0
+That building is as luxurious as a hut,That building is luxurious,That building is not luxurious,1
+This fruit is juicy like sugarcane,This fruit is juicy,This fruit is not juicy,0
+This fruit is juicy like seebe,This fruit is juicy,This fruit is not juicy,1
+He is rich like Ambani,He is rich,He is not rich,0
+He is as rich as a beggar,He is rich,He is not rich,1
+That oil is as viscous as coconut oil,That oil is viscous,That oil is not viscous,0
+That oil is as viscous as alum,That oil is viscous,That oil is not viscous,1
+Energy is as unlimited as the energy of the sun,Energy is unlimited,Energy is not unlimited,0
+Energy is unlimited like electrical energy,Energy is unlimited,Energy is not unlimited,1
+He was as honest as a dog.,He had an honest character.,He has no honest character,0
+He was as honest as a fox.,He had an honest character.,He has no honest character,1
+She is as excellent as a topper,She is outstanding,She is not outstanding,0
+She excels as a normal student,She is outstanding,She is not outstanding,1
+He is as practical as Vijnani,He is a practical man,He is not a practical person,0
+He is as much a practical man as a poet,He is a practical man,He is not a practical person,1
+That crystal is as precious as a gem,That crystal is precious,That crystal is not precious,0
+That crystal is precious like a stone,That crystal is precious,That crystal is not precious,1
+It was as white as a white cloud,It was white,It is not white,0
+It was as white as a blackboard,It was white,It is not white,1
+She is as fresh as a flower,She is fresh,She is not fresh,0
+She is as fresh as a dry leaf,She is fresh,She is not fresh,1
+He has an attractive body like a gym guy,He has an attractive body,He does not have an attractive body,0
+He has an attractive body like a chubby one,He has an attractive body,He does not have an attractive body,1
+She is beautiful like barbie,She is beautiful,She is not beautiful,0
+She is as beautiful as Mickey,She is beautiful,She is not beautiful,1
+That water is as clean as filtered water,That water is clean,That water is not clean,0
+That water is as clean as pond water,That water is clean,That water is not clean,1
+He has a girlish mind like a child,He has a girlish mind,He is not girlish,0
+He has the mind of a girl like an adult,He has a girlish mind,He is not girlish,1
+He was as funny as a comedian,He was ridiculous,He is not ridiculous,0
+He was as ridiculous as the professor,He was ridiculous,He is not ridiculous,1
+That snack is as soft as a donut,That snack is soft,That snack is not soft,0
+That snack is as smooth as a smoothie,That snack is bland,That snack is not soft,1
+That music is lovely to listen to,That music is lovely to listen to,That music is not pleasant to listen to,0
+That music is hoarse to listen to,That music is lovely to listen to,That music is not pleasant to listen to,1
+He is small like a thin man,He is small,He is not small,0
+He is short like a fat man,He is short,He is not small,1
+This game is as adventurous as scuba,This game is an adventure game,This game is not an adventure game,0
+This game is as adventurous as swimming,This game is an adventure game,This game is not an adventure game,1
+She is simple like a housewife,She is simple,She is not simple,0
+She is simple as a model,She is simple,She is not simple,1
+That animal is as long as a snake,That animal is long,That animal is not tall,0
+That animal is as long as a lizard,That animal is long,That animal is not tall,1
+It is as neutral as a cloud,It is neutral,It is not neutral,0
+It is as neutral as a rock,It is neutral,It is not neutral,1
+The weather is cold like winter,The weather is also cold,The weather is not cold either,0
+The weather is also cool like summer,The weather is also cold,The weather is not cold either,1
+The weather is also warm like summer,The weather is also warm,The weather is not warm either,0
+The weather is also warm like the rainy season.,The weather is also warm,The weather is not warm either,1
+That boy is as tall as a giraffe.,That boy is tall,That boy is not tall,0
+That boy is as tall as a deer,That boy is tall,That boy is not tall,1
+The movie has a straightforward story like a love story,The movie has a straightforward story,The movie does not have a straightforward story,0
+The movie has a straightforward story like a suspense thriller,The movie has a straightforward story,The movie does not have a straightforward story,1
+His eyes are as blue as the sky,His eyes are blue,His eyes are not blue,0
+His eyes are blue like moon,His eyes are blue,His eyes are not blue,1
+A soldier's arm is as hard as iron,A soldier's arm is stiff,A soldier's arm is not strong,0
+A soldier's arm is as hard as plastic,A soldier's arm is stiff,A soldier's arm is not strong,1
+This substance also has a sweet smell like a flower,This substance also has a pleasant smell,This material also does not have a pleasant smell,0
+This substance also has a melodious smell like an animal,This substance also has a pleasant smell,This material also does not have a pleasant smell,1
+The universe has innumerable stars,The universe has innumerable stars,The universe does not have countless stars,0
+The universe has innumerable planets,The universe has innumerable stars,The universe does not have countless stars,1
+He is as focused as a horse at work,He is concentrating on work,He is not concentrating on work,0
+He is as focused as a buffalo at work,He is concentrating on work,He is not concentrating on work,1
+Its color is milky white,Its color is white,Its color is not white,0
+Its color is white like water,Its color is white,Its color is not white,1
+They change color like chameleons,They change color,They do not change color,0
+They change color like a snake,They change color,They do not change color,1
+That building is as beautiful as the Taj Mahal,That building is beautiful,That building is not beautiful,0
+That building is as beautiful as a demolished palace,That building is beautiful,That building is not beautiful,1
+That road is as straight as a highway,That road is straight,That road is not straight,0
+That road is as straight as a hill station,That road is straight,That road is not straight,1
+The road has twists and turns like a hill station,That road has twists and turns,That road has no turns,0
+That road has twists and turns like a highway,That road has twists and turns,That road has no turns,1
+Investing in stock market is risky,Investing is risky,Investment is not risky,0
+Investing in fixed deposits is risky,Investing is risky,Investment is not risky,1
+The coffee was hot,The coffee was hot,The coffee was cold,0
+The coffee was cold,The coffee was hot,The coffee was cold,1
+The height of the stick was long,The height of the stick was long,The height of the stick was broken,0
+The height of the stick was broken,The height of the stick was long,The height of the stick was broken,1
+The village house is very big,The village house is very big,The village house is very small,0
+The village house is very small,The village house is very big,The village house is very small,1
+Cricket game is very easy,Cricket game is very easy,The game of cricket is very difficult,0
+The game of cricket is very difficult,Cricket game is very easy,The game of cricket is very difficult,1
+Playing chess requires a lot of intelligence,Playing chess requires a lot of intelligence,Playing chess requires less intelligence,0
+Playing chess requires less intelligence,Playing chess requires a lot of intelligence,Playing chess requires less intelligence,1
+The colors of that painting were beautiful.,The colors of that painting were beautiful,The colors of that painting are not beautiful,0
+The colors of that painting were ugly.,The colors of that painting were beautiful,The colors of that painting are not beautiful,1
+The movie had a good message,The movie had a good message,There is no good message in the movie,0
+There was a bad message in the movie,The movie had a good message,There is no good message in the movie,1
+The music of the song was raucous,The music of the song was melodious,The music of the song is not melodious,0
+The melody of the song was hoarse,The music of the song was melodious,The music of the song is not melodious,1
+There were more games for children at the fair,There were more games in the fair,There were fewer games at the fair,0
+There were few games for children at the fair,There were more games in the fair,There were fewer games at the fair,1
+His speech attracted people like steel,His speech attracted people,His speech did not attract people,0
+His speech attracted people like plastic,His speech attracted people,His speech did not attract people,1
+That animal has a sharp look,The animal looks sharp,The animal does not look sharp,0
+The animal has a soft appearance,The animal looks sharp,The animal does not look sharp,1
+That problem is as easy as drinking water,That problem is easy,That problem is not easy,0
+That problem is as easy as climbing a hill,That problem is easy,That problem is not easy,1
+The concert was so good that I fell asleep,The concert was good,The concert is not good,0
+The concert was good enough to want to listen again,The concert was good,The concert is not good,1
+This vehicle is fast like a rocket,This vehicle is very fast,This vehicle is not very fast,0
+This vehicle is as fast as a bullock cart,This vehicle is very fast,This vehicle is not very fast,1
+His dance was so catchy that it made people dance,His dance was impressive,His dance is not attractive,0
+His dance was so charming as to make you sleepy,His dance was impressive,His dance is not attractive,1
+The price of that thing is more than petrol,That stuff is expensive,The price of that thing is not expensive,0
+That stuff is as expensive as water,That stuff is expensive,The price of that thing is not expensive,1
+His handwriting is as beautiful as computer writing,His handwriting is beautiful,His handwriting is not beautiful,0
+His handwriting is as beautiful as a doctor's prescription,His handwriting is beautiful,His handwriting is not beautiful,1
+The flower smelled like perfume,The flower was fragrant,That flower does not smell,0
+The flower was very fragrant,The flower was fragrant,That flower does not smell,1
+His mind is soft like cotton,His mind is soft,His mind is not soft,0
+His mind is as soft as stone,His mind is soft,His mind is not soft,1
+This disease spreads like covid,This disease is contagious,This disease is not contagious,0
+This disease spreads like cancer,This disease is contagious,This disease is not contagious,1
+This vehicle moves as fast as a flight.,This vehicle moves fast,This vehicle does not move fast,0
+This vehicle moves as fast as a bullock cart.,This vehicle moves fast,This vehicle does not move fast,1
+This jewel is as unique as the Kohinoor diamond,This jewel is unique,This ornament is not unique,0
+This jewelery is unique as usual,This jewel is unique,This ornament is not unique,1
+Investing is as volatile as the stock market,Investments are volatile,Investments are not volatile,0
+Investments are volatile like fixed deposits,Investments are volatile,Investments are not volatile,1
+This person is famous as an actor,This person is famous,This person is not famous,0
+This person is famous as a farmer,This person is famous,This person is not famous,1
+This land is fertile like agricultural land,This land is fertility,This land is not fertile,0
+This land is as fertile as a desert,This land is fertility,This land is not fertile,1
+This road is narrow like a tunnel,This road is narrow,This road is not narrow,0
+This road is narrow like a highway,This road is narrow,This road is not narrow,1
+This pond is as wide as the sea,This pool is wide,This pool is not wide,0
+This pool is as wide as a lake,This pool is wide,This pool is not wide,1
+This program is scary like magic,This show is terrible,This program is not terrible,0
+This show is scary like a circus,This show is terrible,This program is not terrible,1
+This recipe contains nutrients like millet pulp,This cooking contains nutrients,This recipe does not include nutrients,0
+This recipe contains nutrients like chapati,This cooking contains nutrients,This recipe does not include nutrients,1
+This vehicle can fly as high as a flight,This vehicle can fly high,This vehicle does not fly high,0
+This vehicle can fly as high as a helicopter,This vehicle can fly high,This vehicle does not fly high,1
+This person is as naughty as a child,This person is a goblin,This person is not an elf,0
+This person is as naughty as an old man,This person is a goblin,This person is not an elf,1
+His skin is as soft as a baby's skin,His skin is soft,His skin is not soft,0
+His skin is as soft as the skin of an old man,His skin is soft,His skin is not soft,1
+This show is scary as a blast,This show is terrible,This program is not terrible,0
+This show is as scary as a party,This show is terrible,This program is not terrible,1
+This building is as ornate as a palace,This building is decorative,This building is not fancy,0
+The building is decorated like a government office,This building is decorative,This building is not fancy,1
+This game is as big as the league,This game is huge,This game is not big,0
+This game is as big as the World Cup,This game is huge,This game is not big,1
+This disease is as urgent as a cough,This disease is not urgent,This disease is urgent,0
+This disease is as urgent as a heart attack,This disease is not urgent,This disease is urgent,1
+This dance is as ancient as Bharatanatyam,This dance is ancient,This dance is not ancient,0
+This dance is as old as disco,This dance is ancient,This dance is not ancient,1
+This visit is a regular checkup,This visit is not definitive,This visit is crucial,0
+This visit is as critical as the surgery,This visit is not definitive,This visit is crucial,1
+This food is as organic as Ayurvedic,This food is organic,This food is not organic,0
+This food is as organic as Chinese food,This food is organic,This food is not organic,1
+This food is as chemical as a pill,This food is chemical,This food is chemical free,0
+This diet is as chemical as Ayurveda,This food is chemical,This food is chemical free,1
+These letters are as basic as the alphabet,These letters are basic,These letters are not basic,0
+These letters are as basic as the essay,These letters are basic,These letters are not basic,1
+This land is as dry as a desert,This ground is dry,This ground is not dry,0
+This land is as dry as agricultural land,This ground is dry,This ground is not dry,1
+His muscles are like those of a wrestler,His muscles are strong,His muscles are not strong,0
+His muscles are like a patient,His muscles are strong,His muscles are not strong,1
+He is as faithful as a dog,He is faithful,He is not faithful,0
+He is as loyal as a cat,He is faithful,He is not faithful,1
+It is as big as the Taj Mahal,It is famous like Taj Mahal,It is not as famous as the Taj Mahal,0
+It is as big as Gol Gumbaz,It is famous like Taj Mahal,It is not as famous as the Taj Mahal,1
+This insect is microscopic like a mite,This insect is microscopic,This insect is not microscopic,0
+This insect is microscopic like a virus,This insect is microscopic,This insect is not microscopic,1
+This metal is as valuable as diamond,This metal is very valuable,This metal is cheap,0
+This metal is as valuable as silver,This metal is very valuable,This metal is cheap,1
+He is as dangerous as a monk,He is dangerous,He is not dangerous,0
+He is as dangerous as a robber,He is dangerous,He is not dangerous,1
+He is as funny as the Joker,He is ridiculous,He is not ridiculous,0
+He is funny as a doctor,He is ridiculous,He is not ridiculous,1
+This water is as salty as fresh water,This water is salty,This water is not salty,0
+This water is salty like sea water,This water is salty,This water is not salty,1
+This food tastes like diet,This food is delicious,This food is not tasty,0
+This food tastes like biryani,This food is delicious,This food is not tasty,1
+It is acidic like water.,It is acidic,It is not acidic,0
+It is acidic like Alco Hal.,It is acidic,It is not acidic,1
+He is as cruel as the devil,He is cruel,He is not cruel,0
+He is cruel like God,He is cruel,He is not cruel,1
+He is merciful like God,He is merciful,He is not merciful,0
+He is as merciful as the devil,He is merciful,He is not merciful,1
+He is as enthusiastic as children,He is enthusiastic,He is not enthusiastic,0
+He is as enthusiastic as his grandfather,He is enthusiastic,He is not enthusiastic,1
+He is strong like an athlete,He is powerful,He is not powerful,0
+He is as strong as the patient,He is powerful,He is not powerful,1
+He is as weak as a patient,He is weak,He is not weak,0
+He is as weak as a wrestler,He is weak,He is not weak,1
+The man is as creative as the director,That person is creative,That person is not creative,0
+The man is as creative as the driver,That person is creative,That person is not creative,1
+This fruit is sweet like jackfruit.,This fruit is sweet,This fruit is not sweet,0
+This fruit is sweet like tapioca.,This fruit is sweet,This fruit is not sweet,1
+That fruit has as much calcium as milk.,That fruit has calcium.,That fruit does not contain calcium,0
+That fruit has as much calcium as water.,That fruit has calcium.,That fruit does not contain calcium,1
+That place has much water like an island,That place has more water,That place does not have much water,0
+That place has more water like a desert,That place has more water,That place does not have much water,1
+This animal lives longer than a turtle,This animal lives longer,This animal does not live long,0
+This animal lives longer than a mosquito,This animal lives longer,This animal does not live long,1
+This animal is as fast as a snake,This animal is fast,This animal is not fast,0
+This animal is as fast as a buffalo,This animal is fast,This animal is not fast,1
+Her face is round like the moon,Her face is round,Her face is not round,0
+Her face is round like an amoeba,Her face is round,Her face is not round,1
+This sambar is sweet like a stew,This sambar is sweet,This sambar is not sweet,0
+This sambar is sweet like chilli,This sambar is sweet,This sambar is not sweet,1
+This city is clean as a barangay,This city is clean,This city is not clean,0
+This city is clean like a slum,This city is clean,This city is not clean,1
+Her eyes are blood red,Her eyes are red,Her eyes are not red,0
+Her eyes are red like water,Her eyes are red,Her eyes are not red,1
+This milk is as nutritious as mother's milk,This milk is highly nutritious,This milk is not very nutritious,0
+This milk is as nutritious as formula milk,This milk is highly nutritious,This milk is not very nutritious,1
+He is as imaginative as a director.,They have more imagination.,They don't have much imagination,0
+He has the imagination of an actor.,They have more imagination.,They don't have much imagination,1
+Water is very necessary for this body,Water is very necessary for this body,Water is not essential for this body,0
+Alcohol is very necessary for this body,Water is very necessary for this body,Water is not essential for this body,1
+The Games have a history as long as the Olympics,The sports event has a long history,The sports event does not have much history,0
+The sports event has as much history as the World Cup,The sports event has a long history,The sports event does not have much history,1
+On this day the wind blew like a hurricane,It was very windy this day,Not much wind this day,0
+On this day there was as much wind as an earthquake,It was very windy this day,Not much wind this day,1
+I sleep like a baby,i sleep,I am not sleeping,0
+I sleep like an adult,i sleep,I am not sleeping,1
+They experiment more like scientists,They experiment more,They don't experiment much,0
+He experiments more like a historian,They experiment more,They don't experiment much,1
+He was stressed as a newbie at work,He was stressed at work,He is not stressed at work,0
+He was stressed as a veteran at work,He was stressed at work,He is not stressed at work,1
+He is as important as the CEO to the company.,They are vital to the company.,They are not important to the company.,0
+He is as important to the company as a regular employee.,They are vital to the company.,They are not important to the company.,1
+He is more poetic as a writer,They are more poetic,They are not very poetic,0
+He is more poetic as a reader,They are more poetic,They are not very poetic,1
+I am highly technical as an engineer.,I am highly technical.,I'm not very tech savvy,0
+I am more technical than a poet.,I am highly technical.,I'm not very tech savvy,1
+My father has a sense of humor like a comedian,My father has a sense of humor,My father has no sense of humor,0
+My father has a sense of humor like a wrestler,My father has a sense of humor,My father has no sense of humor,1
+It is a mystery like a detective story.,It is a mystery.,It's not a mystery,0
+It is as mysterious as a poem.,It is a mystery.,It's not a mystery,1
+That subject is as difficult as getting a Ph.D,That thing is difficult,That thing is not difficult,0
+That subject is as difficult as getting a degree,That thing is difficult,That thing is not difficult,1
+That event is as common as rain,That incident is common,That incident is not uncommon,0
+That event is as common as an earthquake,That incident is common,That incident is not uncommon,1
+That thing is as common as having a car,That thing is normal,That thing is not normal,0
+That thing is as common as a flight,That thing is normal,That thing is not normal,1
+He is highly respected as a judge in the society,They are highly respected in the society,They are not highly respected in the society,0
+He is highly respected as a criminal in the society,They are highly respected in the society,They are not highly respected in the society,1
+They lead a glorious life like kings,They lead a glorious life,He is not living a life of luxury,0
+They lead a glorious life as farmers,They lead a glorious life,He is not living a life of luxury,1
+A cat is a pet like a dog,A cat is a domestic animal,A cat is not a pet,0
+A cat is domesticated like a tiger,A cat is a domestic animal,A cat is not a pet,1
+Our town is sparsely populated like a forest,Our town is sparsely populated,Our town is not sparsely populated,0
+Our town is sparsely populated like a city,Our town is sparsely populated,Our town is not sparsely populated,1
+Its root is as hard as a tree root,Its root is hard,Its root is not strong,0
+Its root is as hard as the root of a plant,Its root is hard,Its root is not strong,1
+The climate there is as dry as a desert,There the atmosphere is shaky,There the atmosphere does not have a sheke,0
+There the atmosphere is like a mountain,There the atmosphere is shaky,There the atmosphere does not have a sheke,1
+The size of that bird is as small as a sparrow,The size of that bird is small,The size of that bird is not less,0
+The size of that bird is less than an eagle,The size of that bird is small,The size of that bird is not less,1
+The price of that material is as cheap as copper,The price of that item is cheap,That stuff is expensive,0
+The price of that thing is as cheap as gold,That stuff is cheap,That stuff is expensive,1
+Her eyes were shining like stars,Her cheeks were shining,Her cheeks were not glowing,0
+Her cheeks shone like stone,Her cheeks were shining,Her cheeks were not glowing,1
+That stuff is rusted like iron,That stuff is rusty,That stuff is not rusted,0
+That stuff rusts like gold,That stuff is rusty,That stuff is not rusted,1
+He was as legal as a policeman,He was legalistic,He is not legal,0
+He was as lawless as thieves,He was legalistic,He is not legal,1
+There are more people than in the stadium,There are more people,There are not many people there,0
+There are as many people as a cinema hall,There are more people,There are not many people there,1
+The object is round like a football.,The object is round,That object is not round,0
+The object is round like a cricket bat.,The object is round,That object is not round,1
+He swims gracefully like a dolphin,He swims gracefully,He does not swim gracefully,0
+He swims gracefully like a crocodile,He swims gracefully,He does not swim gracefully,1
+That animal is more mischievous than a monkey,That animal is more mischievous,That animal doesn't do much mischief,0
+That animal is more mischievous than a lion,That animal is more mischievous,That animal doesn't do much mischief,1
+This item is worth more than a dollar,This item has high value,This item is not worth much,0
+This item is worth more than Rs,This item has high value,This item is not worth much,1
+His smile is as innocent as a child's.,His smile is flawless.,His smile is not flawless,0
+His smile is as innocent as an adult's.,His smile is flawless.,His smile is not flawless,1
+That event is as common as rain,That incident is common,That incident is not uncommon,0
+That event is as common as an earthquake,That incident is common,That incident is not uncommon,1
+The game is played for a long time like Test cricket,This game goes on for a long time,This game will not last long,0
+This game lasts for a long time like cricket,This game goes on for a long time,This game will not last long,1
+Their lives are as difficult as those of daily wage labourers,Their lives are difficult,His life is not difficult,0
+Their lives are difficult as businessmen,Their lives are difficult,His life is not difficult,1
+God is everywhere like the wind,God is everywhere,God is not everywhere,0
+God is everywhere like gold,God is everywhere,God is not everywhere,1
+That natural phenomenon is as dangerous as a tsunami,That natural process is dangerous,That natural process is not dangerous,0
+That natural phenomenon is as dangerous as GD rain,That natural process is dangerous,That natural process is not dangerous,1
+It is as rare as a comet,That is rare,That is not rare,0
+It is as rare as a star,That is rare,That is not rare,1
+That thing is as good as planting,That thing is good,That thing is not good,0
+That stuff is as good as fireworks,That thing is good,That thing is not good,1
+The place is dense like a forest,That place is dense,The place is not crowded,0
+The place is dense like a garden,That place is dense,The place is not crowded,1
+It is as good as drinking water for health,It is good for health,It is not good for health,0
+It is as good as smoking for health,It is good for health,It is not good for health,1
+It contains more knowledge than a book,It contains more knowledge,It does not involve much knowledge,0
+It contains as much knowledge as a party,It contains more knowledge,It does not involve much knowledge,1
+The area is as wide as a football field,That area is vast,That area is not vast,0
+The area is as wide as a badminton ground,That area is vast,That area is not vast,1
+It is as polluting to the environment as a bicycle,It pollutes the environment,It is not polluting to the environment,0
+It is as polluting to the environment as a car,It pollutes the environment,It is not polluting to the environment,1
+His life is as carefree as a child,His life is peaceful,His life is not peaceful,0
+Their lives are as relaxed as adults,His life is peaceful,His life is not peaceful,1
+It's as easy as having a mobile,It's easy to buy,It is not easy to buy,0
+It's as easy as having a private chopper,It's easy to buy,It is not easy to buy,1
+There are more animals in the forest,There are more animals,There are not many animals there,0
+There are as many animals as the city,There are more animals,There are not many animals there,1
+That job is as secure as a government job,That job is safe,That job is not safe,0
+That job is as secure as a private job,That job is safe,That job is not safe,1
+Their bond is as strong as friends,Their bond is strong,Their bond is not strong,0
+Their bond is as strong as enemies,Their bond is strong,Their bond is not strong,1
+That thing is as sharp as a sword,That thing is sharp,That thing is not sharp,0
+That thing is as sharp as a stick,That thing is sharp,That thing is not sharp,1
+It is oval shaped like an egg,It is oval in shape,It is not oval shaped,0
+It is oval shaped like a ring,It is oval in shape,It is not oval shaped,1
+That stuff is as complicated as math,That thing is complicated,That thing is complicated,0
+That subject is as complicated as a poem,That thing is complicated,That thing is complicated,1
+That animal is mischievous like a monkey,That animal plays pranks,That animal does not play tricks,0
+That animal is as playful as a lion,That animal plays pranks,That animal does not play tricks,1
+It is blue like the sky,It is blue in color,It is not blue,0
+It is as blue as the earth,It is blue in color,It is not blue,1
+His work is as precise as a machine,His work is precise,His work is precise,0
+His work is as precise as handiwork,His work is precise,His work is precise,1
+His timing was as good as winning the lottery,His timing was good,His timing is not good,0
+His timing was as good as an accident,His timing was good,His timing is not good,1
+His knowledge was as deep as that of a scientist,His knowledge was deep,His knowledge was not deep,0
+His knowledge was as deep as a student's,His knowledge was deep,His knowledge was not deep,1
+Her eyes sparkled like diamonds,Her eyes were shining,Her eyes were not glowing,0
+Her eyes shone like iron,Her eyes were shining,Her eyes were not glowing,1
+This land is fertile as agricultural land,This land is fertile,This land is not fertile,0
+This land is as fertile as a desert,This land is fertile,This land is not fertile,1
+His speech was as sweet as music,His words were sweet,His words are not pleasant,0
+His speech was sweet as a horn,His words were sweet,His words are not pleasant,1
+This animal is domesticated like cow,This animal is a pet,This animal is not a pet,0
+This animal is domesticated like a tiger,This animal is a pet,This animal is not a pet,1
+His body was as strong as Bruce Lee's,His body was strong,His body is not strong,0
+His body was strong like an old man,His body was strong,His body is not strong,1
+That snack is as salty as sea water,That snack is salty,That snack is not salty,0
+That snack is as salty as well water,That snack is salty,That snack is not salty,1
+Exercising is as healthy as riding a bicycle,Exercise is healthy,Exercising is not healthy,0
+Exercising is as healthy as driving a car,Exercise is healthy,Exercising is not healthy,1
+That game is as famous as cricket in India,That game is famous in India,That game is not famous in India,0
+The game is as famous as basketball in India,That game is famous in India,That game is not famous in India,1
+It is as useful as mother's milk for the baby,It is useful for the child,It is not useful for the child,0
+It is as useful as powdered milk for a baby,It is useful for the child,It is not useful for the child,1
+He is a herbivore like a deer,He is a herbivore like a deer,He is not a herbivore like a deer,0
+He is herbivorous like a lion,He is a herbivore like a deer,He is not a herbivore like a deer,1
+He fights like a wrestler,He fights,He doesn't fight,0
+He fights like a singer,He fights,He doesn't fight,1
+That bird flies high like an airplane,That bird flies high,That bird does not fly high,0
+That bird flies as high as a car,That bird flies high,That bird does not fly high,1
+"In that ceremony, there were as many snacks as a wedding",There were more snacks at that event,There were not many snacks in that event,0
+"In that event, there were as many snacks as the house",There were more snacks at that event,There were not many snacks in that event,1
+The experience was as fun as the trip,That experience was fun,The experience was not fun,0
+That experience was as fun as the test,That experience was fun,The experience was not fun,1
+Those people are pacifists like Gandhi,Those people are pacifists,Those people are not pacifists,0
+Those people are pacifists like Godse,Those people are pacifists,Those people are not pacifists,1
+Its color is milky white,Its color is white,Its color is not white,0
+Its color is as white as coffee,Its color is white,Its color is not white,1
+He is popular as a movie hero in India,He is popular in India,He is not popular in India,0
+He is as popular as a hockey player in India,He is popular in India,He is not popular in India,1
+They do penance like sadhus,They do penance,They do not do penance,0
+They do penance like hunters,They do penance,They do not do penance,1
+That thing is red like blood,That thing is red,That thing is not red,0
+That thing is red like water,That thing is red,That thing is not red,1
+That disease spreads like covid,That disease spreads,That disease is not contagious,0
+That disease spreads like jaundice,That disease spreads,That disease is not contagious,1
+It is a practice as old as letter writing,That is the old practice,It is not an old practice,0
+It is a practice as old as sending email,That is the old practice,It is not an old practice,1
+It melts like snow,It dissolves,It does not dissolve,0
+It melts like stone,It dissolves,It does not dissolve,1
+It was as adventurous as trekking,It was adventurous,It was not adventurous,0
+It was as adventurous as a morning walk,It was adventurous,It was not adventurous,1
+Her beauty is as wonderful as the full moon,Her beauty is amazing,Her beauty is not amazing,0
+Her beauty is as wonderful as the full moon new moon darkness,Her beauty is amazing,Her beauty is not amazing,1
+That movie was interesting like a detective story.,That movie was interesting.,That movie was not interesting,0
+The movie was interesting as a comedy story.,That movie was interesting.,That movie was not interesting,1
+This dish was as hard as a doughnut,This food is solid,This feed is not solid,0
+This dish was hard as cake,This food is solid,This feed is not solid,1
+It was smooth as soap,It was as smooth as soap,Not as smooth as soap,0
+It was as smooth as a squash,It was as smooth as soap,Not as smooth as soap,1
+"When I saw him, I was as proud as a soldier",I feel proud when I see him,"When you see him, you will not feel proud",0
+"When he saw him, he was as proud as a militant",I feel proud when I see him,"When you see him, you will not feel proud",1
+The material was as delicate as glass,That stuff is very delicate,That thing is very hard,0
+The material was as delicate as copper,That stuff is very delicate,That thing is very hard,1
+The dish was as clean as a home made snack,The dish was clean,The dish is not clean,0
+The dish was as clean as a roadside snack,The food was clean,The dish is not clean,1
+That cooking was as healthy as an apple,Cooking was healthy,The cooking was unhealthy,0
+That cooking was as healthy as pasta,Cooking was healthy,The cooking was unhealthy,1
+This dish is sweet like bitter gourd,This dish is sweet,This dish is not sweet,0
+This dish is sweet like mango,This dish is sweet,This dish is not sweet,1
+This space is as deep as a bore well,That space is deep,That space is not deep,0
+This space is as deep as a house tank,That space is deep,That space is not deep,1
+This fish is massive like a starfish,The shape of that fish is huge,That fish is small,0
+This fish is huge like a whale,The shape of that fish is huge,That fish is small,1
+His victory was like a jaggery,His victory was sweet,His victory was not sweet,0
+His victory was like neem,His victory was sweet,His victory was not sweet,1
+His courage was like that of a son,Uttar Kumar's courage is admirable,Uttara Kumara's courage is not admirable,0
+His courage was like Rani Chennamma,Uttar Kumar's courage is admirable,Uttara Kumara's courage is not admirable,1
+The snack was flat like bread,That snack was flat,That snack was not flat,0
+The snack was flat like a puff,That snack was flat,That snack was not flat,1
+The water they gave was as salty as sea water,The water they gave tasted salty,The water they gave did not taste salty,0
+The water they gave was as salty as well water,The water they gave tasted salty,The water they gave did not taste salty,1
+She shone like the full moon,She was glowing,She wasn't glowing,0
+She glowed like the darkness of the new moon,She was glowing,She wasn't glowing,1
+It was as hot as a cold breeze,It was very hot,It was cold,0
+It was hot as a storm,It was very hot,It was cold,1
+She was dressed like a model,She was highly decorated,She was less decorated,0
+She was dressed like a village lady,She was highly decorated,She was less decorated,1
+That meal was as healthy as ragimudde,The meal was healthy,The meal was not healthy,0
+That meal was as healthy as a burger,The meal was healthy,The meal was not healthy,1
+The animal was sleeping excessively like a koala,The animal was sleeping less,The animal was sleeping less,0
+The animal was oversleeping like a frog,The animal was sleeping less,The animal was sleeping less,1
+The lady was as beautiful as Rambe,That lady was beautiful,That woman was ugly,0
+The lady was as beautiful as Shurpanaki,That lady was beautiful,That woman was ugly,1
+The sheet was as soft as a bed,That sheet was soft,That sheet was not soft,0
+That sheet was as soft as hard ground,That sheet was soft,That sheet was not soft,1
+It was as wide as a lake,That space was wide,That space was not wide,0
+It was as wide as a river,That space was wide,That space was not wide,1
+That game was as exciting as Sky Drive,The game was exciting,The game was not exciting,0
+That game was exciting as a walk,The game was exciting,The game was not exciting,1
+The man was as funny as the writer,The man was joking,The man wasn't kidding,0
+The man was as funny as a comedian,The man was joking,The man wasn't kidding,1
+It was cold like ice cream,That thing was cold,That thing was not cold,0
+It was cold like soup,That thing was cold,That thing was not cold,1
+It was crispy like an idli,It was crisp,It was not crisp,0
+It was crispy like a dosa,It was crisp,It was not crisp,1
+The armor she wore was as hard as gold,Her body was very hard,Her body was very thick,0
+The armor she wore was as hard as a diamond,Her body was very hard,Her body was very thick,1
+Her dress was full of attractive colors like the bow of lust,Her dress was colorful,Her clothes were not attractive colors,0
+Her dress was colorful like a white board,Her dress was colorful,Her clothes were not attractive colors,1
+This house is as old as a new building,That house is old,That house is new,0
+This house is as old as an old monument,That house is old,That house is new,1
+His speech is hoarse like a whisper,His speech is hoarse,He likes to talk,0
+His speech is hoarse like a loud voice,His speech is hoarse,He likes to talk,1
+He is cute like grandma,"He's cute, he's not cute",He is not cute,0
+He is as cute as a newborn baby,"He's cute, he's not cute",He is not cute,1
+It was dark like a full moon day,It was very dark that day,Kagkattalu was not born that day,0
+It was dark like a new moon day,It was very dark that day,Kagkattalu was not born that day,1
+He is as young as a baby,He is the youngest,He is not young,0
+He is as young as grandfather,He is the youngest,He is not young,1
+His dress was clean like an officer,His clothes were clean,His clothes are not clean,0
+His clothes were clean like a beggar,His clothes were clean,His clothes are not clean,1
+The snack was as thin as bread,That snack was bland,That snack is not thin,0
+The snack was as thin as bread,That snack was bland,That snack is not thin,1
+That space was as high as the sky,The place was high,That space is not high,0
+The place was as high as the earth,The place was high,That space is not high,1
+Its shape is curved like a square,Its shape is curved,Its shape is not curved,0
+Its shape is curved like a circle,Its shape is curved,Its shape is not curved,1
+It is as big as a ship,That's huge,It's not that big,0
+It is as big as a boat,That's huge,It's not that big,1
+Her tune is as lovely as the singer,Her tune is lovely,Her tune is not good,0
+Her raga is as beautiful as a dancer,Her tune is lovely,Her tune is not good,1
+This vehicle is as fast as a bullock cart,This vehicle is fast,This vehicle is not fast,0
+This vehicle is as fast as a jet,This vehicle is fast,This vehicle is not fast,1
+He is as happy as a child,He is happy,He is not happy,0
+He is as happy as an adult,He is happy,He is not happy,1
+He is as big as an elephant,He is big,He is not big,0
+He is as big as an ant,He is big,He is not big,1
+She is revered as a goddess,She is venerable,She is not respectable,0
+She is revered as a devil,She is venerable,She is not respectable,1
+The building is luxurious like a bungalow,That building is luxurious,That building is not luxurious,0
+That building is luxurious like a hut,That building is luxurious,That building is not luxurious,1
+This fruit is juicy like sugarcane,This fruit is juicy,This fruit is not juicy,0
+This fruit is juicy like seebe,This fruit is juicy,This fruit is not juicy,1
+He is rich like Ambani,He is rich,He is not rich,0
+He is as rich as a beggar,He is rich,He is not rich,1
+That oil is as viscous as coconut oil,That oil is viscous,That oil is not viscous,0
+That oil is as viscous as alum,That oil is viscous,That oil is not viscous,1
+Energy is as unlimited as the energy of the sun,Energy is unlimited,Energy is not unlimited,0
+Energy is unlimited like electrical energy,Energy is unlimited,Energy is not unlimited,1
+He was as honest as a dog.,He had an honest character.,He has no honest character,0
+He was as honest as a fox.,He had an honest character.,He has no honest character,1
+She is as excellent as a topper,She is outstanding,She is not outstanding,0
+She excels as a normal student,She is outstanding,She is not outstanding,1
+That subject was complicated like physics,The subject was complicated,The subject was not complicated,0
+That subject was as complicated as history,The subject was complicated,The subject was not complicated,1
+The heat of that object is as hot as the sun,The heat of that object is hot,The heat of that object is not hot,0
+The heat of that object is as hot as the moon,The heat of that object is hot,The heat of that object is not hot,1
+That star is as far from the Earth as the Sun,That star is far away from earth,That star is not far from Earth,0
+That star is as far from the Earth as the Moon,That star is far away from earth,That star is not far from Earth,1
+Tsunamis are as natural as volcanoes,Tsunamis are as natural as volcanoes,Tsunamis are not natural like volcanoes,0
+A tsunami is as natural as a satellite launch,Tsunamis are as natural as volcanoes,Tsunamis are not natural like volcanoes,1
+Hitting sixes in cricket is difficult,Hitting sixes in cricket is difficult,Hitting sixes in cricket is difficult,0
+It is difficult to score a single in cricket,Hitting sixes in cricket is difficult,Hitting sixes in cricket is difficult,1
+Alcohol is like poison to the body,Madhyamika is good for the body,Alcohol is not good for the body,0
+Madhyapan is like elixir for the body,Madhyamika is good for the body,Alcohol is not good for the body,1
+That stuff is round like a wheel,That stuff is round,That stuff isn't round,0
+That stuff is round like a ladder,That stuff is round,That stuff isn't round,1
+The lecture was as interesting as a magic show,That lecture was interesting,That lecture was not interesting,0
+That lecture was like a magic show that made me sleepy,That lecture was interesting,That lecture was not interesting,1
+That region gets snowfall like Kashmir,It snows in that area,It does not snow in that area,0
+That region gets snowfall like Rajasthan,It snows in that area,It does not snow in that area,1
+His commitment was as strong as iron,His commitment was strong,His commitment is unwavering,0
+His commitment was as hard as glass,His commitment was strong,His commitment is unwavering,1
+That painting was as wonderful as a rainbow,That painting was amazing,That painting isn't great,0
+That painting was as wonderful as the spilled paint,That painting was amazing,That painting isn't great,1
+That match was as important as the World Cup Final,That match was important,That match was not important,0
+That match was as important as a league match,That match was important,That match was not important,1
+This game is as famous all over the world as football,This game is famous all over the world,This game is not famous all over the world,0
+This game is as famous worldwide as Kabaddi,This game is famous all over the world,This game is not famous all over the world,1
+The man was influential as a politician,The man was impressive,That person is not impressed,0
+The man was influential as a citizen,The man was impressive,That person is not impressed,1
+The taste of the meal was delicious as cooked by Amma,The taste of the meal was delicious,The food did not taste good,0
+The taste of the meal was as delicious as hotel cuisine,The taste of the meal was delicious,The food did not taste good,1
+Its height was as high as Mount Everest,It was very tall,Its not very tall,0
+Its height was like hills,It was very tall,Its not very tall,1
+The sound was as small as the sound of birds,The sound was small,That sound was not small,0
+The sound was small like the sound of animals,The sound was small,That sound was not small,1
+This animal is wild like a lion,This animal is a wild animal,This animal is not a wild animal,0
+This animal is wild like a cat,This animal is a wild animal,This animal is not a wild animal,1
+His achievement is as big as a mountain,His achievement is great,His achievement is not great,0
+His achievement is as big as a swimming pool,His achievement is great,His achievement is not great,1
+His smile was as cute as a child's,His smile was cute,His smile is not cute,0
+They were cute as adults,His smile was cute,His smile is not cute,1
+He was playing the flute like Krishna,He was playing the flute,He did not play the flute,0
+He played the flute like Arjuna,He was playing the flute,He did not play the flute,1
+His cheeks were as white as milk,His cheeks were pale,His cheeks were not white,0
+His cheeks were as white as water,His cheeks were pale,His cheeks were not white,1
+His experience is as vast as the ocean,His experience is vast,His experience was not overwhelming,0
+His experience is as vast as future,His experience is vast,His experience was not overwhelming,1
+The price of gold is increasing day by day,Gold price is increasing day by day,Gold price is not increasing day by day,0
+The price of gold is going down day by day,Gold price is increasing day by day,Gold price is not increasing day by day,1
+The color of the object is white as snow,The color of the material is white,The color of the material is not white,0
+The color of the material is stone white,The color of the material is white,The color of the material is not white,1
+The shape of football is round,A football is round in shape,Football is not round in shape,0
+The shape of football is flat,A football is round in shape,Football is not round in shape,1
+He is kind like Mother Teresa,He is kind,He is not merciful,0
+He is as kind as bin Laden,He is kind,He is not merciful,1
+That country is as clean as Singapore,That country is very clean,That country is not very clean,0
+That country is as clean as India,That country is very clean,That country is not very clean,1
+They were Bhagat Singh revolutionaries,They are revolutionaries,They are not revolutionaries,0
+They were revolutionaries like Gandhiji,They are revolutionaries,They are not revolutionaries,1
+Online education is becoming a trend in the world,It is becoming a trend in the world,It is not changing as a trend in the world,0
+Offline education is becoming a trend in the world,It is becoming a trend in the world,It is not changing as a trend in the world,1
+Its size is as big as a telephone,Its size is large,Its size is not big,0
+Its size is as big as a mobile,Its size is large,Its size is not big,1
+Foods like eggs are high in protein,The food is high in protein,The diet is not high in protein,0
+Foods like rice are high in protein,The food is high in protein,The diet is not high in protein,1
+Kale is fibrous like yam,Alfalfa contains fiber,Alfalfa does not contain fiber,0
+Kale is as fibrous as pepper,Alfalfa contains fiber,Alfalfa does not contain fiber,1
+That addiction is as dangerous as smoking,That addiction is also dangerous,Even that addiction is not dangerous,0
+That addiction is as dangerous as meditation,That addiction is also dangerous,Even that addiction is not dangerous,1
+He swims like a dolphin,He swims,He doesn't swim,0
+He swims like an elephant,He swims,He doesn't swim,1
+That animal can live longer than a turtle,That animal can live longer,That animal does not live long,0
+That animal can live longer than a mosquito,That animal can live longer,That animal does not live long,1
+He knows as much as a scientist,He knows more,He is not well known,0
+He knows as illiterate,He knows more,He is not well known,1
+That worm can fly like a bird,That worm can fly,That worm is not a necklace,0
+That worm can fly like an animal,That worm can fly,That worm is not a necklace,1
+His handwriting is as beautiful as the print,His handwriting is beautiful,His handwriting is not beautiful,0
+His handwriting is beautiful,His handwriting is beautiful,His handwriting is not beautiful,1
+His marks are like topper,His marks are high,His marks are not high,0
+His marks are like last ranker,His marks are high,His marks are not high,1
+The app has become as successful as YouTube,Application is successful,Application not successful,0
+The app has seen success like WeChat,Application is successful,Application not successful,1
+The jewel looked like a Kohinoor diamond,The jewelry was unique,Jewelry is not unique,0
+The jewelery looked like an ordinary piece of jewellery,The jewelry was unique,Jewelry is not unique,1
+His voice is as clear as an adult's,His voice is clear,His voice was not clear,0
+His voice is as clear as a child's,His voice is clear,His voice was not clear,1
+His mind is soft like his mother-in-law,His mind is soft,His mind is not soft,0
+His mind is as soft as stone,His mind is soft,His mind is not soft,1
+That food is as sweet as sugar,That food is sweet,That food is not sweet,0
+That food is as sweet as neem,That food is sweet,That food is not sweet,1
+That fruit bears fruit all the time like banana,That fruit always bears fruit,That fruit does not bear fruit all the time,0
+That fruit bears fruit like jackfruit all the time,That fruit always bears fruit,That fruit does not bear fruit all the time,1
+That fruit is available only for a limited time like mango,That fruit is only available for a limited time,That fruit is available in all seasons,0
+That fruit is only available for a limited time like an apple,That fruit is only available for a limited time,That fruit is available in all seasons,1
+That vegetable has saffron color like carrot,That vegetable has saffron color,That vegetable has no saffron colour,0
+That vegetable has a saffron color like beetroot,That vegetable has saffron color,That vegetable has no saffron colour,1
+Beetroot is high in sugar,Beetroot is high in sugar,Beetroot is not high in sugar,0
+Beetroot is high in sour content,Beetroot is high in sugar,Beetroot is not high in sugar,1
+Peanuts are called the poor man's almonds,Poor man's almonds are peanuts,A poor man's almond is not a peanut,0
+Pista is called the poor man's almond,Poor man's almonds are peanuts,A poor man's almond is not a peanut,1
+That crystal is as precious as a gem,That crystal is precious,That crystal is not precious,0
+That crystal is precious like a stone,That crystal is precious,That crystal is not precious,1
+It was as white as a white cloud,It was white,It is not white,0
+It was as white as a blackboard,It was white,It is not white,1
+She is as fresh as a flower,She is fresh,She is not fresh,0
+She is as fresh as a dry leaf,She is fresh,She is not fresh,1
+He has an attractive body like a gym guy,He has an attractive body,He does not have an attractive body,0
+He has an attractive body like a chubby one,He has an attractive body,He does not have an attractive body,1
+She is beautiful like barbie,She is beautiful,She is not beautiful,0
+She is as beautiful as Mickey,She is beautiful,She is not beautiful,1
+That water is as clean as filtered water,That water is clean,That water is not clean,0
+That water is as clean as pond water,That water is clean,That water is not clean,1
+He has a girlish mind like a child,He has a girlish mind,He is not girlish,0
+He has the mind of a girl like an adult,He has a girlish mind,He is not girlish,1
+He was as funny as a comedian,He was ridiculous,He is not ridiculous,0
+He was as ridiculous as the professor,He was ridiculous,He is not ridiculous,1
+That snack is as soft as a donut,That snack is soft,That snack is not soft,0
+That snack is as smooth as a smoothie,That snack is bland,That snack is not soft,1
+That music is lovely to listen to,That music is lovely to listen to,That music is not pleasant to listen to,0
+That music is hoarse to listen to,That music is lovely to listen to,That music is not pleasant to listen to,1
+He is small like a thin man,He is small,He is not small,0
+He is short like a fat man,He is small,He is not small,1
+This game is as adventurous as scuba,This game is an adventure game,This game is not an adventure game,0
+This game is as adventurous as swimming,This game is an adventure game,This game is not an adventure game,1
+She is simple like a housewife,She is simple,She is not simple,0
+She is simple as a model,She is simple,She is not simple,1
+That animal is as long as a snake,That animal is long,That animal is not tall,0
+That animal is as long as a lizard,That animal is long,That animal is not tall,1
+It is as neutral as a cloud,It is neutral,It is not neutral,0
+It is as neutral as a rock,It is neutral,It is not neutral,1
+The weather is cold like winter,The weather is also cold,The weather is not cold either,0
+The weather is also cool like summer,The weather is also cold,The weather is not cold either,1
+The weather is also warm like summer,The weather is also warm,The weather is not warm either,0
+The weather is also warm like the rainy season.,The weather is also warm,The weather is not warm either,1
+That boy is as tall as a giraffe.,That boy is tall,That boy is not tall,0
+That boy is as tall as a deer,That boy is tall,That boy is not tall,1
+The movie has a straightforward story like a love story,The movie has a straightforward story,The movie does not have a straightforward story,0
+The movie has a straightforward story like a suspense thriller,The movie has a straightforward story,The movie does not have a straightforward story,1
+His eyes are as blue as the sky,His eyes are blue,His eyes are not blue,0
+His eyes are blue like moon,His eyes are blue,His eyes are not blue,1
+A soldier's arm is as hard as iron,A soldier's arm is stiff,A soldier's arm is not strong,0
+A soldier's arm is as hard as plastic,A soldier's arm is stiff,A soldier's arm is not strong,1
+This substance also has a sweet smell like a flower,This substance also has a pleasant smell,This material also does not have a pleasant smell,0
+This substance also has a melodious smell like an animal,This substance also has a pleasant smell,This material also does not have a pleasant smell,1
+The universe has innumerable stars,The universe has innumerable stars,The universe does not have countless stars,0
+The universe has innumerable planets,The universe has innumerable stars,The universe does not have countless stars,1
+He is as focused as a horse at work,He is concentrating on work,He is not concentrating on work,0
+He is as focused as a buffalo at work,He is concentrating on work,He is not concentrating on work,1
+Its color is milky white,Its color is white,Its color is not white,0
+Its color is white like water,Its color is white,Its color is not white,1
+They change color like chameleons,They change color,They do not change color,0
+They change color like a snake,They change color,They do not change color,1
+That building is as beautiful as the Taj Mahal,That building is beautiful,That building is not beautiful,0
+That building is as beautiful as a demolished palace,That building is beautiful,That building is not beautiful,1
+That road is as straight as a highway,That road is straight,That road is not straight,0
+That road is as straight as a hill station,That road is straight,That road is not straight,1
+The road has twists and turns like a hill station,That road has twists and turns,That road has no turns,0
+That road has twists and turns like a highway,That road has twists and turns,That road has no turns,1
+Investing in stock market is risky,Investing is risky,Investment is not risky,0
+Investing in fixed deposits is risky,Investing is risky,Investment is not risky,1
+The coffee was hot,The coffee was hot,The coffee was cold,0
+The coffee was cold,The coffee was hot,The coffee was cold,1
+The height of the stick was long,The height of the stick was long,The height of the stick was broken,0
+The height of the stick was broken,The height of the stick was long,The height of the stick was broken,1
+The village house is very big,The village house is very big,The village house is very small,0
+The village house is very small,The village house is very big,The village house is very small,1
+Cricket game is very easy,Cricket game is very easy,The game of cricket is very difficult,0
+The game of cricket is very difficult,Cricket game is very easy,The game of cricket is very difficult,1
+Playing chess requires a lot of intelligence,Playing chess requires a lot of intelligence,Playing chess requires less intelligence,0
+Playing chess requires less intelligence,Playing chess requires a lot of intelligence,Playing chess requires less intelligence,1
+The colors of that painting were beautiful.,The colors of that painting were beautiful,The colors of that painting are not beautiful,0
+The colors of that painting were ugly.,The colors of that painting were beautiful,The colors of that painting are not beautiful,1
+The movie had a good message,The movie had a good message,There is no good message in the movie,0
+There was a bad message in the movie,The movie had a good message,There is no good message in the movie,1
+The music of the song was raucous,The music of the song was melodious,The music of the song is not melodious,0
+The melody of the song was hoarse,The music of the song was melodious,The music of the song is not melodious,1
+There were more games for children at the fair,There were more games in the fair,There were fewer games at the fair,0
+There were few games for children at the fair,There were more games in the fair,There were fewer games at the fair,1
+His speech attracted people like steel,His speech attracted people,His speech did not attract people,0
+His speech attracted people like plastic,His speech attracted people,His speech did not attract people,1
+That animal has a sharp look,The animal looks sharp,The animal does not look sharp,0
+The animal has a soft appearance,The animal looks sharp,The animal does not look sharp,1
+That problem is as easy as drinking water,That problem is easy,That problem is not easy,0
+That problem is as easy as climbing a hill,That problem is easy,That problem is not easy,1
+The concert was so good that I fell asleep,The concert was good,The concert is not good,0
+The concert was good enough to want to listen again,The concert was good,The concert is not good,1
+This vehicle is fast like a rocket,This vehicle is very fast,This vehicle is not very fast,0
+This vehicle is as fast as a bullock cart,This vehicle is very fast,This vehicle is not very fast,1
+His dance was so catchy that it made people dance,His dance was impressive,His dance is not attractive,0
+His dance was so charming that he fell asleep,His dance was impressive,His dance is not attractive,1
+The price of that thing is more than petrol,That stuff is expensive,The price of that thing is not expensive,0
+That stuff is as expensive as water,That stuff is expensive,The price of that thing is not expensive,1
+His handwriting is as beautiful as computer writing,His handwriting is beautiful,His handwriting is not beautiful,0
+His handwriting is as beautiful as a doctor's prescription,His handwriting is beautiful,His handwriting is not beautiful,1
+The flower smelled like perfume,The flower was fragrant,That flower does not smell,0
+The flower was very fragrant,The flower was fragrant,That flower does not smell,1
+His mind is soft like cotton,His mind is soft,His mind is not soft,0
+His mind is as soft as stone,His mind is soft,His mind is not soft,1
+This disease spreads like covid,This disease is contagious,This disease is not contagious,0
+This disease spreads like cancer,This disease is contagious,This disease is not contagious,1
+Dry fruits are useful for health,Useful for health,Not good for health,0
+Chocolate is useful for health,Useful for health,Not good for health,1
+That fruit is expensive like dry fruits,That fruit is expensive,That fruit is not expensive,0
+That fruit is as expensive as a banana,That fruit is expensive,That fruit is not expensive,1
+That month has few days like February,That month has the shortest day,That month has no short day,0
+That month has less days as December,That month has the shortest day,That month has no short day,1
+That day will be a holiday like Sunday,There will be a holiday on that day,There is no holiday on that day,0
+That day will be a holiday like Monday,There will be a holiday on that day,There is no holiday on that day,1
+Traffic in that city is like Bangalore,Traffic in that city is heavy,The traffic of that city is not much,0
+Traffic in that city is like Mysore,Traffic in that city is heavy,The traffic of that city is not much,1
+The pollution in that city is like Delhi,The pollution in that city is high,The pollution of that city is not high,0
+The pollution in that city is like Bangalore,The pollution in that city is high,The pollution of that city is not high,1
+Last month it rained like a cyclone,It was raining,It did not rain,0
+Last month it rained like summer,It was raining,It did not rain,1
+He is a scientist like Kalam,He is a scientist,He is not a scientist,0
+He is a scientist like Vajpayee,He is a scientist,He is not a scientist,1
+He is as generous as Bill Gates,He is generous,He is generous,0
+He is as generous as Adani,He is generous,He is not generous,1
+The area is crowded like a market,The area is densely populated,The area is not very populated,0
+The area is crowded like a graveyard,The area is densely populated,The area is not very populated,1
+It rains heavily in that region,It rains in that area,It does not rain in that area,0
+That region gets rain like Rajasthan,It rains in that area,It does not rain in that area,1
+The state has more football fans like Kerala,There are more football lovers,Not many football fans,0
+The state has more football fans like Karnataka,There are more football lovers,Not many football fans,1
+It is a sacred field like a shrine,It is a sacred field,It is not a sacred field,0
+It is a sacred realm like a fantasy park,It is a sacred field,It is not a sacred field,1
+That material attracts like a magnet,That object draws,That object is not drawn,0
+The material draws like plastic,That object draws,That object is not drawn,1
+It does not decompose like plastic,It does not decay,It decays,0
+It does not rot like fruit,It does not decay,It decays,1
+That place is as scary as a graveyard,There is fear in that place,There is no fear in that place,0
+"In that place, fear is like a playground",There is fear in that place,There is no fear in that place,1
+As dangerous as covid,That is dangerous,It is not dangerous,0
+As dangerous as a cold,That is dangerous,It is not dangerous,1
+That profession is more labor like doctor,That profession is more labor intensive,There is not much labor for that profession,0
+That profession is more labor intensive than farming,That profession is more labor intensive,There is not much labor for that profession,1
+He is as eloquent as a politician as a monk,They are talkative,He is not a man of words,0
+He is as eloquent as a politician as a monk,They are talkative,He is not a man of words,1
+His kiss was deep as if he had missed it so much,His kiss was very deep,His kiss is not very dark,0
+His kiss deepened for a few seconds,His kiss was very deep,His kiss is not very dark,1
+His path is thorny,His path is difficult,His path is not difficult,0
+His path is lined with flowers,His path is difficult,His path is not difficult,1
+Everyone respects him as a freedom fighter,Everyone respects him,Not everyone respects him,0
+Everyone respects him as a terrorist,Everyone respects him,Not everyone respects him,1
+That company is famous as Tata company,That company is famous,That company is not famous,0
+That company is famous as a start-up,That company is famous,That company is not famous,1
+"That company, like IBM, has hundreds of years of history",The company has hundreds of years of history,That company does not have a history of hundreds of years,0
+That company has hundreds of years of history like Facebook,The company has hundreds of years of history,That company does not have a history of hundreds of years,1
+His face is full of Buddha's smile,His moan is laced with laughter,His cry is not without a smile,0
+His grin is like a thief's,His moan is laced with laughter,His cry is not without a smile,1
+The animal is herbivore like deer,That animal is a herbivore,That animal is not a herbivore,0
+The animal is a herbivore like a tiger,That animal is a herbivore,That animal is not a herbivore,1
+Has venom like a snake,Contains poison,Has no poison,0
+Has poison like an eagle,Contains poison,Has no poison,1
+The freedom struggle was ironclad,Freedom struggle is difficult,Freedom struggle is easy,0
+The freedom struggle was like a peeled banana,Freedom struggle is difficult,Freedom struggle is easy,1
+The celebration of that house was like a wedding,There was excitement in that house,There is no celebration in that house,0
+That house was like a house of death,There was excitement in that house,There is no celebration in that house,1
+The thing is as small as a mustard seed,That thing is small,That thing is not small,0
+The object is as small as a ball,That thing is small,That thing is not small,1
+That flower has a thorn like a rose,That flower has a thorn,That flower has no thorn,0
+That flower has a thorn like hibiscus,That flower has a thorn,That flower has no thorn,1
+The area has a diverse biome like a forest,The area has diverse biomes,The area lacks biodiversity,0
+The area has as diverse a biome as the city,The area has diverse biomes,The area lacks biodiversity,1
+The earth revolves around the sun,The earth rotates,The earth does not rotate,0
+Earth revolves around the moon,The earth rotates,The earth does not rotate,1
+Sending money is easy with UPI,Sending money is easy,Sending money is not easy,0
+Sending money is easy by check,Sending money is easy,Sending money is not easy,1
+The population of that country is equal to that of India,The population of that country is high,The population of that country is less,0
+The population of that country is about the same as that of Canada,The population of that country is high,The population of that country is less,1
+The area of ​​that country is as big as America,The extent of that country is huge,The extent of that country is not big,0
+The area of ​​that country is as big as Singapore,The extent of that country is huge,The extent of that country is not big,1
+The Games are as big as the Olympics,That sports event is huge,That sports event is not big,0
+The event is as big as the Asian Games,That sports event is huge,That sports event is not big,1
+The building is as historic as the Red Fort,That building is historic,That building is not historic,0
+The building is as historic as the red shopping mall,That building is historic,That building is not historic,1
+He dances like Prabhudeva,He dances,He doesn't dance,0
+He dances like the Great Kali,He dances,He doesn't dance,1
+A booster dose is necessary to prevent covid,A booster dose is necessary,A booster dose is not necessary,0
+A polio dose is essential to prevent covid,A booster dose is necessary,A booster dose is not necessary,1
+It was as cold as Kashmir in that town,It was cold in that town,There is no cold in that town,0
+It was as cold as Mandya in that town,It was cold in that town,There is no cold in that town,1
+There was as much sheke as Chennai in that town,There was Sheke in that town,There is no Sheke in that town,0
+There was as much Sheke in that town as Simla,There was Sheke in that town,There is no Sheke in that town,1
+He said that town is as clean as Mysore,That town is much cleaner,That town is not very clean,0
+He said that town is as clean as Bangalore,That town is much cleaner,That town is not very clean,1
+He is an influential person as well as a politician,He is influential,They are not influential,0
+He is an influential person as a farmer,He is influential,They are not influential,1
+Women's freedom in the country is less like Afghanistan,Women's freedom is less in the country,There is no less freedom for women in the country,0
+Freedom of women in the country is less in India,Women's freedom is less in the country,There is no less freedom for women in the country,1
+Food is highly nutritious like millet,Food is nutritious,Food is not nutritious,0
+Food is more nutritious like panipuri,Food is nutritious,Food is not nutritious,1
+The man was an ideal person as a teacher,He is an ideal person,He is not an ideal person,0
+The man was an ideal person like a thief,He is an ideal person,He is not an ideal person,1
+Sri Lanka is surrounded by water like an island,Sri Lanka is surrounded by water,Sri Lanka is not surrounded by water,0
+Sri Lanka is surrounded by water like India,Sri Lanka is surrounded by water,Sri Lanka is not surrounded by water,1
+He had 10 heads like Ravana,He had 10 heads,He has no 10 head,0
+He had 10 heads like Kumbhakarna,He had 10 heads,He has no 10 head,1
+All the students were tired of saying goodbye at the school farewell ceremony,All the students were bored,Not all students are bored,0
+All the students were bored to celebrate the school farewell ceremony,All the students were bored,Not all students are bored,1
+This vehicle moves as fast as a flight.,This vehicle moves fast,This vehicle does not move fast,0
+This vehicle moves as fast as a bullock cart.,This vehicle moves fast,This vehicle does not move fast,1
+This jewel is as unique as the Kohinoor diamond,This jewel is unique,This ornament is not unique,0
+This jewelery is unique as usual,This jewel is unique,This ornament is not unique,1
+Investing is as volatile as the stock market,Investments are volatile,Investments are not volatile,0
+Investments are volatile like fixed deposits,Investments are volatile,Investments are not volatile,1
+This person is famous as an actor,This person is famous,This person is not famous,0
+This person is famous as a farmer,This person is famous,This person is not famous,1
+This land is fertile like agricultural land,This land is fertility,This land is not fertile,0
+This land is as fertile as a desert,This land is fertility,This land is not fertile,1
+This road is narrow like a tunnel,This road is narrow,This road is not narrow,0
+This road is narrow like a highway,This road is narrow,This road is not narrow,1
+This pond is as wide as the sea,This pool is wide,This pool is not wide,0
+This pool is as wide as a lake,This pool is wide,This pool is not wide,1
+This program is scary like magic,This show is terrible,This program is not terrible,0
+This show is scary like a circus,This show is terrible,This program is not terrible,1
+This recipe contains nutrients like millet pulp,This cooking contains nutrients,This recipe does not include nutrients,0
+This recipe contains nutrients like chapati,This cooking contains nutrients,This recipe does not include nutrients,1
+This vehicle can fly as high as a flight,This vehicle can fly high,This vehicle does not fly high,0
+This vehicle can fly as high as a helicopter,This vehicle can fly high,This vehicle does not fly high,1
+This person is as naughty as a child,This person is a troll,This person is not an elf,0
+This person is as naughty as an old man,This person is a troll,This person is not an elf,1
+His skin is as soft as a baby's skin,His skin is soft,His skin is not soft,0
+His skin is as soft as the skin of an old man,His skin is soft,His skin is not soft,1
+This show is scary as a blast,This show is terrible,This program is not terrible,0
+This show is as scary as a party,This show is terrible,This program is not terrible,1
+This building is as ornate as a palace,This building is decorative,This building is not fancy,0
+The building is decorated like a government office,This building is decorative,This building is not fancy,1
+This game is as big as the league,This game is huge,This game is not big,0
+This game is as big as the World Cup,This game is huge,This game is not big,1
+This disease is as urgent as a cough,This disease is not urgent,This disease is urgent,0
+This disease is as urgent as a heart attack,This disease is not urgent,This disease is urgent,1
+This dance is as ancient as Bharatanatyam,This dance is ancient,This dance is not ancient,0
+This dance is as old as disco,This dance is ancient,This dance is not ancient,1
+This visit is a regular checkup,This visit is not definitive,This visit is crucial,0
+This visit is as critical as the surgery,This visit is not definitive,This visit is crucial,1
+This food is as organic as Ayurvedic,This food is organic,This food is not organic,0
+This food is as organic as Chinese food,This food is organic,This food is not organic,1
+This food is as chemical as a pill,This food is chemical,This food is chemical free,0
+This diet is as chemical as Ayurveda,This food is chemical,This food is chemical free,1
+These letters are as basic as the alphabet,These letters are basic,These letters are not basic,0
+These letters are as basic as the essay,These letters are basic,These letters are not basic,1
+This land is as dry as a desert,This ground is dry,This ground is not dry,0
+This land is as dry as agricultural land,This ground is dry,This ground is not dry,1
+His muscles are like those of a wrestler,His muscles are strong,His muscles are not strong,0
+His muscles are like a patient,His muscles are strong,His muscles are not strong,1
+He is as faithful as a dog,He is faithful,He is not faithful,0
+He is as loyal as a cat,He is faithful,He is not faithful,1
+It is as big as the Taj Mahal,It is famous like Taj Mahal,It is not as famous as the Taj Mahal,0
+It is as big as Gol Gumbaz,It is famous like Taj Mahal,It is not as famous as the Taj Mahal,1
+This insect is microscopic like a mite,This insect is microscopic,This insect is not microscopic,0
+This insect is microscopic like a virus,This insect is microscopic,This insect is not microscopic,1
+This metal is as valuable as diamond,This metal is very valuable,This metal is cheap,0
+This metal is as valuable as silver,This metal is very valuable,This metal is cheap,1
+He is as dangerous as a monk,He is dangerous,He is not dangerous,0
+He is as dangerous as a robber,He is dangerous,He is not dangerous,1
+He is as funny as the Joker,He is ridiculous,He is not ridiculous,0
+He is funny as a doctor,He is ridiculous,He is not ridiculous,1
+His eyes filled with tears,He was crying,He wasn't crying,0
+There was a smile in his eyes,He was crying,He wasn't crying,1
+The play was sleepy,The play was good,The play was not good,0
+The play was whistle blowing,The play was good,The play was not good,1
+Wearing a saree is an Indian culture,Wearing a saree is an Indian culture,Wearing saree is not Indian culture,0
+Wearing a saree is a western culture,Wearing a saree is an Indian culture,Wearing saree is not Indian culture,1
+In the Himalayas it is bitterly cold,It is cold in the Himalayas,There is no cold in the Himalayas,0
+The Himalayas are so cold that you sweat,It is cold in the Himalayas,There is no cold in the Himalayas,1
+The state is small in area like Karnataka,The state is small in area,The state is not small in area,0
+The state is small in area like Goa,The state is small in area,The state is not small in area,1
+The state is as populous as Uttar Pradesh,is highly populated,Not very populated,0
+The state is as populous as Kerala,is highly populated,Not very populated,1
+That country is famous for tourism like Thailand,The country is famous for tourism,The country is not known for tourism,0
+That country is famous for tourism like Pakistan,The country is famous for tourism,The country is not known for tourism,1
+He is always alert like a warrior,He is always alert,He is not always alert,0
+He is always alert like normal people,He is always alert,He is not always alert,1
+He is a disciplined soldier when it comes to work,He is a disciplined soldier,He is not a disciplined soldier,0
+He is a negligent boy when it comes to work,He is a disciplined soldier,He is not a disciplined soldier,1
+That person talks like a slur,That person talks a lot,The man did not talk much,0
+That person is as peaceful as a man of speech,That person talks a lot,The man did not talk much,1
+That road is full of vehicles like a highway,That road is filled with more vehicles,That road has less vehicles,0
+That road is filled with more vehicles than a normal road,That road is filled with more vehicles,That road has less vehicles,1
+That fruit is very rare like jackfruit,That fruit is very rare,That fruit is not very rare,0
+That fruit is very rare like an orange,That fruit is very rare,That fruit is not very rare,1
+Both of them were as close as brothers and sisters,Both of them were as close as brothers and sisters,Neither of them are as close as siblings and enemies,0
+Both of them were as close as enemies,Both of them were as close as brothers and sisters,Neither of them are as close as siblings and enemies,1
+"That animal, like the kangaroo, is only found in Australia",The animal will be seen,The animal cannot be seen,0
+"The animal, like the kangaroo, is found only in Asia",The animal will be seen,The animal cannot be seen,1
+Her command of language is like that of a scholar,Her command of the language is good,Her command of the language is not good,0
+Her command of the language is like that of a newbie,Her command of the language is good,Her command of the language is not good,1
+Her handwriting is as neat as a computer keyboard,Her handwriting is neat,Her handwriting is not neat,0
+Her handwriting is as neat as a doctor's note,Her handwriting is neat,Her handwriting is not neat,1
+He had renounced desires like the Buddha,He had renounced desires,He has not given up desires,0
+He had renounced desires like Duryodhana,He had renounced desires,He has not given up desires,1
+There was a speaker's grip on his words,His words were restrained,He has no control over his words,0
+His words were as if they were unknowing,His words were restrained,He has no control over his words,1
+Those people are as patriotic as soldiers,Those people are patriotic,Those people are not patriotic,0
+Those people are as patriotic as terrorists,Those people are patriotic,Those people are not patriotic,1
+That incident was as frightening as an accident,The incident was terrifying,The event was not scary,0
+The event was as terrifying as a wedding,The incident was terrifying,The event was not scary,1
+Its sound was as loud as thunder,Its sound was loud,Its sound is not loud,0
+Its sound was as loud as lightning,Its sound was loud,Its sound is not loud,1
+His awareness is as much as that of a janitor,His awareness is low,He knows more,0
+His knowledge is like that of a professor,His awareness is low,He knows more,1
