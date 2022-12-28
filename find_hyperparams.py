@@ -55,7 +55,7 @@ def objective(params):
 def main_tune(args):
     if not args.use_grid_search:
         search_space = {
-            "learning_rate": hp.uniform("learning_rate", 1e-7, 1e-4),
+            "learning_rate": hp.uniform("learning_rate", 1e-7, 1e-5),
             "batch_size": hp.choice("batch_size", [8, 16, 32, 64]),
         }
     else:
@@ -75,13 +75,15 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Search for hyperparameters")
     parser.add_argument("--train_file", type=str, default="langdata/en_train.csv")
     parser.add_argument("--eval_file", type=str, default="langdata/en_dev.csv")
-    parser.add_argument("--model_name", type=str, default="bert-base-multilingual-cased", choices=["bert-base-multilingual-cased", "xlm-roberta-base", "xlm-roberta-large", "google/mt5-xxl"])
+    parser.add_argument("--model_name", type=str, default="bert-base-multilingual-cased", choices=["bert-base-multilingual-cased", "xlm-roberta-base", "xlm-roberta-large", "facebook/xlm-roberta-xl"])
     parser.add_argument("--num_train_epochs", type=int, default=20)
     parser.add_argument("--max_evals", type=int, default=100)
     parser.add_argument("--use_grid_search", action="store_true", help="Use grid search instead of hyperopt")
     args = parser.parse_args()
     
     print(f"finding hyperparams for {args.model_name} with {args.num_train_epochs} epochs")
+    if args.use_grid_search:
+        print("using grid search")
 
     MODEL_NAME = args.model_name
     NUM_EPOCHS = args.num_train_epochs

@@ -51,6 +51,9 @@ from transformers import (
     SchedulerType,
     default_data_collator,
     get_scheduler,
+    XLMRobertaTokenizer,
+    XLMRobertaXLModel,
+    XLMRobertaXLConfig
 )
 from transformers.utils import PaddingStrategy, get_full_repo_name
 import pdb
@@ -349,7 +352,7 @@ def train_model(train_dataloader, model, accelerator, optimizer, lr_scheduler, a
             optimizer.step()
             lr_scheduler.step()
             optimizer.zero_grad()
-            if not args["silent"]:
+            if not args["silent"] and progress_bar is not None:
                 progress_bar.update(1)
             completed_steps += 1
 
@@ -571,8 +574,10 @@ def main(args=None):
     #
     # In distributed training, the .from_pretrained methods guarantee that only one local process can concurrently
     # download model & vocab.
-    if args["config_name"]:
+    if args["config_name"] and not args["model_name_or_path"] == "xlm-roberta-xlarge":
         config = AutoConfig.from_pretrained(args["model_name_or_path"])
+    elif args["model_name_or_path"] == "xlm-roberta-xlarge":
+        config = XLMRobertaXLConfig()
     elif args["model_name_or_path"]:
         config = AutoConfig.from_pretrained(args["model_name_or_path"])
     else:
@@ -584,20 +589,24 @@ def main(args=None):
 
     if args["tokenizer_name"]:
         tokenizer = AutoTokenizer.from_pretrained(args["tokenizer_name"], use_fast=not args["use_slow_tokenizer"])
-    elif args["model_name_or_path"]:
+    elif args["model_name_or_path"] and not args["model_name_or_path"] == "xlm-roberta-xlarge":
         tokenizer = AutoTokenizer.from_pretrained(args["model_name_or_path"], use_fast=not args["use_slow_tokenizer"])
-    else:
+    elif args["model_name_or_path"] != "xlm-roberta-xlarge":
         raise ValueError(
             "You are instantiating a new tokenizer from scratch. This is not supported by this script."
             "You can do it from another script, save it, and load it from here, using --tokenizer_name."
         )
 
     if args["model_name_or_path"]:
-        model = AutoModelForMultipleChoice.from_pretrained(
-            args["model_name_or_path"],
-            from_tf=bool(".ckpt" in args["model_name_or_path"]),
-            config=config,
-        )
+        if args["model_name_or_path"] == "xlm-roberta-xlarge":
+            tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-xlarge")
+            model = XLMRobertaXLForMultipleChoice.from_pretrained("xlm-roberta-xlarge")
+        else:
+            model = AutoModelForMultipleChoice.from_pretrained(
+                args["model_name_or_path"],
+                from_tf=bool(".ckpt" in args["model_name_or_path"]),
+                config=config,
+            )
     else:
         logger.info("Training new model from scratch")
         model = AutoModelForMultipleChoice.from_config(config)
