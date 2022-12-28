@@ -247,6 +247,18 @@ def parse_args():
         type=int,
         help="Patience for early stopping. If not passed, early stopping is not used."
     )
+    parser.add_argument(
+        "--save_predictions",
+        action="store_true",
+        help="Whether to save predictions on the test set."
+    )
+    parser.add_argument(
+        "--pred_output_dir",
+        type=str,
+        default=None,
+        help="Where to store the predictions on the test set."
+    )
+
     args = parser.parse_args()
 
     # Sanity checks: check whether train and eval file present
@@ -265,6 +277,9 @@ def parse_args():
     if args.save_embeddings:
         if args.embedding_output_dir is None:
             raise ValueError("Need embedding output dir for save embeddings mode.")
+    
+    if args.pred_output_dir is None and args.save_predictions:
+        raise ValueError("Need prediction output dir for save predictions mode.")
 
     if args.push_to_hub:
         assert args.output_dir is not None, "Need an `output_dir` to create a repo when `--push_to_hub` is passed."
@@ -324,9 +339,6 @@ class DataCollatorForMultipleChoice:
         # Add back labels
         batch["labels"] = torch.tensor(labels, dtype=torch.int64)
         return batch
-
-def prepare_data():
-    pass
 
 def train_model(train_dataloader, model, accelerator, optimizer, lr_scheduler, args, completed_steps, checkpointing_steps, progress_bar, eval_dataloader=None):
     model.train()
@@ -556,6 +568,8 @@ def main(args=None):
                 raw_datasets["train"] = split_dataset["train"]
                 raw_datasets["validation"] = split_dataset_2["train"]
                 raw_datasets["test"] = split_dataset_2["test"]
+
+        
     # Trim a number of training examples
     if args["debug"]:
         for split in raw_datasets.keys():
@@ -787,8 +801,16 @@ def main(args=None):
         cls_embeddings_all = []
         test_dataset = processed_datasets["test"]
         test_dataloader = DataLoader(test_dataset, collate_fn=data_collator, batch_size=args["per_device_eval_batch_size"])
-        model, test_dataloader = accelerator.prepare(model, test_dataloader)
-        for step, batch in enumerate(test_dataloader):
+        raw_test_dataloader = DataLoader(raw_datasets["test"], batch_size=args["per_device_eval_batch_size"])
+        model, test_dataloader, raw_test_dataloader = accelerator.prepare(model, test_dataloader, raw_test_dataloader)
+
+        if args["pred_output_dir"] is not None:
+            pred_output_file = os.path.join(args["pred_output_dir"], "predictions.csv")
+            if os.path.exists(pred_output_file):
+                # clear the file
+                open(pred_output_file, "w").close()
+
+        for step, (batch, raw_batch) in enumerate(zip(test_dataloader, raw_test_dataloader)):
             with torch.no_grad():
                 outputs = model(input_ids=batch["input_ids"], 
                                 attention_mask=batch["attention_mask"],
@@ -808,6 +830,19 @@ def main(args=None):
                         cls_embedding = cls_embedding.cpu().numpy()
                         with open(tsv_outfile, "a") as f:
                             f.write("\t".join([str(x) for x in cls_embedding]) + "\n")
+
+            if args["save_predictions"]:
+                startphrases = raw_batch["startphrase"]
+                ending1s = raw_batch["ending1"]
+                ending2s = raw_batch["ending2"]
+                predictions = accelerator.gather(predictions)
+
+                if accelerator.is_main_process:
+                    with open(pred_output_file, "a") as f:
+                        f.write("startphrase,ending1,ending2,label,pred\n")
+                        for startphrase, ending1, ending2, label, prediction in zip(startphrases, ending1s, ending2s, batch["labels"], predictions):
+                            f.write(f"{startphrase},{ending1},{ending2},{label},{prediction}\n")
+
             # If we are in a multiprocess environment, the last batch has duplicates
             if accelerator.num_processes > 1:
                 if step == len(test_dataloader) - 1:
