@@ -1,10 +1,10 @@
 # TEST
-test_files=( "dev_fr_en.csv" "dev_fr_fr.csv" "dev_hi_en.csv" "dev_hi_hi.csv" "dev_ja_en.csv" "dev_ja_ja.csv" )
-languages=( "fr_en" "fr_fr" "hi_en" "hi_hi" "ja_en" "ja_ja" )
+test_files=( "hi.csv" "id.csv" "jv.csv" "kn.csv" "su.csv" "sw.csv" )
+languages=( "hi" "id" "jv" "kn" "su" "sw" )
 
-LR=5e-6
-SEED=10
-MODEL=xlm_roberta_large
+LR=${2:-5e-6}
+SEED=${3:-10}
+MODEL=${1:-xlm_roberta_large}
 
 for index in "${!test_files[@]}"
 do
@@ -15,7 +15,7 @@ do
     echo "======================================================================="
     python run_baselines.py \
     --model_name_or_path ./${MODEL}/ckpts_seed${SEED}_lr${LR} \
-    --test_file translated_dev_sets/${test_files[index]} \
+    --test_file langdata/${test_files[index]} \
     --do_predict \
     --max_length 128 \
     --per_device_train_batch_size 32 \
