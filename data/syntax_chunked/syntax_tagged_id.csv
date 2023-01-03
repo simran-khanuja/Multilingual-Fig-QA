@@ -135,14 +135,14 @@ The lights of this city at night are like fireflies during the day.,The city is 
 "It's like living in heaven, since my father remarried.","After dad remarried, life got worse.","After my father remarried, life was very beautiful.",1,It,"'s like living in heaven , since",my father
 Guru Dita's patience is as wide as the ocean.,Teacher Dita is very patient.,Teacher Dita is impatient.,0,Guru Dita 's patience,is as wide as,the ocean
 Teacher Dita's patience is as wide as the pond.,Teacher Dita is very patient.,Teacher Dita is impatient.,1,Teacher Dita 's patience,is as wide as,the pond
-Runs as fast as a cheetah.,Run fast.,Slow running.,0,,,
-Runs as fast as a turtle.,Run fast.,Slow running.,1,,,
+Runs as fast as a cheetah.,Run fast.,Slow running.,0,Runs,as fast as,a cheetah
+Runs as fast as a turtle.,Run fast.,Slow running.,1,Runs,as fast as,a turtle
 "Hearing her words, I felt like I was being stabbed by a dagger.",Painful speech.,What a lovely saying.,0,I,felt like I was being stabbed by,a dagger
 "Hearing his words, I felt like being caressed by a lover.",Painful speech.,What a lovely saying.,1,I,felt like being caressed by,a lover
 My shoes smell like a field of flowers.,The shoes smell good.,The shoes stink.,0,My shoes,smell like,a field of flowers
 My shoes smell like a trash can.,The shoes smell good.,The shoes stink.,1,My shoes,smell like,a trash can
 A thief whose intelligence is like a mouse deer.,Clever thief.,Stupid thief.,0,whose intelligence,is like,a mouse deer
-A thief as smart as a donkey.,Clever thief.,Stupid thief.,1,,,
+A thief as smart as a donkey.,Clever thief.,Stupid thief.,1,A thief,as smart as,a donkey
 Their marriage is like Popeye & Olive.,Romantic wedding.,A contentious marriage.,0,Their marriage,is like,Popeye & Olive
 Their marriage is like Popeye & Bluto.,Romantic wedding.,A contentious marriage.,1,Their marriage,is like,Popeye & Bluto
 "Since getting married, her life is like a bird that flies freely.",His life is free.,His life is not free.,0,her life,is like,a bird that flies freely
@@ -153,16 +153,16 @@ The speed of electric cars made in Indonesia is like the speed of a jet.,The spe
 The speed of an electric car made in Indonesia is like the speed of a delman.,The speed of the car is fast.,The speed of the car is slow.,1,The speed of an electric car made in Indonesia,is like,the speed of a delman
 The winner of the singing competition when he sleeps snores like the wind sings.,His snoring was melodious.,His snoring was noisy.,0,the singing competition,when he sleeps snores like,the wind sings
 The winner of the singing contest snored like a muffler when he slept.,His snoring was melodious.,His snoring was noisy.,1,The winner of the singing contest,snored like,a muffler when he slept
-Don't act like a hot worm.,Restless action.,Too casual act.,0,a hot worm,,hot
-Do not act like a pleasure person.,Restless action.,Too casual act.,1,,,
+Don't act like a hot worm.,Restless action.,Too casual act.,0,do not,act like a,hot worm
+Do not act like a pleasure person.,Restless action.,Too casual act.,1,do not,act like a,a pleasure person
 His parents' business is like a business that went out of business.,The business is broke.,The business is successful.,0,His parents ' business,is like,a business that went out of business
 His parents' business is like a business that goes to the top.,The business is bankrupt.,The business is successful.,1,His parents ' business,is like,a business that goes to the top
 My friend acts as if he is of royal blood.,His friend acts like a rich man.,His friend acts like a pauper.,0,My friend,acts as if he is of,royal blood
 My friend's behavior felt like he was the owner of a smokeless kitchen.,His friend acts like a rich man.,His friend acts like a pauper.,1,My friend 's behavior,felt like he was the owner of,a smokeless kitchen
 Entering this company is like entering the mouth of a crocodile.,Get into a dangerous company.,Get into a company that makes you feel safe and comfortable.,0,this company,is like entering,the mouth of a crocodile
 Entering this company is like entering your own home.,Get into a dangerous company.,Get into a company that makes you feel safe and comfortable.,1,this company,is like entering,your own home
-The price of clothes at Cigasong Market now is like buying hotcakes.,The price of clothes is very cheap.,The price of clothes is very expensive.,0,,,
-The price of clothes at Cigasong Market now is like buying a private plane.,The price of clothes is very cheap.,The price of clothes is very expensive.,1,,,
+The price of clothes at Cigasong Market now is like buying hotcakes.,The price of clothes is very cheap.,The price of clothes is very expensive.,0,The price of clothes at Cigasong Market now,is like buying,hotcakes
+The price of clothes at Cigasong Market now is like buying a private plane.,The price of clothes is very cheap.,The price of clothes is very expensive.,1,The price of clothes at Cigasong Market now,is like buying,a private plane
 The words of Rina's neighbors seemed to have no bones.,Painful neighbor talk.,Neighbor sweet talk heard.,0,The words of Rina 's neighbors,,Rina 's neighbors
 Rina's neighbors talk as if her mouth smells of honey.,Painful neighbor talk.,Neighbor sweet talk heard.,1,Rina 's neighbors,talk as if her mouth smells of,honey
 Fortune comes unexpectedly like low tide.,The sustenance that comes is little.,Fortune that comes a lot.,0,Fortune,comes unexpectedly like,low tide
@@ -235,7 +235,7 @@ The role of women in Javanese custom is like white paint that is daubed over an 
 The role of women in Javanese custom is like black paint daubed on a white wall.,The role of women in Javanese customs has very little influence.,The role of women in Javanese customs is very influential.,1,The role of women in Javanese custom,is like,black paint daubed on a white wall
 Rice for the poor is a happy symbol of prosperity for most Indonesians.,Poor rice is a symbol of wealth for most Indonesians.,Poor rice is a symbol of poverty for most Indonesians.,0,Rice for the poor,is a happy symbol of,prosperity for most Indonesians
 Poor rice is a heartbreaking symbol of poverty for most Indonesians.,Poor rice is a symbol of wealth for most Indonesians.,Poor rice is a symbol of poverty for most Indonesians.,1,Poor rice,is a heartbreaking symbol of poverty for,most Indonesians
-Learning math is like seeing a ghost in a haunted hospital that has been empty for decades.,Learning math is scary.,Learning math is fun.,0,,,
+Learning math is like seeing a ghost in a haunted hospital that has been empty for decades.,Learning math is scary.,Learning math is fun.,0,Learning math,is like,seeing a ghost in a haunted hospital that has been empty for decades
 Learning mathematics is like meeting and chatting with idol artists directly.,Learning math is scary.,Learning math is fun.,1,Learning mathematics,is like,meeting and chatting with idol artists directly
 Drinking coffee at dusk is like Adam finally being able to meet Eve again after a long time.,Drinking coffee at dusk is a relief.,Drinking coffee at dusk brings regret.,0,Drinking coffee at dusk,is like Adam finally being able to meet Eve again after,a long time
 Drinking coffee at dusk is like Adam and Eve who were expelled by God from heaven.,Drinking coffee at dusk is a relief.,Drinking coffee at dusk brings regret.,1,Drinking coffee at dusk,is like,Adam and Eve who were expelled by God from heaven
@@ -328,7 +328,7 @@ Shopping for most women is like going to hell with terrifying blazing coals.,Sho
 The purpose of life is like choosing the right knife to cut the ingredients you want to cook.,The purpose of life must be determined.,The purpose of life is original.,0,The purpose of life,is like choosing the right knife to cut the ingredients,you
 The purpose of life is like scooping up water in a pond.,The purpose of life must be determined.,The purpose of life is original.,1,The purpose of life,is like scooping up water in,a pond
 The sun today seemed only an inch from the top of the crown of the head.,The sun today is very hot.,The sun today is dim.,0,The sun,today seemed only an inch from,the top of the crown of the head
-"The sun today seems to live, reluctant to die, unwilling.",The sun today is very hot.,The sun today is dim.,1,,,
+"The sun today seems to live, reluctant to die, unwilling.",The sun today is very hot.,The sun today is dim.,1,The sun today,seems to,live, reluctant to die, unwilling
 "Like an umbrella that is willing to get wet to protect the people under it, that is our government.","Like a protector of society, that's our government.","Like troublemakers, that's our government.",0,an umbrella that is willing to get wet to protect the people under it,", that is",our government
 "Like a garbage disposal in the river, that's our government.","Like a protector of society, that's our government.","Like troublemakers, that's our government.",1,a garbage disposal in the river,",",that
 "The more mature, social media is like a leaf that falls on the page.","The more mature, social media becomes less important.","The more mature, social media becomes valuable.",0,"The more mature , social media",is like,a leaf that falls on the page
@@ -337,7 +337,7 @@ Mother-in-law and son-in-law in Indonesia are like the folklore of Bawang Merah 
 Mother-in-law and son-in-law in Indonesia are like the Suramadu Bridge that connects Madura Island with the eastern part of Java Island.,Mother-in-law and son-in-law in Indonesia are contradictory.,Mother-in-law and son-in-law in Indonesia are harmonious.,1,Mother - in - law and son - in - law in Indonesia,are like,the Suramadu Bridge that connects Madura Island with the eastern part of Java Island
 Happiness is when we get shock money of 100 billion Rupiah without having to deduct taxes.,Happiness is material.,Happiness is immaterial.,0,Happiness,is when we get shock money of,100 billion Rupiah
 Happiness is gathering with my beloved family.,Happiness is material.,Happiness is immaterial.,1,Happiness,is gathering with,my beloved family
-My husband like water jug.,My husband's delivery was cold.,My husband's treatment was warm.,0,,,
+My husband like water jug.,My husband's delivery was cold.,My husband's treatment was warm.,0,My husband,like,water jug
 My husband likes room temperature during the day in the dry season.,My husband's delivery was cold.,My husband's treatment was warm.,1,My husband,likes room temperature during,the day in the dry season
 His wealth can be used to pay off the national debt and there is even a change in it.,His wealth is very abundant.,His wealth is very less.,0,His wealth,can be used to pay off the national debt and there is even a change in,it
 His wealth was not enough to feed himself.,His wealth is very abundant.,His wealth is very less.,1,His wealth,was not,enough to feed himself
@@ -712,7 +712,7 @@ Andi likes school like ants love salt.,Andi likes school.,Andy hates school.,1,A
 The child is as brave as a lion.,He is brave.,He's scared.,0,The child,is as brave as,a lion
 The child is brave as a kitten.,He is brave.,He's scared.,1,The child,is brave as,a kitten
 The house looks like it hasn't been cleaned in 100 days.,The house is very dirty.,The house is very clean.,0,The house,looks like it has n't been cleaned in,100 days
-His house is like being cleaned 100 times a day.,The house is very dirty.,The house is very clean.,1,,,
+His house is like being cleaned 100 times a day.,The house is very dirty.,The house is very clean.,1,His house,is like,being cleaned 100 times a day
 His mindset is as deep as sinking water.,His mind is shallow.,His thoughts are deep.,0,His mindset,is,as deep as sinking water
 His mindset is as deep as a well.,His mind is shallow.,His thoughts are deep.,1,His mindset,is as deep as,a well
 The distance between his house and school feels like the distance from the north pole and the south pole.,Her school is far from her home.,His school is near from his house.,0,The distance between his house and school,feels like,the distance from the north pole and the south pole
@@ -741,8 +741,8 @@ The man was carrying a bag as big as the Pancoran statue.,the bag is big.,the ba
 The man was carrying a bag as big as a nose.,the bag is big.,the bag is small.,1,The man,was carrying a bag as big as,a nose
 The young man was behaving like a rabid dog.,The young man was unmanageable.,The young man is easy to manage.,0,The young man,was behaving like,a rabid dog
 The young man was behaving like a police dog.,The young man was unmanageable.,The young man is easy to manage.,1,The young man,was behaving like,a police dog
-Runs like a horse.,run fast.,slow running.,0,,,
-Runs like a turtle.,run fast.,slow running.,1,,,
+Runs like a horse.,run fast.,slow running.,0,Runs,like,a horse
+Runs like a turtle.,run fast.,slow running.,1,Runs,like,a turtle
 He is a community leader in his village.,He is a person who has influence in his village.,He is a useless person in his village.,0,He,is a community leader in,his village
 He is the dregs of society in his village.,He is a person who has influence in his village.,He is a useless person in his village.,1,He,is the dregs of society in,his village
 Candra always looks up in front of her friends.,Candra always does something to get praise in front of her friends.,Candra always looks away in front of her friends.,0,Candra,always looks up in,front of her friends
@@ -781,8 +781,8 @@ Dinda has a body like a stick.,Dinda's body is slender and thin.,Dinda's body is
 Dinda has a body like a basketball.,Dinda's body is slender and thin.,Dinda's body is round and fat.,1,Dinda,has a body like,a basketball
 Participants in the debate have a stand like a solid wall.,The participants in the debate held firm stances.,Participants in the debate took a fickle stance.,0,Participants in the debate,have a stand like,a solid wall
 The participants in the debate have a stand like a bamboo propeller.,The participants in the debate held firm stances.,Participants in the debate took a fickle stance.,1,The participants in the debate,have a stand like,a bamboo propeller
-Usually at the end of the year the price of basic commodities soars.,Usually the end of the year the price of staples is expensive.,Usually at the end of the year the price of basic commodities is cheap.,0,,,
-Usually at the end of the year the price of basic commodities drops.,Usually the end of the year the price of staples is expensive.,Usually at the end of the year the price of basic commodities is cheap.,1,,,
+Usually at the end of the year the price of basic commodities soars.,Usually the end of the year the price of staples is expensive.,Usually at the end of the year the price of basic commodities is cheap.,0,the price of basic commodities,,soars
+Usually at the end of the year the price of basic commodities drops.,Usually the end of the year the price of staples is expensive.,Usually at the end of the year the price of basic commodities is cheap.,1,the price of basic commodities,,drops
 He is a person who often gets angry.,He is an angry person.,He is a patient person.,0,He,is a person,who
 He is an open-minded person.,He is an angry person.,He is a patient person.,1,He,is,an open - minded person
 Tono opened a business with knee capital.,Tono opened a business with little capital.,Tono opened a business with a lot of capital.,0,Tono,opened a business with,knee capital
@@ -822,7 +822,7 @@ I miss you like water in a bucket.,I miss you a lot.,I miss you a little.,1,I,mi
 His mouth smells like jasmine flowers.,The mouth is fragrant.,His mouth stinks.,0,His mouth,smells like,jasmine flowers
 His mouth smells like corpse flower.,The mouth is fragrant.,His mouth stinks.,1,His mouth,smells like,corpse flower
 Brother's eyebrows are like ants along.,Brother's eyebrows are thin.,Brother's thick eyebrows.,0,Brother 's eyebrows,are like,ants along
-Brother's eyebrows like Shin-chan.,Brother's eyebrows are thin.,Brother's thick eyebrows.,1,,,
+Brother's eyebrows like Shin-chan.,Brother's eyebrows are thin.,Brother's thick eyebrows.,1,Brother's eyebrows,like,Shin-Chan
 The trader seemed to fall and then was hit by a ladder.,The trader loses.,The merchant is profitable.,0,The trader,seemed to fall and then was hit by,a ladder
 The trader is like getting a windfall.,The trader loses.,The merchant is profitable.,1,The trader,is like getting,a windfall
 My life is like a bird in a cage.,My life is confined.,My life is free.,0,My life,is like,a bird in a cage
@@ -849,8 +849,8 @@ Budi eats as if he will die tomorrow.,Budi eats greedily.,Budi eats sparingly.,0
 Budi ate as if it were the last meal he had.,Budi eats greedily.,Budi eats sparingly.,1,Budi,ate as if it were the last meal,he
 Dito drives a car as if he is the son of the owner of the road.,Dito drives a car recklessly and recklessly.,Dito drive the car carefully.,0,Dito,drives a car as if he is the son of,the owner of the road
 Dito drives a car as if the car installments have not been paid off.,Dito drives a car recklessly and recklessly.,Dito drive the car carefully.,1,Dito,drives a car as if,the car installments
-Looking for work in the middle of a pandemic is like teaching chickens to climb trees.,Finding work in the middle of a pandemic is difficult.,Finding work amidst a pandemic is easy.,0,,,
-Looking for work in the middle of a pandemic is like teaching a parrot to sing.,Finding work in the middle of a pandemic is difficult.,Finding work amidst a pandemic is easy.,1,,,
+Looking for work in the middle of a pandemic is like teaching chickens to climb trees.,Finding work in the middle of a pandemic is difficult.,Finding work amidst a pandemic is easy.,0,Looking for work in the middle of a pandemic,is like,teaching chickens to climb trees
+Looking for work in the middle of a pandemic is like teaching a parrot to sing.,Finding work in the middle of a pandemic is difficult.,Finding work amidst a pandemic is easy.,1,Looking for work in the middle of a pandemic,is like,teaching a parrot to sing
 My curiosity is on par with the burj khalifa.,My curiosity is high.,My curiosity is low.,0,My curiosity,is on,par with the burj khalifa
 My curiosity is on par with dwarves.,My curiosity is high.,My curiosity is low.,1,My curiosity,is on par with,dwarves
 My family is my treasure.,My family is precious.,My family is a burden.,0,My family,is,my treasure
@@ -870,7 +870,7 @@ Buying a car but not using it is like holding water in a bucket.,"Buying a car, 
 My body used to be like an electric pole.,My body used to be tall and thin.,My body used to be short.,0,My body,used to be like,an electric pole
 My body used to be like ucok baba.,My body used to be tall and thin.,My body used to be short.,1,My body,used to be like,ucok baba
 Learning to drive is a journey to the top of the mountain.,Learning to drive is difficult.,Learn to drive easy.,0,the top of the mountain,,the mountain
-Learning to drive is a relaxing trip on the beach.,Learning to drive is difficult.,Learn to drive easy.,1,,,
+Learning to drive is a relaxing trip on the beach.,Learning to drive is difficult.,Learn to drive easy.,1,Learning to drive,is,a relaxing trip on the beach
 The struggle to enter ITB is an attempt to kiss your own elbow.,The struggle to enter ITB is difficult.,The struggle to enter ITB is easy.,0,The struggle to enter ITB,is,an attempt to kiss your own elbow
 The struggle to enter ITB is the effort of left-handed people to write using their left hand.,The struggle to enter ITB is difficult.,The struggle to enter ITB is easy.,1,The struggle to enter ITB,is the effort of,left - handed people
 Marrying him is like seeing Jesus on the pilgrimage.,It's impossible to marry him.,Marry him maybe.,0,the pilgrimage,,Jesus
@@ -937,7 +937,7 @@ My birthday gift this year is like the number of moons in the sky.,My birthday p
 My birthday present this year is like the number of stars in the sky.,My birthday present this year is one or a few.,I have lots of gifts for my birthday this year.,1,My birthday present this year,is like,the number of stars in the sky
 Get your hair cut like the princesses in Disney movies.,Your haircut is beautiful and beautiful.,Your haircut is ugly and messy.,0,your hair,cut like,the princesses in Disney movies
 Your haircut is like Tarzan.,Your haircut is beautiful and beautiful.,Your haircut is ugly and messy.,1,Your haircut,is like,Tarzan
-The time I spent waiting for this item to arrive was 1000 years.,The time I spent waiting for this item was very long.,The time I spent waiting for this item was really fast.,0,,,
+The time I spent waiting for this item to arrive was 1000 years.,The time I spent waiting for this item was very long.,The time I spent waiting for this item was really fast.,0,The time I spent waiting for this item to arrive,was,1000 years
 The time I spent waiting for this item to arrive was the blink of an eye.,The time I spent waiting for this item was very long.,The time I spent waiting for this item was really fast.,1,The time I spent waiting for this item to arrive,was the blink of,an eye
 This job can be completed with the snap of a finger.,This job can be done easily.,I can finish this work with difficulty.,0,This job,can be completed with,the snap of a finger
 I can finish this work drenched in sweat.,This job can be done easily.,I can finish this work with difficulty.,1,I,can finish this work drenched in,sweat
@@ -1003,8 +1003,8 @@ This week my feelings are like the sky and gray clouds.,This week I feel sad and
 This week I feel like the bright sun in the afternoon.,This week I feel sad and gloomy.,This week I feel happy.,1,I,feel like the bright sun in,the afternoon
 I think life is like sailing on an ocean full of waves.,I think life is full of challenges.,"I thought, life is barrier free.",0,I,think life is like sailing on,an ocean full of waves
 I think life is like driving a car on the highway.,I think life is full of challenges.,"I thought, life is barrier free.",1,I,think life is like driving a car on,the highway
-Live like a yoga instructor.,Life must be flexible.,Life must be rigid.,0,,,
-Live like a dry kanebo.,Life must be flexible.,Life must be rigid.,1,a dry kanebo,,dry
+Live like a yoga instructor.,Life must be flexible.,Life must be rigid.,0,Live,like,a yoga instructor
+Live like a dry kanebo.,Life must be flexible.,Life must be rigid.,1,Live,like,a dry kanebo
 Your help is like a raincoat that is worn in broad daylight when the sun is hot.,Your help is useless.,Your help is very helpful.,0,Your help,is like,a raincoat that is worn in broad daylight when the sun is hot
 Your help is like an offer of drinking water when I'm hot.,Your help is useless.,Your help is very helpful.,1,Your help,is like an offer of drinking water when,I
 The color of the lipstick you wear is like a glass slipper on Cinderella's feet.,The color of the lipstick that you wear fits and matches.,The color of the lipstick you are wearing doesn't match.,0,The color of the lipstick you wear,is like,a glass slipper on Cinderella 's feet
@@ -1061,8 +1061,8 @@ Rangga's speech ignited enthusiasm.,Rangga's words give encouragement.,Rangga's 
 Ranga's words pierced the heart.,Rangga's words give encouragement.,Rangga's words hurt.,1,Ranga 's words,pierced,the heart
 The distance from Rumah Bejo to school is like the distance from heaven to earth.,Bejo's house is far from school.,the distance from Beno's house to school is close.,0,The distance from Rumah Bejo to school,is like,the distance from heaven to earth
 The distance from Bejo's house to the school is the distance from here to the front of the alley.,Bejo's house is far from school.,the distance from Beno's house to school is close.,1,The distance from Bejo 's house to the school,is the distance from here to,the front of the alley
-Dino nicknamed as the head of the shrimp.,Dino was nicknamed as a fool.,Dino was dubbed as a smart person.,0,the head of the shrimp,,the shrimp
-Dino was dubbed the class champion.,Dino was nicknamed as a fool.,Dino was dubbed as a smart person.,1,,,
+Dino nicknamed as the head of the shrimp.,Dino was nicknamed as a fool.,Dino was dubbed as a smart person.,0,Dino,nicknamed as,the head of the shrimp
+Dino was dubbed the class champion.,Dino was nicknamed as a fool.,Dino was dubbed as a smart person.,1,Dino,was dubbed,the class chapion
 "In his soccer team, Tino is like an onion.","In the soccer team, Tino is a substitute player.","In the soccer team, Tino is a core player.",0,his soccer team,", Tino is like",an onion
 "In his soccer team, Tino is like a field star.","In the soccer team, Tino is a substitute player.","In the soccer team, Tino is a core player.",1,his soccer team,", Tino is like",a field star
 The atmosphere of the math class is like a birthday party.,The atmosphere in the math class is lively and noisy.,The atmosphere of the math class is quiet and quiet.,0,The atmosphere of the math class,is like,a birthday party
@@ -1105,7 +1105,7 @@ The rooms are like mosque tiles.,the room is cool.,the room is hot.,0,The rooms,
 The room is like a mahsyar padang.,the room is cool.,the room is hot.,1,The room,is like,a mahsyar padang
 Damara acts like a child.,Damara was acting adorable.,Damara is acting annoying.,0,Damara,acts like,a child
 Damara acted like she was whining like a child.,Damara was acting adorable.,Damara is acting annoying.,1,Damara,acted like she was whining like,a child
-his nails like jengkol.,The nails are short.,The nails are long.,0,,,
+his nails like jengkol.,The nails are short.,The nails are long.,0,His nails,like,jengkol
 her nails are like petai.,The nails are short.,The nails are long.,1,her nails,are like,petai
 He sings like a gargle.,He sang with a stutter.,He sings fluently.,0,He,sings like,a gargle
 He sings like the real singer.,He sang with a stutter.,He sings fluently.,1,He,sings like,the real singer

@@ -410,7 +410,7 @@ Playing chess requires less intelligence,Playing chess requires a lot of intelli
 The colors of that painting were beautiful.,The colors of that painting were beautiful,The colors of that painting are not beautiful,0,The colors of that painting,,that painting
 The colors of that painting were ugly.,The colors of that painting were beautiful,The colors of that painting are not beautiful,1,The colors of that painting,,that painting
 The movie had a good message,The movie had a good message,There is no good message in the movie,0,The movie,had,a good message
-There was a bad message in the movie,The movie had a good message,There is no good message in the movie,1,,,
+There was a bad message in the movie,The movie had a good message,There is no good message in the movie,1,the movie,there was,a bad message
 The music of the song was raucous,The music of the song was melodious,The music of the song is not melodious,0,The music of the song,,the song
 The melody of the song was hoarse,The music of the song was melodious,The music of the song is not melodious,1,The melody of the song,,the song
 There were more games for children at the fair,There were more games in the fair,There were fewer games at the fair,0,children,at,the fair
@@ -582,11 +582,11 @@ The price of that thing is as cheap as gold,That stuff is cheap,That stuff is ex
 Her eyes were shining like stars,Her cheeks were shining,Her cheeks were not glowing,0,Her eyes,were shining like,stars
 Her cheeks shone like stone,Her cheeks were shining,Her cheeks were not glowing,1,Her cheeks,shone like,stone
 That stuff is rusted like iron,That stuff is rusty,That stuff is not rusted,0,That stuff,is rusted like,iron
-That stuff rusts like gold,That stuff is rusty,That stuff is not rusted,1,,,
+That stuff rusts like gold,That stuff is rusty,That stuff is not rusted,1,That stuff,rusts like,gold
 He was as legal as a policeman,He was legalistic,He is not legal,0,He,was as legal as,a policeman
 He was as lawless as thieves,He was legalistic,He is not legal,1,He,was as lawless as,thieves
-There are more people than in the stadium,There are more people,There are not many people there,0,,,
-There are as many people as a cinema hall,There are more people,There are not many people there,1,,,
+There are more people than in the stadium,There are more people,There are not many people there,0,There,are more people than,in the stadium
+There are as many people as a cinema hall,There are more people,There are not many people there,1,There,are as many people,as a cinema hall
 The object is round like a football.,The object is round,That object is not round,0,The object,is round like,a football
 The object is round like a cricket bat.,The object is round,That object is not round,1,The object,is round like,a cricket bat
 He swims gracefully like a dolphin,He swims gracefully,He does not swim gracefully,0,He,swims gracefully like,a dolphin
@@ -625,8 +625,8 @@ His life is as carefree as a child,His life is peaceful,His life is not peaceful
 Their lives are as relaxed as adults,His life is peaceful,His life is not peaceful,1,Their lives,are as relaxed as,adults
 It's as easy as having a mobile,It's easy to buy,It is not easy to buy,0,It,'s,as easy as having a mobile
 It's as easy as having a private chopper,It's easy to buy,It is not easy to buy,1,It,'s,as easy as having a private chopper
-There are more animals in the forest,There are more animals,There are not many animals there,0,,,
-There are as many animals as the city,There are more animals,There are not many animals there,1,,,
+There are more animals in the forest,There are more animals,There are not many animals there,0,There,are more,animals in the forest
+There are as many animals as the city,There are more animals,There are not many animals there,1,There,are as many,animals as the city
 That job is as secure as a government job,That job is safe,That job is not safe,0,That job,is as secure as,a government job
 That job is as secure as a private job,That job is safe,That job is not safe,1,That job,is as secure as,a private job
 Their bond is as strong as friends,Their bond is strong,Their bond is not strong,0,Their bond,is as strong as,friends
@@ -968,7 +968,7 @@ Playing chess requires less intelligence,Playing chess requires a lot of intelli
 The colors of that painting were beautiful.,The colors of that painting were beautiful,The colors of that painting are not beautiful,0,The colors of that painting,,that painting
 The colors of that painting were ugly.,The colors of that painting were beautiful,The colors of that painting are not beautiful,1,The colors of that painting,,that painting
 The movie had a good message,The movie had a good message,There is no good message in the movie,0,The movie,had,a good message
-There was a bad message in the movie,The movie had a good message,There is no good message in the movie,1,,,
+There was a bad message in the movie,The movie had a good message,There is no good message in the movie,1,the movie,there was,a bad message
 The music of the song was raucous,The music of the song was melodious,The music of the song is not melodious,0,The music of the song,,the song
 The melody of the song was hoarse,The music of the song was melodious,The music of the song is not melodious,1,The melody of the song,,the song
 There were more games for children at the fair,There were more games in the fair,There were fewer games at the fair,0,children,at,the fair

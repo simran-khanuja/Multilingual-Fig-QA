@@ -45,12 +45,12 @@ He is as docile as a goat.,he is weak.,he is brave.,0,He,is as docile as,a goat
 He roars like a lion.,he is weak.,he is brave.,1,He,roars like,a lion
 His physique is like a field.,His body is small.,His body is huge.,0,His physique,is like,a field
 His physique is like a mountain.,His body is small.,His body is huge.,1,His physique,is like,a mountain
-Strong like a cow.,He is gentle.,He is strict.,0,,,
-Strong like a bull.,He is gentle.,He is strict.,1,,,
+Strong like a cow.,He is gentle.,He is strict.,0,Strong,like,a cow
+Strong like a bull.,He is gentle.,He is strict.,1,Strong,like,a bull
 The man was behaving like ice cold.,That man was very cool.,The man was very angry.,0,The man,was behaving like,ice
 The man was behaving like boiled water.,That man was very cool.,The man was very angry.,1,The man,was behaving like,boiled water
-Precious as an angel.,Very beautiful,Very ugly.,0,,,
-Precious as a witch.,Very beautiful,Very ugly.,1,,,
+Precious as an angel.,Very beautiful,Very ugly.,0,Precious,as,an angel
+Precious as a witch.,Very beautiful,Very ugly.,1,Precious,as,a witch
 Ramdin's face is like coal.,Ramdin is a lot of art.,Ramdin is very fair.,0,Ramdin 's face,is like,coal
 Ramdin's face is like a pearl.,Ramdin is a lot of art.,Ramdin is very fair.,1,Ramdin 's face,is like,a pearl
 His mind was as cold as ice.,He was very calm.,He was quiet for a while.,0,His mind,was as cold as,ice
@@ -281,7 +281,7 @@ He keeps his room as clean as a pig.,He keeps his room very clean.,He keeps his 
 "Seeing the result of the examination, he became silent like a grave.",He was very happy to see the result of the examination.,He was very sad to see the result of the examination.,1,the examination,", he became silent like",a grave
 The floor was like a bear skin.,The floor was not clean at all.,The floor was spotlessly clean.,0,The floor,was like,a bear skin
 The floor was like a fish skin.,The floor was not clean at all.,The floor was spotlessly clean.,1,The floor,was like,a fish skin
-There was a delicious dish like brinjal.,The food was not good at all.,The cuisine was very good.,0,,,
+There was a delicious dish like brinjal.,The food was not good at all.,The cuisine was very good.,0,a delicious dish,like,brinjal
 The dish was as delicious as jaggery.,The food was not good at all.,The cuisine was very good.,1,The dish,was as delicious as,jaggery
 The fabric was soft to the old man's hands.,The fabric was not soft.,The fabric was very soft.,0,The fabric,was soft to,the old man 's hands
 The fabric was soft to the baby's hands.,The fabric was not soft.,The fabric was very soft.,1,The fabric,was soft to,the baby 's hands
@@ -341,8 +341,8 @@ His shop was shining like new iron.,His shop was very well decorated.,His shop w
 His shop was shining like new gold.,His shop was very well decorated.,His shop was decorated very dirty.,1,His shop,was shining like,new gold
 Kishore's voice is as sweet as an orange.,There is no fun in Kishore's voice.,There is sweetness in Kishore's voice.,0,Kishore 's voice,is as sweet as,an orange
 Kishore's voice is as sweet as sugar.,There is no fun in Kishore's voice.,There is sweetness in Kishore's voice.,1,Kishore 's voice,is as sweet as,sugar
-Looks like a pond,You are looking very beautiful.,You look very ugly.,0,,,
-Looks like mud,You are looking very beautiful.,You look very ugly.,1,,,
+Looks like a pond,You are looking very beautiful.,You look very ugly.,0,Looks,like,a pond
+Looks like mud,You are looking very beautiful.,You look very ugly.,1,Looks,like,mud
 His neck is long like a pigeon.,His neck is too short.,His neck is very long.,0,His neck,is long like,a pigeon
 His neck is as long as a giraffe.,His neck is too short.,His neck is very long.,1,His neck,is as long as,a giraffe
 Homework is as light as the bus.,Homework is too much.,Homework is very less.,0,Homework,is as light as,the bus
@@ -375,7 +375,7 @@ The engineer was like an apple.,The engineer was a wonderful person.,The enginee
 The engineer was like a nut.,The engineer was a wonderful person.,The engineer was a very strict person.,1,The engineer,was like,a nut
 He goes everywhere like garbage.,He cannot mix with anyone.,He mingles with everyone.,0,He,goes everywhere like,garbage
 It merges everywhere like flowing water.,He cannot mix with anyone.,He mingles with everyone.,1,It,merges everywhere like,flowing water
-Cool as a cucumber.,He is very polite.,That is very rude.,0,,,
+Cool as a cucumber.,He is very polite.,That is very rude.,0,Cool,as,a cucumber
 He is cool as pepper.,He is very polite.,That is very rude.,1,He,is cool as,pepper
 He is as blind as Dhritrashta.,He doesn't really understand.,He really got it.,0,He,is as blind as,Dhritrashta
 He is as blind as a bat.,He doesn't really understand.,He really got it.,1,He,is as blind as,a bat
@@ -495,8 +495,8 @@ Your smile looks like the stars.,The smile on your face is always visible.,Somet
 Your smile looks like the full moon.,The smile on your face is always visible.,Sometimes the smile on your face is visible.,1,Your smile,looks like,the full moon
 "Seeing him, my heart becomes like an executioner.","Seeing him, I do not feel anything in my heart.","Seeing him, my heart overflows with love.",0,my heart,becomes like,an executioner
 "Seeing him, my heart becomes like a child.","Seeing him, I do not feel anything in my heart.","Seeing him, my heart overflows with love.",1,my heart,becomes like,a child
-Radheshyam mixed like salt in tea in our family.,Radheshyam could not connect with our family.,Radheshyam bonded well with our family.,0,Radheshyam,mixed like,salt in tea in our family
-Radheshyam mixed like sugar in tea in our family.,Radheshyam could not connect with our family.,Radheshyam bonded well with our family.,1,,,
+Radheshyam mixed like salt in tea in our family.,Radheshyam could not connect with our family.,Radheshyam bonded well with our family.,0,Radheshyam,mixed like,salt in tea
+Radheshyam mixed like sugar in tea in our family.,Radheshyam could not connect with our family.,Radheshyam bonded well with our family.,1,Radheshyam,mixed like,sugar in tea
 His words were as cold as pieces of colored glass.,His words are not fully understood.,His words make complete sense.,0,His words,were as cold as,pieces of colored glass
 His words were as cool as dew drops.,His words are not fully understood.,His words make complete sense.,1,His words,were as cool as,dew
 This child is the apple of my eye.,I love this child.,This child is not dear to me.,0,This child,is the apple of,my eye
@@ -629,7 +629,7 @@ Motilal's childhood is like a rain of flowers.,Motilal's childhood is full of ha
 Motilal's childhood was like a raging storm.,Motilal's childhood is full of happiness.,Motilal's childhood is full of sorrows.,1,Motilal 's childhood,was like,a raging storm
 It is as strong as a paper boat.,Very weak.,Very powerful.,0,It,is as strong as,a paper boat
 It is as strong as a huge ship.,Very weak.,Very powerful.,1,It,is as strong as,a huge ship
-Knowledgeable like books.,His knowledge is immense.,He only knows his work.,0,,,
+Knowledgeable like books.,His knowledge is immense.,He only knows his work.,0,Knowledgeable,like,books
 He is knowledgeable like a cook.,His knowledge is immense.,He only knows his work.,1,He,is knowledgeable like,a cook
 Calm mind like a monk.,There is peace in the mind.,The mind is restless.,0,a monk,,Calm
 Calm mind like a robber.,There is peace in the mind.,The mind is restless.,1,a robber,,Calm
@@ -755,11 +755,11 @@ Shantiprasad acts like a soap.,Shanti Prasad does so much work that one day it w
 Shantiprasad works like a diamond.,Shanti Prasad does so much work that one day it will end.,"The more Shantiprasad works, the more it shines.",1,Shantiprasad,works like,a diamond
 "At his wedding, the baraati came from a swarm of bees.",Many baraatis had come for his marriage.,Very few Baratis came to his wedding.,0,his wedding,", the baraati came from",a swarm of bees
 "At his wedding, the baraati came from a herd of elephants.",Many baraatis had come for his marriage.,Very few Baratis came to his wedding.,1,his wedding,", the baraati came from",a herd of elephants
-There was halwa-like joy in the fair.,The fair was a lot of fun.,The fair was fun but very elaborate.,0,,,
+There was halwa-like joy in the fair.,The fair was a lot of fun.,The fair was fun but very elaborate.,0,In the fair,there was,halwa-like joy
 There was joy like noodles in the fair.,The fair was a lot of fun.,The fair was fun but very elaborate.,1,noodles in the fair,,the fair
 Parantha is like a pizza.,Paratha is very tasty.,Paratha is very similar.,0,Parantha,is like,a pizza
 Parantha is like dal.,Paratha is very tasty.,Paratha is very similar.,1,Parantha,is like,dal
-There was honey-like joy in his picture.,There was a feeling of happiness in his picture.,There was a feeling of fear in his picture.,0,,,
+There was honey-like joy in his picture.,There was a feeling of happiness in his picture.,There was a feeling of fear in his picture.,0,In his picture,there was,honey-like joy
 His pictures were as blissful as a jungle.,There was a feeling of happiness in his picture.,There was a feeling of fear in his picture.,1,His pictures,were as blissful as,a jungle
 The children performed like a waterfall.,The children performed very well.,The children performed very badly.,0,The children,performed like,a waterfall
 The children acted like animals.,The children performed very well.,The children performed very badly.,1,The children,acted like,animals
@@ -795,8 +795,8 @@ You are from an earthen pot.,you are very weak,you are so strong.,0,You,are from
 You are from the steel pot.,you are very weak,you are so strong.,1,You,are from,the steel pot
 The patient gave sweets to the doctor.,The patient was very pleased with the doctor.,The patient was very unhappy with the doctor.,0,The patient,gave sweets to,the doctor
 The patient beat up the doctor.,The patient was very pleased with the doctor.,The patient was very unhappy with the doctor.,1,The patient,beat up,the doctor
-There was stadium-like silence in the room.,There is a lot of noise in the room.,There is no noise in the room.,0,,,
-There was a library-like silence in the room.,There is a lot of noise in the room.,There is no noise in the room.,1,,,
+There was stadium-like silence in the room.,There is a lot of noise in the room.,There is no noise in the room.,0,in the room,there was,stadium-like silence
+There was a library-like silence in the room.,There is a lot of noise in the room.,There is no noise in the room.,1,in the room,there was,library-like silence
 She is as beautiful as a squirrel.,She is very beautiful.,She is not beautiful.,0,She,is as beautiful as,a squirrel
 She is as cute as a pig.,She is very beautiful.,She is not beautiful.,1,She,is as cute as,a pig
 Radha is the dust of Sham's feet.,Radha is much younger than Sham.,Radha is equal to evening.,0,Radha,is the dust of,Sham 's feet
@@ -864,11 +864,11 @@ Mother's anger is like hot milk.,Mother doesn't get angry.,Mother's anger cools 
 He plays like a child.,He is very quick in the game.,He is very slow in the game.,0,He,plays like,a child
 He plays like an old man.,He is very quick in the game.,He is very slow in the game.,1,He,plays like,an old man
 The horn of the truck is ringing like a torn bamboo.,The horn of the truck is making a very bad sound.,The truck horn is blaring very loudly.,0,The horn of the truck,is ringing like,a torn bamboo
-Truck horn blaring like a radio.,The horn of the truck is making a very bad sound.,The truck horn is blaring very loudly.,1,,,
+Truck horn blaring like a radio.,The horn of the truck is making a very bad sound.,The truck horn is blaring very loudly.,1,truck horn,blaring like,a radio
 My friend is as sweet as a father's love.,Lots of love my friend,Tough but dear to heart my friend.,0,My friend,is as sweet as,a father 's love
 My friend is as sweet as brother's love.,Lots of love my friend,Tough but dear to heart my friend.,1,My friend,is as sweet as,brother 's love
-Today turned out to be a Sunday.,Today passed without any work.,Today turned out to be very busy.,0,,,
-Today turned out to be a Monday.,Today passed without any work.,Today turned out to be very busy.,1,,,
+Today turned out to be a Sunday.,Today passed without any work.,Today turned out to be very busy.,0,Today,turned out to be,a Sunday
+Today turned out to be a Monday.,Today passed without any work.,Today turned out to be very busy.,1,Today,turned out to be,a Monday
 You are talking about train journey.,You are speaking very slowly.,You are speaking very fast.,0,You,are talking about,train journey
 You are talking like you are on an aeroplane.,You are speaking very slowly.,You are speaking very fast.,1,You,are talking like you are on,an aeroplane
 The sound of drums was ringing in his ears.,His head was bursting with pain.,He could hear melodious music.,0,The sound of drums,was ringing in,his ears
@@ -917,8 +917,8 @@ His kinship is as strong as iron.,His kinship is very strong.,His kinship is ver
 His kinship is as strong as glass.,His kinship is very strong.,His kinship is very weak.,1,His kinship,is as strong as,glass
 He has the mind of a monkey.,He always thinks of jumping.,He always thinks of deceit.,0,He,has the mind of,a monkey
 He has the mind of a chameleon.,He always thinks of jumping.,He always thinks of deceit.,1,He,has the mind of,a chameleon
-Lata Mangeshkar's pain in her voice.,His voice touches the heart.,No one remembers his voice.,0,,,
-Mungeri Lal's pain is in his voice.,His voice touches the heart.,No one remembers his voice.,1,Mungeri Lal 's pain,is in,his voice
+Lata Mangeshkar's pain in her voice.,His voice touches the heart.,No one remembers his voice.,0,in her voice,,Lata Mangeshkar's pain
+Mungeri Lal's pain is in his voice.,His voice touches the heart.,No one remembers his voice.,1,in his voice,is in,Mungeri Lal's pain
 Ritesh's plan is like building an air fort.,Ritesh's plan was never going to be completed.,Ritesh's plan was about to be completed.,0,Ritesh 's plan,is like building,an air fort
 Ritesh's plan is like building a house.,Ritesh's plan was never going to be completed.,Ritesh's plan was about to be completed.,1,Ritesh 's plan,is like building,a house
 Shamsher's house was always open like Guru's langar.,Shamsher's heart was very big.,Shamsher had a very small heart.,0,Shamsher 's house,was always open like,Guru 's langar
@@ -954,7 +954,7 @@ The landlord was as fat as a rat.,The landlord was very fat.,The landlord was fa
 His arrival was like a sip of tea.,It was very nice of him to come.,His arrival was very bad.,0,His arrival,was like,a sip of tea
 His arrival was like a sip of wine.,It was very nice of him to come.,His arrival was very bad.,1,His arrival,was like,a sip of wine
 It feels like syrup.,Its feel is very sweet.,Its feel is very dirty.,0,It,feels like,syrup
-Its feel like cow dung.,Its feel is very sweet.,Its feel is very dirty.,1,,,
+Its feel like cow dung.,Its feel is very sweet.,Its feel is very dirty.,1,Its,feel like,cow dung
 That palace is as big as the capital of India.,That palace is very big and beautiful.,That palace is very small and tight.,0,That palace,is as big as,the capital of India
 That palace is as big as the streets of India.,That palace is very big and beautiful.,That palace is very small and tight.,1,That palace,is as big as,the streets of India
 Your company makes fake medicines.,Your company is a fraud.,Your company is great.,0,Your company,makes,fake medicines

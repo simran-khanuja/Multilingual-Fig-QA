@@ -34,7 +34,7 @@ This phase will have a handicap championship,This phase will be a tough competit
 "Unlike the existing concept, the mother is the pillar of the family","Unlike the existing concept, the mother is the person who holds the family together",A mother is not the one who holds the family together,0,the existing concept,", the mother is the pillar of",the family
 "Unlike the existing concept, the mother is the breadwinner of the family","Unlike the existing concept, the mother is the person who holds the family together",A mother is not the one who holds the family together,1,the existing concept,", the mother is the breadwinner of",the family
 Marriages will become rare in the near future,Marriages will become rare in a few days,Marriages will not be rare in the near future,0,Marriages,will become rare in,the near future
-There will be marriage in the near future,Marriages will become rare in a few days,Marriages will not be rare in the near future,1,,,
+There will be marriage in the near future,Marriages will become rare in a few days,Marriages will not be rare in the near future,1,Marriage,there will be,in the near future
 Love is war,Love is a difficult thing,Love is a simple thing,0,Love,is,war
 Love is cake,Love is a difficult thing,Love is a simple thing,1,Love,is,cake
 "The luck of the partner, don't sleep with the door open","If you are lucky enough to find a partner, don't wait for it to reach you","If the sea finds a mate, wait for it to reach you",0,"The luck of the partner ,",do n't sleep with,the door open
@@ -56,7 +56,7 @@ He looted my purse and walked like a snail,He grabbed my purse and ran away,He g
 They argued until they grabbed each other's shirts,They argued until they fought,They argued but did not fight,0,They,argued until,they
 They argued sacredly,They argued until they fought,They argued but did not fight,1,They,argued,sacredly
 Scabies dreams of someone without nails,Luck did not find him unable to use it,Luck finds someone who has the ability to use it,0,Scabies,dreams of,someone without nails
-The body sweats,Luck did not find him unable to use it,Luck finds someone who has the ability to use it,1,,,
+The body sweats,Luck did not find him unable to use it,Luck finds someone who has the ability to use it,1,The body,,sweats
 "Aisha, close your bowl!","Aisha, shut your mouth","Aisha, just keep talking a lot",0,"Aisha ,",close,your bowl
 "Aisha, just keep on mouthing","Aisha, shut your mouth","Aisha, just keep talking a lot",1,Aisha,",",just
 There are no lengths without ends,Nothing is infinite,Everything has an end,0,ends,e are,no lengths without ends
@@ -76,7 +76,7 @@ My grandfather grew like a mustard seed,My grandfather was a big man,My grandfat
 They like to keep their affairs in the dark,They like to keep their affairs secret,They like to keep things clear,0,They,like to keep their affairs in,the dark
 They like to pour rice on a lot of chicken,They like to keep their affairs secret,They like to keep things clear,1,They,like to pour rice on,a lot of chicken
 A farmer in the sun cries in the shade,He who searches hard will live in comfort,He who searches hard will not live in comfort,0,A farmer in the sun,cries in,the shade
-An economist in the sun cries in the sun,He who searches hard will live in comfort,He who searches hard will not live in comfort,1,,,
+An economist in the sun cries in the sun,He who searches hard will live in comfort,He who searches hard will not live in comfort,1,An economist in the sun,cries in,the sun
 His whole life is like thorns.,All his life he has grown up experiencing a lot of pain,All his life he has never experienced pain,0,His whole life,is like,thorns
 His whole life is like bread and tea.,All his life he has grown up experiencing a lot of pain,All his life he has never experienced pain,1,His whole life,is like,bread and tea
 Time is not a friend.,The time left is not much/ Time will not wait for you,There is a lot of time left/ Time will wait for you,0,Time,is not,a friend
@@ -92,7 +92,7 @@ God's word is sufficient light,God's word is enough to guide you well,God's word
 God's word is a car without oil,God's word is enough to guide you well,God's word is not enough to guide you,1,God 's word,is a car without,oil
 The rain poured down furiously,It rained heavily,It did not rain in abundance,0,The rain,poured down,furiously
 The rain just winked,It rained heavily,It did not rain in abundance,1,The rain,,just
-Youth hot water,Adolescence has many challenges,Youth does not have many challenges,0,,,
+Youth hot water,Adolescence has many challenges,Youth does not have many challenges,0,Youth,,hot water
 Youth is like water,Adolescence has many challenges,Youth does not have many challenges,1,Youth,is like,water
 She shed tears of blood after being informed of her mother's death,He was very hurt after being informed about his mother's death,He was not very hurt after being informed about his mother's death,0,She,shed tears of blood after being informed of,her mother 's death
 The news of his mother's death became like a guitar song for him,He was very hurt after being informed about his mother's death,He was not very hurt after being informed about his mother's death,1,The news of his mother 's death,became like,a guitar song for him
@@ -103,11 +103,11 @@ George Foreman grew up with a female fist,George Foreman had a very heavy fist,G
 He seemed different from others like a foreign chicken,He seemed to be different from others,He seemed to be the same as the others,0,He,seemed different from others like,a foreign chicken
 He seemed to be on par with others like a zebra.,He seemed to be different from others,He seemed to be the same as the others,1,He,seemed to be on par with,others like a zebra
 The wind passed whispering to him,The wind blew loudly,He did not hear the wind as it passed,0,The wind,passed whispering to,him
-The wind howled,He heard the wind as it passed,The wind blew loudly,1,,,
+The wind howled,He heard the wind as it passed,The wind blew loudly,1,The wind,,howled
 Their mother has a very foul mouth,Their mother has bad words,Their mother has good words,0,Their mother,has,a very foul mouth
 Their mother has good words like the bible,Their mother has bad words,Their mother has good words,1,Their mother,has good words like,the bible
-Don't be lukewarm,Don't like to be stagnant,Don't like to have a position,0,,,
-Love to be warm,Don't like to be stagnant,Don't like to have a position,1,,,
+Don't be lukewarm,Don't like to be stagnant,Don't like to have a position,0,,Don't be,lukewarm
+Love to be warm,Don't like to be stagnant,Don't like to have a position,1,,Love to be,warm
 He promised that he would contribute and then went into the trees.,He promised that he would donate and then he didn't,He promised that he would contribute and he did,0,He,promised that he would contribute and then went into,the trees
 He promised that he would contribute and became white,He promised that he would donate and then he didn't,He promised that he would contribute and he did,1,He,promised that,he
 He has no chest.,He knows how to keep secrets,He can't keep a secret,0,He,has,no chest
@@ -115,7 +115,7 @@ He has a chest.,He knows how to keep secrets,He can't keep a secret,1,He,has,a c
 He is as bald as a Sahara desert,He has no hair,He has a lot of hair,0,He,is as bald as,a Sahara desert
 His hair is as thick as the grass of a football field.,He has no hair,He has a lot of hair,1,His hair,is as thick as,the grass of a football field
 Borrowing is a wedding,Borrowing is very convenient,Paying is very difficult,0,Borrowing,is,a wedding
-Paying is a breeze,Borrowing is very convenient,Paying is very difficult,1,,,
+Paying is a breeze,Borrowing is very convenient,Paying is very difficult,1,Paying,is,a breeze
 He has black blood,The boy has an evil spirit,The boy has a good spirit,0,He,has,black blood
 The young man has a good spirit as a teacher.,The boy has an evil spirit,The boy has a good spirit,1,The young man,has a good spirit as,a teacher
 Ali is a rabbit,Ali is very clever,Ali is very gentle.,0,Ali,is,a rabbit
@@ -180,8 +180,8 @@ His life is like a pen without ink,His life has no direction,His life has a dire
 His life is like the country's budget,His life has no direction,His life has a direction,1,His life,is like,the country 's budget
 Love is the world.,Love is important,Love is irrelevant,0,Love,is,the world
 Love is like pouring water into the sea,Love is important,Love is irrelevant,1,Love,is like pouring water into,the sea
-On the day of the competition he ran like a tiger,He ran very fast in the competition,He ran slowly in the race,0,,,
-On the day of the competition he ran like a chameleon,He ran very fast in the competition,He ran slowly in the race,1,,,
+On the day of the competition he ran like a tiger,He ran very fast in the competition,He ran slowly in the race,0,He,ran like a,tiger
+On the day of the competition he ran like a chameleon,He ran very fast in the competition,He ran slowly in the race,1,He,ran like a,chameleon
 Happiness is medicine,Joy heals pain,Happiness does not heal pain,0,Happiness,is,medicine
 Happiness is not a medicine,Joy heals pain,Happiness does not heal pain,1,Happiness,is not,a medicine
 Workers are working like ants,Employees work cooperatively,Employees are working without cooperation,0,Workers,are working like,ants
@@ -228,7 +228,7 @@ My friend is painting me a lawn,My friend gives me a good reputation,My friend g
 My friend is peppering me,My friend gives me a good reputation,My friend gives me a bad reputation,1,My friend,is peppering,me
 Mother is a bed,Mom never gets tired of carrying me,Mom gets tired of carrying me,0,Mother,is,a bed
 Mother is not a bed,Mom never gets tired of carrying me,Mom gets tired of carrying me,1,Mother,is not,a bed
-Alfred went to test and was found to be electrocuted,Alfred went for a test and was diagnosed with AIDS,Alfred went for a test but was not found to have AIDS,0,,,
+Alfred went to test and was found to be electrocuted,Alfred went for a test and was diagnosed with AIDS,Alfred went for a test but was not found to have AIDS,0,Alfred,was found to be,electrocuted
 Alfred went to test but no electricity was found,Alfred went for a test and was diagnosed with AIDS,Alfred went for a test but was not found to have AIDS,1,Alfred,went to test but,no electricity
 The guy was out of gunpowder,The guy ran fast,The guy was stunned when he met the rapists,0,The guy,was out of,gunpowder
 The guy stood up like a mast when he met the rapists,The guy ran fast,The guy was stunned when he met the rapists,1,The guy,stood up like a mast when,he
@@ -240,7 +240,7 @@ Paying for evil is burning coals,Paying for evil is wrong,Paying for evil is rig
 Paying for evil is self-harm,Paying for evil is wrong,Paying for evil is right,1,evil,is,self - harm
 His friend is very fond of mouse paths,His friend likes the illegal way,His friend does not like illegal ways,0,His friend,is very fond of,mouse paths
 His friend has drunk flag water,His friend likes the illegal way,His friend does not like illegal ways,1,His friend,has,drunk flag water
-College students love to swim,College students like to drink alcohol,College students do not like to drink alcohol,0,,,
+College students love to swim,College students like to drink alcohol,College students do not like to drink alcohol,0,College students,love to,swim
 College students don't like to hit the water,College students like to drink alcohol,College students do not like to drink alcohol,1,College students,do n't like to hit,the water
 Hypocrites will anoint you,Hypocrites will give you false praise,Hypocrites will give you credit for the truth,0,Hypocrites,will anoint,you
 Hypocrites will not anoint you,Hypocrites will give you false praise,Hypocrites will give you credit for the truth,1,Hypocrites,will not anoint,you
@@ -259,7 +259,7 @@ Your mind is like a fox,You don't have a mind,You are very intelligent,1,Your mi
 This student is stubborn,The student does not understand easily,The student understands easily,0,This student,is,stubborn
 This student has a light head,The student does not understand easily,The student understands easily,1,This student,has,a light head
 I have washed my hands of these things,I have left these things behind,These are the things I am following,0,I,have washed my hands of,these things
-These things I have sealed,I have left these things behind,These are the things I am following,1,,,
+These things I have sealed,I have left these things behind,These are the things I am following,1,These things,I have,sealed
 His clothes every day are strong cotton,Her clothes every day are beautiful,Her clothes every day are ugly,0,His clothes,every day are,strong cotton
 His clothes are rags every day,Her clothes every day are beautiful,Her clothes every day are ugly,1,His clothes,are,rags
 My condition is like walking on thorns,My condition is bad,My condition is good,0,My condition,is like walking on,thorns
@@ -316,8 +316,8 @@ He has the spirit of a lion,It is very brave,It is very poor,0,He,has the spirit
 He is gentle as a turtle,It is very brave,It is very poor,1,He,is gentle as,a turtle
 You are my star,I depend on you a lot for my life,I don't depend on anything,0,You,are,my star
 You are my darkness,I depend on you a lot for my life,I don't depend on anything,1,You,are,my darkness
-Borrowing a wedding,"When you borrow something, it's easy to fake it",When you are hired to do something for someone it is difficult,0,,,
-pay the sails,"When you borrow something, it's easy to fake it",When you are hired to do something for someone it is difficult,1,,,
+Borrowing a wedding,"When you borrow something, it's easy to fake it",When you are hired to do something for someone it is difficult,0,Borrowing,,a wedding
+pay the sails,"When you borrow something, it's easy to fake it",When you are hired to do something for someone it is difficult,1,pay,,the sails
 The guest is a white chicken,he has a good attitude,he has a bad attitude,0,The guest,is,a white chicken
 The stranger is a black chicken,he has a good attitude,he has a bad attitude,1,The stranger,is,a black chicken
 His friend is a rabbit,It is very clever,He is not clever,0,His friend,is,a rabbit
@@ -403,7 +403,7 @@ the silver moon did not shine in the sky,he earned a lot of money,he had no mone
 so that the city is a whirlwind of chaos,so that the city has bad events,so that the city is well settled,0,the city,is a whirlwind of,chaos
 so that the city is not a whirlwind of chaos,so that the city has bad events,so that the city is well settled,1,the city,is not a whirlwind of,chaos
 My lamp is tired,it means that he has started to age,he is still young,0,My lamp,is,tired
-my light shines,it means that he has started to age,he is still young,1,,,
+my light shines,it means that he has started to age,he is still young,1,my light,,shines
 to the mill of love,he has a lot of love,He has few loves,0,the mill of love,,love
 for little love,he has a lot of love,He has few loves,1,little love,,little
 his body has white mountains,He is in good shape,he is not in good shape,0,his body,has,white mountains
@@ -443,7 +443,7 @@ he is not a tick,he is careless,he is diligent,1,he,is not,a tick
 his friend is abunuasi,he is cunning and a liar,not cunning and liar,0,his friend,is,abunuasi
 his friend is not abunuasi,he is cunning and a liar,not cunning and liar,1,his friend,is not,abunuasi
 the mother is chiriku,he talks a lot,is calm,0,the mother,is,chiriku
-the mother is not chiriku,he talks a lot,is calm,1,,,
+the mother is not chiriku,he talks a lot,is calm,1,the mother,is not,chiriku
 that room has become a grave,it's very quiet,it is very noisy,0,that room,has become,a grave
 that room has become a club,it's very quiet,it is very noisy,1,that room,has become,a club
 The judge made things clear in the afternoon,he spoke clearly,he hid things,0,The judge,made things clear in,the afternoon
@@ -586,7 +586,7 @@ His things are glass.,His things are very clear.,His affairs are very subtle.,0,
 His affairs are dark.,His things are very clear.,His affairs are very subtle.,1,His affairs,are,dark
 That child is the sea.,That one is quiet.,That one is greedy.,0,That child,is,the sea
 That child is a snot.,That one is calm.,That one is greedy.,1,That child,is,a snot
-Today is like a spring.,It's raining a lot today.,The sun is very hot today.,0,,,
+Today is like a spring.,It's raining a lot today.,The sun is very hot today.,0,Today,is like,a spring
 Today is like the Kalahari.,It's raining a lot today.,The sun is very hot today.,1,Today,is like,the Kalahari
 That employee is an apostle.,He is faithful.,He is a traitor.,0,That employee,is,an apostle
 The employee is Judas Iscariot.,He is faithful.,He is a traitor.,1,The employee,is,Judas Iscariot
@@ -657,7 +657,7 @@ The table was like oak bark.,The table bought was beautiful.,The table bought wa
 They are the tongue and the teeth.,They were good friends.,They were enemies.,0,They,are,the tongue and the teeth
 They are water and oil.,They were good friends.,They were enemies.,1,They,are,water and oil
 That child is a boy who dreamed of Teeth.,The child is happy.,The child is sad.,0,That child,is a boy who dreamed of,Teeth
-That child is bereaved.,The child is happy.,The child is sad.,1,,,
+That child is bereaved.,The child is happy.,The child is sad.,1,That child,is,bereaved
 His skin is silk.,His skin is soft.,His skin is tough.,0,His skin,is,silk
 His skin is stone,His skin is soft.,His skin is tough.,1,His skin,is,stone
 My parents are like elephants.,My parents never forget.,My parents are forgetful.,0,My parents,are like,elephants
@@ -849,7 +849,7 @@ The Indian Ocean is sparkling like a cesspool this Christmas season,The Indian O
 Qatar is as bright as the sky for the world cup,Qatar has shone for the world cup,Qatar is not very bright for the world cup,0,Qatar,is as bright as,the sky for the world cup
 Qatar has shone as Gikomba's market for the world cup,Qatar has shone for the world cup,Qatar is not very bright for the world cup,1,Qatar,has shone as,Gikomba 's market for the world cup
 I was furious when I was forced to go to Naivasha,I was angry when my parents forced me to go to Naivasha,I was happy when my parents advised me to go to Naivasha,0,I,was furious when I was forced to go to,Naivasha
-I was sad like a baby who got teeth when I went to Naivasha,I was angry when my parents forced me to go to Naivasha,I was happy when my parents advised me to go to Naivasha,1,,,
+I was sad like a baby who got teeth when I went to Naivasha,I was angry when my parents forced me to go to Naivasha,I was happy when my parents advised me to go to Naivasha,1,I,was sad,like a baby who got teeth
 Do not grow a goat's tail on the instructions of your parents,Do not disobey your parents' instructions,You should listen to your parents' instructions,0,the instructions of your parents,e instructions of,your parents
 You should obey your parents' instructions,Do not disobey your parents' instructions,You should listen to your parents' instructions,1,You,should obey,your parents ' instructions
 Dandora residents are as careless as ticks,Dandora residents do not like to work,Dandora residents wake up every day and go to work,0,Dandora residents,are as careless as,ticks
@@ -1008,7 +1008,7 @@ Yesterday I was stuck like glue,Yesterday I was attached to many things,Yesterda
 Yesterday I was as tight as gravel,Yesterday I was attached to many things,Yesterday I was not attached to many things,1,I,was as tight as,gravel
 "When Janice got home, she ate like a pig",Janice came home very hungry,Janice came home full,0,Janice,"got home , she ate like",a pig
 "When Janice got home, she ate like an anorexic",Janice came home very hungry,Janice came home full,1,Janice,"got home , she ate like",an anorexic
-Many prisoners are made to work like donkeys as punishment,Many prisoners are subjected to hard labor as punishment,Most prisoners have no work to do,0,,,
+Many prisoners are made to work like donkeys as punishment,Many prisoners are subjected to hard labor as punishment,Most prisoners have no work to do,0,Many prisoners,are made to work like,donkeys
 Many prisoners are employed as house cats,Many prisoners are subjected to hard labor as punishment,Most prisoners have no work to do,1,Many prisoners,are employed as,house cats
 The corrupt in the government will be carried away like a chariot,Corrupt people in the government will be rushed by the police,Corrupt people in the government are never given anything,0,The corrupt in the government,will be carried away like,a chariot
 The corrupt in the government are being carried around like a crate of eggs,Corrupt people in the government will be rushed by the police,Corrupt people in the government are never given anything,1,The corrupt in the government,are being carried around like,a crate of eggs

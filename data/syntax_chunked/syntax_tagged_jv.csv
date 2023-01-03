@@ -19,7 +19,7 @@ Lekmu rides the car like a snail,Lekmu ride a slow car,Lekmu ride a fast car,0,L
 Lekmu rides the car like a fool,Lekmu ride a slow car,Lekmu ride a fast car,1,Lekmu,rides the car like,a fool
 Sitting on the chair feels like a pillow,Sitting in the chair feels soft,Sitting on the chair is hard,0,the chair,feels like,a pillow
 Sitting on the chair felt like a stone,Sitting in the chair feels soft,Sitting on the chair is hard,1,the chair,felt like,a stone
-It rained this morning like yesterday,It rained heavily in the morning,It was drizzling in the morning,0,,,
+It rained this morning like yesterday,It rained heavily in the morning,It was drizzling in the morning,0,this morning,it rained,like yesterday
 It rained in the morning like it was raining,It rained heavily in the morning,It was drizzling in the morning,1,It,rained in the morning like,it
 Riding a bike to the mountain feels like riding a track,The whole bar is full of cheese,It feels good to ride a bicycle to Mount Boyok,0,the mountain,feels like riding,a track
 The bike ride to Boyok Mountain feels like it has been embalmed for a day,The bike bar is full of cheese flavor,It feels good to ride a bicycle to Mount Boyok,1,The bike ride to Boyok Mountain,feels like it has been embalmed for,a day
@@ -30,7 +30,7 @@ The light in my room is like a lamp,My room lights,The light in my room is dark,
 Mr. Edi ran away like a deer,Mr. Edi ran fast,Mr. Edi ran away,0,Mr. Edi,ran away like,a deer
 Mr. Edi ran away like an ant,Mr. Edi runs fast,Mr. Edi ran away,1,Mr. Edi,ran away like,an ant
 Dik Sri's teeth are eating cucumbers,Uncle Sri tata,At least Dik Sri is nervous,0,Dik Sri 's teeth,are eating,cucumbers
-Dik Sri's teeth were bared,Uncle Sri tata,At least Dik Sri is nervous,1,,,
+Dik Sri's teeth were bared,Uncle Sri tata,At least Dik Sri is nervous,1,Dik Sri's teeth,were,bared
 The behavior of the little boy is like a kitiran,The little boy couldn't keep quiet,The little boy is sleeping,0,The behavior of the little boy,is like,a kitiran
 The behavior of the little boy is like a buffalo,The little boy couldn't keep quiet,The little boy is sleeping,1,The behavior of the little boy,is like,a buffalo
 Mas Tono's face is like Arjuna,Mas Tono's face is handsome,Mas Tono's face is ugly,0,Mas Tono 's face,is like,Arjuna
@@ -42,7 +42,7 @@ The weather this afternoon is like a trip to the poles,The weather is hot today,
 "Looking at Kartolo's posture, why is he so bold?",Kartolo is brave,Kartolo is afraid,0,Kartolo 's posture,", why is",he
 Look at Kartolo's posture,Kartolo is brave,Kartolo is afraid,1,,,
 "The condition of Mr. Sardi's house, which has just received help, is like rain",The condition of Pak Sardi's house is difficult,Mr. Sardi's house is happy,0,"The condition of Mr. Sardi 's house , which has just received help",", is like",rain
-"The condition of Pak Sardi's house, which has just received help, is like raining money",The condition of Pak Sardi's house is difficult,Mr. Sardi's house is happy,1,,,
+"The condition of Pak Sardi's house, which has just received help, is like raining money",The condition of Pak Sardi's house is difficult,Mr. Sardi's house is happy,1,"The condition of Pak Sardi's house, which has just received help,",is like,raining money
 "If you make a Painem coffee drink, it's like being drunk",If you make a sweet Painem coffee drink,If you make a bitter Painem coffee drink,0,you,"make a Painem coffee drink ,",it
 "If you make a Painem coffee drink, it's like being told",If you make a sweet Painem coffee drink,If you make a bitter Painem coffee drink,1,you,"make a Painem coffee drink ,",it
 Good thing Paijo was saved from his nose like a firecracker,It's good that Paijo is helped with his pointed nose,It's good that Paijo helped his nose,0,Good thing,Paijo was saved from his nose like,a firecracker
@@ -109,7 +109,7 @@ Living in the big city is like living in heaven,Living in a big city is like liv
 Living in the big city is like living in hell,Living in a big city is like living in a comfortable place,Living in a big city is like living in a small place,1,the big city,is like living in,hell
 "After wandering for a long time, he felt more humble","After traveling for a long time, the person became more humble","After wandering for a long time, the man's head got bigger",0,a long time,",",he
 "After wandering for a long time, he felt more arrogant","After traveling for a long time, the person became more humble","After wandering for a long time, the man's head got bigger",1,a long time,",",he
-The student is nicknamed the shrimp brain,The student has the nickname of a stupid person,The student has the nickname of a smart person,0,,,
+The student is nicknamed the shrimp brain,The student has the nickname of a stupid person,The student has the nickname of a smart person,0,The student,is nicknamed,the shrimp brain
 The student has the nickname of thin brain,The student has the nickname of a stupid person,The student has the nickname of a smart person,1,The student,has the nickname of,thin brain
 The house is like a palace,The house is very nice,The house is very ugly,0,The house,is like,a palace
 The house is like a house,The house is very nice,The house is very ugly,1,The house,is like,a house
@@ -356,7 +356,7 @@ Raihan smells like a dead body,Rahan smells fragrant,Raihan smelled rotten,1,Rai
 Jokowi's house is as wide as the south sea,Jokowi's house is very big,Jokowi's house is very narrow,0,Jokowi 's house,is as wide as,the south sea
 Jokowi's house is as wide as a rat's alley,Jokowi's house is very big,Jokowi's house is very narrow,1,Jokowi 's house,is as wide as,a rat 's alley
 You pray like a sea turtle,I wish you a long life,You pray for a short life,0,You,pray like,a sea turtle
-You're like kneeling,I wish you a long life,You pray for a short life,1,,,
+You're like kneeling,I wish you a long life,You pray for a short life,1,You,are like,kneeling
 Your body smells like sheep,The smell of your body,Your body smells good,0,Your body,smells like,sheep
 Your body smells like jasmine flowers,The smell of your body is bronze,Your body smells good,1,Your body,smells like,jasmine flowers
 My love for you is like an elephant,My love for you is great,My love for you is small,0,My love for you,is like,an elephant
@@ -485,7 +485,7 @@ His stepfather is like Gatot Kaca,His stepfather is good natured,His stepfather 
 His stepfather is like Sengkuni,His stepfather is good natured,His stepfather is evil,1,His stepfather,is like,Sengkuni
 "When monitoring the exam, the teacher's gaze is like an eagle looking for its prey","When monitoring the exam, the teacher's eyes are focused on observing the students","While monitoring the exam, the teacher's eyes were not focused because he was sleepy",0,the teacher 's gaze,is like,an eagle looking for its prey
 "While monitoring the exam, the teacher's eyes were like a child being sung to","When monitoring the exam, the teacher's eyes are focused on observing the students","While monitoring the exam, the teacher's eyes were not focused because he was sleepy",1,the teacher 's eyes,were like,a child
-Masku wanders like a buffalo that goes back to its cage,"Masku when he wanders, he always goes back to where he came from",Masku when he wandered he forgot where he came from,0,,,
+Masku wanders like a buffalo that goes back to its cage,"Masku when he wanders, he always goes back to where he came from",Masku when he wandered he forgot where he came from,0,Masku,wanders like,a buffalo that goes back to its cage
 Masku when he wanders like a nut forgets his skin,"Masku when he wanders, he always goes back to where he came from",Masku when he wandered he forgot where he came from,1,Masku when he wanders like,,a nut
 That person's nature is like a sponge filled with honey,"That person's nature describes a person from the lower class, but rich in knowledge",He is a person who talks a lot but does not want to work and is angry,0,That person 's nature,is like,a sponge filled with honey
 Such a person is like an empty drum giving a loud sound,"That person's nature describes a person from the lower class, but rich in knowledge",He is a person who talks a lot but does not want to work and is angry,1,Such a person,is like,an empty drum giving a loud sound
@@ -501,7 +501,7 @@ His heart is like a rock that will not be shaken even if it is hit by a big wave
 His heart is like cocoa,His heart is firm and strong,Hearts are fragile and break easily.,1,His heart,is like,cocoa
 Ms. Ayu's skirt is as long as three kilos,Miss Ayu's skirt is short,Miss Ayu's skirt is in the middle of nowhere,0,Ms. Ayu 's skirt,is as long as,three kilos
 Miss Ayu's skirt is like sweeping the road,Miss Ayu's skirt is short,Miss Ayu's skirt is in the middle of nowhere,1,Miss Ayu 's skirt,is like sweeping,the road
-The feeling of a man being married to his wife is like being married,The feeling was joy,The feeling is hard,0,,,
+The feeling of a man being married to his wife is like being married,The feeling was joy,The feeling is hard,0,The feeling of a man being married to his wife,is like,being married
 The man's feeling is that he is married to himself,The feeling was joy,The feeling is hard,1,The man 's feeling,is that he is married to,himself
 Andi's room is like an animal cage,Mr. Andi's room is empty,Andi's room is clean,0,Andi 's room,is like,an animal cage
 Andi's room is like a hotel room,Mr. Andi's room is empty,Andi's room is clean,1,Andi 's room,is like,a hotel room
@@ -541,7 +541,7 @@ If you have dreams above the sky,If you have very high ambitions,If you have amb
 If you have a dream above an electric pole,If you have very high ambitions,If you have ambitions that are not high (ordinary,1,you,have a dream above,an electric pole
 The closet inside the house is the size of a football field,The closet inside the house is huge,The closet inside the house is small,0,The closet inside the house,is the size of,a football field
 The closet inside the house is as big as a noodle box,The closet inside the house is huge,The closet inside the house is small,1,The closet inside the house,is as big as,a noodle box
-Being a teacher today is like walking up a mountain,Being a teacher today is like a joke,Being a teacher today is like a convenience,0,,,
+Being a teacher today is like walking up a mountain,Being a teacher today is like a joke,Being a teacher today is like a convenience,0,Being a teacher today,is like,walking up a mountain
 Being a teacher today is like taking a leisurely walk,Being a teacher today is like a joke,Being a teacher today is like a convenience,1,a teacher,today is like taking,a leisurely walk
 It's like being a chicken when you cook it with rice,Siblings are suffocating,Siblings are far apart,0,It,'s like being a chicken when you cook it with,rice
 Friendship is like an ant hitting the sun,Siblings are suffocating,Siblings are far apart,1,Friendship,is like,an ant hitting the sun

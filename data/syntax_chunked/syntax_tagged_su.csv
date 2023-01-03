@@ -42,7 +42,7 @@ must be careful to choose a partner in case it becomes a tea pot pot.,must be ca
 Bina is a golden child,Bina is a beloved child,Bina is my cousin.,0,Bina,is,a golden child
 Bina is your son.,Bina is a beloved child,Bina is my cousin.,1,Bina,is,your son
 the child must be ready,the child must be well educated,the child must be poorly educated.,0,the child,must be,ready
-the child must be sold raw.,the child must be well educated,the child must be poorly educated.,1,,,
+the child must be sold raw.,the child must be well educated,the child must be poorly educated.,1,the child,must be,sold raw
 don't be a stupid kid,don't be a stupid boy but don't want to ask,don't be a stupid boy but be willing to ask.,0,stupid,,a stupid kid
 don't be a stupid boy.,don't be a stupid boy but don't want to ask,don't be a stupid boy but be willing to ask.,1,stupid,,a stupid boy
 "to become a husband, you have to break your bones",being a husband should be forgotten,so the husband must not be able to work.,0,you,have to break,your bones
@@ -62,7 +62,7 @@ I'm still a boy.,"I'm still a boy, I have to be a boy who sucks","I'm still a bo
 Sometimes life can be a fragrant flower,Sometimes life can seem happy,Sometimes life can be unhappy.,0,life,can be,a fragrant flower
 Sometimes life can be a bad smell.,Sometimes life can seem happy,Sometimes life can be unhappy.,1,life,can be,a bad smell
 Don't use the blade on the battered umbrella,Don't worry about what you have now,Don't worry about the wealth you have now.,0,the battered umbrella,,the blade
-Do not go to the house.,Don't worry about what you have now,Don't worry about the wealth you have now.,1,,,
+Do not go to the house.,Don't worry about what you have now,Don't worry about the wealth you have now.,1,do not,go to,the house
 People can be water,People can be calm,People can be busy.,0,People,can be,water
 The person can be a fire.,People can be calm,People can be busy.,1,The person,can be,a fire
 Life should be able to be a stone,Life should be able to have an opinion,Life should be able to plan.,0,Life,should be,able to be a stone
@@ -71,8 +71,8 @@ So kids don't step upstream,So kids don't be rude,So boys don't be polite.,0,kid
 So children should not speak well.,So kids don't be rude,So boys don't be polite.,1,children,should not speak,well
 my life is just hahay,my life is just fun,my life is just sad.,0,my life,is,just hahay
 my life is just a dream.,my life is just fun,my life is just sad.,1,my life,is,just a dream
-Please don't measure the same clothes as you,Don't look at others from the outside,please don't go too deep.,0,you,ase do n't measure,the same clothes
-please don't measure clothes and fabrics.,Don't look at others from the outside,please don't go too deep.,1,,,
+Please don't measure the same clothes as you,Don't look at others from the outside,please don't go too deep.,0,you,please don't measure,the same clothes
+please don't measure clothes and fabrics.,Don't look at others from the outside,please don't go too deep.,1,please don't,measure,clothes and fabrics
 the skin is like a banana shell,the skin is yellow in color,the skin is brown in color.,0,the skin,is like,a banana shell
 the color of the skin is like cooked sawo.,the skin is yellow in color,the skin is brown in color.,1,the color of the skin,is like,cooked sawo
 "if there's a problem, life feels like a mess","if there's a problem, life feels like it's not going smoothly","if there is a problem, life seems to be smooth.",0,life,feels like,a mess
@@ -192,7 +192,7 @@ The famous artist is as if there is no internet.,He is a famous artist that ever
 The result of planting is like a flood,The results of planting are many,The result of planting is little.,0,The result of planting,is like,a flood
 The result of planting is like times for a while.,The results of planting are many,The result of planting is little.,1,The result of planting,is like times for,a while
 Those who watched in the stadium yesterday were like children,The audience in the stadium yesterday was crowded,The spectators in the stadium were quiet yesterday.,0,Those who watched in the stadium yesterday,were like,children
-Those who watched in the stadium yesterday seemed to have lost their minds.,The audience in the stadium yesterday was crowded,The spectators in the stadium were quiet yesterday.,1,,,
+Those who watched in the stadium yesterday seemed to have lost their minds.,The audience in the stadium yesterday was crowded,The spectators in the stadium were quiet yesterday.,1,those who watched in the stadium yesterday,seemed to have,lost their minds
 More and more here the government is like a rat in a rice barn,"The more you get here, the more corrupt the government becomes","The more the government gets here, the more it softens.",0,the government,is like,a rat in a rice barn
 "The more the government is here, the more it looks like rice that has been cooked.","The more the government gets here, the more corrupt it gets","The more the government gets here, the more it softens.",1,the government,"is here , the more it looks like",rice that has been cooked
 "Although he has many problems, he is like grass in the forest","Even though you have many problems, you never give up","Even though you have many problems, it's easy to give up.",0,he,"has many problems , he is like",grass in the forest
@@ -217,7 +217,7 @@ Siti's skin is the length of a baby,Siti's skin is smooth,Siti's skin is crusty.
 Siti's skin is full of moon.,Siti's skin is smooth,Siti's skin is crusty.,1,Siti 's skin,is full of,moon
 His attitude was like an ice cube,His attitude was cold,His attitude was warm.,0,His attitude,was like,an ice cube
 His attitude is like a bottle of milk for a baby.,His attitude was cold,His attitude was warm.,1,His attitude,is like,a bottle of milk for a baby
-Brother and sister act like dog and cat,The older brother is not compatible,Brother and sister behave in harmony.,0,,,
+Brother and sister act like dog and cat,The older brother is not compatible,Brother and sister behave in harmony.,0,brother and sister,act like,dog and cat
 The younger brother is acting like a starling and a buffalo.,The older brother is not compatible,Brother and sister behave in harmony.,1,The younger brother,is acting like,a starling and a buffalo
 Having a girlfriend is the attitude of a tiger,Having a girlfriend is a brave attitude,Having a girlfriend is a bad attitude.,0,a girlfriend,is,the attitude of a tiger
 Having a girlfriend is a bad attitude.,Having a girlfriend is a brave attitude,Having a girlfriend is a bad attitude.,1,a girlfriend,is,a bad attitude
@@ -306,7 +306,7 @@ The child's writing looks like a print.,The child's writing is random,The child'
 Religious knowledge is like a bright flashlight to navigate the road at night,Religious science shines and guides,Dark religious science.,0,Religious knowledge,is like,a bright flashlight to navigate the road at night
 Religious science is like a storehouse that has no filling.,Religious science shines and guides,Dark religious science.,1,Religious science,is like,a storehouse that has no filling
 Padjajaran field is the cost of the world cup football field,Padjajaran field is good and tidy,Padjajaran field battered and messy.,0,Padjajaran field,is the cost of,the world cup football field
-Field Padjajaran kos field in the stable.,Padjajaran field is good and tidy,Padjajaran field battered and messy.,1,,,
+Field Padjajaran kos field in the stable.,Padjajaran field is good and tidy,Padjajaran field battered and messy.,1,Field Padjajaran,kos field,in the stable
 Dieng water is like ice water,Dieng water is cold,Dieng water is hot.,0,Dieng water,is like,ice water
 Dieng water is like thermos water.,Dieng water is cold,Dieng water is hot.,1,Dieng water,is like,thermos water
 Holding the baby overnight is like a person who wants to move,There is a lot to carry overnight,Holding the baby all night is not there.,0,a person who wants to move,is like a person,who
@@ -339,7 +339,7 @@ The president's speech is like water on the leaves of the talleus,The president'
 The president's speech is like a kabah building.,The president's speech is repeated,The president's speech is steady.,1,The president 's speech,is like,a kabah building
 The quality of new luggage is the cost of someone else's,The quality of the new luggage is good,The quality of the new luggage is good.,0,The quality of new luggage,is the cost of,someone else 's
 The quality of new luggage is the cost of dior luggage.,The quality of the new luggage is good,The quality of the new luggage is good.,1,The quality of new luggage,is the cost of,dior luggage
-Listening to Yura Yunita's song is like being loved,Listening to Yura Yunita's song soothes,Listening to Yura Yunita's song is disturbing.,0,,,
+Listening to Yura Yunita's song is like being loved,Listening to Yura Yunita's song soothes,Listening to Yura Yunita's song is disturbing.,0,Yura Yunita's song,is like,being loved
 Listening to Yura Yunita's song is like thunder rain.,Listening to Yura Yunita's song soothes,Listening to Yura Yunita's song is disturbing.,1,Yura Yunita 's song,is like,thunder rain
 Mama's shampoo made her hair look like it was from a salon,Mama's shampoo makes my hair good,Mom's shampoo made my hair rough.,0,Mama 's shampoo,made her hair look like it was from,a salon
 Mama's shampoo made her hair look like an electric shock.,Mama's shampoo makes my hair good,Mom's shampoo made my hair rough.,1,Mama 's shampoo,made her hair look like,an electric shock
