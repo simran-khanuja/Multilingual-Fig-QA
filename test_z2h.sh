@@ -1,9 +1,9 @@
 #!/bin/bash
-MODEL=xlm_roberta_large_z2h
-MODEL_NAME_OR_PATH=xlm-roberta-large
-BASE_DIR=/projects/tir4/users/mengyan3/Multilingual-Fig-QA/
-LR=5e-6
-SEED=10
+MODEL=${1:-xlm_roberta_large}
+MODEL_NAME_OR_PATH=${2:-xlm-roberta-large}
+BASE_DIR=`pwd`
+LR=${3:-5e-6}
+SEED=${4:-10}
 declare -a languages=( "hi" "id" "kn" "jv" "su" "sw" )
 declare -a number=( "2" "4" "6" "8" "10" )
 
