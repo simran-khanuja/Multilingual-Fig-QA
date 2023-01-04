@@ -4,7 +4,7 @@ Creating the multilingual version of the [Fig-QA](https://arxiv.org/pdf/2204.126
 ### Running experiments
 Experiments can be run through `test_runner.sh`.
 Recommend making the output directory name different from the huggingface model name as it may cause problems with huggingface otherwise.
-Results will be output to a file named `results.txt` or z2h_results.txt`.
+Results will be output to a file named `results.txt` or `z2h_results.txt`.
 
 #### Multilingual training
 
