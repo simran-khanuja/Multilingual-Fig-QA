@@ -4,7 +4,7 @@ MODEL_NAME_OR_PATH=${2:-xlm-roberta-large}
 BASE_DIR=`pwd`
 LR=${3:-5e-6}
 SEED=${4:-10}
-declare -a languages=( "hi" "id" "kn" "jv" "su" "sw" )
+declare -a languages=( "hi" "id" "jv" "kn" "su" "sw" )
 declare -a number=( "2" "4" "6" "8" "10" )
 
 for lang in "${!languages[@]}"

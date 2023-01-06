@@ -4,7 +4,7 @@
 # This basically provides an easier interface to access all experiments and run multiple times
 
 # TODO: average over non-degenerate seeds
-SEEDS=( 10  )
+SEEDS=( 10 33 81 32 33 )
 LANGS=( "hi" "id" "jv" "kn" "su" "sw")
 print_help() {
     echo "Usage: $0 -e <experiment setting> -o <output file> -m <model name> "
