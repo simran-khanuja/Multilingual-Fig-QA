@@ -32,7 +32,8 @@ from typing import Optional, Union
 
 import datasets
 import torch
-from datasets import load_dataset, load_metric
+from datasets import load_dataset
+import evaluate
 from torch.utils.data import DataLoader
 from tqdm.auto import tqdm
 
@@ -57,6 +58,7 @@ from transformers import (
 )
 from transformers.utils import PaddingStrategy, get_full_repo_name
 import pdb
+import re
 
 logger = get_logger(__name__)
 # You should update this to your particular problem to have better documentation of `model_type`
@@ -258,6 +260,11 @@ def parse_args():
         default=None,
         help="Where to store the predictions on the test set."
     )
+    parser.add_argument(
+        "--test_runner_mode",
+        action="store_true",
+        help="Only output final epoch's accuracy"
+    )
 
     args = parser.parse_args()
 
@@ -283,9 +290,28 @@ def parse_args():
 
     if args.push_to_hub:
         assert args.output_dir is not None, "Need an `output_dir` to create a repo when `--push_to_hub` is passed."
+    
+    if args.test_runner_mode:
+        args.silent = True
+        set_global_logging_level(logging.FATAL, ["datasets", "transformers", "nlp", "torch", "tensorflow", "tensorboard", "wandb"])
 
     return args
 
+def set_global_logging_level(level=logging.ERROR, prefices=[""]):
+    """
+    Override logging levels of different modules based on their name as a prefix.
+    It needs to be invoked after the modules have been loaded so that their loggers have been initialized.
+
+    Args:
+        - level: desired level. e.g. logging.INFO. Optional. Default is logging.ERROR
+        - prefices: list of one or more str prefices to match (e.g. ["transformers", "torch"]). Optional.
+          Default is `[""]` to match all active loggers.
+          The match is a case-sensitive `module_name.startswith(prefix)`
+    """
+    prefix_re = re.compile(fr'^(?:{ "|".join(prefices) })')
+    for name in logging.root.manager.loggerDict:
+        if re.match(prefix_re, name):
+            logging.getLogger(name).setLevel(level)
 
 @dataclass
 class DataCollatorForMultipleChoice:
@@ -476,6 +502,9 @@ def main(args=None):
     )
     # Make one log on every process with the configuration for debugging.
     level = logging.INFO if not args["silent"] else logging.ERROR
+    if args["test_runner_mode"]:
+        level = logging.FATAL
+
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
         datefmt="%m/%d/%Y %H:%M:%S",
@@ -681,7 +710,7 @@ def main(args=None):
         )
     
     # Metrics
-    metric = load_metric("accuracy")
+    metric = evaluate.load("accuracy")
 
     if not args["do_predict"]:
         train_dataset = processed_datasets["train"]
@@ -856,7 +885,10 @@ def main(args=None):
             )
 
         eval_metric = metric.compute()
-        accelerator.print(f"test {args['test_file']}: {eval_metric}")
+        if not args["test_runner_mode"]:
+            accelerator.print(f"test {args['test_file']}: {eval_metric}")
+        else:
+            accelerator.print(eval_metric["accuracy"])
 
         if args["save_embeddings"]:
             if accelerator.is_main_process:

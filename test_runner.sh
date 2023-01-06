@@ -4,7 +4,7 @@
 # This basically provides an easier interface to access all experiments and run multiple times
 
 # TODO: average over non-degenerate seeds
-SEEDS=( 10 )
+SEEDS=( 10  )
 LANGS=( "hi" "id" "jv" "kn" "su" "sw")
 print_help() {
     echo "Usage: $0 -e <experiment setting> -o <output file> -m <model name> "
@@ -70,17 +70,22 @@ if [ "$EXPERIMENT" == "train" ]; then
 elif [ "$EXPERIMENT" == "zero2hero" ]; then
     for SEED in "${SEEDS[@]}"; do
         # TODO: test this one
-        echo "Seed: ${SEED}"
         # just check for one language since the z2h script trains all of them
         if [ ! -d "${OUTPUT}/hi_2/ckpts_seed${SEED}_lr${LR}" ]; then
             echo "INFO: Haven't trained yet. Training now..."
-            ./run_baselines_zero2hero.sh "${OUTPUT}" "${MODEL}" "${SEED}" "${LR}" "${BATCH_SIZE}" "${EPOCHS}"
+            PRETRAINED_EN_MODEL="${OUTPUT}/ckpts_seed${SEED}_lr${LR}/"
+            if [ ! -d "${PRETRAINED_EN_MODEL}" ]; then
+                echo "ERROR: ${PRETRAINED_EN_MODEL} does not exist. Please train the English model first."
+                exit 1
+            fi
+            ./run_baselines_zero2hero.sh "${MODEL}" "${PRETRAINED_EN_MODEL}" "${SEED}" "${LR}" "${BATCH_SIZE}" 
             echo "INFO: Done training. Information about these runs is in ${OUTPUT}/<lang>_<num>"
         fi
         OUTPUT_FILE="${OUTPUT}/z2h_results.txt"
         echo "INFO: Outputting results to ${OUTPUT_FILE}"
         > "${OUTPUT_FILE}"
-        ./test_z2h.sh "${OUTPUT}" "${MODEL}" "${LR}" "${SEED}" | tee "${OUTPUT_FILE}"
+        echo "Seed: ${SEED}" >> "${OUTPUT_FILE}"
+        ./test_z2h.sh "${OUTPUT}" | tee "${OUTPUT_FILE}"
     done
 else
     print_help

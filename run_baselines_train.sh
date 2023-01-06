@@ -11,7 +11,7 @@ do
 	for SEED in ${SEED_ARG}
 	do
 	echo "======================================================================="
-	echo "========================= Metaphor ${MODEL} LR ${LR} seed ${SEED} ==========================="
+	echo "========================= TRAIN: Metaphor ${MODEL} LR ${LR} seed ${SEED} ==========================="
 	echo "======================================================================="
 	python run_baselines.py \
 	--model_name_or_path ${MODEL_NAME_OR_PATH} \

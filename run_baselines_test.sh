@@ -15,7 +15,7 @@ do
     echo "======================================================================="
     python run_baselines.py \
     --model_name_or_path ./${MODEL}/ckpts_seed${SEED}_lr${LR} \
-    --test_file langdata/${test_files[index]} \
+--test_file langdata/${test_files[index]} \
     --do_predict \
     --max_length 128 \
     --per_device_train_batch_size 32 \
@@ -25,6 +25,7 @@ do
     --num_train_epochs 20 \
     --output_dir ./${MODEL}/ckpts_seed${SEED}_lr${LR} \
     --seed $SEED \
+    --test_runner_mode \
     --save_embeddings \
     --save_embeddings_in_tsv \
     --embedding_output_dir ./${MODEL}/embeddings_seed${SEED}_lr${LR}_${languages[index]}
