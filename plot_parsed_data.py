@@ -16,7 +16,6 @@ from sklearn.metrics import jaccard_score
 import pdb
 
 lemmatizer = WordNetLemmatizer()
-#stopwords = set(stopwords.words("english"))
 determiners = ["the", "a", "an", "that"]
 
 sns.set(font_scale=1.5)
