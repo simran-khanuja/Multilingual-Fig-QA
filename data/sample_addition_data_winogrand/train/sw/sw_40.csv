@@ -1,0 +1,81 @@
+startphrase,ending1,ending2,labels
+Mwendo wake ni mithili ya twiga,Mwendo wake ni wa maringo,Mwendo wake si wa maringo,0
+Mwendo wake ni wa bata,Mwendo wake ni wa maringo,Mwendo wake si wa maringo,1
+Wema ni hazina,Ukitendea watu mema yatakurudia,Ukitendea watu mema hayatakurudia,0
+Wema sio kitenesi,Ukitendea watu mema yatakurudia,Ukitendea watu mema hayatakurudia,1
+msanii yule ni nyota,amebobea kwenye usanii,hajabobea sana,0
+askari yule hajakuwa kiriba,ana tumbo nene,ana tumbo la kawaida,1
+mkewe amekuwa ndege wa mapema,anaamka mapema kufanya kazi,haamki mapema,0
+msanii yule si nyota,amebobea kwenye usanii,hajabobea sana,1
+Sofia na Fred walikuwa chanda na pete,"Sofia alipopatana na Fred, walipendana mno","Sofia alipopatana na Fred, walichukiana mno",0
+Sofia na Fred walikuwa mafuta na maji,"Sofia alipopatana na Fred, walipendana mno","Sofia alipopatana na Fred, walichukiana mno",1
+Tuliskia manunguniko ya mto,Kulikuwa na sauti kali ya mto,Mto ulikuwa umetulia,0
+anga ilikuwa wazi,kulikuwa na mawingu angani,hakukuwa na mawingu yoyote angani,1
+Binti huyu ni Musa.,Binti huyu ni mcha Mungu.,Ni binti akanaye Mungu.,0
+Filamu hiyo ilikuwa kama dawa za kulevya.,Filamu hiyo ilikuwa na manufaa.,Filamu hiyo ilikuwa na madhara.,1
+Miche ilikuwa kama magugu kwenye kaburi lililopuuzwa.,Miche ilikuwa inakua.,Miche ilikuwa inapungua.,0
+Ardhi ilikuwa kama mvua ya msimu ya baridi.,Ardhi ilikuwa tija.,Ardhi ilikuwa tasa.,1
+Hakuna marefu yasiyokuwa na ncha,Hakuna jambo lisilokua na mwisho,Kila jambo lina mwisho,0
+Zimwi likujualo halikuli likakwisha,Hakuna jambo lisilokua na mwisho,Hakuna jambo lenye mwisho,1
+Yeye amekuwa fisi,ni mlafi,si mlafi,0
+Mwelusi si mtumwa,yeye ni mvumilivu,yuko na haraka sana,1
+mpenzi wangu ni njiwa,ni mwaminifu,ni mwongo,0
+yeye si fisi,ni mlafi sana,si mlafi,1
+Maskini wa Kenya huvaa matambara kama chokoraa,Maskini wa Kenya huvaa matambara,Maskini wa Kenya huvaa mavazi safi,0
+Maskini wa Kenya huvaa matambara kama mfalme,Maskini wa Kenya huvaa matambara,Maskini wa Kenya huvaa mavazi safi,1
+Mama yake ni simba.,Mama yake ni mkali.,Mama yake ni mpole.,0
+Mvulana huyo alikuwa kondoo.,Ana akili kweli.,Ni mjinga kweli.,1
+ALipotushuku alituangalia kwa macho kali kama tai,Alitushuku tukiingia na kutuangalia kwa macho kali,Hakutushuku kamwe tulipoingia na vifaa,0
+Alikuwa na macho kali jama jongoo tulipoingia,Alitushuku tukiingia na kutuangalia kwa macho kali,Hakutushuku kamwe tulipoingia na vifaa,1
+Mazao ya wakulima ni kama mwanga wa jua.,Mazao ya wakulima yalikuwa tele.,Mazao ya wakulima yalikuwa haba.,0
+Wazazi wangu ni kama bibi kizee.,Wazazi wangu hawasahau kamwe.,Wazazi wangu ni wasahaulifu.,1
+Mbwa huyu ni simba.,Mbwa huyu ni shujaa.,Mbwa huyu ni mwoga.,0
+Polisi walikuwa kama waamuzi wa historia ya mipaka kwanza humunyonga mfungwa na kisha kumjaribu.,Polisi walikuwa waadilifu.,Polisi hawakuwa waadilifu.,1
+"Sandra, wewe ndio nuru ya macho yangu","Sandra, wewe ndiye unayenipa furaha","Sandra, wewe siye unayenipa furaha",0
+"Sandra, wewe ni kama shubiri kinywani mwangu","Sandra, wewe ndiye unayenipa furaha","Sandra, wewe siye unayenipa furaha",1
+"Tofauti na dhana iliyokuwepo, mama ndiye nguzo  ya familia","Tofauti na dhana iliyokuwepo, mama ndiye mtu anayeishikilia familia kwa pamoja",Mama siye anayeishikilia familia kwa pamoja,0
+"Tofauti na dhana iliyokuwepo, mama ndiye kunguni wa familia","Tofauti na dhana iliyokuwepo, mama ndiye mtu anayeishikilia familia kwa pamoja",Mama siye anayeishikilia familia kwa pamoja,1
+Ndoa zitakua hadimu siku za usoni,Ndoa zitakua hadimu siku si nyingi,Ndoa hazitakua hadimu siku za hapa karibuni,0
+Kutakua na ndoa kama siafu siku za usoni,Ndoa zitakua hadimu siku si nyingi,Ndoa hazitakua hadimu siku za hapa karibuni,1
+"Janice alipofika nyumbani, alikula kama nguruwe",Janice alifika nyumbani akiwa na njaa sana,Janice alifika nyumbani akiwa na shibe,0
+"Janice alipofika nyumbani, alikula kama mgonjwa aliyepoteza hamu",Janice alifika nyumbani akiwa na njaa sana,Janice alifika nyumbani akiwa na shibe,1
+mama wa kambo amekuwa joka la mdimu,ana wivu sana,ana upendo,0
+siku hizi rafiki yangu ni mtumwa,amekuwa kigeugeu,anaaminika,1
+Yeye ni unyoya,Yeye ni mwepesi,Yeye ni mzito,0
+"Ukimkuta kwenye uwanja wa mbio, kama kobe",Anakimbia kwa spidi kubwa sana,Anakimbia kwa spidi ndogo sana,1
+Alinivuta kama sumaku,Alinivuta kwa nguvu,Alinisukuma kwa nguvu,0
+Yeye ni jabali,Yeye ni mwepesi,Yeye ni mzito,1
+Aliahidi kuwa atachangia kisha akaingia mitini.,Aliahidi kuwa atachangia halafu hakuchanga,Aliahidi kuwa atachangia na akachanga,0
+Penda kua vuguvugu,Usipende kutokua na msimamo,Usipende kua na msimamo,1
+alihisi ngoma kifuani,alihisi uzito wa mambo fulani,hakuhisi uzito wowote,0
+ndovu za mwili wake hazikuvutia,anapendeza kwa maumbile yake,hapendezi sana,1
+zumaridi mbili zilingaa machoni pake,macho yake yanavutia,macho yake hayapendezi sana,0
+hakuhisi ngoma kifuani,alihisi uzito wa mambo fulani,hakuhisi uzito wowote,1
+Onyango amekua maziwa ya kuku,Siku hizi Onyango hapatikani kabisa,Onyango anaonekana kila mahali,0
+Onyango amekuwa kama mawingu angani,Siku hizi Onyango hapatikani kabisa,Onyango anaonekana kila mahali,1
+Roho ya imani ni msitu,Imani ana siri nyingi,Imani hapendi kuficha chochote,0
+Roho ya imani ni jua la mchana,Imani ana siri nyingi,Imani hapendi kuficha chochote,1
+Kijana yule ni mtumwa.,Yeye ni mvumilivi.,Yeye si mvumilivu.,0
+Somo la hesabu ni usiku wa giza.,Somo hilo linaeleweka.,Somo hilo halieleweki.,1
+Inanukia vizuri kama juisi ya embe lililotoka mtini,Inanukia vizuri,Inanukia Vibaya,0
+Pesa ni muuaji.,Pesa ni nzuri,pesa ni mbaya,1
+Kichwa chake kipo mawinguni,Yeye ni mrefu,Yeye ni mfupi,0
+Bado nipo katika kifungo cha deni,Nimelipa deni langu,Sijalipa deni langu,1
+Mahali aliwekwa palikuwa peponi.,Mahali aliwekwa palikuwa pazuri.,Mahali aliwekwa palikuwa pabaya.,0
+Yeye alikuwa mahali kama jela.,Yeye alijivinjari.,Yeye alihangaika.,1
+Kukopa arusi,Unapoazima kitu ni rahisi kufanaya hivyo,Unapoazimwa kufanyia mtu jambo ni vigumu,0
+Wewe ni giza yangu,nakutegemea sana kwa maisha yangu,Sikutegemei kwa lolote,1
+Anafanya kazi kama nyuki,Yeye anafanya shughuli nyingi,Yeye anafanya shughuli chache,0
+Binadamu wanatabirika kama macho ya mwizi.,Binadamu hawatabiriki,Binadamu wanatabirika,1
+Mapenzi ni vita,Mapenzi ni kitu kigumu,Mapenzi ni kitu kirahisi,0
+Mapenzi ni keki,Mapenzi ni kitu kigumu,Mapenzi ni kitu kirahisi,1
+msanii yule ni kasuku,anaiga sauti fulani,hafuati sauti yoyote,0
+baada ya kupita mtihani amekuwa mvuvi,mwenye majuto sana,ana furaha,1
+wakulima wamekuwa tai baada ya kupalilia,wana matumaini ya kuvuna,hawana matumaini yoyote,0
+msanii yule si kasuku,anaiga sauti fulani,hafuati sauti yoyote,1
+Urafiki wao ni kama wa chanda na pete.,Urafiki wao ni wa amani na upendo.,Urafiki wao ni wa vita na vurugu.,0
+Kitabu hiki ni kipya kama milima.,Kitabu hiki ni kipya.,Kitabu hiki ni cha zamani.,1
+Ivan ni mrefu kama twiga,Ivan alikua na akarefuka sana,Ivan alikua lakini hakurefuka,0
+Ivan ni mrefu kama kucha,Ivan alikua na akarefuka sana,Ivan alikua lakini hakurefuka,1
+Kitabu hiki ni kipya kama mwanzo wa siku.,Kitabu hiki ni kipya.,Kitabu hiki ni cha zamani.,0
+Mwanasoka yule ni mwezi mpevu.,Yule amekamilika.,Yule sio kamili.,1
