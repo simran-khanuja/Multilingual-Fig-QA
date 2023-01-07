@@ -4,7 +4,7 @@
 # This basically provides an easier interface to access all experiments and run multiple times
 
 # TODO: average over non-degenerate seeds
-SEEDS=( 10 33 81 32 33 )
+SEEDS=( 10 31 32 33 81 )
 LANGS=( "hi" "id" "jv" "kn" "su" "sw")
 print_help() {
     echo "Usage: $0 -e <experiment setting> -o <output file> -m <model name> "
@@ -58,7 +58,7 @@ if [ "$EXPERIMENT" == "train" ]; then
     for SEED in "${SEEDS[@]}"; do
         if [ ! -d "${OUTPUT}/ckpts_seed${SEED}_lr${LR}" ]; then
             echo "INFO: Haven't trained yet. Training now..."
-            ./run_baselines_train.sh "${OUTPUT}" "${MODEL}" "${SEED}" "${LR}" "${BATCH_SIZE}" "${EPOCHS}"
+            ./run_baselines_train.sh "${OUTPUT}" "${MODEL}" "${SEED}" "${LR}" "${BATCH_SIZE}" "${NUM_EPOCHS}"
             echo "INFO: Done training. Information about this run is in ${OUTPUT}/ckpts_seed${SEED}_lr${LR}/"
         fi
         OUTPUT_FILE="${OUTPUT}/ckpts_seed${SEED}_lr${LR}/results.txt"
@@ -66,6 +66,12 @@ if [ "$EXPERIMENT" == "train" ]; then
         > "${OUTPUT_FILE}"
         echo "Seed: ${SEED}" >> "${OUTPUT_FILE}"
         ./run_baselines_test.sh "${OUTPUT}" "${LR}" "${SEED}" | tee -a "${OUTPUT_FILE}"
+
+        OUTPUT_TRANSLATED_FILE="${OUTPUT}/ckpts_seed${SEED}_lr${LR}/results_translated.txt"
+        echo "INFO: Outputting translated results to ${OUTPUT_TRANSLATED_FILE}"
+        > "${OUTPUT_TRANSLATED_FILE}"
+        echo "Seed: ${SEED}" >> "${OUTPUT_TRANSLATED_FILE}"
+        ./run_baselines_test.sh "${OUTPUT}" "${LR}" "${SEED}" "translate_test" | tee -a "${OUTPUT_TRANSLATED_FILE}"
     done
 elif [ "$EXPERIMENT" == "zero2hero" ]; then
     for SEED in "${SEEDS[@]}"; do

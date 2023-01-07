@@ -5,6 +5,7 @@ languages=( "hi" "id" "jv" "kn" "su" "sw" )
 LR=${2:-5e-6}
 SEED=${3:-10}
 MODEL=${1:-xlm_roberta_large}
+BASE_DIR=${4:-langdata}
 
 for index in "${!test_files[@]}"
 do
@@ -15,7 +16,7 @@ do
     echo "======================================================================="
     python run_baselines.py \
     --model_name_or_path ./${MODEL}/ckpts_seed${SEED}_lr${LR} \
---test_file langdata/${test_files[index]} \
+--test_file ${BASE_DIR}/${test_files[index]} \
     --do_predict \
     --max_length 128 \
     --per_device_train_batch_size 32 \
