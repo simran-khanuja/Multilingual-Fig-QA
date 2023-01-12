@@ -1,0 +1,727 @@
+startphrase,ending1,ending2,labels
+Òkèlè ẹ̀bà mẹ́ẹ̀ẹ́dọ́gbọ̀n ni ọmọ náà jẹ lánàá,Ọmọ náà jẹ oúnjẹ púpọ̀,Ọmọ náà kò jẹ oúnjẹ púpọ̀,0
+Òkèlè ẹ̀bà kan ni ọmọ náà jẹ lánàá,Ọmọ náà jẹ oúnjẹ púpọ̀,Ọmọ náà kò jẹ oúnjẹ púpọ̀,1
+Ó burú bí i àjẹ́ apọmọjẹ,Ó máa ń rẹ́rìn-ín,Ó níkà gan,1
+Ó burú bí i ọlọ́kàn rere,Ó máa ń rẹ́rìn-ín,Ó níkà gan,0
+Òrùn náà ń fẹyín síta bí i ọmọ jòjòló,Ilẹ̀ mọ́ kedere,Òkùnkún bolẹ̀ kan.,0
+Òrùn náà kì í tan rárá,Ilẹ̀ mọ́ kedere,Òkùnkún bolẹ̀ kan.,1
+Ọpọlọ Tàlàbí dọ́ta bí i ọmọ òmùgọ̀ tí wọ́n rán láta tó lo ra Ọsàn,Orí Tàlàbí pé púpọ̀,Orí Tàlàbí kò pé rárá,1
+Ọpọlọ Tàlàbí ṣiṣẹ́ pépé bí i ọmọ tó mọ iṣẹ́ jẹ́,Orí Tàlàbí pé púpọ̀,Orí Tàlàbí kò pé rárá,0
+Ọmọbìnrin náà rí bí i ẹyẹ ọ̀kín,Ọmọbìnrin náà rẹwà,Ọmọbìnrin náà burẹ́wà,0
+Ọmọbìnrin náà rí bí i àkìtàn,Ọmọbìnrin náà rẹwà,Ọmọbìnrin náà burẹ́wà,1
+Àwọn ará ìlú ri pé Ẹkùn ni Ṣẹ́gun,Ṣẹ́gun ní ìgboyà,Ọ̀lẹ ni Ṣẹ́gun,0
+Àwọn ará ìlú ri pé Ìgbín ni Ṣẹ́gun,Ṣẹ́gun ní ìgboyà,Ọ̀lẹ ni Ṣẹ́gun,1
+Àwòko ni Àdìgún nínu orin kíkọ,Àdìgún mọ ọrin kọ,Àdìgún kò mọ orin kọ.,0
+Ọlọ́fin dídí ni Àdìgún nínú orin kíkọ,Àdìgún mọ ọrin kọ,Àdìgún kò mọ orin kọ.,1
+Ọmọ náà fò bí i ìgalà lánàá,Ara ọmọ náà balẹ̀,Ara ọmọ náà kò balẹ̀ rárá,0
+Ọmọ náà fò bí i ẹni tí kò lẹ́sẹ̀ lánàá,Ara ọmọ náà balẹ̀,Ara ọmọ náà kò balẹ̀ rárá,1
+Ẹlẹ́dẹ̀ ni Ìṣọlá nínu ilé rẹ̀,Ìṣọ̀lá ní ìmọ́tótó,Ìṣọ̀lá ní ọ̀bùn,1
+Ìṣọ̀lá má ń tún ilé rẹ̀ ṣe ní gbogbo nìgbà,Ìṣọ̀lá ní ìmọ́tótó,Ìṣọ̀lá ní ọ̀bùn,0
+Ìyá náà rí fàkìyà bí i àpáta Olúmọ,Ìyá náà tóbi / rọ̀bọ̀,Ìyá nàá kò tóbi / rọ̀bọ̀,1
+Ìyá náà rí bí i ọmọge ọ̀ṣọ́rọ́,Ìyá náà tóbi / rọ̀bọ̀,Ìyá nàá kò tóbi / rọ̀bọ̀,0
+Àwọ̀ rẹ rí bí i èédú tí wọ́n fí ń dáná,Àwọ̀ rẹ̀ dúdú gan,Àwọ̀ rẹ̀ pupa gan,1
+Àwọ̀ rẹ rí bí i góòlù tí mọ ṣẹ̀ṣẹ̀ rà láti ilẹ̀ òkèrè,Àwọ̀ rẹ̀ dúdú gan,Àwọ̀ rẹ̀ pupa gan,0
+Omí bọ́ lójú ìjàpà nígbà tí Ọba pàṣẹ pé kí wọ́n lọ pá.,Ìjàpá dunnú / Ìjàpá rẹ́rìn-ín,Ìjàpá banújẹ́ / Ìjàpá sunkún,1
+Omí bọ́ lójú ìjàpà nígbà tí Ọba pàṣẹ pé kí wọ́n fi joyè báálẹ̀.,Ìjàpá dunnú / Ìjàpá rẹ́rìn-ín,Ìjàpá banújẹ́ / Ìjàpá sunkún,0
+Àkekèé fi oró inú rẹ̀ rán ọ̀rẹ́ rẹ̀ Òkété lọ sí ọ̀run àrèmabọ̀,Àkekèé ṣekú pa Òkété,Àkekèé kò ṣekú pa Òkété,1
+Àkekèé fi oró inú rẹ̀ rán ọ̀rẹ́ rẹ̀ Òkété lọ sí ilé ijó,Àkekèé ṣekú pa Òkété,Àkekèé kò ṣekú pa Òkété,0
+Àpò ẹ̀wà méjì ni Bọ́lá jẹ kó tó sùn,Bọ́lá jẹ ẹ̀wà tó pọ̀ gan,Bọ́lá kò jẹ ẹ̀wà tó pọ̀,0
+Ẹ̀wà ṣíbí kan ni Bọ́lá jẹ kó tó sùn,Bọ́lá jẹ ẹ̀wà tó pọ̀ gan,Bọ́lá kò jẹ ẹ̀wà tó pọ̀,1
+Ajá ni Àdùkẹ́ jẹ́ fún gbogbo àwọn ọkùnrin àdúgbò,Oní ṣìnà / Aṣéwó ni Àdùkẹ́,Àdùkẹ́ kì í ṣe Oní ṣìnà / Aṣéwó,1
+Arẹwà ni Àdùkẹ́ jẹ́ fún gbogbo àwọn ọkùnrin àdúgbò,Oní ṣìnà / Aṣéwó ni Àdùkẹ́,Àdùkẹ́ kì í ṣe Oní ṣìnà / Aṣéwó,0
+Jẹgúduj́ẹrá ni àwọn olóṣèlú Ẹ̀kó,Olè l'àwọn olóṣèlú ìlú Èkó,Àwọn olóṣèlú ìlú Èkó kì í ṣe olè,1
+Olójú àánú ni àwọn olóṣèlú Ẹ̀kó,Olè l'àwọn olóṣèlú ìlú Èkó,Àwọn olóṣèlú ìlú Èkó kì í ṣe olè,0
+"Arákùnrín náà ga, ó sì dúdú bí i kóró iṣin",Arákùnrin náà rẹwà,Arákùnrin náà  kò rẹwà,0
+"Arákùnrín náà ga, ó sì dúdú bí i ọ̀bọ",Arákùnrin náà rẹwà,Arákùnrin náà  kò rẹwà,1
+Ọmọ náà wẹ̀ bí i ẹja lánàá ta lọ sódò.,Ọmọ náà mọ̀ ọ́ wẹ̀,Ọmọ náà kò mọ̀ ọ́ wẹ̀,0
+Ọmọ náà wọ́ bí i èkòló lánàá ta lọ sódò.,Ọmọ náà mọ̀ ọ́ wẹ̀,Ọmọ náà kò mọ̀ ọ́ wẹ̀,1
+Àwọn ewé Ọsàn náà jó lóri igi,Atẹ́gùn fẹ́ àwọn ewé Ọsàn náà,Atẹ́gùn ò fẹ́ àwọn ewé náà,0
+Àwọn ewé Ọsàn náà ò kúrò lójú kan lóri igi,Atẹ́gùn fẹ́ àwọn ewé Ọsàn náà,Atẹ́gùn ò fẹ́ àwọn ewé náà,1
+Àdìó ń sáré bí i ẹsin níbi ìdíje eré sísá lọ́sẹ̀ tó kọjá,Àdìò mo eré sá gan,Àdìò ò mọ eré sá,0
+Àdìó ń fò bí i ẹ̀fọn níbi ìdíje eré sísá lọ́sẹ̀ tó kọjá,Àdìò mo eré sá gan,Àdìò ò mọ eré sá,1
+Òkúta ni ọkàn Ṣọlápé,Ọkàn Ṣọlápé le,Ọkàn Ṣọlápé rọ̀,1
+Ọkàn Ṣọlápé fẹ́lẹ́ bí i Àmàlà,Ọkàn Ṣọlápé le,Ọkàn Ṣọlápé rọ̀,0
+Bọ́lájí jẹun bí i ẹni tí kò jẹun fún ọdún mẹ́fà,Bọ́láji jẹun gan,Bọ́láji kò jẹun rárá,0
+Bọ́lájí jẹun bí i ẹni tó ti yó,Bọ́láji jẹun gan,Bọ́láji kò jẹun rárá,1
+Kúkúṣì ń bẹ lọ́wọ Fadékẹ́ bí i ti ẹ̀gbọ́n mi tó ń ta Kòkó,Fadékẹ́ ní owó lọ́wọ́ gan,Fadékẹ́ tálákà gan,0
+Ọwọ́ Fadékẹ́ ti kan ìsàlẹ̀ àpò bí i ti ẹ̀gbọ́n mi tó ń ta Kòkó,Fadékẹ́ ní owó lọ́wọ́ gan,Fadékẹ́ tálákà gan,1
+Gbogbo ìlú ti gbà pé Ìlú mọ̀ọ́ká ni Àrẹ̀mú,Àrẹ̀mú jẹ́ ẹni tí ó gbajúmọ̀,Kò sí ẹni tí ó mọ Àrẹ̀mú,0
+Gbogbo ìlú kò gbà pé Ìlú mọ̀ọ́ká ni Àrẹ̀mú,Àrẹ̀mú jẹ́ ẹni tí ó gbajúmọ̀,Kò sí ẹni tí ó mọ Àrẹ̀mú,1
+Ọbẹ̀ tí Àbẹ̀ní sè kurò bí i ewúro,Ọbẹ̀ náà kò dùn,Ọbẹ̀ náà dùn ta lẹ́nu,1
+Ọbẹ̀ tí Àbẹ̀ní sè̀ ládùn bí i oyin,Ọbẹ̀ náà kò dùn,Ọbẹ̀ náà dùn ta lẹ́nu,0
+Ọ̀fọ́n-ọ̀n ni gbogbo àwọn ẹni tí ọ̀ ń bá ṣọ̀rẹ́,Olè ni wọ́n,Wọ́n kì í ṣe olè,1
+Gbogbo àwọn ẹni tí ọ̀ ń bá ṣọ̀rẹ́ lawọ́,Olè ni wọ́n,Wọ́n kì í ṣe olè,0
+Ojo ni Àmọ̀pé kò lé dá pa áyán,Ọ̀lẹ ni Àmọ̀pé,Àmọ̀pé ní Akínkanjú,0
+Àmọ̀pé ní ìgboyà ó lé dá pa áyán,Ọ̀lẹ ni Àmọ̀pé,Àmọ̀pé ní Akínkanjú,1
+Ìgín ni Àlàmú nínu ká roko,Àlàmú kì í yára,Àlàmú má ń rìndìn,1
+Ọba ni Àlàmú nínu ká roko,Àlàmú kì í yára,Àlàmú má ń rìndìn,0
+Àwọ̀ Bọ́lájí rí bí i ti ááyán,Àwọ̀ Bọ́lájí dán,Àwọ̀ Bọ́lájí ti ṣá,0
+Àwọ̀ Bọ́lájí rí bí i ti eye àdán,Àwọ̀ Bọ́lájí dán,Àwọ̀ Bọ́lájí ti ṣá,1
+Oró inú àwọn olùkọ́ wa rí bí i ti ejò,Àwọn olùkọ́ wa burú gan,Àwọn olùkọ́ ò burú,1
+Àwọn olùkọ́ wa ò ní oró nínú,Àwọn olùkọ́ wa burú gan,Àwọn olùkọ́ ò burú,0
+Oyin ni Óunjẹ tí a jẹ lánàá,Óunjẹ tí a jẹ lánàá dùn gan,Óunjẹ tí a jẹ lánàá kò dùn rárá,0
+Ewúro ni Óunjẹ tí a jẹ lánàá,Óunjẹ tí a jẹ lánàá dùn gan,Óunjẹ tí a jẹ lánàá kò dùn rárá,1
+Àbíkẹ́ ní òye tó dájú nípa iṣẹ́ agbẹ̀bí bí i àwọn dọ́kítà ilẹ̀ òkèrè,Àbíkẹ́ mọ iṣẹ́ agbẹ̀bí dáadáa,Àbíkẹ́ ò mọ iṣẹ́ agbẹ̀bí rárá,0
+Àbíkẹ́ ní òye kukurú nípa iṣẹ́ agbẹ̀bí bí i àwọn dọ́kítà ilẹ̀ òkèrè,Àbíkẹ́ mọ iṣẹ́ agbẹ̀bí dáadáa,Àbíkẹ́ ò mọ iṣẹ́ agbẹ̀bí rárá,1
+Aṣọ àlà tí ó wọ̀ ti pọ́n bí i ẹni tó kó sínú ẹrọ̀fọ̀,Aṣọ funfun tí ó wọ̀ ti dọ̀tí,Aṣọ funfun tí ó wọ̀ mọ́ gan,1
+Aṣọ àlà tí ó wọ̀ mọ́ ju ẹyín tí mo ṣẹ̀ṣẹl fọ̀ láàárọ̀ yìí lọ,Aṣọ funfun tí ó wọ̀ ti dọ̀tí,Aṣọ funfun tí ó wọ̀ mọ́ gan,0
+Oní gángàngán ni Òjó gbogbo wa la mọ̀ bẹ́ẹ̀,Wèré ni Òjó,Òjó kì í ṣe wèrè,1
+Apẹja ni Òjó gbogbo wa la mọ̀ bẹ́ẹ̀,Wèré ni Òjó,Òjó kì í ṣe wèrè,0
+Inú yàrá ìdánwò nàá palọ́lọ́ bí i itẹ́ òkú,Kò sí ariwo nínu yàrá ìdánwò náà,Ariwo ti pọ̀jù nínu yàrá ìdánwò nàá,0
+Inú yàrá ìdánwò nàá rí bí i ọjà Oṣòdì,Kò sí ariwo nínu yàrá ìdánwò náà,Ariwo ti pọ̀jù nínu yàrá ìdánwò nàá,1
+Gbogbo ara ìyá àgbà ti gan sínú ilé bí i òkú tó wà nínu yìnyín,Òtútù mú ìyá àgbà,Orú mú ìyá àgbà,0
+Gbogbo ara ìyá àgbà kò gan sínú ilé,Òtútù mú ìyá àgbà,Orú mú ìyá àgbà,1
+Àlàmú rí òkun náà tó ń kọrin lásìkò tó ń bọ̀ láti ibi iṣẹ́,Àlàmù rí òkun náà tó ń ru,Àlàmù rí òkun náà tó dákẹ́,0
+Àlàmú rí òkun náà tó ń yọ iná lásìkò tó ń bọ̀ láti ibi iṣẹ́,Àlàmù rí òkun náà tó ń ru,Àlàmù rí òkun náà tó dákẹ́,1
+Àgbẹ̀ náà ti kó gbogbo ọmọ tí igi nàá bí lánàá,Àgbẹ̀ náà ti ká gbogbo èso tó wà lóri igi nàá,Àgbẹ̀ náà ò ká èso kankan lóri igi nàá,0
+Àgbẹ̀ náà pa gbogbo ọmọ tí igi nàá bí lánàá,Àgbẹ̀ náà ti ká gbogbo èso tó wà lóri igi nàá,Àgbẹ̀ náà ò ká èso kankan lóri igi nàá,1
+Lákíríboto ni arábìnrin tí ọ̀gá ṣẹ̀ṣẹ̀ gbà sí ẹnu iṣẹ́,Arábìnrin náà ò lójú ara,Arábìnrin lójú ara,1
+Ọmọdé ni arábìnrin tí ọ̀gá ṣẹ̀ṣẹ̀ gbà sí ẹnu iṣẹ́,Arábìnrin náà ò lójú ara,Arábìnrin lójú ara,0
+Àgàn ni Àṣàbí fún ọgbọ̀n ọdún,Àṣàbí ò rọ́mọ bí fún ọgbọ̀n ọdún,Àṣàbí bí ọmọ tó pọ̀ fún ọgbọ̀n ọdún,1
+Abiyamọ ni Àṣàbí fún ọgbọ̀n ọdún,Àṣàbí ò rọ́mọ bí fún ọgbọ̀n ọdún,Àṣàbí bí ọmọ tó pọ̀ fún ọgbọ̀n ọdún,0
+Láti kéreké ni Ìdòwú tí ń ṣe iṣẹ́ ọdẹ bí i bàbá rẹ̀,Ìdòwú ti pẹ́ gan nínú iṣẹ́ ọdẹ,Ìdòwú ṣẹ̀ṣẹ̀ bẹ̀rẹ̀ iṣẹ́ ọdẹ,0
+Láti kéreké ni Ìdòwú kò ti nífẹ̀ẹ́ si iṣẹ́ ọdẹ ṣíṣe,Ìdòwú ti pẹ́ gan nínú iṣẹ́ ọdẹ,Ìdòwú ṣẹ̀ṣẹ̀ bẹ̀rẹ̀ iṣẹ́ ọdẹ,1
+Orí Gbádébọ̀ rí bí i orí òkè olúmọ,Orí Gbádébọ̀ tóbi gan,Orí Gbádébọ̀ kò tóbi,1
+Orí Gbádébọ̀ kò rí bí i orí òkè olúmọ,Orí Gbádébọ̀ tóbi gan,Orí Gbádébọ̀ kò tóbi,0
+Ẹsẹ̀ Bólájí gùn bí i ọ̀pá Ọ̀rànmíyàn,Ẹsẹ Bólájí gùn gan,Ẹsẹ Bólájí kéré gan,1
+Ẹsẹ̀ Bólájí rẹwà bí i tọmọ ìkókó,Ẹsẹ Bólájí gùn gan,Ẹsẹ Bólájí kéré gan,0
+Èdè Yorùbá ẹnu rẹ̀ dánmọ́rán bí i tàwọn ará Ọ̀yọ́,Ó gbọ́ èdè Yorùbá dáadáa,Kò gbọ́ èdè Yorùbá rárá,0
+Èdè Yorùbá ẹnu rẹ̀ kò dánmọ́rán bí i tàwọn Ẹ̀gùn,Ó gbọ́ èdè Yorùbá dáadáa,Kò gbọ́ èdè Yorùbá rárá,1
+Gàrì náà kan bí i omi ògì,Gàrí náà kan,Gàrí náà ò kan,0
+Gàrì náà korò bí i omi ògì àná,Gàrí náà kan,Gàrí náà ò kan,1
+Eyín rẹ̀ funfun bí i ẹyẹ àdàbà,Eyin rẹ̀ mọ́,Eyin rẹ̀ dọ̀tí,0
+Eyín rẹ̀ kò funfun bí i ẹyẹ àdàbà,Eyin rẹ̀ mọ́,Eyin rẹ̀ dọ̀tí,1
+Adékúnlé dárípọ́ bí i orí aláǹgbá,Orí Adékúnlé pọ́n,Orí Adékúnlé kò pọ́n,0
+Adékúnlé ti fọ́ lórí níbi tó ti lọ jà,Orí Adékúnlé pọ́n,Orí Adékúnlé kò pọ́n,1
+Àso erin ni Bọ́látitó,Bọ́látitó máa ń dá nìkan wà,Bọ́látitó máa ń wà pẹ̀lú àwọn ọ̀pọ̀ ènìyàn,1
+Ọlọ́yàyà ni Bọ́látíto,Bọ́látitó máa ń dá nìkan wà,Bọ́látitó máa ń wà pẹ̀lú àwọn ọ̀pọ̀ ènìyàn,0
+Ará ọ̀run ni Àjàní,Eégún ni Àjàní,Àjàní kì í ṣe Eégún,0
+Àjàní kì i ṣe Ará ọ̀run,Eégún ni Àjàní,Àjàní kì í ṣe Eégún,1
+Paramọ́lẹ̀ ni Àbẹ̀kẹ́,Kò sí ẹni tó mọ ìṣe Àbẹ̀kẹ́,Gbogbo wa la mọ ìṣe Àbẹ̀kẹ́,1
+Àbẹ̀kẹ́ kì i ṣe Paramọ́lẹ̀,Kò sí ẹni tó mọ ìṣe Àbẹ̀kẹ́,Gbogbo wa la mọ ìṣe Àbẹ̀kẹ́,0
+Ẹlẹ́nu ẹyẹ ni Àgbékẹ́,Àgbékẹ́ máa ń fẹnu ba èèyàn jẹ́,Àgbékẹ́ máa ń fẹnu kọrin,1
+Aládúrà ni Àgbékẹ́,Àgbékẹ́ máa ń fẹnu ba èèyàn jẹ́,Àgbékẹ́ máa ń fẹnu yin ènìyàn,0
+"Ọmọ náà gbọ́ Ifá, ó mọ nú ìgbín nínú ìkàrahun bí í abọrẹ̀ agboolé wa",Ọmọ náà mọ Ifá dáadáa,Wọ́n ti kọ Ifá fún ọmọ náà sínú ìwè,0
+Ọmọ náà kò mọ nǹkankan nípa Ifá,Ọmọ náà mọ Ifá dáadáa,Wọ́n ti kọ Ifá fún ọmọ náà sínú ìwè,1
+Àkàrà Gbádégẹṣin àti àbúrò rẹ̀ ti tú sépo bí i ti bàbá wọn tó wà lẹ́wọ̀n,Àṣírí Gbádégẹṣin àti àbúrò rẹ̀ ti tú,Àṣírí Gbádégẹṣin àti àbúrò ti bò,0
+Àkàrà Gbádégẹṣin àti àbúrò rẹ̀ kò tú sépo,Àṣírí Gbádégẹṣin àti àbúrò rẹ̀ ti tú,Àṣírí Gbádégẹṣin àti àbúrò ti bò,1
+Àbẹ̀ní se onírurú ọbẹ̀ lánàá bí i àwọn tó ń dáná olópò,Àbẹ̀ní se oríṣiríṣi ọbẹ̀ lánàá,Àbẹ̀ní kò se oríṣiríṣi ọbẹ̀ lánàá,0
+Àbẹ̀ní se onírurú ọbẹ̀ tí kò dùn lánàá.,Àbẹ̀ní se oríṣiríṣi ọbẹ̀ lánàá,Àbẹ̀ní kò se oríṣiríṣi ọbẹ̀ lánàá,1
+Ojú ọ̀run náà lóyún omi nǹkan bí i ago mọ́kànlá ló tó bímọ,Òjò náà sú lánàá ó tó ago mọ́kànlá kó tó rọ̀,Òjò náà kò sú lánàá kò sì rọ̀ ní ago mọ́kànlá,0
+Ojú ọ̀run náà ò lóyún omi,Òjò náà sú lánàá ó tó ago mọ́kànlá kó tó rọ̀,Òjò náà kò sú lánàá kò sì rọ̀ ní ago mọ́kànlá,1
+Òòrun àná ta ènìyàn lára bí i iná àdògán,Òòrùn àná mú gan,Òòrùn àná kò mú rárá,1
+Òòrun àná kò ta ènìyàn lára,Òòrùn àná mú gan,Òòrùn àná kò mú rárá,0
+Ojú Yẹmí le bí i ojú ọ̀daràn kò sí eni tó lè ba sọ̀rọ̀,Ojú Yẹmí le gan,Ojú Yẹmí kò le rárá,1
+Ojú Yẹmí ni àwọn ọmọge fẹ́ rí,Ojú Yẹmí le gan,Ojú Yẹmí kò le rárá,0
+Aṣọ Títílayọ̀ rí bí i aṣọ egbéré,Aṣọ Títílayọ̀ kò dára rárá,Aṣọ Títílayọ̀ dára gan,1
+Aṣọ Títílayọ̀ rí bí i aṣọ ọba ilé ifẹ̀,Aṣọ Títílayọ̀ kò dára rárá,Aṣọ Títílayọ̀ dára gan,0
+Adẹ́tẹ̀ ni Afọlábí,Afọlábí ò lè gbé láàárín àwọn ènìyàn,Afọlábí lè gbé láàárín àwọn ènìyàn,1
+Afọlábí kì i ṣe Adẹ́tẹ̀,Afọlábí ò lè gbé láàárín àwọn ènìyàn,Afọlábí lè gbé láàárín àwọn ènìyàn,0
+Adé ń pariwo bí i eni tí ajá bùjẹ,Adé ń pariwo gan,Adé kò pariwo rárá,1
+Adé ń pariwo bí i eni tí ó sù lọ fọnfọn,Adé ń pariwo gan,Adé kò pariwo rárá,0
+Ike omi ọgọ́rùn-ún ni Àdìsá pọn kó tó lọ sí ilé ìwé láàárọ̀ yìí,Àdìsá pọn omi púpọ̀,Omi díẹ̀ ni Àdìsá pọn,0
+Ike omi kan ṣoṣo ni Àdìsá pọn kó tó lọ sí ilé ìwé láàárọ̀ yìí,Àdìsá pọn omi púpọ̀,Omi díẹ̀ ni Àdìsá pọn,1
+Olùdíje náà sáré bí i atẹ́gùn,Olùdíje mọ eré sá gan,Olùdíje náà kò sáré ba ṣe fẹ́,0
+Olùdíje náà sáré bí i ìgín,Olùdíje mọ eré sá gan,Olùdíje náà kò sáré ba ṣe fẹ́,1
+Àpò náà wúwo bí i àpo tó kún fún òkúta ńlá,Àpò náà wúwo gan,Àpò náà fuyẹ́,0
+Àpò náà kò wúwo rárá,Àpò náà wúwo gan,Àpò náà fuyẹ́,1
+Ètè rẹ̀ dúdú bí i ètè ẹni tó ń fa igbó,Ètè rẹ̀ ti dúdú jù,Ètè rẹ̀ pupa,1
+Ètè rẹ̀ kò dúdú bí i ètè ẹni tó ń fa igbó,Ètè rẹ̀ ti dúdú jù,Ètè rẹ̀ pupa,0
+Fọlárìn jẹun bí i ẹlẹ́dẹ̀,Fọlárìn ò jẹun bàṣùbàṣù,Fọlárìn bá ẹlẹ́dẹ̀ ṣeré,1
+Fọlárìn ò jẹun bí i ẹlẹ́dẹ̀,Fọlárìn ò jẹun bàṣùbàṣù,Fọlárìn bá ẹlẹ́dẹ̀ ṣeré,0
+"Ayọ̀mídé jẹ abọ́ ẹ̀bà méjìlá, ó wá ń gbẹ́sẹ̀ bí i olóyún tó ń rọbí",Ayọ̀mídé ò lẹ̀ rìn dáadáa lẹ́yìn abọ́ ẹ̀bà méjìlá,Ayọ̀mídé rìn dáada lẹ́yìn abọ́ ẹ̀bà méjìlá,1
+"Ayọ̀mídé ò lè jẹ abọ́ ẹ̀bà méjìlá, kò sì rìn bí i olóyún",Ayọ̀mídé ò lẹ̀ rìn dáadáa lẹ́yìn abọ́ ẹ̀bà méjìlá,Ayọ̀mídé rìn dáada lẹ́yìn abọ́ ẹ̀bà méjìlá,0
+Ọlọ́jẹ̀ ni Dáṣọfúnjó,Eléégún ni Dánṣọfúnjó,Oní ìlù ni Dánṣọfúnjó,0
+Oníjó ni Dáṣọfúnjó,Eléégún ni Dánṣọfúnjó,Oní ìlù ni Dánṣọfúnjó,1
+Igi tí wọ́n fi pa ejó náà rí ràbàtà bí i igi ìrókò,Igi náà tóbi gan,Igi náà kò tóbi gan,0
+Igi tí wọ́n fi pa ejó náà rí sọrọ,Igi náà tóbi gan,Igi náà kò tóbi gan,1
+Ìyá Bọ́lájí sọ pé nǹkan ọmọ ọkùnrin bàbá Bọ́lájí rí bí i tọmọ ìkókó,Nǹkan ọmọ ọkùnrin bàbá Bọ́lájí ti kéré jù,Nǹkan ọmọ ọkùnrin bàbá Bọ́lájí ti tóbi jù,0
+Ìyá Bọ́lájí sọ pé nǹkan ọmọ ọkùnrin bàbá Bọ́lájí ṣiṣẹ́ dáadáa,Nǹkan ọmọ ọkùnrin bàbá Bọ́lájí ti kéré jù,Nǹkan ọmọ ọkùnrin bàbá Bọ́lájí ti tóbi jù,1
+Ró mi láṣọ ìmọ̀ bí i ọ̀jọgbọ̀n Wọlé Ṣóyinká,Mo fẹ́ ní ìmọ̀ ti ọ̀jọ̀gbọ̀n Wọlé Ṣóyinká ní,Ọ̀jọ̀gbọ̀n Wọlé Ṣóyinká ò ní ìmọ̀ tí mo ní,0
+Bàbá mi ni ọ̀jọ̀gbọ́n Wọlé Ṣóyinká,Mo fẹ́ ní ìmọ̀ ti ọ̀jọ̀gbọ̀n Wọlé Ṣóyinká ní,Ọ̀jọ̀gbọ̀n Wọlé Ṣóyinká ò ní ìmọ̀ tí mo ní,1
+Ọmọ ọdún mẹ́fà náà lu ìlù bí i ẹni tí wọ́n bí sí ìdílé àyàn,Ọmọ ọdún mẹ́fà náà mọ ìlú lù dáadáa,Ọmọ ọdún mẹ́fà náà kò mọ ìlú lù rárá,0
+Ọmọ ọdún mẹ́fà náà gbé ìlù kọ́rùn bí i ẹni tí wọ́n bí sí ìdílé àyàn,Ọmọ ọdún mẹ́fà náà mọ ìlú lù dáadáa,Ọmọ ọdún mẹ́fà náà kò mọ ìlú lù rárá,1
+Ìfẹ́ Adédoyin pamí bí i ọtí,Mo nífẹ̀ẹ́ Adédoyin gan,Mo ò nífẹ̀ẹ́ Adédoyin rárá,0
+Ìfẹ́ Adédoyin ti yọ́ kúrò lọ́kàn mi,Mo nífẹ̀ẹ́ Adédoyin gan,Mo ò nífẹ̀ẹ́ Adédoyin rárá,1
+Àbẹ̀ún kó sí aṣọ bí i ẹni tí òtútù ń mú,Àbẹ̀ún wọ aṣọ púpọ̀,Àbẹ̀ún wọ aṣọ díẹ̀,0
+Àbẹ̀ún kó sí́ aṣọ tuntun tó rà,Àbẹ̀ún wọ aṣọ púpọ̀,Àbẹ̀ún wọ aṣọ díẹ̀,1
+Ayé ò lọ bí i ọ̀pá ìbọn,Ayé ò lọ lóju kan,Ọ̀nà kan layé wà,0
+Ayé lọ bí i ọ̀pá òrúnmìlà,Ayé ò lọ lóju kan,Ọ̀nà kan layé wà,1
+Àdùnnị ṣẹ̀ṣẹ̀ bẹ̀rẹ̀ sí ní gun àkàbà orí ire rẹ,Àdùnní tí ń ṣe orí ire,Orí burúkú ni Àdùnnní ṣe,0
+Àdùnnị ṣẹ̀ṣẹ̀ bẹ̀rẹ̀ sí ní lọ ilé ìwé,Àdùnní tí ń ṣe orí ire,Orí burúkú ni Àdùnnní ṣe,1
+Tìmílẹ́yìn kógo já níbi ìdánwò àṣekágbá,Tímìlẹ́yìn ṣe àṣeyọrí,Tímìlẹ́yìn ṣe òfò,0
+Tìmílẹ́yìn fìdí rẹmi níbi ìdánwò àṣekágbá,Tímìlẹ́yìn ṣe àṣeyọrí,Tímìlẹ́yìn ṣe òfò,1
+Àmọ̀pé mí gúlegúle bí i ajá tí ẹbí pa,Àmọ̀pé yára mí lọ sókè sílẹ̀,Àmọ̀pé mí lẹ́ẹ̀kan ṣoṣo,0
+Àmọ̀pé kò mí mọ.,Àmọ̀pé yára mí lọ sókè sílẹ̀,Àmọ̀pé mí lẹ́ẹ̀kan ṣoṣo,1
+Àṣàkẹ́ jókòó sórí àga bí i ẹni ti ìsó gún nídìí,Àsàkẹ́ kò jókòó dáadáa,Àsàkẹ́ jókòó fẹ̀yìntì,0
+Àṣàkẹ́ fọ́ àga tó ṣẹ̀ṣẹ̀ rà,Àsàkẹ́ kò jókòó dáadáa,Àsàkẹ́ jókòó fẹ̀yìntì,1
+Ojú Ìgè rí bí i ojú eye àdán,Ojú Ìgè kò rẹwà,Wọ́n fi ẹ̀rín sí ẹnu Ìgè,1
+Ojú Ìgè kún fún ẹ̀rín àti ayọ,Ojú Ìgè kò rẹwà,Wọ́n fi ẹ̀rín sí ẹnu Ìgè,0
+Ó taná ojú bí i iná mọ́to ayọ́kẹ́lẹ́,Ó ń ranjú,Ó ń rẹ́rìn ín,0
+Ó taná ojú kò rí nǹkankan,Ó ń ranjú,Ó ń rẹ́rìn ín,1
+Ojú Fọlárìn ti relé dèé,Ojú Fọlárìn ti fọ́,Fọlárìn ríran kedere,0
+Ojú Fọlárìn ti tóbi jú,Ojú Fọlárìn ti fọ́,Fọlárìn ríran kedere,1
+Ẹsẹ̀ mẹ́ta ni Bọ́lájókòó fi ń rin bí i àwọn atọrọbáárà,Bọ́lájókòó ń fi ọ̀pá rìn,Bọ́lájókòó ń fi ọ̀pá ṣeré,0
+Ẹsẹ̀ tó ti kán ni Bọ́lájókòó fi ń rin,Bọ́lájókòó ń fi ọ̀pá rìn,Bọ́lájókòó ń fi ọ̀pá ṣeré,1
+Iyán náà fẹ́lẹ́ bí i etí,Iyán náà rọ̀,Iyán náà le,0
+Iyán náà wúwo bí i òkúta,Iyán náà rọ̀,Iyán náà le,1
+Ìdí àwọn akẹ́kọ̀ọ́ yọ eruku lala bí i omi gbóná nínú yàrá ìdánwò,Ìdánwò náà gbomi mu,Ìdánwò náà rọrùn,0
+Àwọn akẹ́kọ̀ọ́ sùn fọnfọn nínú yàrá ìdánwò,Ìdánwò náà gbomi mu,Ìdánwò náà rọrùn,1
+Adégbètẹ́ tu itọ́ sókè fojú gbáà nígbà tí ó ń bá ọ̀rẹ́ Mákindé sòrò,Adé́gbètẹ̀ bínú nígbà tí ó ń bá ọ̀rẹ́ rẹ̀ sọ̀rò,Adé́gbètẹ̀ rẹ́rìn ín nígbà tí ó ń bá ọ̀rẹ́ rẹ̀ sọ̀rò,0
+Adégbètẹ́ bú sẹ́kún nígbà tí ó ń bá ọ̀rẹ́ Mákindé sòrò,Adé́gbètẹ̀ bínú nígbà tí ó ń bá ọ̀rẹ́ rẹ̀ sọ̀rò,Adé́gbètẹ̀ rẹ́rìn ín nígbà tí ó ń bá ọ̀rẹ́ rẹ̀ sọ̀rò,1
+Arákunrìn náà ta téru nípàá níbi ìṣẹ̀lẹ̀ ìjàmbá ọkọ̀,Arákùnrin ná́à ti kú,Arákùnrin ná́à wá ọ̀nà àbáyọ,1
+Arákunrìn náà ra ọkọ̀ tuntun,Arákùnrin ná́à ti kú,Arákùnrin ná́à wá ọ̀nà àbáyọ,0
+Ẹ̀gbọ́n Símisọ́lá rí bí i Àdìgún tí kò yọ kúrò nílẹ̀,Ẹ̀gbọ́n Símisọ́lá ò ga,Ẹ̀gbọ́n Símisọ́lá sùn lọ,1
+Ẹ̀gbọ́n Símisọ́lá ti fẹ́ àbúrò Àdìgún tó rẹwà,Ẹ̀gbọ́n Símisọ́lá ò ga,Ẹ̀gbọ́n Símisọ́lá sùn lọ,0
+"Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ yóò kẹsẹ̀ bọ sòkòtò kan ná-àn, ọlọ́pàá sì kó wọn",Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ ń jà,Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ ṣeré kiri,1
+Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ yóò aṣọ tó rẹwà tó sì jọra,Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ ń jà,Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ ṣeré kiri,0
+Ilé awòṣífìlà tó kọ́ rí bí i ààfin Ọba Ọọ̀ni ilé Ifẹ̀,Ilé awòṣífìnà náà rẹwà,Ilé awòṣífìnà náà ti wó,0
+Ilé awòṣífìlà tó kọ́ ti wó lul̀e,Ilé awòṣífìnà náà rẹwà,Ilé awòṣífìnà náà ti wó,1
+Ọjọ́ orí rẹ̀ ju ọjọ́ ori ij̀àpá lọ,O tí dàgbà gan,O kéré gan,0
+Ọjọ́ orí rẹ̀ kò tó ọjọ́ ori ij̀àpá lọ,O tí dàgbà gan,O kéré gan,1
+Àdìsà mu kòkò ẹmu ọgbọ̀n ní ilé ẹmu lánàá,Àdìsá mu ẹmu púpọ̀,Àdìsá mu ẹmu kekeré,0
+Àdìsà kò mu ẹmu rárá ní ilé ẹmu lánàá,Àdìsá mu ẹmu púpọ̀,Àdìsá mu ẹmu kekeré,1
+Ọdẹ́ṣọlá ní òye iṣẹ́ ọdẹ náà dójú àmì bí i olúọ́dẹ agboolé wa,Ọdẹ́ṣọlá mọ iṣẹ́ ọdẹ náà dáadáa,Ọdẹ́ṣọlá ń fi iṣẹ́ ọdẹ ṣeré,0
+Ọdẹ́ṣọlá ò mọ iṣẹ́ tí wọ́n pè ni iṣẹ́ ọdẹ.,Ọdẹ́ṣọlá mọ iṣẹ́ ọdẹ náà dáadáa,Ọdẹ́ṣọlá ń fi iṣẹ́ ọdẹ ṣeré,1
+Ení tere èji tere ló ń gba owó rẹ̀ padà bí i àwọn alájẹṣẹ́ku,Díẹ̀ díẹ̀ ló ń gba owó rẹ̀ padà,Ó ṣe ìtọrẹ àánú pẹ̀lú owó rẹ̀,0
+Ení tere èji tere kọ́ ló gba owó rẹ̀ padà,Díẹ̀ díẹ̀ ló ń gba owó rẹ̀ padà,Ó ṣe ìtọrẹ àánú pẹ̀lú owó rẹ̀,1
+Agbẹjọ́rò náà ti ṣíṣọ lójú eégún ọ̀rọ̀ náà nílé ẹjọ́,Agbẹjọ́rò náà ti sọ àṣírí ọ̀rọ̀ náà,Agbẹjọ́rò náà ti sú ìgbẹ́jọ́ náà,0
+Agbẹjọ́rò náà ò sọ ẹni tó jẹ̀bi,Agbẹjọ́rò náà ti sọ àṣírí ọ̀rọ̀ náà,Agbẹjọ́rò náà ti sú ìgbẹ́jọ́ náà,1
+Èrò tó wà lọ́jà kún àkúnfàya lánàá,Àwọn ènìyàn púpọ̀ wà lọ́jà,Àwọn mẹ́ta péré ló wà lọ́jà,0
+Àwọ́n èrò tó wà lọ́jà tí fi ọlọ́pàá gbé bàbá ọjà lánàá,Àwọn ènìyàn púpọ̀ wà lọ́jà,Àwọn mẹ́ta péré ló wà lọ́jà,1
+Inú Fadékẹ́ ti padà yọ́ sí mi bí i òrí lánàá lẹ́yìn gbogbo ìjà wa,Fadékẹ́ ti padà dárjíì mìí,Fadékẹ́ ti padà bínú sí mi,0
+Fadékẹ́ ti padà bí ìbejì lẹ́yìn gbogbo ìjà wa,Fadékẹ́ ti padà dárjíì mìí,Fadékẹ́ ti padà bínú sí mi,1
+Ìka kan ò wọ àwọn ọmọ yìí nídìí mọ́,Eréepá ni àwọn ọmọ náà ṣe kiri,Àwọn ọmọ náà jókòó sí ibìkan,0
+À̀wọn ọmọ yìí ti lọ sóko ọ̀gẹ̀dẹ̀,Eréepá ni àwọn ọmọ náà ṣe kiri,Àwọn ọmọ náà jókòó sí ibìkan,1
+Ó rí ẹ̀wọ̀n ọdún mọ́kànlá he nílé ẹjọ́ lóri ẹ̀sùn tí wọ́n fi kàn-án,Wọ́n dájọ́ ẹ̀wọ̀n ọdún mọ́kànlá fun nílé ẹjọ́,Ó ń polówó ọjà nílé ẹjọ́,1
+Lẹ́yìn ẹ̀wọ̀n ọdún mọ́kànlá tó rí he ó padà gba ìtúsílẹ̀,Wọ́n dájọ́ ẹ̀wọ̀n ọdún mọ́kànlá fun nílé ẹjọ́,Ó ń polówó ọjà nílé ẹjọ́,0
+Ẹ wo bí Adénúgà ṣe ń gun igi bí i ọ̀bọ,Adénúgà pọ́n igi gùn dáadáa,Adénúgà sùn lóri igi,1
+Adénúgà nífẹ̀ẹ́ sí bí àwọn ọ̀bọ ṣé n gun igi,Adénúgà pọ́n igi gùn dáadáa,Adénúgà sùn lóri igi,0
+Ẹnu ni Tifẹ́ladé ni bí i tajakàrà,Tifẹ́ladé máa ń sọ àsọdùn ọ̀rọ̀,Tifẹ́ladé kì í sòrò,0
+Tifẹ́ladé kò mọ̀ bi wọ́n ṣe dan ẹnu,Tifẹ́ladé máa ń sọ àsọdùn ọ̀rọ̀,Tifẹ́ladé kì í sòrò,1
+Kí ló dé tí Adéṣínà ṣe máa ń hùwà bí i atọ̀ọ́lé?,Ìwà ọmọdé ni Adéṣínà máa ń wù,Adéṣínà nífẹ̀ẹ́ sí kó ma tọ̀ sára,1
+Kí ló dé tí Adéṣínà ṣe ra ilé tuntun?,Ìwà ọmọdé ni Adéṣínà máa ń wù,Adéṣínà nífẹ̀ẹ́ sí kó ma tọ̀ sára,0
+Ẹ wo bí Àlàó ṣe duró bí i omi adágún odò,Àlàó kò kúrò lójú kan,Àlàó ń rìn kiri,1
+Ẹ wo bí Àlàó ṣe duró bí i Ọba,Àlàó kò kúrò lójú kan,Àlàó ń rìn kiri,0
+Àwọn olè náà júbà eworo nígbà tí wọ́n gbúròó àwọn ọlọ́pàá,Àwọn olè náà sálọ,Àwọn olè náà gbé ìbọn wọn jáde,0
+Àwọn olè náà yin ìbọn nígbà tí wọ́n gbúròó àwọn ̀ọlọ́pàá,Àwọn olè náà sálọ,Àwọn olè náà gbé ìbọn wọn jáde,1
+Ọ̀sẹ̀ kan rèé tí Wọléọlá ti wà nínú yàrá bí i ẹni tọ́ fi s'ẹ́wọ̀n,Ó ti pẹ́ gan tí Wọléọlá ti wà nínú yàrá,Wọléọlá ṣẹ̀ṣẹ̀ wọ inú yàrá,1
+Ọ̀sẹ̀ kan rèé tí Wọléọlá ti lọ sí ìlú ọba,Ó ti pẹ́ gan tí Wọléọlá ti wà nínú yàrá,Wọléọlá ṣẹ̀ṣẹ̀ wọ inú yàrá,0
+Ọdẹ́wùnmí júbà gbogbo àwọn àgbà ọdẹ bí i ẹni tí kò kọ́ṣẹ́ ọdẹ,Ọdẹ́wùnmí kò kí àwọn àgbà ọdẹ dáadáa,Ọdẹ́wùnmí pariwo mọ́ àwọn àgbà ọdẹ,0
+Ọdẹ́wùnmí bú gbogbo àwọn àgbà ọdẹ tí wọn jókòó,Ọdẹ́wùnmí kò kí àwọn àgbà ọdẹ dáadáa,Ọdẹ́wùnmí pariwo mọ́ àwọn àgbà ọdẹ,1
+Ọ̀gbẹ̀rì ni Adénifújà nínú ẹgbẹ́ wa,Adénifújà kì í ṣe ọmọ ẹgbẹ́ wa,Olórí ẹgbẹ́ wa ni Adénifújà,0
+Adénifújà kì í ṣe Ọ̀gbẹ̀ri nínú ẹgbẹ́ wa,Adénifújà kì í ṣe ọmọ ẹgbẹ́ wa,Olórí ẹgbẹ́ wa ni Adénifújà,1
+Wọ́n na Bólájí nílù bààrà bí i ẹni tó jalè,Wọ́n na Bọ́lájí gan,Wọ́n gbé Bọ́lájí lọ jayé,1
+Wọ́n gbé oúnjẹ tó dùn fún Bólájí,Wọ́n na Bọ́lájí gan,Wọ́n gbé Bọ́lájí lọ jayé,0
+Arákùnrin náà fẹ́ ìyàwọ̀ lọ bìbà bí i ọba Aláàfin,Arákùnrin náà fẹ́ ìyàwó púpọ̀,Ìyàwó kan ṣoṣo ni arákùnrin náà fẹ́,0
+Arákùnrin náà fẹ́ burẹ́wà,Arákùnrin náà fẹ́ ìyàwó púpọ̀,Ìyàwó kan ṣoṣo ni arákùnrin náà fẹ́,1
+Ogúnlọ́gọ̀ àwọn ènìyàn ló wà ní pápá ìṣeré tí wọ́n ti fẹ́ gbá bọ́ọ̀lù ikọ̀ Nàìjíríà,Ènìyàn tó pọ̀ ló wà ní pápá ìṣeré náà,Ènìyàn mẹ́fà páré ló wà ní pápá ìṣeré náà,0
+Àwọn ènìyàn tó wà ní pápá ìṣeré tí wọ́n ti fẹ́ gbá bọ́ọ̀lù tí ń jà,Ènìyàn tó pọ̀ ló wà ní pápá ìṣeré náà,Ènìyàn mẹ́fà páré ló wà ní pápá ìṣeré náà,1
+Àwọn ikọ̀ Nàìjíríà ti fakọyọ níbí ìdíje ife ẹ̀yẹ àgbáyé ju ti àtẹ̀yìn wá lọ,Ikọ̀ Nàìjíríà ṣe dáadáa níbi ìdíje ife ẹ̀yẹ àgbáyé,Ikọ̀ Nàìjíríà hùwà ìbàjẹ́ níbi ìdíje ife ẹ̀yẹ àgbáyé,0
+Àwọn ikọ̀ Nàìjíríà ti kó igbá wọlé níbí ìdíje ife ẹ̀yẹ àgbáyé,Ikọ̀ Nàìjíríà ṣe dáadáa níbi ìdíje ife ẹ̀yẹ àgbáyé,Ikọ̀ Nàìjíríà hùwà ìbàjẹ́ níbi ìdíje ife ẹ̀yẹ àgbáyé,1
+Etí Arínájà rí bí i eté eworo,Etí Arínájà tóbi gan,Etí Arínájà kéré gan,1
+Etí Arínájà tí gbọ́ ọ̀rọ̀ dáadáa,Etí Arínájà tóbi gan,Etí Arínájà kéré gan,0
+Adérẹ̀mí ṣe Arímọrọ̀ bí ọṣẹ́ ṣé ń ṣojú nígbà tí wọ́n ja ìjà ìjàkadi lánàá,Adérẹ̀mí na Arímọrọ̀ níbi ìjà ìjàkadì lánàá,Adérẹ̀mí ṣeré pẹ̀lú Arímọrọ̀ níbi ìjà ìjàkadì lánàá,1
+Adérẹ̀mí gbé Arímọrọ̀ lọ jayé ọba lánàá,Adérẹ̀mí na Arímọrọ̀ níbi ìjà ìjàkadì lánàá,Adérẹ̀mí ṣeré pẹ̀lú Arímọrọ̀ níbi ìjà ìjàkadì lánàá,0
+Àrẹ̀mú ti ń lúwẹ̀ẹ́ nínú odò ìfẹ́ Ọmọ́ṣaléwá,Àrẹ̀mú ti ń nífẹ̀ẹ́ Ọmọ́ṣaléwá,Àrẹ̀mú ti lọ pọn omi fún Ọmọ́ṣaléwá lódò,0
+Àrẹ̀mú ò fẹ́ràn láti ma fojú ri Ọmọ́ṣaléwá,Àrẹ̀mú ti ń nífẹ̀ẹ́ Ọmọ́ṣaléwá,Àrẹ̀mú ti lọ pọn omi fún Ọmọ́ṣaléwá lódò,1
+Bàbá Agbájé ń fẹnu fa ọyùn ìyàwò rẹ̀ bí i ọmọ ìkókó tí kò tí ì já lẹ́nu ọyùn,Bàbá Agbájé mọ ọyùn mu,Bàbá Agbájé mọ oúnjẹ sè,0
+Bàbá Agbájé kò fẹnu fa ọyùn ìyàwò rẹ̀,Bàbá Agbájé mọ ọyùn mu,Bàbá Agbájé mọ oúnjẹ sè,1
+Iná ọdẹ náà tàn bí i iná àtùpà tí epo ti fẹ́ tán nínú rẹ̀,Iná ọdẹ náà kò mọ́lẹ̀ dáadáa,Iná ọdẹ náà ti kú,1
+"Iná ọdẹ náà tàn, ó sì ríran kedere",Iná ọdẹ náà kò mọ́lẹ̀ dáadáa,Iná ọdẹ náà ti kú,0
+Adéyẹmí kanra bí i ajá elégbọn láti àárọ̀,Adéyẹmí bínú láti àárọ̀,Adéyẹmí rẹ́rìn ín láti àárọ̀,1
+Adéyẹmí má ń bá àwọn ajá ṣeré,Adéyẹmí bínú láti àárọ̀,Adéyẹmí rẹ́rìn ín láti àárọ̀,0
+Ọmọ ọ̀dọ̀ àgbà ni Adéṣọlá nínú àṣà àti ìṣe ilẹ̀ Yorùbá,Adéṣọlá ní ìmọ̀ ìjìnlẹ̀ nípa àṣà àti ìṣe ilẹ̀ Yorùbá,Adéṣọlá ní orí kuku,0
+Ọmọ Ègùn ni Adéṣọlá kò mọ̀ nípa àṣà ilẹ̀ Yorùbá,Adéṣọlá ní ìmọ̀ ìjìnlẹ̀ nípa àṣà àti ìṣe ilẹ̀ Yorùbá,Adéṣọlá ní orí kuku,1
+Adésuà fọwọ́ osùn pa ògiri gbígbe lánàá nílé ìwòsàn,Adésuà bí ọmọ tuntun lánàá,Adésuà na ọmọ tuntun tó bí,0
+Adésuà ti bẹ̀rẹ̀ sí ni ṣe àìsàn lánàá nílé ìwòsàn,Adésuà bí ọmọ tuntun lánàá,Adésuà na ọmọ tuntun tó bí,1
+Ọjọ́ tí òbò bá jẹ ọba lorílẹ̀ èdè yìí ni ìlú bàjẹ́,Ọjọ́ ti obìnrin bá jẹ ọba ni ìlú ma bàjẹ́,Ọjọ́ ti obìnrin bá jẹ ọba ni ìlú yìí ma tòrò,1
+Ọba orílẹ̀ èdè yìí ti ṣe ohun mánigbàgbé sí ìlú wa,Ọjọ́ ti obìnrin bá jẹ ọba ni ìlú ma bàjẹ́,Ọjọ́ ti obìnrin bá jẹ ọba ni ìlú yìí ma tòrò,0
+Iyàwò Rọ̀gbà sunkún àìrípọ̀n nílé ọkọ rẹ̀ lẹ́yìn ìgbéyàwó ọdún mọ́kànlá,Iyàwò Rọ̀gbà sunkún àìrọ́mọ bí nílé ọkọ rẹ̀,Iyàwò Rọ̀gbà dunnú sí àwọn ọmọ tó bí,1
+Iyàwò Rọ̀gbà se oúnjẹ aládùn fún ọkọ rẹ̀,Iyàwò Rọ̀gbà sunkún àìrọ́mọ bí nílé ọkọ rẹ̀,Iyàwò Rọ̀gbà dunnú sí àwọn ọmọ tó bí,0
+Ajá náà bí akọ àti abo bí i àgùntàn tó bímọ láàrọ́ yìí,Ajá náà bí ọkùnrin àti obìnirin,Ajá náà jẹ ọmọ tó bí,0
+Ajá náà kò bí akọ àti abo,Ajá náà bí ọkùnrin àti obìnirin,Ajá náà jẹ ọmọ tó bí,1
+Àdìmúlà ti gbà èkuru jẹ lọ́wọ́ ẹbọra,Àdìmúlà ti kú,Àdìmúlà lọ jí èkuru jẹ,1
+Àdìmúlà se èkuru fún à̀wọn ẹgbẹ́ rẹ̀,Àdìmúlà ti kú,Àdìmúlà lọ jí èkuru jẹ,0
+Ilé àwòdamiẹnu ni ilé tí bàbá mi kọ́,Ilé tí bàbá mi kọ́ rẹwà gan,Ilé tí bàbá mi kọ́ ti wó,0
+Ilé àwòdamiẹnu tí bàbá mi kọ́ ti wó,Ilé tí bàbá mi kọ́ rẹwà gan,Ilé tí bàbá mi kọ́ ti wó,1
+Ìjọba yẹgi fún arákùnrin náà tó jí owó ìjọba gbé,Ìjọba pa arákùnrin náà,Ìjọba gbé arákùnrin náà lọ ilé ẹjọ́,1
+Ìjọba ti fún arákùnrin náà ní owó tó pọ̀.,Ìjọba pa arákùnrin náà,Ìjọba gbé arákùnrin náà lọ ilé ẹjọ́,0
+Àwọn ọ̀rẹ́ mi ti lọ gbẹ̀yìn bẹbo jẹ́ lóri ohun tí a ṣe lánàá,Àwọn ọ̀rẹ́ mi ti lọ tú àṣírí ohun tí a ṣe lánàá,Àwọn ọ̀rẹ́ mi ti lọ gbé ohun tí a ṣe lánàá,1
+Àwọn ọ̀rẹ́ mi ló ra aṣọ tí mo wọ̀ lánàá,Àwọn ọ̀rẹ́ mi ti lọ tú àṣírí ohun tí a ṣe lánàá,Àwọn ọ̀rẹ́ mi ti lọ gbé ohun tí a ṣe lánàá,0
+Apo ẹ̀pà ẹgbẹ̀rún mẹ́fà ni Mojí yan lálẹ́ àná kin tó sùn,Ẹ̀pà tó pọ̀ ni Mojí yan lálẹ́ àná,Ẹ̀pà ni Mojí jẹ lálẹ́ àná,0
+Ẹ̀pà hóró mẹ́fà ni Mojí yan lálẹ́ àná kin tó sùn,Ẹ̀pà tó pọ̀ ni Mojí yan lálẹ́ àná,Ẹ̀pà ni Mojí jẹ lálẹ́ àná,1
+Àmọ̀pé rawọ́ ẹ̀bẹ̀ sí Olódùmarè fún gbogbo àwọn tí wọ́n diwọ́ disẹ̀ sínú,Àmọ̀pé rawọ́ ẹ̀bẹ̀ sí Olódùmarè fún gbogbo àwọn tí wọ́n lóyún,Àmọ̀pé rawọ́ ẹ̀bẹ̀ sí Olódùmarè fún gbogbo àwọn ọmọdé,0
+Àmọ̀pé ṣépè fún gbogbo àwọn tí wọ́n diwọ́ disẹ̀ sínú,Àmọ̀pé rawọ́ ẹ̀bẹ̀ sí Olódùmarè fún gbogbo àwọn tí wọ́n lóyún,Àmọ̀pé rawọ́ ẹ̀bẹ̀ sí Olódùmarè fún gbogbo àwọn ọmọdé,1
+Ọ̀kẹ́ ṣiṣẹ́ bí i omi òjò lánàá,Ọ̀kẹ́ ṣiṣẹ́ láì sinmi,Ọ̀kẹ́ ṣiṣẹ́ ọpọlọ,0
+Ọ̀kẹ́ ò ṣiṣẹ́ kankan rárá lánàá,Ọ̀kẹ́ ṣiṣẹ́ láì sinmi,Ọ̀kẹ́ ṣiṣẹ́ ọpọlọ,1
+Bàbá àgbà tẹ́rígbaṣọ lẹ́yìn ìnáwó tí a ṣe lánàá,Bàbá Àgbà ti kú,Bàbá Àgbà ti wo aṣọ tuntun,0
+Bàbá àgbà raṣọ àti bàtà lẹ́yìn ìnáwó tí a ṣe lánàá,Bàbá Àgbà ti kú,Bàbá Àgbà ti wo aṣọ tuntun,1
+"Lẹ́yìn iṣẹ́ ìjọba ti Àlàkẹ́ ń ṣe, ó tún wá nǹkan mìíràn fi pawọ́dà",Àlàkẹ́ ṣiṣẹ́ mìíràn lẹ́yìn iṣẹ́ ìjọba,Àlàkẹ́ ṣiṣẹ́ tó pọ̀ lánàá,0
+"Lẹ́yìn tí ìjọba mú Àlàkẹ́, kò ri iṣẹ́ gbà mọ",Àlàkẹ́ ṣiṣẹ́ mìíràn lẹ́yìn iṣẹ́ ìjọba,Àlàkẹ́ ṣiṣẹ́ tó pọ̀ lánàá,1
+"Bí ọwọ́ Okùnọlá ò bá ṣe, ẹnu rẹ̀ kòlè jẹ","Bí Okùnọlá ò bá ṣiṣẹ́, kò lè rí oúnjẹ jẹ","Bí Okùnọlá ò bá ṣiṣẹ́, kò lè sùn",1
+Okùnọlá ń fi iṣẹ́ ọwọ́ rẹ̀ ra oúnjẹ sí ẹnu ara rẹ̀,"Bí Okùnọlá ò bá ṣiṣẹ́, kò lè rí oúnjẹ jẹ","Bí Okùnọlá ò bá ṣiṣẹ́, kò lè sùn",0
+Ìdánwò tí Dúpé ṣe lánàá gbomi gan,Ìdánwò náà le gan,Ìdánwò náà rọ̀,1
+Ìdánwò tí Dúpé ṣe lánàá ò gbomi rárá,Ìdánwò náà le gan,Ìdánwò náà rọ̀,0
+Mo wo sinimá Aníkúlápó nígbà igba,Mo wo sinimá Aníkúlápó ní ọ̀pọ̀lọpọ̀ ìgbà,Mo wo sinimá Aníkúlápó lẹ́ẹ̀kan ṣoṣo,0
+Sinimá Aníkúlápó tí mo wò kò dùn,Mo wo sinimá Aníkúlápó ní ọ̀pọ̀lọpọ̀ ìgbà,Mo wo sinimá Aníkúlápó lẹ́ẹ̀kan ṣoṣo,1
+Ewé nàá pọ́n bí i òdòdó,Ewé náà pọ́n gan,Ewé náà dúdú gan,0
+Ewé nàá ti sunko,Ewé náà pọ́n gan,Ewé náà dúdú gan,1
+Rónmú dún bí i àkukọ ní àárọ̀ yìí,Rónmú pariwo ní àárọ̀ yìí,Rónmú se oúnjẹ,1
+Rónmú ti lọ ra àkukọ lọ́ja ní àárọ̀ yìí,Rónmú pariwo ní àárọ̀ yìí,Rónmú se oúnjẹ,0
+Ojú ọbẹ̀ àti ẹ̀bà tí ó sè ń pe àwọn aràn inú mi,Mo fẹ́ jẹ ẹ̀bà àti ọbẹ,Ọbẹ̀ àti ẹ̀bà nàá korò,0
+Ojú ọbẹ̀ àti ẹ̀bà tí ó sè rí bí i ẹrọ̀fọ̀,Mo fẹ́ jẹ ẹ̀bà àti ọbẹ,Ọbẹ̀ àti ẹ̀bà nàá korò,1
+Ebi ti fẹ́ kó ìfun mi lé mi lọ́wọ́ nígbà tí mo jí,Ebi ń pamí gidigan,Mo ti fún ebi níṣẹ́,1
+Ebi kò pa mí mo ti jẹun yó,Ebi ń pamí gidigan,Mo ti fún ebi níṣẹ́,0
+"Ajá Tifẹ́ gba bàtà lẹ́sẹ̀ mi, ẹ̀sẹ̀ mi ò balẹ̀",Ajá Tifẹ́ lé mi léré,Ajá Tifẹ́ jẹ egungun,1
+Mo fẹ́ràn láti ma bá ajá Tifẹ́ ṣerẹ́,Ajá Tifẹ́ lé mi léré,Ajá Tifẹ́ jẹ egungun,0
+Lọ́ládé gbé ọ̀rọ̀ náà sórí bí i igbá ọtí,Lọ́ládé bínú sí ọ̀rọ̀ náà,Lọ́ládé rẹ́rìn-ín sí ọ̀rọ̀ náà,1
+Lọ́ládé ti sọ ọ̀rọ̀ kóríyá fún àwọn akẹ́kọ̀ó,Lọ́ládé bínú sí ọ̀rọ̀ náà,Lọ́ládé rẹ́rìn-ín sí ọ̀rọ̀ náà,0
+Àwọn irúgbìn oko yìí ń sunkún fún omi,Àwọn irúgbìn oko yìí nílò omi,Awọn irúgbìn oko yìí ti sùn,1
+Òjò ti rọ̀ sí orí àwọn irúgbìn oko náà,Àwọn irúgbìn oko yìí nílò omi,Awọn irúgbìn oko yìí ti sùn,0
+Àwọn ìbejì náà sun ẹ̀jẹ̀ nígbà tí bàbá àgbà kú,Àwọn ìbejì náà sunkún gan,Àwọn ìbejì náà lọ sí ọjà,1
+Àwọn ìbejì náà má ń fi irùngbọ̀n bàbá wọn ṣeré,Àwọn ìbejì náà sunkún gan,Àwọn ìbejì náà lọ sí ọjà,0
+Ogún ọdún ni ìyá àgbà lò kọ́ tó wọ bàtà tán,Ìyá àgbà pẹ́ kọ́ tó wọ bàtà tán,Ìyá àgbà ò wọ bàtà tán,0
+ìṣéjú kan ni ìyá àgbà lò láti fi wọ bàtà,Ìyá àgbà pẹ́ kọ́ tó wọ bàtà tán,Ìyá àgbà ò wọ bàtà tán,1
+Ó ti rẹ̀mí mo lè sùn fún ọdún mẹ́ta,Mo lè sùn fún ìgbà pípẹ́,Mo lè sùn fún wákàtí kan,0
+Ó ti rẹ̀mí mo lè̀ gbé májèlé jẹ,Mo lè sùn fún ìgbà pípẹ́,Mo lè sùn fún wákàtí kan,1
+Àlàmú wọlé bí i òlè lórú lánàá nígbà tí a ti sùn,Àlàmú wọlé láì pariwo lánàá,Àlàmú gan ẹsẹ̀ mọ́lẹ̀ wọlé lánàá,0
+Àlàmú fọ́ gbogbo ilẹ̀kùn ilé kó tó wọlé,Àlàmú wọlé láì pariwo lánàá,Àlàmú gan ẹsẹ̀ mọ́lẹ̀ wọlé lánàá,1
+Irun orí bàba Ṣẹ́gun jájẹ láàárín orí bí i irun orí báálẹ̀ agboolé Ṣétù,Bàba Ṣẹ́gun pá lórí,Irun orí bàba Ṣẹ́gun kún gan,1
+Bàba Ṣẹ́gun ti di báálẹ̀ agboolé Ṣétù,Bàba Ṣẹ́gun pá lórí,Irun orí bàba Ṣẹ́gun kún gan,0
+Ọ̀pọ̀lọpọ̀ àǹfàní ló ń kan ìlẹ̀kùn ilé rẹ,Ó ní àǹfàní púpọ̀,Àǹfàní rẹ̀ mẹ́hẹ,0
+Ọ̀pọ̀lọpọ̀ àǹfàní ló ti tilẹ̀kùn mọ́,Ó ní àǹfàní púpọ̀,Àǹfàní rẹ̀ mẹ́hẹ,1
+Elétè ṣípotì bí i ètè ràkúnmí,Ètè rẹ̀ tóbi,Ètè rẹ̀ kéré,1
+Ètè ràkúnmí tí wọ́n se fún mi jẹ̀ dùn gan,Ètè rẹ̀ tóbi,Ètè rẹ̀ kéré,0
+Ẹniafẹ́ rẹ́rìn-ín bí i ẹni tó ní gángàngán,Ẹniafẹ́ rẹ́rìn-ín gan,Ẹniafẹ́ fojúro,1
+Ẹniafẹ́ fi rẹ́rìn-ín gba owó lọ́wọ bàbá rẹ̀.,Ẹniafẹ́ rẹ́rìn-ín gan,Ẹniafẹ́ fojúro,0
+Mo fẹ́ lọ ṣe ìgbọ̀nsẹ̀ níwájú ilé ìjosìn wa,Mo fẹ́ lọ yàgbẹ́,Mo fẹ́ lọ jẹun,1
+Mo fẹ́ lọ gbàdúra níwájú ilé ìjosìn wa,Mo fẹ́ lọ yàgbẹ́,Mo fẹ́ lọ jẹun,0
+Àwọn ajọ àgbáyé ti júwe ọ̀na ilé fún ààrẹ Bùhárí nítorí àìṣe ìtọ́jú àwọn ará ìlú,Àjọ àgbáyé ti yọ ààrẹ Bùhárí kúrò lórí oyè,Àjọ àgbáyé ti fún ààrẹ Bùhárí níṣẹ́ tuntun,1
+Àwọn ajọ àgbáyé ti fún ààrẹ Bùhárí lóyè tuntun,Àjọ àgbáyé ti yọ ààrẹ Bùhárí kúrò lórí oyè,Àjọ àgbáyé ti fún ààrẹ Bùhárí níṣẹ́ tuntun,0
+Tanitolúwa jẹ́ ẹni tó fi gbọ̀ọ̀rọ̀ jẹkà níbi ká ṣètò ìlú,Tanitolúwa jẹ́ ẹni tó dángájíá níbi ìṣètò ìlú,Tanitolúwa jẹ́ aláìmọ̀kan níbi ìṣètò ìlú,0
+Tanitolúwa ò lè fi gbọ̀ọ̀rọ̀ jẹkà níbi ká ṣètò ìlú,Tanitolúwa jẹ́ ẹni tó dángájíá níbi ìṣètò ìlú,Tanitolúwa jẹ́ aláìmọ̀kan níbi ìṣètò ìlú,1
+Àgbá òfìfo ni orí Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀,Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀ kọ̀ mọ ǹkankan,Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀ mọ ìwé gan,1
+Orí Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀ ti pé jù,Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀ kọ̀ mọ ǹkankan,Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀ mọ ìwé gan,0
+Gbogbo ará ìlú ti sọ ààrẹ Bùhárí di igbá ìkólẹ̀,Àwọn ará ìlú ti rí ààrẹ Bùhárí fín gan,Àwọn ará ìlú máa ń bọ̀wọ̀ fún ààrẹ Bùhárí,1
+Gbogbo ará ìlú nífẹ̀ẹ́ ààrẹ Bùhárí,Àwọn ará ìlú ti rí ààrẹ Bùhárí fín gan,Àwọn ará ìlú máa ń bọ̀wọ̀ fún ààrẹ Bùhárí,0
+Ilé ẹ̀kọ́ fásitì ti pàṣẹ lọ rọọ́kún sílé fún olùkọ́ wa tó fipá bá akẹ́kọ̀ọ́ lò pọ̀,Wọ́n ti dá olùkọ́ dúró lẹ́nu iṣẹ́,Wọ́ fún olùkọ́ wa ní ìgbéga lẹ́nu iṣẹ́,1
+Ilé ẹ̀kọ́ fásitì ti ṣe àfikún sí owó oṣù àwọn olùkọ́ wa,Wọ́n ti dá olùkọ́ dúró lẹ́nu iṣẹ́,Wọ́ fún olùkọ́ wa ní ìgbéga lẹ́nu iṣẹ́,0
+Ojú abẹ́ Dérìnọlá ti gìn bí i kọ̀ǹga,Ojú abẹ́ Dérìnọlá ti jìn gan,Ojú abẹ́ Dérìnọlá dùn,1
+Ojú abẹ́ Dérìnọlá dà bí i ti wúndíá,Ojú abẹ́ Dérìnọlá ti jìn gan,Ojú abẹ́ Dérìnọlá dùn,0
+Lọ́jọ́ ìkómọ Àlàó pẹ́pẹ́yẹ kọmọ,Èrò pọ̀ gan lọ́jọ́ ìkómọ Àdìó,Àwọn ènìyàn kọ̀ wá,0
+Lọ́jọ́ ìkómọ Àlàó dà bí i aṣálẹ̀,Èrò pọ̀ gan lọ́jọ́ ìkómọ Àdìó,Àwọn ènìyàn kọ̀ wá,1
+"Níbi ìnáwó oyè jíjẹ tí mo lọ, wọ́n filé pọtí, wọ́n fọ̀nà rokà, wọ́n fí gbogbo agbada díran",Óunjẹ pọ̀ gan níbi ìnáwó oyè jíjẹ tí mo lọ,Óunjẹ tí mo jẹ níbi ìnáwó oyè jíjẹ kò tó rárá,0
+"Níbi ìnáwó oyè jíjẹ tí mo lọ, mo ò rí nǹkankan fẹnu gbá",Óunjẹ pọ̀ gan níbi ìnáwó oyè jíjẹ tí mo lọ,Óunjẹ tí mo jẹ níbi ìnáwó oyè jíjẹ kò tó rárá,1
+Ladé ti kẹ́ran lọ́wọ́ ìjọba,Ladé ti wọ wàhálà ìjọba,Ladé àti ìjọbá rẹ́,1
+Ladé ti ń bá ìjọba ṣiṣẹ́,Ladé ti wọ wàhálà ìjọba,Ladé àti ìjọbá rẹ́,0
+Àdìgún ti ń fẹ́wọ́ láti kékeré,Àdìgún ti ń jalè,Àdìgún ti ra bàtà tuntun,1
+Àdìgún ti lawọ́ láti kékeré,Àdìgún ti ń jalè,Àdìgún ti ra bàtà tuntun,0
+Nígbà tí déédé oòrùn kan àtàrí ni kábíyèsí ránṣẹ́ pè mí,Nígbà tí oòrùn ràn gidi gan ni kábíyèsí ránṣẹ́ pè mí,Nígbà tí oòrùn wọ̀ ni mo jáde,0
+Nígbà tí àwọn ọmọ náà bẹ̀rẹ̀ sí ní jà ni kábíyèsí ránṣẹ́ pè mí,Nígbà tí oòrùn ràn gidi gan ni kábíyèsí ránṣẹ́ pè mí,Nígbà tí oòrùn wọ̀ ni mo jáde,1
+Ó ń fi ẹ̀sẹ̀ gbá gbogbo ìgboro kiri,Ó ń rìn kiri,Ó ń jókòó pawó,1
+Ó ń fi gègé kọ ìwé owó kiri,Ó ń rìn kiri,Ó ń jókòó pawó,0
+Ojú ọ̀nà náà dí pákópákó bí i ọjú ọ̀nà Ìsọlọ̀ sí Ìjẹgun,Kò sí ọ̀nà rárá láti gbà,Ọkọ̀ tó pọ̀ ló wà lójú ọ̀nà,1
+Mo ti ra ilé tuntun sí ọjú ọ̀nà Ìsọlọ̀ sí Ìjẹgun,Kò sí ọ̀nà rárá láti gbà,Ọkọ̀ tó pọ̀ ló wà lójú ọ̀nà,0
+Ìmọ̀ Bọ́lájí kún nípa iṣẹ́ igbá fínfín bí i àwọn ará Ọ̀yọ́,Bọ́lájí mọ iṣẹ́ igbá fínfín dáadáa,Ìmọ̀ Bọ́lájí kò ì tó nípa igbá fínfín,0
+Ìmọ̀ Bọ́lájí kò tí ì kún nípa iṣẹ́ igbá fínfín,Bọ́lájí mọ iṣẹ́ igbá fínfín dáadáa,Ìmọ̀ Bọ́lájí kò ì tó nípa igbá fínfín,1
+Omi gàrí tí mo mu lánàá kan bí i omi ògì,Omi gàrí náà kan gan,Omi gàrí náà ta lẹ́nu,0
+Omi gàrí tí mo mu lánàá korò bí i àgbo,Omi gàrí náà kan gan,Omi gàrí náà ta lẹ́nu,1
+Délaní mọ ọfà ta bí i àwọn ògbójú ọdẹ tafàtafà,Délaní mọ ọfà ta dáadáa,Délaní ò rí ẹyẹ pa,0
+Délaní ò mọ ọfà ta bí i àwọn ògbójú ọdẹ,Délaní mọ ọfà ta dáadáa,Délaní ò rí ẹyẹ pa,1
+Mo ma dé òkè tó ga jùlọ nínú ẹ̀kọ́ mi àti nínú iṣẹ́ mi,Mo ma ṣe àṣeyọ́ri nínú ẹ̀kọ́ mi àti nínú iṣẹ́ mi,Mo ma ṣe iṣẹ́ díẹ̀ nínú ẹ̀kọ́ ní ọ̀la,0
+Ọmọ náà ò dé òkè tó ga jùlọ nínú ẹ̀kọ́ rẹ̀,Mo ma ṣe àṣeyọ́ri nínú ẹ̀kọ́ mi àti nínú iṣẹ́ mi,Mo ma ṣe iṣẹ́ díẹ̀ nínú ẹ̀kọ́ ní ọ̀la,1
+Aládòó-òfo ni àwọn ọmọ tó ń bí,Àbíkú l'àwọn ọmọ tó ń bí,Ìbejì l'àwọn ọmọ tí mo bí,1
+Àwọn ọmọ tó ń bí ò kì í ṣe aládòó-òfo,Àbíkú l'àwọn ọmọ tó ń bí,Ìbejì l'àwọn ọmọ tí mo bí,0
+Àbẹ̀bí já ṣòròrò jáde lọ gbé ọmọ rẹ̀ tó fẹ́ já sínú kọ̀ǹga,Àbẹ̀bí sáré jáde lọ gbé ọmọ rẹ̀,Àbẹ̀bí ń wọ́ tìkọ̀tìkọ̀ lọ gbé ọmọ rẹ̀,0
+Ọmọ Àbẹ̀bí ti kú sínú kọ̀ǹga,Àbẹ̀bí sáré jáde lọ gbé ọmọ rẹ̀,Àbẹ̀bí ń wọ́ tìkọ̀tìkọ̀ lọ gbé ọmọ rẹ̀,1
+Ó pọn ọmọ bí i ẹni tí Elédùnmarè ò kọmọ mọ́,Kò pọn ọmọ náà dáadáa,Ó pọn ọmọ mẹ́fà papọ̀,1
+Ó pọn ọmọ bí i ẹni tí Elédùnmarè ò kọmọ mọ́,Kò pọn ọmọ náà dáadáa,Ó pọn ọmọ mẹ́fà papọ̀,0
+Ẹ wo bí Jíbíkẹ̀ẹ́ ṣe ń ṣe ìbàdí rẹ̀ fún àwọn ọkùnrin bí i ọmọrí odó tí wọ́n yí kiri,Jíbíkẹ̀ẹ́ mọ bí wọ́n ṣé ń yí ìbàdí fún àwọn ọkùnrin,Ìbàdí Jíbíkẹ̀é ti gan,0
+Ìranù ni Jíbíkẹ̀ẹ́ ṣe pẹ̀lú àwọn ọkùnrin,Jíbíkẹ̀ẹ́ mọ bí wọ́n ṣé ń yí ìbàdí fún àwọn ọkùnrin,Ìbàdí Jíbíkẹ̀é ti gan,1
+Iyán ti Ṣadé sè ti tutù bí i imú ajá nígbà tí mo fẹ́ jẹun,Iyán tí Ṣadé sè ti tutù gan,Iyán tí Ṣadé sè ń yọ eruku lálá,0
+Iyán ti Ṣadé sè ti bàjẹ́,Iyán tí Ṣadé sè ti tutù gan,Iyán tí Ṣadé sè ń yọ eruku lálá,1
+Bọ́lájókòó kọtí ọ̀gbọ̀n-in sẹ́bọ lóri ohun tí adájọ́ sọ fun nílé ẹjọ́,Bọ́lájókòó ò ṣe ohun tí adájọ́ sọ fún nílé ẹjọ́,Adájọ́ fi Bọ́lájókòó sẹ́wọ̀n lánàá,1
+Bọ́lájókòó rú ẹ́bọ ayé rẹ̀ si da,Bọ́lájókòó ò ṣe ohun tí adájọ́ sọ fún nílé ẹjọ́,Adájọ́ fi Bọ́lájókòó sẹ́wọ̀n lánàá,0
+Èmi pàápàá gan ò tí i jẹun yó bátákú bí i ìdun tó ń wọ́ rìn kí ń tó kúro nílé,"Ebi ṣì ń pamí, mo ò tí ì yó",Inú mi ti kún bákán,1
+Èmi pàápàá gan tí i jẹun yó bátákú,"Ebi ṣì ń pamí, mo ò tí ì yó",Inú mi ti kún bákán,0
+Olùjẹ́jọ́ ti gbọ́mọ ọbà f'ọ́ṣun nígbà tí ó ń ṣàlàyè ọ̀rọ̀ fún adájọ́,Olùjẹ́jọ́ ti ṣi ọ̀rọ̀ sọ fún adájọ́,Olùjẹ́jọ́ ti gbé adájọ́ lọ ilé ẹjọ́,0
+Olùjẹ́jọ́ ti sọ ọ̀rọ̀ àìda sí adájọ́,Olùjẹ́jọ́ ti ṣi ọ̀rọ̀ sọ fún adájọ́,Olùjẹ́jọ́ ti gbé adájọ́ lọ ilé ẹjọ́,1
+Bàbá Déòtí ti rebi àgbà ń rè ní ìdájí òní,Bàbá Déòtí ti kú,Bàbá Déòtí lọ ṣe ìpàdé lọ́dọ̀ àwọn àgbàgbà ìlú,1
+Bàbá Déòtí ti rebi tó ti fẹ́ joyè,Bàbá Déòtí ti kú,Bàbá Déòtí lọ ṣe ìpàdé lọ́dọ̀ àwọn àgbàgbà ìlú,0
+Mo ti mu irú ẹmu ògùrọ̀ báyìí ilẹ̀ ta sí i,O tí pẹ́ gan ti mo mu irú ẹmu ògùrọ̀ yìí,Ẹmu tí mo mu ò dára,0
+Irú ẹmu ògùrọ̀ ti mo yìí ò dùn rárá,O tí pẹ́ gan ti mo mu irú ẹmu ògùrọ̀ yìí,Ẹmu tí mo mu ò dára,1
+Bádégún ṣe ìpàdé ẹgbẹ́ lánàá bí i ẹní ṣe ìnáwó oyè jíjẹ,"Bádégún ṣe ìpàdé ẹgbẹ́ dáadáa, ọ̀pọ̀ jíjẹ àti mímu ló wà",Kò sí àwọn àgbàgbà níbi ìpàdé ẹgbẹ́ tí Bádégún ṣe,0
+Bádégún ò nífẹ̀ẹ́ sí kí àwọn àgbàgbà wá síbi ìpàdé ẹgbẹ́ rẹ̀,"Bádégún ṣe ìpàdé ẹgbẹ́ dáadáa, ọ̀pọ̀ jíjẹ àti mímu ló wà",Kò sí àwọn àgbàgbà níbi ìpàdé ẹgbẹ́ tí Bádégún ṣe,1
+Alájẹ fẹnu nulẹ̀ bí i adìẹ ni àwọn tó wá sí ibi ìnáwó wa lánàá,Alájẹ jù ni àwọn tọ́ wá sí ibi ìnáwó wa lánàá,Àwọn tọ́ wá sí ibi ìnáwó wa lánàá wọn ò rí óunjẹ jẹ,1
+Alájẹ fẹnu pamọ́ ni àwọn tó wá sí ibi ìnáwó wa lánàá,Alájẹ jù ni àwọn tọ́ wá sí ibi ìnáwó wa lánàá,Àwọn tọ́ wá sí ibi ìnáwó wa lánàá wọn ò rí óunjẹ jẹ,0
+Báyọ̀ gbọ̀ndí gbùú lẹ́yìn tó jẹun tan kò gbọnwọ́ nǹkankan sáwo fún ẹni tó ta oúnjẹ fun,Báyọ̀ ò sanwó oúnjẹ lẹ́yìn tó jẹun tan,Báyọ̀ kó owó gọbọi wá sílé oúnjẹ lánàá,1
+Báyọ̀ gbọnwọ́ sáwo lẹ́yìn tó jẹun tan,Báyọ̀ ò sanwó oúnjẹ lẹ́yìn tó jẹun tan,Báyọ̀ kó owó gọbọi wá sílé oúnjẹ lánàá,0
+Àwọn èrònjà ta fí ń se èkuru ti di imí eégún lọ́jà,Àwọn èrònjà èkuru ti ṣòro láti rírà lọ́jà,Wọ́n kó àwọn èrònjà èkuru dé ọjà,1
+Àwọn èrònjà ta fí ń se èkuru ti pọ̀jù lọ́jà,Àwọn èrònjà èkuru ti ṣòro láti rírà lọ́jà,Wọ́n kó àwọn èrònjà èkuru dé ọjà,0
+Alóńgẹ́ ti so iró di ọkà tó ń jẹ pẹ̀lú ọbẹ̀ ìṣápá,Alóńgẹ́ mọ irọ́ pa gan,Alóńgẹ́ kì í pa irọ́,0
+Alóńgẹ́ ti so iró nàá di òótọ́ mọ́ wa lọ́wọ́,Alóńgẹ́ mọ irọ́ pa gan,Alóńgẹ́ kì í pa irọ́,1
+"Àwọn ọlọ́pàá ti ṣe ìlérí pé, ẹni tó bá ja ìjọba lólè yóò gba ẹ̀bà láyé tí yóò lọ gba ọbẹ̀ lọ́run",Àwọn ọlọ́pàá ti ṣe ìlérí pé àwọn yóò pa ẹni tó bá ja ìjọba lólè,Àwọn ọlọ́pàá ti sọ pé owó wà fún ẹni tó bá ja ìjọba lólè,0
+"Àwọn ọlọ́pàá ti ṣe ìlérí pé, ẹni tó bá ja ìjọba lólè yóò gba owó tabua",Àwọn ọlọ́pàá ti ṣe ìlérí pé àwọn yóò pa ẹni tó bá ja ìjọba lólè,Àwọn ọlọ́pàá ti sọ pé owó wà fún ẹni tó bá ja ìjọba lólè,1
+Àjẹfẹ̀-fun-fẹ̀yà ni Àdìmúlà jẹ níbi ìgbéyàwó tí a lọ lánàá,Àdìmúlà jẹ oúnjẹ tó pọ̀ níbi ìgbéyàwó tí a lọ lánàá,Ṣébí ẹ̀wà méjì péré ni Àdìmúlà jẹ níbi ìgbéyàwó tí a lọ lánàá,1
+Àdìmúlà jẹ oúnjẹ díẹ̀ níbi ìgbéyàwó tí a lọ lánàá,Àdìmúlà jẹ oúnjẹ tó pọ̀ níbi ìgbéyàwó tí a lọ lánàá,Àdìmúlà ò jẹun púpọ níbi ìgbéyàwó tí a lọ lánàá,0
+Morẹ́nikéjì ti ń jẹsẹ̀ adìyẹ kiri láti àárọ̀,Morẹ́nikéjì ti ń rìn kiri láti àárọ̀,Morẹ́nikéjì ò lè jẹ adìyẹ,0
+Morẹ́nikéjì ò mọ bí wọn ṣe jẹ ẹṣẹ adìyẹ,Morẹ́nikéjì ti ń rìn kiri láti àárọ̀,Morẹ́nikéjì ò lè jẹ adìyẹ,1
+Ọmọ yìí tí ń wọgbọ́ atú lọ láti ìgbà tó tí ń bá àwọn ọ̀rẹ́ burúkú rìn,Ọmọ yìí ti ń ṣìnà/Ọmọ yìí ti ń rin ìrìnkurìn,Ọmọ yìí fẹ́ lọ sùn sí inú igbó,1
+Ọmọ yìí tí ri ọ̀nà àbáyọ láti ìgbà tó tí ń bá àwọn ọ̀rẹ́ tuntun rìn,Ọmọ yìí ti ń ṣìnà/Ọmọ yìí ti ń rin ìrìnkurìn,Ọmọ yìí fẹ́ lọ sùn sí inú igbó,0
+Àwọn ọlọ́pàá ti sọ fún ìjọba kí wọ́n ya fẹ̀dọ̀ lẹ́rí òróǹró lóri ọ̀rọ̀ yìí,Àwọn ọlọ́pàá ti sọ fún ìjọba kí wọ́n ṣe sùúrù,Ìjọba ti gbé ìgbésẹ̀ lóri ọ̀rọ̀ àwọn ọlọ́pàá yìí,0
+Àwọn ọlọ́pàá ti sọ fún ìjọba kí wọ́n pa gbogbo àwọn ẹlẹ́wọn,Àwọn ọlọ́pàá ti sọ fún ìjọba kí wọ́n ṣe sùúrù,Ìjọba ti gbé ìgbésẹ̀ lóri ọ̀rọ̀ àwọn ọlọ́pàá yìí,1
+Àwọn ọ̀rẹ́ rẹ̀ mọ ibi tí ó faraṣoko sí,Wọ́n mọ ibi tó sápamọ́ sí,Wọ́n mọ ibi tó ti lọ yàgbẹ́,0
+Àwọn ọ̀rẹ́ rẹ̀ mọ bí ó ṣe jí iṣu lóko,Wọ́n mọ ibi tó sápamọ́ sí,Wọ́n mọ ibi tó ti lọ yàgbẹ́,1
+Dérelé má ń fi ọ̀rọ̀ sábẹ́ ahọ́n fún wa,Kó sọ òótọ́ ọ̀rọ́ fún wa,Kó la ahọ́n rẹ̀ kalẹ̀,1
+Dérelé má ń sọ ọ̀ọ́tọ́ ọ̀rọ̀,Kó sọ òótọ́ ọ̀rọ́ fún wa,Kó la ahọ́n rẹ̀ kalẹ̀,0
+Ajíkòbí jayé bí i ẹni tí kò ní kú mọ́,Ajíkòbí gbádùn gan/ Ajíkòbí jayé gan,Ajíkòbí ti wọ inú ọkọ̀,0
+Ajíkòbí kò jayé tó fi kú,Ajíkòbí gbádùn gan/ Ajíkòbí jayé gan,Ajíkòbí ti wọ inú ọkọ̀,1
+Wọ́n ti bọ́ṣọ lóju eégún lóri ọ̀rọ̀ tó ṣẹlẹ̀ láàárín àlùfáà àti ọmọbìnrin kan,Wọn ti tú àṣírí ọ̀rọ̀ tó ṣẹlẹ̀ láàárín àlùfáà àti ọmọbìnrin kan,Wọn ò sọ bí ọ̀rọ̀ náà ṣe jẹ́,0
+Wọ́n parọ́ ọ̀rọ̀ tó ṣẹlẹ̀ láàárín àlùfáà àti ọmọbìnrin náà,Wọn ti tú àṣírí ọ̀rọ̀ tó ṣẹlẹ̀ láàárín àlùfáà àti ọmọbìnrin kan,Wọn ò sọ bí ọ̀rọ̀ náà ṣe jẹ́,1
+Alóńgẹ́ ti sọ ojú abẹ ọ̀rọ̀ náà níkòó,Alóńgẹ́ ti sọ ọ̀rọ̀ náà bó ṣe jẹ́,Alóńgẹ́ kì í jẹun púpọ̀,0
+Alóńgẹ́ kò sọ ojú abẹ ọ̀rọ̀ náà níkòó,Alóńgẹ́ ti sọ ọ̀rọ̀ náà bó ṣe jẹ́,Alóńgẹ́ kì í jẹun púpọ̀,1
+"Wà á bísun, wà á bí ìwàlẹ̀ láṣẹ Èdùnmàrè","Wà á bí ọkùnrin, wà á bí obìnrin",O ò ní bímọ,0
+"O ò ní bísun, O ò ní bí ìwàlẹ̀ láṣẹ Èdùnmàrè","Wà á bí ọkùnrin, wà á bí obìnrin",O ò ní bímọ,1
+Àkànní ti rèwàlẹ̀ àsà,Àkànní ti kú,Àkànní wà láàyè,1
+Àkànní ti ra ọkọ̀ tuntun,Àkànní ti kú,Àkànní wà láàyè,0
+Àlàdé la ọ̀rọ̀ mọ́lẹ̀,Àlàdé sọ ọ̀rọ̀ jáde láìbẹ̀rù,Àlàdé ń bẹ̀rù láti sọ̀rọ̀,0
+Àlàdé fòyà láti la ọ̀rọ̀ náà mọ́lẹ̀,Àlàdé sọ ọ̀rọ̀ jáde láìbẹ̀rù,Àlàdé ń bẹ̀rù láti sọ̀rọ̀,1
+Ó kọtí ikún sí ọ̀rọ̀ bàbá rẹ̀,Ó kọ̀ láti gbọ́rọ̀ sí bàbá rẹ̀ lẹ́nu,Ọ gbọ́rọ̀ sí bàbá rẹ̀ lẹ́nu,1
+Ó tẹ́tí sí ọ̀rọ̀ bàbá rẹ̀,Ó kọ̀ láti gbọ́rọ̀ sí bàbá rẹ̀ lẹ́nu,Ọ gbọ́rọ̀ sí bàbá rẹ̀ lẹ́nu,0
+Ó pàpà rí yà he,Ó jẹ ìyà,Ó jẹ̀gbádùn,1
+Ó pàpà jayé tó wáyé wá jẹ,Ó jẹ ìyà,Ó jẹ̀gbádùn,0
+Àlàbí gbóòórùn ara rẹ̀,Àlàbí jẹ ìyà púpọ̀,Àlàbí jẹ ìgbádùn púpọ̀,1
+Àlàbí ti lọ jayé ọba,Àlàbí jẹ ìyà púpọ̀,Àlàbí jẹ ìgbádùn púpọ̀,0
+Adélaní ń tu bí ejò,Adélaní ń sọ̀rọ̀ pẹ̀lú ìbínú,Àlàbí ń sọ̀rọ̀ pẹ̀lẹ́pẹ̀lẹ́,1
+Adélaní ń tu pẹ̀lú sùúrù,Adélaní ń sọ̀rọ̀ pẹ̀lú ìbínú,Àlàbí ń sọ̀rọ̀ pẹ̀lẹ́pẹ̀lẹ́,0
+Àwọn Olúwálé gbaná jẹ,Àwọn Olúwálé bínú gidigidi,Àwọn Olúwálé jẹ oúnjẹ,1
+Àwọn Olúwálé jẹ ìrẹsì tí wọ́n sè,Àwọn Olúwálé bínú gidigidi,Àwọn Olúwálé jẹ oúnjẹ,0
+Ó gba ọ̀rọ̀ náà sórí,Ó lagídí lórí ọ̀rọ̀ náà,Ó fara balẹ̀ lórí ọ̀rọ̀ náà,1
+Ó yin ọ̀rọ̀ náà nù,Ó lagídí lórí ọ̀rọ̀ náà,Ó fara balẹ̀ lórí ọ̀rọ̀ náà,0
+Olùkọ́ ti dẹni ilẹ̀,Olùkọ́ ti ẹni tí kò ní ohunkóhun mọ́,Olùkọ́ ti di ẹni tí ó ní ọ̀pọ̀lọpọ̀,1
+Olùkọ́ ti dẹni òkè,Olùkọ́ ti ẹni tí kò ní ohunkóhun mọ́,Olùkọ́ ti di ẹni tí ó ní ọ̀pọ̀lọpọ̀,0
+Mo ti sún kàngiri,Mi ò lè fara mọ́ ọn mọ́,Mo lè gbà á mọ́ra,1
+Mo rára gbà á sí,Mi ò lè fara mọ́ ọn mọ́,Mo lè gbà á mọ́ra,0
+Pamínkú obìnrin ni ọ́,Obìnrin oníjàgídíjàgan,Obìnrin oníwà tútù,1
+Obìnrin ni ìwà ire,Obìnrin oníjàgídíjàgan,Obìnrin oníwà tútù,0
+Ọlá ń jẹ tinu ẹyin,Ọlá ń gbádùn,Ọlá ń jẹ ìyà,0
+Ọlá ń mu gaàrí,Ọlá ń gbádùn,Ọlá ń jẹ ìyà,1
+Adé ń lọ́yà mi,Adé ń jàmí níyàn,Adé ń gbọ́ tèmi,1
+Adé ti tẹtí sí ọ̀rọ̀ náà,Adé ń jàmí níyàn,Adé ń gbọ́ tèmi,0
+Ẹ ṣá máa mìlíkì,Ẹ ṣá máa gbádùn,Ẹ ṣáa máa jìyà,0
+Ẹ sá máa fòòró,Ẹ ṣá máa gbádùn,Ẹ ṣáa máa jìyà,1
+Ọmọdé tí ó bá mọ ọwọ́ wẹ̀ á bá àgbà jẹun,"Ọmọdé tí ó bá mọ ìwàá wù, á súnmọ́ àwọn àgbà",Ọmọdé tí ó bá mọ ìwàá wù á jìnà sí àwọn àgbà,0
+Ọmọdé náà ò mọ ọwọ́ wẹ̀,"Ọmọdé tí ó bá mọ ìwàá wù, á súnmọ́ àwọn àgbà",Ọmọdé tí ó bá mọ ìwàá wù á jìnà sí àwọn àgbà,1
+Òjó ń ṣiṣẹ́ bí eerin,Òjó ń ṣiṣẹ́ kárakára,Òjó ń ọ̀lẹ,0
+Òjó ń ṣiṣẹ́ bí ìjàpá,Òjó ń ṣiṣẹ́ kárakára,Òjó ń ọ̀lẹ,1
+Afúni lóko ìdí ọ̀pẹ ro,Afúni níṣẹ́ tí kò ní sérè níbẹ̀,Afúni níṣẹ́ elérè tabua,1
+Afúni lóko etídò ro,Afúni níṣẹ́ tí kò ní sérè níbẹ̀,Afúni níṣẹ́ elérè tabua,0
+Ó rá an níṣẹ́ dé tòrutòru,Ó rán an iṣẹ́ tí ó léwu,Ó rán an níṣẹ́ tó nì ààbò,1
+Ó rá an níṣẹ́ dé ọlà,Ó rán an iṣẹ́ tí ó léwu,Ó rán an níṣẹ́ tó nì ààbò,0
+Ó ń lọọgun tantan,Ó ń pariwo,Ó dákẹ́ jẹ́,1
+Ó dákẹ́ sii,Ó ń pariwo,Ó dákẹ́ jẹ́,0
+Táyé máa ń dé àwọn oníbàárà rẹ̀ mọ́lẹ̀,Táyé máa ń lu àwọn oníbàárà rẹ̀ ní jìbìtì,Táyé jẹ́ olóòótọ́ sí àwọn oníbàárà rẹ̀,1
+Táyé máa wín àwọn oníbàárà rẹ̀,Táyé máa ń lu àwọn oníbàárà rẹ̀ ní jìbìtì,Táyé jẹ́ olóòótọ́ sí àwọn oníbàárà rẹ̀,0
+Ó kárí bọnú,Ó fajúro,Ó túraká,1
+Ó fò kiri,Ó fajúro,Ó túraká,0
+O ó fẹnu fẹ́ra bí abẹ̀bẹ̀,O ó jẹ ìyà tó pọ̀,O ó jẹ ìgbádùn tó pọ̀,1
+O ó pọ́nnu lá bí ẹni jẹ wàrà,O ó jẹ ìyà tó pọ̀,O ó jẹ ìgbádùn tó pọ̀,0
+Àjàdí tẹ aṣọ àgbà mọ́lẹ̀,Àjàdí rí ìbínú àwọn tó jù ú lọ,Àjàdí rí ìyọ́nú àwọn tó jù ú lọ,1
+Àwọn àgbà ti ṣàdúrà fún Àjàdí,Àjàdí rí ìbínú àwọn tó jù ú lọ,Àjàdí rí ìyọ́nú àwọn tó jù ú lọ,0
+Àjùmọ̀bí ò kan tàánú,Ènìyàn súnmọ́ni kò sọ pé kó ṣeni láàánú,Ènìyàn súnmọ́ni lè fa kó ṣeni láàánú,1
+Àjùmọ̀bí lè ṣe ni láàánú,Ènìyàn súnmọ́ni kò sọ pé kó ṣeni láàánú,Ènìyàn súnmọ́ni lè fa kó ṣeni láàánú,0
+Iṣu ẹni ló ń tọwọ̀ ẹni bọ epo,Ènìyàn ẹni náà ló lè kó àbùkù bá ẹni,Ènìyàn ẹni náà ló lè kó ọlá bá ẹni,1
+"A kì í báni tan, ká fani nítan ya",Ènìyàn ẹni náà ló lè kó àbùkù bá ẹni,Ènìyàn ẹni náà ló lè kó ọlá bá ẹni,0
+Oníyangí,Alákòóbá,Onígbọ̀wọ́,1
+Olóore,Alákòóbá,Onígbọ̀wọ́,0
+Òjó gbá ṣọṣọ lójú,Òjó wá àkóbá fún ara rẹ̀,Òjó ò wá àkóbá fún ara rẹ̀,1
+Òjó yàgò fún ṣọṣọ,Òjó wá àkóbá fún ara rẹ̀,Òjó ò wá àkóbá fún ara rẹ̀,0
+Igi gogoro má gún mi ojú,Ohun burúkú má ṣẹlẹ̀ síni,Ohun rere kó ṣẹlẹ̀ síni,1
+Igi gogoro kò lè gún mi ojú,Ohun burúkú má ṣẹlẹ̀ síni,Ohun rere kó ṣẹlẹ̀ síni,0
+Ayé fàmílétè n tutọ́ ni Àwẹ̀lé ń jẹ,Ayé ìjẹkújẹ ni Àwẹ̀lé ń jẹ,Ayé ìwọ̀ntuwọ̀nsì Àwẹ̀lé ń jẹ,1
+Ayé ìwọ̀ntún ìwọ̀n òsì ni Àwẹ̀lé ń jẹ,Ayé ìjẹkújẹ ni Àwẹ̀lé ń jẹ,Ayé ìwọ̀ntuwọ̀nsì Àwẹ̀lé ń jẹ,0
+Ajínasẹ̀,Ọ̀lẹ tí kì í ṣiṣẹ́,Ènìyàn tí ó ṣiṣẹ́ kárakára,1
+Ají́gbọ́nini,Ọ̀lẹ tí kì í ṣiṣẹ́,Ènìyàn tí ó ṣiṣẹ́ kárakára,0
+Ọlọ́mọ kan kò kúrò lágàn,Ènìyàn tí kò bí ju ọmọ kan lọ kò yàtọ̀ sí ènìyàn tí kò bí rárá,Ènìyàn tí ó bí ọmọ púpọ̀ yàtọ̀ sí ènìyàn tí kò bí rárá,1
+Ọlọ́́mọ kan kúrò ní kị lo bí?,Ènìyàn tí kò bí ju ọmọ kan lọ kò yàtọ̀ sí ènìyàn tí kò bí rárá,Ènìyàn tí ó bí ọmọ púpọ̀ yàtọ̀ sí ènìyàn tí kò bí rárá,0
+A kì í sumí rírọ̀ sí tòsí,Ènìyàn kì í ṣe ohun tí kò dára fún àwọn tí ó yíi ká,Ènìyàn kì í ṣe ohun tí ó bàjẹ́ sí àwọn tí ó yí i ká,0
+Ilé là ń tẹ̀kọ rírọ̀ sí,Ènìyàn kì í ṣe ohun tí kò dára fún àwọn tí ó yíi ká,Ènìyàn kì í ṣe ohun tí ó bàjẹ́ sí àwọn tí ó yí i ká,1
+Ejò lọ́wọ́ nínú ọ̀rọ̀ yìí,Ọ̀rọ̀ yìí kò kàn rí bẹ́ẹ̀ lásán,Ọ̀rọ̀ yìí kàn rí bẹ́ẹ̀ ni,1
+Àmúwá Ọlọ́run ni ọ̀rọ̀ náà,Ọ̀rọ̀ yìí kò kàn rí bẹ́ẹ̀ lásán,Ọ̀rọ̀ yìí kàn rí bẹ́ẹ̀ ni,0
+Àjànàkú ni Àjàní,Alágbára ni Àlàdí,Ọ̀lẹ ni Àjàdí,0
+Jẹgúdúgẹrá ni Àjàní,Alágbára ni Àlàdí,Ọ̀lẹ ni Àjàdí,1
+Bàbá mi fara ya,Bàbá mi bínú gidigidi,Bàbá mi yọ́nú gidigidi,1
+Bàbá mi ti fojú àánú wò mí,Bàbá mi bínú gidigidi,Bàbá mi yọ́nú gidigidi,0
+Ọjọ́ ti ń rebi àná,Ilẹ̀ ti ń ṣú,Ilẹ̀ ti ń mọ́,0
+Ọjọ́ kọ̀ tí ì rẹbi àná,Ilẹ̀ ti ń ṣú,Ilẹ̀ ti ń mọ́,1
+Ó pàpà bu omi sùúrù mu,Ó pàpà fara balẹ̀,Ó pàdà da gbogbo rẹ̀ rú,0
+Ó padà mu omi wàhálà,Ó pàpà fara balẹ̀,Ó pàdà da gbogbo rẹ̀ rú,1
+A ó tú iṣu dé ìsàlẹ̀ ìkòkò,A ó sọ ẹ̀kúnrẹ́rẹ́ nípa ọ̀rọ̀ náà,A ó sọ́ ọ̀rọ̀ ná léréfèé,0
+A ó ré e lórí,A ó sọ ẹ̀kúnrẹ́rẹ́ nípa ọ̀rọ̀ náà,A ó sọ́ ọ̀rọ̀ ná léréfèé,1
+Olúwọlé fárígá,Olúwọlé kọ̀jálẹ̀,Olúwọlé gbà,1
+Olúwọlé baralẹ̀,Olúwọlé kọ̀jálẹ̀,Olúwọlé gbà,0
+Kábíyèsí fi imú Àlàbí dánrin,Kábíyèsí fi ìyà jẹ Àlàbí,Kábíyèsí dá Àlàbí lọ́lá,1
+Kábíyèsí mórí Àlàbí sre,Kábíyèsí fi ìyà jẹ Àlàbí,Kábíyèsí dá Àlàbí lọ́lá,0
+Ṣawoṣọ̀gbẹ̀rì ni Àdéọlá,Ènìyàn tí ó máa ń ṣe eléyìí ṣe tọ̀hun ni Adéọlá,Ènìyàn tí ó máa ń ṣe ohun ọ̀nà kan ṣoṣo ni Adéọlá,1
+Awo ìmùlẹ̀ ni Adéọlá,Ènìyàn tí ó máa ń ṣe eléyìí ṣe tọ̀hun ni Adéọlá,Ènìyàn tí ó máa ń ṣe ohun ọ̀nà kan ṣoṣo ni Adéọlá,0
+Gbogbo yín ẹ lọ si mẹ̀dọ̀,Gbogbo yín ẹ lọ fi ara balẹ̀,Gbogbo yin ẹ lọ ká ọkàn sókè,0
+Gbogbo yín ẹ lọ káyà sokè,Gbogbo yín ẹ lọ fi ara balẹ̀,Gbogbo yin ẹ lọ ká ọkàn sókè,1
+Ọ̀gá dá sèríà fún ọmọ iṣẹ́ rẹ̀,Ọ̀gá fìyà jẹ ọmọ iṣẹ́ rẹ,Ọ̀gá dá ọmọ iṣẹ́ rẹ̀ lọ́lá,1
+Ọ̀gá dá sèríà fún ọmọ iṣẹ́ lówó tó pọ̀ àti àgbéga lẹ́nu iṣẹ́,Ọ̀gá fìyà jẹ ọmọ iṣẹ́ rẹ,Ọ̀gá dá ọmọ iṣẹ́ rẹ̀ lọ́lá,0
+Táíwò ti di abara méjì,Táíwò ti lóyún,Táíwò ò tí ì lóyún,0
+Táíwò ò tí ì bímọ,Táíwò ti lóyún,Táíwò ò tí ì lóyún,1
+Adéyẹmí kágídíborí bíi fáànù Íbò,Adéyẹmí ṣagídí gidigidi,Adéyẹmí ṣe pẹ̀lẹ́pẹ̀lẹ́,1
+Adéyẹmí baralẹ̀ bí omi àfòwúrọ̀ pọ̀,Adéyẹmí ṣagídí gidigidi,Adéyẹmí ṣe pẹ̀lẹ́pẹ̀lẹ́,0
+Ó fẹsẹ̀ fẹ́ ẹ,Ó sálọ,Ó dúró,1
+Ó gàndí,Ó sálọ,Ó dúró,0
+Ó ti sọ àwọn òbí rẹ̀ di ẹdun arinlẹ̀,Ó ti run gbogbo dúkìá àwọn òbí rẹ̀,Ó ti rà kún gbogbo dúkìá àwọn òbí rẹ̀,1
+O tí sọ àwọn òbí rẹ̀ di onígba aṣọ,Ó ti run gbogbo dúkìá àwọn òbí rẹ̀,Ó ti rà kún gbogbo dúkìá àwọn òbí rẹ̀,0
+Kẹ́hìndé fàáké kórí lórí ọ̀rọ̀ náà,Kẹ́hìndé lagídí lórí ọ̀rọ̀ náà,Kẹ́hìndé fara balẹ̀ lórí ọ̀rọ̀ náà,1
+Kẹ́hìndé gbà f'Ọ́lọ́run lórí ọ̀rọ̀ náà,Kẹ́hìndé lagídí lórí ọ̀rọ̀ náà,Kẹ́hìndé fara balẹ̀ lórí ọ̀rọ̀ náà,0
+Délé júba ehoro nígbà tí ó gbùròó àwọn Ọlọ́pàá,Délé sálọ nígbà tí ó gbúròó àwọn Ọlọ́pàá,Délé dúró nígbà nígbà tí ó gbúròó àwọn Ọlọ́pàá,1
+Dé́lé dúró wámú nígbà tí ó gbùròó àwọn Ọlọ́pàá,Délé sálọ nígbà tí ó gbúròó àwọn Ọlọ́pàá,Délé dúró nígbà nígbà tí ó gbúròó àwọn Ọlọ́pàá,0
+Ó ti kan róro nírù,Ó ti rí wàhálà,Ó ti rí ìdẹ̀ra,1
+Ó ti róore lojú olórò,Ó ti rí wàhálà,Ó ti rí ìdẹ̀ra,0
+Ẹ jẹ́ ká ṣe ọ̀rọ̀ náà ní bòńkẹ́lẹ́,Ẹ jẹ́ kí á pa àṣírí ọ̀rọ̀ náà mọ́,Ẹ jẹ́ kí á tú pa àṣírí ọ̀rọ̀ náà mọ́,0
+Ẹ jẹ́ ká kó ọ̀rọ̀ náà síta,Ẹ jẹ́ kí á pa àṣírí ọ̀rọ̀ náà mọ́,Ẹ jẹ́ kí á tú pa àṣírí ọ̀rọ̀ náà mọ́,1
+Oríre rẹ̀ ti fẹ́ tẹnu bọpo,Oríre rẹ̀ ti fẹ́ parí,Oríre rẹ̀ ṣẹ̀ṣẹ̀ bẹ̀rẹ̀,1
+Oríre rẹ̀ ti fẹ́ gbìnàyá,Oríre rẹ̀ ti fẹ́ parí,Oríre rẹ̀ ṣẹ̀ṣẹ̀ bẹ̀rẹ̀,0
+Ẹ jẹ̀bùrẹ́ awo olùgbẹ́bẹ̀,Ẹ má bínú,Ẹ má rọnú,0
+Ẹ fàbínú yọ awo olúkòso,Ẹ má bínú,Ẹ má rọnú,1
+Bàbá Àlàbí fọwọ́rọrí kú ni,Bàbá Àlàbí kú fúra rẹ̀,Wọ́n pa bàbá Àlàbí,0
+Bàbá À̀làbí kúkú oró,Bàbá Àlàbí kú fúra rẹ̀,Wọ́n pa bàbá Àlàbí,1
+Wọ́n fi imú Adéyẹmí fọn fèrè lójúde Ọba,Wọ́n fìyà jẹ Adéyẹmí lójúde Ọba,Wọ́n dá Adéyẹmí lọ́lá lójúde Ọba,1
+Wọ́n fi ojú Adéyẹmí ríre lójúde Ọba,Wọ́n fìyà jẹ Adéyẹmí lójúde Ọba,Wọ́n dá Adéyẹmí lọ́lá lójúde Ọba,0
+Èéṣe tí o káwọ́ rọ̀?,Kí ló dé tí o dúró láìṣe nǹkankan?,Kí ló dé tí ò ń ṣiṣẹ́ láìdáwọ́ dúró?,1
+Eéṣe tí ò ń fẹ̀mí ṣe?,Kí ló dé tí o dúró láìṣe nǹkankan?,Kí ló dé tí ò ń ṣiṣẹ́ láìdáwọ́ dúró?,0
+Fogun ẹ̀yìn jàni,Jẹ́ kí ohun burúkú ó padà wá ṣẹlẹ̀ síni,Jẹ́ kí ohun rere ó padà wá ṣẹlẹ̀ síni,1
+Jagun síwájú fún mi,Jẹ́ kí ohun burúkú ó padà wá ṣẹlẹ̀ síni,Jẹ́ kí ohun rere ó padà wá ṣẹlẹ̀ síni,0
+Táyé ń fẹnu ròfọ́ ni,Táyé ń lérí ohun tí kò le ṣe ní,Táyé ń lérí ohun tó le ṣe ní,1
+Wí bẹ́ẹ̀ ṣe bẹ́ẹ̀ ni Táyé,Táyé ń lérí ohun tí kò le ṣe ní,Táyé ń lérí ohun tó le ṣe ní,0
+Kókó ń bẹ̀ lẹ́fọ̀ọ́,Olófòófó wà ní tòsí,Ẹlẹ́nubíbò wà ní tòsí,1
+Kò séèrà lójú ọpọ́n,Olófòófó wà ní tòsí,Ẹlẹ́nubíbò wà ní tòsí,0
+Àgbàlagbà tó ń ṣe láńgbáláńgbá,Àgbàlagbà tó ń wùwà àgbà ìyà,Ọmọdé tó ń wùwà ọmọdé ìṣẹ́,1
+Àgbà tí ò jẹ́ kọ́rùn ọmọ ó wọ́,Àgbàlagbà tó ń wùwà àgbà ìyà,Ọmọdé tó ń wùwà ọmọdé ìṣẹ́,0
+Ó ń pọnmi sí ajádìí apẹ̀rẹ̀,Ó ń ṣe àṣedànù,Ò ń ṣe àṣejèrè,1
+Ó rí kójọ,Ó ń ṣe àṣedànù,Ò ń ṣe àṣejèrè,0
+Àwọn ará ìṣàlẹ̀ ń fapá jánú,Àwọn ará ìsàlẹ̀ ń bínú lábẹ́lẹ̀,Àwọn ará ìsàlẹ̀ ń dunnú,1
+Àwọn ará òkè ń sòdí wùkẹ̀,Àwọn ará ìsàlẹ̀ ń bínú lábẹ́lẹ̀,Àwọn ará ìsàlẹ̀ ń dunnú,0
+Lákíríboto ni Ìṣọ̀lá,Ìṣọ̀lá kò lè bá obìnrin lòpọ̀,Ìṣọ̀lá lè bá obìnrin lòpọ̀,1
+Agẹṣin èèyàn ni Ìṣọ̀lá,Ìṣọ̀lá kò lè bá obìnrin lòpọ̀,Ìṣọ̀lá lè bá obìnrin lòpọ̀,0
+Olú na pápá bora,Olú sálọ,Olú dúró,1
+Olú dúró kalẹ̀,Olú sálọ,Olú dúró,0
+Àrèó ti wẹ̀ yán kànhìnkàhìn,Àrèó kò ní ẹ̀sùn kankan lọ́rùn,Àrèó ní èsùn púpọ̀ lọ́rùn,0
+Àrèó lẹ́ṣẹ̀ lọ́rùn,Àrèó kò ní ẹ̀sùn kankan lọ́rùn,Àrèó ní èsùn púpọ̀ lọ́rùn,1
+Gbádébọ̀ fẹ́ràn kí ó máa ṣàyàngbàǹgbà sí nǹkan,Gbádébọ̀ fẹ́ràn kí ó máa kọ́kọ́ ṣáájú nínú àwọn nǹkan,Gbádébọ̀ fẹ́ràn kí ó máa wà lẹ́yìn nínú àwọn nǹkan,1
+Gbádébọ̀ fẹ́ràn kí ó máa káríbọnú sí nǹkan,Gbádébọ̀ fẹ́ràn kí ó máa kọ́kọ́ ṣáájú nínú àwọn nǹkan,Gbádébọ̀ fẹ́ràn kí ó máa wà lẹ́yìn nínú àwọn nǹkan,0
+Ó ti diwọ́disẹ̀ sínú,Ó ti lóyún,Ó ti bímọ,0
+Ó dọyún dẹ̀jẹ̀ dídì sínú,Ó ti lóyún,Ó ti bímọ,1
+Wọ́n ti gbẹ̀yìn bẹbọ jẹ́,Wọ́n ti padà wá ba ohun tí a ṣe tó dára jẹ́,Wọ́n ti padà wá tún ohun tí a ṣe tí kò dára ṣe,1
+Wọ́n gbẹ̀yìn tẹ́bo rú,Wọ́n ti padà wá ba ohun tí a ṣe tó dára jẹ́,Wọ́n ti padà wá tún ohun tí a ṣe tí kò dára ṣe,0
+Àìná háwọ́,Àìná ní ahun,Àìná máa ń fitọrọ,1
+Àì̀ná yawọ́,Àìná ní ahun,Àìná máa ń fitọrọ,0
+A ò ní fọ̀pá pọ̀ọ̀lọ̀pọọlọ pejò,A ò ní fa ọ̀rọ̀ náà gùn,A ó pẹ́ lórí ọ̀rọ̀ náà,0
+A ó wírèégbè ṣúlẹ̀,A ò ní fa ọ̀rọ̀ náà gùn,A ó pẹ́ lórí ọ̀rọ̀ náà,1
+Omi ẹ̀fọ́ lọ̀rọ̀ yìí,Ọ̀rọ̀ yìí kò nítumọ̀,Ọ̀rọ̀ yìí nítumọ̀,1
+Gòríà obì ni ọ̀rọ̀ yìí,Ọ̀rọ̀ yìí kò nítumọ̀,Ọ̀rọ̀ yìí nítumọ̀,0
+"Agbé fọ́, omi sì tún dànù","Ìyá kú, ọmọ náà sì tún kú","Ìyá wà láàyè, ọmọ rẹ̀ náà sì wà láàyè",1
+Tagbè tomi ló ń mí,"Ìyá kú, ọmọ náà sì tún kú","Ìyá wà láàyè, ọmọ rẹ̀ náà sì wà láàyè",0
+Ṣeyán bí ọkà?,Ṣe ohun ńlá bí ohun kékeré?,Ṣe ohun kékeré bí ohun ńlá?,1
+Fìka tótọ́símú remú,Ṣe ohun ńlá bí ohun kékeré?,Ṣe ohun kékeré bí ohun ńlá?,0
+Iṣẹ́ fẹran jẹ̀kọ ni iṣẹ́ yìí,Iṣẹ́ tí ó rọrùn ni iṣẹ́ yìí,Iṣẹ́ tí ó le gan ni iṣẹ́ yìí,0
+Àpáàrà ni iṣẹ́ yìí,Iṣẹ́ tí ó rọrùn ni iṣẹ́ yìí,Iṣẹ́ tí ó le gan ni iṣẹ́ yìí,1
+Wọ́n ti ṣọkọ fún Adéwùmí,Wọ́n ti fìyà jẹ Adéwùmí,Wọ́n ti dá Adéwùmí lọ́lá,1
+Wọ́n ti fòrí pa Adéwùmí,Wọ́n ti fìyà jẹ Adéwùmí,Wọ́n ti dá Adéwùmí lọ́lá,0
+Ìbùkún lawọ́,Ìbùkún máa ń fi nǹkan tọrọ,Ìbùkún máa ń tọrọ nǹkan,0
+Ìbù̀kún háwọ́,Ìbùkún máa ń fi nǹkan tọrọ,Ìbùkún máa ń tọrọ nǹkan,1
+Àyìnlá ń jayé orí ẹ ní Ìlọrin,Àyìnlá ń gbádùn ara rẹ̀ n’Ílọrin,Àyìnlá ń jẹ ìyà ní Ìlọrin,0
+Àyì̀nlá ń mu gaàrí ní Ìlọrin,Àyìnlá ń gbádùn ara rẹ̀ n’Ílọrin,Àyìnlá ń jẹ ìyà ní Ìlọrin,1
+Sàláwá wo ọ̀gá ẹ̀ lójú,Sàláwá wùwà àrínfín sí ọ̀gá rẹ̀,Sàláwá wùwà àpọ́nlé sí ọ̀gá rẹ̀,1
+Sàláwá gbórí fún ọ̀gá rẹ̀,Sàláwá wùwà àrínfín sí ọ̀gá rẹ̀,Sàláwá wùwà àpọ́nlé sí ọ̀gá rẹ̀,0
+Àwọn ohun tí a ní ti fìdíjálẹ̀,Àwọn ohun tí a ní ti tán,Àwọn ohun tí a ní ti pọ̀ síi,1
+Àwọn ohun tí a ní ti wà ní ìlọ́po ìlọ́po,Àwọn ohun tí a ní ti tán,Àwọn ohun tí a ní ti pọ̀ síi,0
+Ẹṣin inú ìwé ni Rọ́pò,Rọ́pò kò lè bóbìnrin lòpọ̀,Rọ́pọ̀ lè bá obìnrin lòpọ̀,1
+"Ẹsin orí ilẹ̀ ni Rọ́pọ̀, ó lè fàdí ya",Rọ́pò kò lè bóbìnrin lòpọ̀,Rọ́pọ̀ lè bá obìnrin lòpọ̀,0
+Àdìó fọwọ́ fọ̀nná,Àdìó jẹ ìyà,Àdìó jẹ ìgbádùn,1
+Àdìó fọwọ́ láyin,Àdìó jẹ ìyà,Àdìó jẹ ìgbádùn,0
+Ọwọ Bímpé ti tẹ ẹ̀kù idà,Bímpé ti dé ipò tí a kò ti lè ṣe ìpalára fún un,Bímpé ti dé ipò tí a ti lè pa á lára,0
+Èèrà abẹ́ bàtà ni Bímpé,Bímpé ti dé ipò tí a kò ti lè ṣe ìpalára fún un,Bímpé ti dé ipò tí a ti lè pa á lára,1
+Òkété bórù mọ́ Àdìsá lọ́wọ́,Àdìsá pàdánù ohun ńlá kan,Àdìṣá rí ohun ńlá gbà,1
+Àdìsá ki Òkété lọ́rùn,Àdìsá pàdánù ohun ńlá kan,Àdìṣá rí ohun ńlá gbà,0
+Ó ta tẹ́ru nípàá lánàá,Ó kú lánàá,Ó yè lánàá,1
+O délé ayé lánàá,Ó kú lánàá,Ó yè lánàá,0
+A ti fàwé ẹ̀ṣẹ̀ Tọ́pé ya,A ti dárí ji Tọ́pẹ́,A ti fìyà jẹ Tọ́pẹ́,0
+A ti ṣíwèé ẹ̀ṣẹ̀ fún Tọ́pẹ́,A ti dárí ji Tọ́pẹ́,A ti fìyà jẹ Tọ́pẹ́,1
+Má pọ́ mi nífun ò,Má fi tipátipá mú mi sọ̀rọ̀,Mo fi pẹ̀lẹ́pẹ̀lẹ́ mú un sọ̀rọ̀,0
+Má fi gògóńgò mií lẹ̀ o,Má fi tipátipá mú mi sọ̀rọ̀,Mo fi pẹ̀lẹ́pẹ̀lẹ́ mú un sọ̀rọ̀,1
+Ó ti tasẹ̀ àgẹ̀rẹ̀,Ó ti ṣe àṣìṣe,Ó ti ṣe àṣepé,1
+O kọsẹ̀ báre,Ó ti ṣe àṣìṣe,Ó ti ṣe àṣepé,0
+Ẹ jẹ́ ká fúnná mọ́ ọn,Ẹ jẹ́ ká fi ipá mú un,Ẹ jẹ́ ká fi ẹ̀lẹ̀ mú un,1
+Ẹ jẹ́ pẹ̀rọ̀ síi,Ẹ jẹ́ ká fi ipá mú un,Ẹ jẹ́ ká fi ẹ̀lẹ̀ mú un,0
+Ìtì ọ̀gẹ̀dẹ̀ ni ọ̀rọ̀ yìí,Ọ̀rọ̀ yìí rọrùn,Ọ̀rọ̀ yìí ṣòro,0
+Ojú ẹja ni ọ̀rọ̀ yìí,Ọ̀rọ̀ yìí rọrùn,Ọ̀rọ̀ yìí ṣòro,1
+Ológùnná kan ni ìyá Táyé,Ọmọ kan ṣoṣo ni ìyá Táyé bí,Ọmọ púpọ̀ ni ìyá Táyé bí,1
+Ọlọ́mọ bí ẹdá ni ìyá Táyé,Ọmọ kan ṣoṣo ni ìyá Táyé bí,Ọmọ púpọ̀ ni ìyá Táyé bí,0
+Gbogbo rẹ̀ polúkúrúmuṣu,Gbogbo rẹ̀ lọ́júpọ̀,Gbogbo rẹ̀ lójútùù,1
+Gbogbo rẹ̀ ní ojúṣẹ̀ẹ́,Gbogbo rẹ̀ lọ́júpọ̀,Gbogbo rẹ̀ lójútùù,0
+Àjádí rí pípọ́n ojú Ayọ̀,Àjàdí rí ìbínú Ayọ̀,Àjàdí rí ojúrere Ayọ̀,1
+Àjá̀dí rí omi àánú Ayọ̀,Àjàdí rí ìbínú Ayọ̀,Àjàdí rí ojúrere Ayọ̀,0
+Òdú ni Àjàlá,Ìlú mọ̀-ọ́n-ká Àjàlá,Àjàlá kì í ṣeni mímọ̀,0
+Òkòlò Ọ̀yọ́ ni Àjàlá,Ìlú mọ̀-ọ́n-ká Àjàlá,Àjàlá kì í ṣeni mímọ̀,1
+O ó fọwọ́ páhún,Ó darúgbó,Ó dọmọdé,0
+O ó fò ṣánlẹ̀,Ó darúgbó,Ó dọmọdé,1
+Mi ò bá Àwẹ̀lé nílé,Mi ò bá Àwẹ̀lé gẹ́gẹ́ bíi wúńdíá,Mo bá Àwèlé gẹ́gé bíi wúńdíá,1
+Wúndía ni Àwẹ̀lé,Mi ò bá Àwẹ̀lé gẹ́gẹ́ bíi wúńdíá,Mo bá Àwèlé gẹ́gé bíi wúńdíá,0
+Àdìó forí jálé agbọ́n,Àdìó kó sínú ewu,Àdìó wọ abẹ́ ààbò,1
+Àdìó jálu afárá oyin,Àdìó kó sínú ewu,Àdìó wọ abẹ́ ààbò,0
+Adéwálé ti tẹ ọká nírú mọ́lẹ̀,Adéwálé ti rí wàhálà,Adéwálé ti rí ìgbádún,1
+Adéwá́lé ti jìfà ọkà ràbàtà,Adéwálé ti rí wàhálà,Adéwálé ti rí ìgbádún,0
+Àdísá ti rugi oyin,Àdìṣá kó sínú wàhálà,Àdìsá kó sínú ìgbádùn,1
+Àdìsá ti róyin pọ́nlá,Àdìṣá kó sínú wàhálà,Àdìsá kó sínú ìgbádùn,0
+Àkàrá tú sépo,Àṣírí ti tú,Àṣírí ti bò,1
+Òkú òru ni a ṣeé,Àṣírí ti tú,Àṣírí ti bò,0
+Olú ń tẹnubọlẹ̀ kiri,Olú ń rojọ́ kiri,Olú ń dákẹ́ kiri,1
+Olú ń panu mọ́ kiri,Olú ń rojọ́ kiri,Olú ń dákẹ́ kiri,0
+Màálù ni Àkínsànyà,Akínsànyà lára ẹgba jíjẹ,Akínsàyà lára ìgbádùn jíjẹ,1
+Ṣẹ̀kẹ̀rẹ̀ tí ò ṣeé fọ̀pá lù ni Akínsànyà,Akínsànyà lára ẹgba jíjẹ,Akínsàyà lára ìgbádùn jíjẹ,0
+Tọwọ́ ọmọ rẹ baṣọ,Dá ìwà burúkú tí ò ń hù dúró,Tẹ̀síwájú láti máa hu ìwà burúkú,0
+Fọ́n yẹ̀pẹ̀ sójú àwọn ènìyàn,Dá ìwà burúkú tí ò ń hù dúró,Tẹ̀síwájú láti máa hu ìwà burúkú,1
+Sàngbá fọ́,Aburú ṣẹlẹ̀,Nǹkan ayọ̀ ti ṣẹlẹ̀,1
+Abara tíńtín,Aburú ṣẹlẹ̀,Nǹkan ayọ̀ ti ṣẹlẹ̀,0
+Ọ̀tábíyìí ti filẹ̀ ṣaṣọ bora,Ọ̀tábíyìí ti kú,Ọ̀tábíyìí wà láàyè,1
+Ọtábíyìí ti di rírí gbé jó,Ọ̀tábíyìí ti kú,Ọ̀tábíyìí wà láàyè,0
+Àyọ̀ká ń fẹ́wọ́,Àyọ̀ká ń jalè,Àyọ̀ká ń ṣọ́ nǹkan,1
+Àyọ̀ká fẹ́ sọ̀rọ̀,Àyọ̀ká ń jalè,Àyọ̀ká ń ṣọ́ nǹkan,0
+Táyé gbẹ́ní lọ odò ni,Táyé pẹ́ lódò,Táyé tètè dé látodò,1
+Táyé gbé bàlúù lọ sódò,Táyé pẹ́ lódò,Táyé tètè dé látodò,0
+Ó kómi síta bí ọmọ ọjọ́ mẹ́jọ,Ó pòkìkí mi lórí ìṣẹ̀lẹ̀,Ó fiwá pamọ́,1
+Ó pamí mọ́ bí awùsá,Ó pòkìkí mi lórí ìṣẹ̀lẹ̀,Ó fiwá pamọ́,0
+Kòjẹ́ kí n fẹ̀dọ̀ lórí òróòro,Kò jẹ́ kí n nísinmi,Kò jẹ́ kí n dààmú,1
+Ó jẹ́ kí n fẹ̀dọ̀ lórí òróòro,Kò jẹ́ kí n nísinmi,Kò jẹ́ kí n dààmú,0
+Ẹkùn ni Bímpé,Akínkanjú ni Bímpé,Ọ̀lẹ ni Bímpé,0
+Àgùntàn ni Bímpé,Akínkanjú ni Bímpé,Ọ̀lẹ ni Bímpé,1
+Adé ń mú u ùn lẹ̀ fún wa ni,Adé ń parọ́ fún wa ni,Adé ń ṣòótọ́ fún wa ni,1
+Adé ń fọ ọ̀rọ̀ bó ti rí gan,Adé ń parọ́ fún wa ni,Adé ń ṣòótọ́ fún wa ni,0
+Ó kọtí ikún sí àmọ̀ràn mi,Ó kọ̀ láti kọ àmọ̀ràn mi,Ó kọ̀ láti gba àmọ̀ràn mi,1
+Ó dẹtí sílẹ̀ sí àmọ̀ràn mi,Ó kọ̀ láti kọ àmọ̀ràn mi,Ó kọ̀ láti gba àmọ̀ràn mi,0
+Ajíbádé ń yíjú sẹ́yìn fúnmi,Ó fà mí mọ́ra,Ó pa mí tì,1
+Ajíbádé ń rẹ́rìn-ín sí mi,Ó fà mí mọ́ra,Ó pa mí tì,0
+Táyé gbéná wojú Àjàní,Táyé bínú sí Àjàní,Táyé rọnú sí Àjàní,1
+Táyé rọ Àjàní ninú,Táyé bínú sí Àjàní,Táyé rọnú sí Àjàní,0
+Ó sọ̀pàkọ́ sí i,Ó pa á tì,Ó fà á mọ́ra,1
+Ó wọ́ ọ mọ́dọ̀,Ó pa á tì,Ó fà á mọ́ra,0
+Àdìgún gbaná ojú Ayò,Àdìgún bínú sí Ayọ̀,Àdìgún rọnú sí Ayọ̀,1
+Àdì̀gún tu Ayọ̀ nínú,Àdìgún bínú sí Ayọ̀,Àdìgún rọnú sí Ayọ̀,0
+Ò ń tọwọ́ bọ̀ mí lénu,Ó ń fagídí mú mi sọ̀rọ̀,Ó ń fẹ̀sọ̀ mú mi sọ̀rọ̀,1
+Ó ń fọwọ́ bò mí lẹ́nu,Ó ń fagídí mú mi sọ̀rọ̀,Ó ń fẹ̀sọ̀ mú mi sọ̀rọ̀,0
+Ọmọ náà yándìí,Ọmọ náà fẹ́ràn ìbálòpọ̀,Ọmọ náà kò fẹ́ràn ìbálòpọ̀,1
+Ọmọ náà dídìí,Ọmọ náà fẹ́ràn ìbálòpọ̀,Ọmọ náà kò fẹ́ràn ìbálòpọ̀,0
+Ọmọ orí títì ni Àdìsá,Ọmọ tí kò ní olùbáwí ni Àdìsá,Ọmọ tí ò ní akẹ́nijù ni Àdìsá,1
+Ọmọlúàbí ni Àdìsá,Ọmọ tí kò ní olùbáwí ni Àdìsá,Ọmọ tí ò ní akẹ́nijù ni Àdìsá,0
+A kú ìtẹ́nu,A kú ààwẹ̀,A kú ìjẹ ọ̀pọ̀,1
+A kú ìkúnu,A kú ààwẹ̀,A kú ìjẹ ọ̀pọ̀,0
+Bólú ń wo aago aláago sáré,Bólú ń wo ìgbésẹ̀ ẹlòmìíràn láti gbé tirẹ̀,Bólú kò wo ìgbésẹ̀ ẹlòmìíràn láti gbé tirẹ̀,1
+Bólú ò rẹ́nìkan wò ṣe,Bólú ń wo ìgbésẹ̀ ẹlòmìíràn láti gbé tirẹ̀,Bólú kò wo ìgbésẹ̀ ẹlòmìíràn láti gbé tirẹ̀,0
+Afọ́fungbémi,Ẹni tí ó gọ̀,Ẹni tó gbọ́n,1
+Agbọ́nbí aṣarun,Ẹni tí ó gọ̀,Ẹni tó gbọ́n,0
+Tàlàbí sòkò ọ̀rọ̀ lu olùkọ́,Tàlàbí sọ ọ̀rọ̀ tí ó tàbùkù olùkọ́,Tàlàbí sọ ọ̀rọ̀ tí ó ra iyì fún olùkọ́,1
+Tàlàbí lu olùkọ́ lọ́gọ ẹnu,Tàlàbí sọ ọ̀rọ̀ tí ó tàbùkù olùkọ́,Tàlàbí sọ ọ̀rọ̀ tí ó ra iyì fún olùkọ́,0
+Àwòko ni Ayọ̀,Ayọ̀ fẹ́ràn láti máa kọrin,Ayọ̀ fẹ́ràn láti máa dákẹ́,1
+Agbárí odi ni Ayọ̀,Ayọ̀ fẹ́ràn láti máa kọrin,Ayọ̀ fẹ́ràn láti máa dákẹ́,0
+Mo gbe ẹ̀mí lé Olú,Mo ní ìrètí nínú Olú,Mi ní ìjákulẹ̀ lórí Olú,0
+Ayọ̀ ò ṣe fìrètí sí,Mo ní ìrètí nínú Olú,Mi ní ìjákulẹ̀ lórí Olú,1
+Olúbáre ti jẹun sókè,Olúbáre ti di ẹni tí ó ní ọlá,Olúbáre ti di olòṣì,0
+Olúbáre ti dẹni ilẹ̀,Olúbáre ti di ẹni tí ó ní ọlá,Olúbáre ti di olòṣì,1
+Ìgbín ni Dàda,Dàdá lọ́ra,Dàdá yára,1
+Àṣá ni Dàda,Dàdá lọ́ra,Dàdá yára,0
+Àdìó kọ̀yìn sími,Àdìó pa mí tì,Àdìó fà mí mọ́ra,1
+Àdìó kọjú sími,Àdìó pa mí tì,Àdìó fà mí mọ́ra,0
+Ìdòwù tùuúlẹ̀,Ìdòwú sálọ,Ìdòwú dúró,0
+Ìdòwù́ wararo,Ìdòwú sálọ,Ìdòwú dúró,1
+Kẹ́hìndé fàgbà han ìdòwú,Kẹ́hìndé fìyà jẹ Ìdòwú,Kẹ́hìndé dá Ìdòwú lọ́lá,0
+Kẹ́hìndé subú sọ́wọ́ Ìdòwú,Kẹ́hìndé fìyà jẹ Ìdòwú,Kẹ́hìndé dá Ìdòwú lọ́lá,1
+Wọ́n dáná yá Olú,Wọ́n ró Olú lágbára,Wọ́n gbagbára lọ́wọ́ olú,0
+Wọ́n gbadà lọ́wọ́ Olú,Wọ́n ró Olú lágbára,Wọ́n gbagbára lọ́wọ́ olú,1
+Wọ́n ti já ṣọ́ọ̀bù Ìdòwú,Wọ́n ti já ìbálé Ìdòwú,Wọ́n ti dí Ìbálé Ìdòwú,1
+Ọ̀rá wà lára Ìdòwú,Wọ́n ti já ìbálé Ìdòwú,Wọ́n ti dí Ìbálé Ìdòwú,0
+Àdìó ti wọlẹ̀ sùn,Àdìó ti kú,Àdìó wà láàyè,0
+Àdió ti kún wa láyé,Àdìó ti kú,Àdìó wà láàyè,1
+Mi ò fojú sílẹ̀ fún un,Mo ò fààyè àti bá mi sọ̀rọ̀ sílẹ̀,Mi ò fààyè àti yànmí lódì sílẹ̀,0
+Mo sọra sílẹ̀ fún un,Mo ò fààyè àti bá mi sọ̀rọ̀ sílẹ̀,Mi ò fààyè àti yànmí lódì sílẹ̀,1
+Àṣá ni Ìdòwú,Ìdòwú yára,Ìdòwú lọ́ra,1
+Ìgbín ni Ìdòwú,Ìdòwú yára,Ìdòwú lọ́ra,0
+Bídèmí pàkúta sọ́rọ̀ wa,Bídèmí gbé ọ̀rọ̀ mìíràn wọ inú ọ̀rọ̀ tí à ń sọ,Bí ló mú wa tẹ̀síwájú ọ̀rọ̀ tí à ń sọ,1
+Bídèmí wú ọ̀rọ̀ wa síta,Bídèmí gbé ọ̀rọ̀ mìíràn wọ inú ọ̀rọ̀ tí à ń sọ,Bí ló mú wa tẹ̀síwájú ọ̀rọ̀ tí à ń sọ,0
+Òyà ni Dọlápọ̀,Dọlápọ̀ máa ń dásí ohun tí wọn kò pè é sí,Dọlápọ̀ kì í dásí ohun tí wọn kò pè é sí,1
+Àdàbà ni Dọlápọ̀,Dọlápọ̀ máa ń dásí ohun tí wọn kò pè é sí,Dọlápọ̀ kì í dásí ohun tí wọn kò pè é sí,0
+Ó fẹnu họra,Ó gọ̀,O gbọ́n,1
+Ó kọ́gbọ́n rù,Ó gọ̀,O gbọ́n,0
+Ejò ni ó ń lé sími,Nǹkan búburú ni ó ń wá fún mi,Nǹkan rere ni ò ń wá fún mi,1
+Eku ni ó ń lé sími,Nǹkan búburú ni ó ń wá fún mi,Nǹkan rere ni ò ń wá fún mi,0
+Wọ́n ti dòkúta sérù Olùkọ́,Wọ́n ti wá ìpalára fún Olùkọ́,Wọ́n ti wá ìdẹ̀ra fún Olùkọ́,1
+Wọ́n ti yọ òkúta lérù olùkọ́,Wọ́n ti wá ìpalára fún Olùkọ́,Wọ́n ti wá ìdẹ̀ra fún Olùkọ́,0
+Adéoyè ti dẹni àná,Adéoyè ti kú,Adéoyè wà láàyè,1
+Adéoyè dẹ́sẹ̀ tẹ ayẹ́,Adéoyè ti kú,Adéoyè wà láàyè,0
+Àdìsá ti tọwọ́ bọná,Àdìsá ti fọ̀rọ̀ ara rẹ̀ kọ́gbọ́n,Àdìsá ti fọ̀rọ̀ ọlọ́rọ̀ kọ́gbọ́n,1
+Àdì̀sá ti tọwọ́ boyin láti lá,Àdìsá ti fọ̀rọ̀ ara rẹ̀ kọ́gbọ́n,Àdìsá ti fọ̀rọ̀ ọlọ́rọ̀ kọ́gbọ́n,0
+Àkekèé ni Dayọ̀,Ènìyàn tó lè ṣeni níjàm̀bá ni Dayọ̀,Ènìyàn tó lè ṣeni láǹfààní ni Dayọ̀,1
+Àdàbà̀ ni Dayọ̀,Ènìyàn tó lè ṣeni níjàm̀bá ni Dayọ̀,Ènìyàn tó lè ṣeni láǹfààní ni Dayọ̀,0
+Ó ti kógbó sími lápò,Ó ti wá àkóbá fún mi,Ó di yọ ọ̀ràn lórùn mi,1
+Ó ti kó́wó sími lápò,Ó ti wá àkóbá fún mi,Ó di yọ ọ̀ràn lórùn mi,0
+Ewèlè ni Àdùkẹ́,Ènìyàn tó burú ni Àdùkẹ́,Ènìyàn tó rọnú ni Àdùkẹ́,1
+Àdà̀bà ni Àdùkẹ́,Ènìyàn tó burú ni Àdùkẹ́,Ènìyàn tó rọnú ni Àdùkẹ́,0
+Àkan ni ọ̀rọ̀ náà fún mi,Ọ̀rọ̀ náà rí bí mo ṣe fẹ́,Ọ̀rọ̀ náà rí bí mo kò ṣe fẹ́,0
+Ẹja ni ọ̀rọ̀ náà fún mi,Ọ̀rọ̀ náà rí bí mo ṣe fẹ́,Ọ̀rọ̀ náà rí bí mo kò ṣe fẹ́,1
+Finá sórí òrùlé sùn,Wà nínú ewu,Wà lábẹ́ àbò,1
+Gbéná kúrò lórùlé,Wà nínú ewu,Wà lábẹ́ àbò,0
+Bẹ́ igi fún un,Fí ẹgba nà án,Gbà sílẹ̀ lọ́wọ́ ẹgba,1
+Réyín rungi,Fí ẹgba nà án,Gbà sílẹ̀ lọ́wọ́ ẹgba,0
+Aṣọ ò bọ́mọ́yẹ mọ́,Àtúnṣe yìí ò wúlò mọ́,Àtúnṣe yìí wúlò,1
+Dáṣọ ró Ọmọ́yẹ,Àtúnṣe yìí ò wúlò mọ́,Àtúnṣe yìí wúlò,0
+Fọwọ́ wọ́nú,Má bínú,Bínu,0
+Fọwọ́ jọ́ná,Má bínú,Bínu,1
+Èmi ni mo tọ̀pá bọhò ọ̀rọ̀ náà,Èmi ni mo dá ọ̀rọ̀ tó fa ìjà sílẹ̀,Èmi ò mọ nǹkankan nípa ọ̀rọ̀ tó fa ìjà sílẹ̀,1
+È̀mi ni mo bomi paná ẹ̀,Èmi ni mo dá ọ̀rọ̀ tó fa ìjà sílẹ̀,Èmi ò mọ nǹkankan nípa ọ̀rọ̀ tó fa ìjà sílẹ̀,0
+Ó fẹ́ máa kógbó sí mi lórí,Ó fẹ́ máa tàn mí,Ó fẹ́ máa ṣòótọ́ fúnmi,1
+Ó fẹ́ máa kówó sí mi lápò,Ó fẹ́ máa tàn mí,Ó fẹ́ máa ṣòótọ́ fúnmi,0
+Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni wọ́n ti kọjá lọ,Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni wọ́n ti kú,Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni wọ́n wà láàyè,1
+Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni padà bí,Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni wọ́n ti kú,Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni wọ́n wà láàyè,0
+Wọ́n ń fòrí pa Rẹ̀mí lórí,Wọ́n ń fi Rẹ̀mí sílẹ̀ láìbáwí,Wọ́n ń bá Rẹ̀mí wí gidigidi,0
+Wọ́n ń dáná sí Rẹ̀mí lórí,Wọ́n ń fi Rẹ̀mí sílẹ̀ láìbáwí,Wọ́n ń bá Rẹ̀mí wí gidigidi,1
+Ó fẹ́ dáwọ́ tẹlẹ̀,Ó fẹ́ yàgbẹ́,Ó fẹ́ jẹun,0
+Ó fẹ́ mọ́wọ́ lọ ẹnu,Ó fẹ́ yàgbẹ́,Ó fẹ́ jẹun,1
+Aṣa ni Àìná,Oníwérewère ni Àìná,Alárabíbalẹ̀ ni Àìná,1
+Àdàbà ni Àìná,Oníwérewère ni Àìná,Alárabíbalẹ̀ ni Àìná,0
+Adébáre lulẹ̀,Adébáre ní ìjákulẹ̀,Adébáre ní ìgbéga,1
+Adébáre mókè,Adébáre ní ìjákulẹ̀,Adébáre ní ìgbéga,0
+Ọmọ yẹn padà sọdá,Ọmọ yẹn padà kú,Ọmọ yẹ padà yè,1
+Ọmọ yẹn padà dúró,Ọmọ yẹn padà kú,Ọmọ yẹ padà yè,0
+Dèjì ni eku ẹdá,Dèjì ni ó dá gbogbo ọ̀rọ̀ náà sílẹ̀,Dèjì kò mọ nǹkan nípa ọ̀rọ̀ náà,1
+Dè̀jì kò dáhun rí,Dèjì ni ó dá gbogbo ọ̀rọ̀ náà sílẹ̀,Dèjì kò mọ nǹkan nípa ọ̀rọ̀ náà,0
+Ọfọ́n-ọ̀n ni Táyọ̀,Olè ni Táyọ̀,Olùṣọ́ ni Táyọ̀,1
+Ajá ìṣọ́lé ni Táyọ̀,Olè ni Táyọ̀,Olùṣọ́ ni Táyọ̀,0
+Tèmítọ́pẹ́ ló gbégbá orókè,Tèmítọ́pé ló ṣẹ́gun,Tèmí ló pàdánù,0
+Tèmítọ́pẹ́ kò rípò mú,Tèmítọ́pé ló ṣẹ́gun,Tèmí ló pàdánù,1
+Mo ti tẹ àwọn ọ̀tá mi rì,Mo ti ní ìṣẹ́gun lórí àwọn ọ̀tá mi,Mo pàdánù sí ọwọ́ àwọn ọ̀tá mi,0
+Mo ti ń bá ọ̀tá sùn,Mo ti ní ìṣẹ́gun lórí àwọn ọ̀tá mi,Mo pàdánù sí ọwọ́ àwọn ọ̀tá mi,1
+Dami síwájú,Ṣe nǹkan dáadáa ṣaájú,Ṣe ìbàjẹ́ ṣaajú,0
+Dẹ̀gún síwájú,Ṣe nǹkan dáadáa ṣaájú,Ṣe ìbàjẹ́ ṣaajú,1
+Ìjẹ ẹ̀lírí ni Òjó ń jẹ,Oúnjẹ tíńtín ni Òjọ́ ń rí jẹ,Ouńjẹ púpọ̀ ni Òjọ́ ń rí jẹ,1
+Ìjẹ̀ erin ni Òjó ń jẹ,Oúnjẹ tíńtín ni Òjọ́ ń rí jẹ,Ouńjẹ púpọ̀ ni Òjọ́ ń rí jẹ,0
+Ta ló m’Òkòlò rẹ l’Ọ́yọ̀ọ́?,Ta ló dá ọ mọ̀?,Ta ni kò mọ̀ ọ́?,1
+Ìṣáná ẹlẹ́ta ni Òkòlò l’Ọ́yọ̀ọ́,Ta ló dá ọ mọ̀?,Ta ni kò mọ̀ ọ́?,0
+Òkú tí ẹ sin…,Ọ̀rọ̀ tí ẹ̀ ń fi pamọ́,Ọ̀rọ̀ tí ẹ̀ ń tú sìta,1
+Òkú tí ẹ wú...,Ọ̀rọ̀ tí ẹ̀ ń fi pamọ́,Ọ̀rọ̀ tí ẹ̀ ń tú sìta,0
+Àdìsá láyà,Akínkanjú ni Àdìsá,Ọ̀lẹ ni Àdìsá,0
+Àdìsá láyà tì,Akínkanjú ni Àdìsá,Ọ̀lẹ ni Àdìsá,1
+Ẹnu mi gbẹ,Kò sówó lọ́wọ́ mi,Owó pọ̀ lọ́wọ́ mi,1
+Ẹnu mi tutù,Kò sówó lọ́wọ́ mi,Owó pọ̀ lọ́wọ́ mi,0
+Òun ló kẹ́rẹ̀ yínmi,Òun ló kó ẹ̀gbin bá mi,Òun ló mú iyì bá mi,1
+Òun ló kọ́lá bá mi,Òun ló kó ẹ̀gbin bá mi,Òun ló mú iyì bá mi,0
+O ti fi imí tíntín bàdí jẹ́,Ó ti fi nǹkan kẹ́reré kóbá ara rẹ̀,Ó ti fi nǹkan ńlá tún ayé ara rẹ̀ ṣe,1
+O ti tún ìdí rẹ̀ ṣe,Ó ti fi nǹkan kẹ́reré kóbá ara rẹ̀,Ó ti fi nǹkan ńlá tún ayé ara rẹ̀ ṣe,0
+Ó ń gbé mi gẹṣin aáyán,Ó ń ṣe ìlérí irọ́ fún mi,Ó ń ṣe ìlérí òtítọ́ fún mi,1
+Ó ń gbé mi gẹṣin tọ́ba ìlú wa ṣẹ̀ṣẹ̀ rà,Ó ń ṣe ìlérí irọ́ fún mi,Ó ń ṣe ìlérí òtítọ́ fún mi,0
+Àjàdí ló su sáwo,Àjàdí ló ba nǹkan jẹ́,Àjàdí ló tún nǹkan ṣe,1
+Àjàdí ló fọ áwo,Àjàdí ló ba nǹkan jẹ́,Àjàdí ló tún nǹkan ṣe,0
